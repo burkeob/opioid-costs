@@ -1,0 +1,1321 @@
+"Statistics for community hospital stays 2014 New Mexico, by county or county equivalent",,,,,,,,,
+,,,,,,,,,
+"Analysis Type: Community | Setting of Care: Hospital Inpatient | Geographic Settings: State | Years: 2014 | Categorization Type: Stays for Alcohol and Other Drugs | Outcome and Measures: Number, Costs, Days | State: New Mexico | Community Level: County",,,,,,,,,
+,,,,,,,,,
+"2014 State Total, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+Age group,<1,501,1729.494615,15.35528942,7693,26556.89036,23974.36588,12011157.31,414.6353668
+,17-Jan,504,102.8109828,8.861111111,4466,911.0195422,14838.85274,7478781.78,15.25597034
+,18-44,10364.78,1421.121619,4.700931054,48724.11615,6680.594752,9495.60814,98419889.3,134.9441402
+,45-64,9446.997973,1734.087759,5.709643673,53938.9922,9901.023199,12628.55744,119301956.6,218.9902687
+,65-84,2966.170267,972.5977515,5.9311315,17592.7459,5768.605161,13431.30903,39839549.49,130.6326096
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,14734.22206,1419.492834,5.749734383,84717.86319,8161.706756,12531.11835,184636280.4,177.878327
+,Female,9049.726175,853.5142438,5.271788887,47708.24588,4499.546905,10216.81918,92459415.95,87.20200695
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,5740.997206,†,5.690060548,32666.62171,†,12240.31503,70271614.41,†
+,Medicaid,10146.12006,†,5.920741555,60072.55466,†,11905.03797,120789944.6,†
+,Private insurance,3567.384833,†,5.433295182,19382.65482,†,12991.59288,46346011.39,†
+,Uninsured,2229.067204,†,4.270459435,9519.141069,†,9739.713301,21710475.49,†
+,Other,1084.378935,†,5.292556523,5739.136804,†,12102.64229,13123850.35,†
+,Missing,1019,†,4.957801766,5052,†,4775.322222,4866053.344,†
+Type of stay,Neonatal/maternal,1662.079982,69.54309547,6.370238282,10587.84553,443.006089,9323.695399,15496727.48,†
+,Nonneonatal/nonmaternal,22124.86826,925.7267052,5.50711815,121844.2635,5098.086341,11824.30643,261611222.1,†
+Type of substance or substance-related condition,Alcohol,14136.331,673.7097777,5.469220357,77314.70927,3684.667231,12077.49218,170731427.1,81.36724571
+,Cannabis,3631.091293,173.0506811,5.031513227,18269.88387,870.7067911,9171.219918,33301536.79,15.87085854
+,Drug-induced mental disorders,1422.42499,67.78998197,7.177643195,10209.65905,486.5723028,16669.87012,23711639.83,11.30050195
+,Hallucinogens,128,6.100228663,5.4140625,693,33.02701925,8589.667542,1099477.445,0.523989362
+,Opioids,4682.475929,223.1576084,6.437432982,30143.12498,1436.562148,11714.7599,54854081.26,26.14237803
+,Other drug abuse,2963.280435,141.2241269,4.840760359,14344.53046,683.6321553,8665.209351,25677445.34,12.23736625
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",1339.995198,63.86153995,4.767923091,6388.994045,304.486911,9928.794179,13304536.52,6.340680862
+,Stimulants,3487.741327,166.2189032,5.112311019,17830.41842,849.7627307,9484.010609,33077775.75,15.76421842
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Bernalillo, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Bernalillo, New Mexico",,8199,1213.264672,5.935235652,48662.99711,7201.011736,12355.50097,101302752.4,149.9049283
+Age group,<1,176,1943.248316,18.72727273,3296,36391.74119,27827.98491,4897725.344,540.7668482
+,17-Jan,248,163.5279844,9.004032258,2233,1472.411247,12975.90146,3218023.561,21.21923011
+,18-44,3460,1390.619348,4.863294798,16827,6762.991841,10249.05501,35461730.35,142.525342
+,45-64,3314,1898.726925,6.132770066,20324,11644.45565,13350.96701,44245104.67,253.4984053
+,65-84,1000,1090.286636,5.977,5977,6516.643226,13456.45482,13456454.82,146.7139286
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,4930,1488.018882,6.096754564,30057,9072.085913,13263.40896,65388606.19,197.3620298
+,Female,3269,949.0023718,5.691647938,18605.99711,5401.387392,10986.27906,35914146.26,104.2600489
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,2036,†,5.770627264,11748.99711,†,12364.11864,25173345.56,†
+,Medicaid,3672,†,6.391339869,23469,†,12471.00626,45793534.97,†
+,Private insurance,1241,†,5.486704271,6809,†,12695.29844,15754865.36,†
+,Uninsured,883,†,4.733861835,4180,†,11342.84834,10015735.09,†
+,Other,340,†,6.75,2295,†,12901.93831,4386659.025,†
+,Missing,27,†,5.962962963,161,†,6615.275491,178612.4383,†
+Type of stay,Neonatal/maternal,631,83.60938121,7.453248811,4703,623.1615211,10650.50396,6720467.996,†
+,Nonneonatal/nonmaternal,7568,1002.782563,5.808667694,43959.99711,5824.830676,12497.65915,94582284.45,†
+Type of substance or substance-related condition,Alcohol,4758,704.0752908,5.694199243,27093,4009.144988,12487.93102,59417575.81,87.92443666
+,Cannabis,1213,179.4962858,5.589447651,6780,1003.285093,9830.639386,11924565.58,17.64563257
+,Drug-induced mental disorders,526,77.83598212,7.44296578,3915,579.3305514,17487.51238,9198431.513,13.61157701
+,Hallucinogens,25,3.699428808,6.36,159,23.52836722,8032.193383,200804.8346,0.297145276
+,Opioids,2016,298.3219391,6.723212851,13553.99711,2005.681895,12590.40987,25382266.3,37.55995487
+,Other drug abuse,1074,158.9274616,4.955307263,5322,787.5344047,8877.111585,9534017.842,14.10816811
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",447,66.14578709,5.178970917,2315,342.5671076,11842.06711,5293403.996,7.833028495
+,Stimulants,1148,169.8777709,5.467770035,6277,928.8525852,10708.29985,12293128.23,18.19102108
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Catron, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Catron, New Mexico",,21,584.6325167,5.523809524,116,3229.398664,17450.84046,366467.6496,102.0232877
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,13,998.4639017,6.076923077,79,6067.588326,18760.09654,243881.255,187.3127919
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,14,751.4761138,3.857142857,54,2898.550725,14370.67804,201189.4926,107.9922129
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,21,750,5.523809524,116,4142.857143,17450.84046,366467.6496,†
+Type of substance or substance-related condition,Alcohol,16,445.4342984,4.4375,71,1976.614699,14036.46742,224583.4788,62.5232402
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Chaves, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Chaves, New Mexico",,1176,1781.440301,5.030612245,5916,8961.735389,6791.626882,7986953.214,120.9887783
+Age group,<1,19,1809.52381,16.94736842,322,30666.66667,41854.43275,795234.2223,757.365926
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,615,2758.218594,4.476422764,2753,12346.9525,4867.822642,2993710.925,134.2651893
+,45-64,450,2868.617326,5.293333333,2382,15184.54771,7434.406633,3345482.985,213.2646768
+,65-84,87,893.3155355,5.137931035,447,4589.793613,9592.779837,834571.8459,85.69379257
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,726,2217.200098,5.042699725,3661,11180.67432,7187.262333,5217952.454,159.3559875
+,Female,450,1352.569883,5.011111111,2255,6777.877968,6153.335022,2769000.76,83.2281563
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,228,†,5.539473684,1263,†,8426.182056,1921169.509,†
+,Medicaid,163,†,6.736196319,1098,†,13087.91601,2133330.309,†
+,Private insurance,104,†,4.875,507,†,7952.477567,827057.667,†
+,Uninsured,58,†,3.689655172,214,†,5917.567029,343218.8877,†
+,Other,28,†,4.428571429,124,†,8137.053601,227837.5008,†
+,Missing,595,†,4.554621849,2710,†,4259.393849,2534339.34,†
+Type of stay,Neonatal/maternal,70,78.125,6.585714286,461,514.5089286,14557.78664,1019045.065,†
+,Nonneonatal/nonmaternal,1106,1234.375,4.932188065,5455,6088.169643,6300.097784,6967908.149,†
+Type of substance or substance-related condition,Alcohol,573,867.9976975,5.036649215,2886,4371.799921,7645.879869,4381089.165,66.36606122
+,Cannabis,177,268.1249432,4.395480226,778,1178.537886,4756.669828,841930.5596,12.75381828
+,Drug-induced mental disorders,110,166.6313206,5.609090909,617,934.6502257,8979.022393,987692.4632,14.96186359
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,178,269.6397734,6.550561798,1166,1766.291999,9782.274919,1741244.936,26.37690392
+,Other drug abuse,180,272.6694338,5.161111111,929,1407.277244,4630.025384,833404.5691,12.624664
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",60,90.88981125,4.233333333,254,384.7668676,6429.067121,385744.0273,5.843366972
+,Stimulants,298,451.4193959,4.312080537,1285,1946.556791,4679.855423,1394596.916,21.12577508
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Cibola, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Cibola, New Mexico",,234,853.7030281,4.752136752,1112,4056.913535,11130.78421,2604603.506,95.02384188
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,101,1019.892962,4.396039604,444,4483.489852,10216.01415,1031817.429,104.1924093
+,45-64,98,1413.121846,4.744897959,465,6705.118962,11096.79734,1087486.139,156.8112673
+,65-84,28,735.2941176,5.357142857,150,3939.07563,14764.86218,413416.141,108.5651631
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,134,963.4742594,4.23880597,568,4083.980443,11711.90128,1569394.772,112.8411541
+,Female,100,740.6310176,5.44,544,4029.032736,10352.08734,1035208.734,76.67076982
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,47,†,5.659574468,266,†,16390.44086,770350.7204,†
+,Medicaid,108,†,4.657407407,503,†,10172.33342,1098612.01,†
+,Private insurance,32,†,4.53125,145,†,8626.834302,276058.6977,†
+,Uninsured,17,†,3.352941177,57,†,7012.071925,119205.2227,†
+,Other,27,†,4.851851852,131,†,11982.53697,323528.4981,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,21,68.18181818,3.904761905,82,266.2337662,7654.958497,160754.1284,†
+,Nonneonatal/nonmaternal,213,691.5584416,4.835680751,1030,3344.155844,11473.47126,2443849.378,†
+Type of substance or substance-related condition,Alcohol,153,558.1904414,5.091503268,779,2842.028457,12092.90427,1850214.353,67.50143571
+,Cannabis,32,116.7457132,2.84375,91,331.995622,9092.742199,290967.7504,10.61538673
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,32,116.7457132,5.6875,182,663.9912441,9561.0051,305952.1632,11.1620636
+,Other drug abuse,16,58.37285662,6,96,350.2371397,11928.29136,190852.6618,6.962884415
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,33,120.3940168,3.212121212,106,386.7201751,7142.113968,235689.761,8.59867789
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Colfax, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Colfax, New Mexico",,96,753.4139068,4.885416667,469,3680.740857,16790.23612,1611862.668,126.4999739
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,44,1250.355215,4.227272727,186,5285.592498,13551.89879,596283.5469,169.4468732
+,45-64,27,700.0259269,4.407407407,119,3085.299456,19280.40712,520570.9922,134.9678486
+,65-84,20,710.732054,6.15,123,4371.002132,23065.91098,461318.2196,163.9368229
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,54,831.0249307,5.018518519,271,4170.514004,18623.8787,1005689.45,154.7690751
+,Female,42,672.6457399,4.714285714,198,3171.044202,14432.69566,606173.2176,97.08091249
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,29,†,5.655172414,164,†,22187.83773,643447.2941,†
+,Private insurance,12,†,2.916666667,35,†,19341.12919,232093.5502,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,87,1160,4.954022989,431,5746.666667,18039.86623,1569468.362,†
+Type of substance or substance-related condition,Alcohol,56,439.4914456,4.982142857,279,2189.609167,18791.04749,1052298.66,82.58504628
+,Cannabis,12,94.17673835,3.416666667,41,321.7705227,15210.54934,182526.5921,14.32479925
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,17,133.417046,3.941176471,67,525.8201224,12697.93589,215864.9101,16.94121096
+,Other drug abuse,16,125.5689845,3.6875,59,463.0356302,11700.75553,187212.0885,14.69251989
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,14,109.8728614,3.571428571,50,392.4030764,11773.29796,164826.1714,12.93565935
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Curry, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Curry, New Mexico",,476,934.9649388,4.920168067,2342,4600.184636,8682.84435,4133033.911,81.18155037
+Age group,<1,11,1297.169811,3.636363636,40,4716.981132,4614.38114,50758.19254,59.85635913
+,17-Jan,13,96.98597434,5.692307692,74,552.0740078,6432.976849,83628.69904,6.239085276
+,18-44,189,971.1232145,4.365079365,825,4239.029904,6734.916327,1272899.186,65.40433592
+,45-64,188,1683.833408,4.670212766,878,7863.860278,9317.508415,1751691.582,156.8913195
+,65-84,75,1243.3687,7,525,8703.580902,12987.41668,974056.2512,161.481474
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,307,1193.20611,5.09771987,1565,6082.630495,9364.662948,2874951.525,111.7397305
+,Female,169,671.114288,4.597633136,777,3085.537289,7444.274471,1258082.386,49.95958961
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,111,†,5.63963964,626,†,9753.510342,1082639.648,†
+,Medicaid,163,†,3.791411043,618,†,7963.446529,1298041.784,†
+,Private insurance,84,†,5.130952381,431,†,11190.18042,939975.1553,†
+,Uninsured,57,†,4.98245614,284,†,8462.611563,482368.8591,†
+,Other,21,†,5.190476191,109,†,8447.019096,177387.401,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,39,44.06779661,3.282051282,128,144.6327684,4848.857196,189105.4307,†
+,Nonneonatal/nonmaternal,437,493.7853107,5.066361556,2214,2501.694915,9025.007963,3943928.48,†
+Type of substance or substance-related condition,Alcohol,260,510.6951346,5.303846154,1379,2708.648426,10139.62115,2636301.5,51.7825519
+,Cannabis,94,184.6359333,5.255319149,494,970.3207558,8432.919527,792694.4356,15.57019967
+,Drug-induced mental disorders,25,49.10530141,6.52,163,320.1665652,11887.60976,297190.2439,5.837446602
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,61,119.8169354,4.540983607,277,544.0867396,6612.245526,403346.9771,7.922589952
+,Other drug abuse,60,117.8527234,4.633333333,278,546.0509517,8575.340543,514520.4326,10.10627237
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",28,54.99793758,4.107142857,115,225.8843865,6967.930383,195102.0507,3.832218002
+,Stimulants,92,180.7075092,4.489130435,413,811.2195793,6827.169927,628099.6333,12.33720872
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 De Baca, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"De Baca, New Mexico",,15,801.7103153,4.333333333,65,3474.078033,7127.314153,106909.7123,57.14041277
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,*,*,*,*,*,*,*,*
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,*,*,*,*,*,*,*,*
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,13,1083.333333,4.461538462,58,4833.333333,7871.686468,102331.9241,†
+Type of substance or substance-related condition,Alcohol,*,*,*,*,*,*,*,*
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Dona Ana, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Dona Ana, New Mexico",,1540,732.9703385,5.284415584,8138,3873.31988,8892.131522,13693882.54,65.17668652
+Age group,<1,21,673.7247353,20.95238095,440,14116.13731,26424.49597,554914.4153,178.0283655
+,17-Jan,15,28.90730391,5.133333333,77,148.3908267,14263.92189,213958.8283,4.12331525
+,18-44,693,877.1374688,4.44011544,3077,3894.591618,6615.859686,4584790.762,58.03018419
+,45-64,621,1295.774648,5.344605475,3319,6925.404278,9929.487384,6166211.666,128.6637802
+,65-84,190,674.5961299,6.447368421,1225,4349.369785,11442.14143,2174006.872,77.18824329
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,1067,1034.6767,5.406747891,5769,5594.236065,9172.422144,9786974.428,94.90491474
+,Female,473,442.1387175,5.00845666,2369,2214.432604,8259.848025,3906908.116,36.51998612
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,402,†,6.226368159,2503,†,10168.33268,4087669.736,†
+,Medicaid,726,†,5.224517906,3793,†,8078.921243,5865296.823,†
+,Private insurance,201,†,4.815920398,968,†,11060.27876,2223116.031,†
+,Uninsured,159,†,3.72327044,592,†,6847.576475,1088764.66,†
+,Other,34,†,4.5,153,†,7899.018256,268566.6207,†
+,Missing,18,†,7.166666667,129,†,8914.926301,160468.6734,†
+Type of stay,Neonatal/maternal,57,20.84857352,9.052631579,516,188.734455,11167.03687,636521.1015,†
+,Nonneonatal/nonmaternal,1483,542.4286759,5.139581929,7622,2787.85662,8804.694162,13057361.44,†
+Type of substance or substance-related condition,Alcohol,927,441.2100674,5.243797195,4861,2313.616114,9190.36528,8519468.615,40.54881685
+,Cannabis,230,109.469596,4.313043478,992,472.1471271,6534.335656,1502897.201,7.153110845
+,Drug-induced mental disorders,103,49.02334082,7.699029126,793,377.4321289,14433.8397,1486685.489,7.075950428
+,Hallucinogens,18,8.567185775,6,108,51.40311465,9570.824189,172274.8354,0.819950288
+,Opioids,286,136.1230629,6.342657343,1814,863.3819442,8951.379342,2560094.492,12.18489173
+,Other drug abuse,148,70.44130526,4.148648649,614,292.2362259,5809.551044,859813.5545,4.092323585
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",131,62.35007425,4.213740458,552,262.7270304,6678.077381,874828.137,4.163786206
+,Stimulants,225,107.0898222,4.72,1062,505.4639607,7855.319474,1767446.882,8.412247656
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Eddy, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Eddy, New Mexico",,784,1431.937316,4.62755102,3628,6626.362989,8701.048539,6821622.055,124.5935609
+Age group,<1,11,1426.718547,3.545454546,39,5058.365759,3795.391676,41749.30843,54.14955698
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,371,2033.991228,4.04851752,1502,8234.649123,6628.751759,2459266.902,134.8282293
+,45-64,311,2174.6731,4.852090032,1509,10551.70967,10298.69517,3202894.199,223.9629536
+,65-84,83,1009.363979,6.710843374,557,6773.68357,12967.52888,1076304.897,130.8895655
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,465,1697.63791,4.787096774,2226,8126.756964,9550.633383,4441044.523,162.135173
+,Female,319,1165.935673,4.394984326,1402,5124.269006,7462.625491,2380577.532,87.00941271
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,154,†,5.350649351,824,†,9496.721898,1462495.172,†
+,Medicaid,251,†,4.019920319,1009,†,8896.248928,2232958.481,†
+,Private insurance,168,†,5.375,903,†,10694.55384,1796685.045,†
+,Uninsured,82,†,3.170731707,260,†,8717.848481,714863.5754,†
+,Other,15,†,3.4,51,†,11875.20273,178128.041,†
+,Missing,114,†,5.096491228,581,†,3828.874913,436491.7401,†
+Type of stay,Neonatal/maternal,51,59.44055944,2.117647059,108,125.8741259,4227.853094,215620.5078,†
+,Nonneonatal/nonmaternal,733,854.3123543,4.80218281,3520,4102.564103,9012.280419,6606001.547,†
+Type of substance or substance-related condition,Alcohol,421,768.9357272,4.978622328,2096,3828.24058,10079.43231,4243441.005,77.50435617
+,Cannabis,111,202.7360231,3.720720721,413,754.3241219,7198.653471,799050.5353,14.59426376
+,Drug-induced mental disorders,40,73.05802634,5.475,219,399.9926942,7767.955787,310718.2315,5.675115185
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,118,215.5211777,4.474576271,528,964.3659477,7640.338742,901559.9716,16.46654804
+,Other drug abuse,86,157.0747566,4.720930233,406,741.5389673,6033.658468,518894.6282,9.477354354
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",47,85.84318095,3.468085106,163,297.7114573,8527.386829,400787.181,7.320180106
+,Stimulants,196,357.9843291,3.632653061,712,1300.432869,6935.460728,1359350.303,24.82786255
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Grant, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Grant, New Mexico",,347,1184.421613,4.884726225,1695,5785.575315,11830.55146,4105201.355,140.1236084
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,165,2054.538663,4.242424242,700,8716.22463,10470.04064,1727556.706,215.111033
+,45-64,123,1495.258935,4.113821138,506,6151.227814,10028.45456,1233499.911,149.9513628
+,65-84,46,678.6662732,4.826086957,222,3275.302449,12274.65041,564633.9188,83.30391249
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,219,1513.580759,5.00913242,1097,7581.72645,12183.07602,2668093.648,184.4006945
+,Female,128,863.2317238,4.671875,598,4032.910709,11227.40396,1437107.707,96.91851275
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,89,†,3.764044944,335,†,8894.835506,791640.36,†
+,Medicaid,168,†,5.696428571,957,†,13944.8133,2342728.635,†
+,Private insurance,38,†,6.657894737,253,†,17241.95934,655194.4548,†
+,Uninsured,40,†,2.775,111,†,5612.15339,224486.1356,†
+,Other,11,†,3.090909091,34,†,8061.534372,88676.87809,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,24,87.91208791,6.958333333,167,611.7216117,10158.30579,243799.339,†
+,Nonneonatal/nonmaternal,323,1183.150183,4.730650155,1528,5597.069597,11954.805,3861402.016,†
+Type of substance or substance-related condition,Alcohol,181,617.8106973,4.508287293,816,2785.268116,11339.73672,2052492.347,70.05810652
+,Cannabis,33,112.6395194,4.727272727,156,532.4777281,11115.50232,366811.5765,12.52044839
+,Drug-induced mental disorders,24,81.91965048,3.541666667,85,290.1320954,10909.43528,261826.4467,8.936971251
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,55,187.7325323,8.436363636,464,1583.779909,21106.69793,1160868.386,39.62413851
+,Other drug abuse,48,163.839301,3.833333333,184,628.0506537,8098.840975,388744.3668,13.26908444
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",24,81.91965048,2.208333333,53,180.9058948,6927.926205,166270.2289,5.675332932
+,Stimulants,75,255.9989077,4.493333333,337,1150.288425,9144.40645,685830.4838,23.40958063
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Guadalupe, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Guadalupe, New Mexico",,58,1277.53304,4.672413793,271,5969.162996,9744.160257,565161.2949,124.4848667
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,26,1654.996817,4.692307692,122,7765.754297,6034.063234,156885.6441,99.86355448
+,45-64,24,1906.274821,4.916666667,118,9372.517871,11668.67161,280048.1187,222.436949
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,35,1357.115161,4.657142857,163,6320.279178,11100.60723,388521.253,150.6480237
+,Female,23,1172.870984,4.695652174,108,5507.394187,7680.001822,176640.0419,90.07651296
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,14,†,4.214285714,59,†,12821.58436,179502.1811,†
+,Medicaid,25,†,4.76,119,†,8729.898788,218247.4697,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,55,1410.25641,4.763636364,262,6717.948718,10102.37352,555630.5435,†
+Type of substance or substance-related condition,Alcohol,34,748.8986784,4.205882353,143,3149.779736,10297.98786,350131.5872,77.12149499
+,Cannabis,12,264.3171806,5.5,66,1453.744493,10162.1901,121946.2812,26.86041437
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,11,242.2907489,5.181818182,57,1255.506608,8344.364556,91788.01011,20.21762337
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Hidalgo, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Hidalgo, New Mexico",,30,634.9206349,4.2,126,2666.666667,13403.89709,402116.9127,85.10410851
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,13,897.1704624,2.153846154,28,1932.36715,7431.960614,96615.48799,66.67735541
+,45-64,13,1026.045777,4.846153846,63,4972.375691,14620.8724,190071.3412,150.0168439
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,21,884.9557522,4.428571429,93,3919.08976,15737.37508,330484.8766,139.268806
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,16,†,3.625,58,†,11651.11256,186417.8009,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,29,557.6923077,4.137931035,120,2307.692308,13600.07099,394402.0588,†
+Type of substance or substance-related condition,Alcohol,18,380.952381,5.055555556,91,1925.925926,17049.34596,306888.2272,64.94988935
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Lea, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Lea, New Mexico",,640,944.4682201,4.9703125,3181,4694.3022,14783.78931,9461625.158,139.6281918
+Age group,<1,11,950.7346586,7.272727273,80,6914.433881,16063.02493,176693.2742,152.7167452
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,287,1155.301506,3.773519164,1083,4359.552371,9619.288619,2760735.834,111.1317862
+,45-64,278,1789.277209,6.032374101,1677,10793.5895,19840.19366,5515573.838,354.9960635
+,65-84,55,708.2152975,5.654545455,311,4004.635591,17240.49022,948226.9621,122.0997891
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,411,1186.72942,5.566909976,2288,6606.415846,16807.84477,6908024.2,199.4636387
+,Female,229,691.2164202,3.899563319,893,2695.442197,11151.09589,2553600.958,77.0782058
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,106,†,5.264150943,558,†,14584.32261,1545938.197,†
+,Medicaid,217,†,4.552995392,988,†,11797.63912,2560087.688,†
+,Private insurance,157,†,6.070063694,953,†,22400.13604,3516821.359,†
+,Uninsured,137,†,4.01459854,550,†,11217.13824,1536747.938,†
+,Other,11,†,5.545454546,61,†,23193.08879,255123.9767,†
+,Missing,12,†,5.916666667,71,†,3908.833234,46905.99881,†
+Type of stay,Neonatal/maternal,32,30.82851638,3.78125,121,116.5703276,9100.938856,291230.0434,†
+,Nonneonatal/nonmaternal,608,585.7418112,5.032894737,3060,2947.976879,15082.8867,9170395.115,†
+Type of substance or substance-related condition,Alcohol,344,507.6516683,5.159883721,1775,2619.423579,15075.48229,5185965.907,76.53093735
+,Cannabis,110,162.3304753,4.863636364,535,789.5164028,11259.55126,1238550.638,18.27768308
+,Drug-induced mental disorders,24,35.41755825,15,360,531.2633738,64614.6376,1550751.302,22.88492691
+,Hallucinogens,22,32.46609507,3.727272727,82,121.0099907,7817.191604,171978.2153,2.537936858
+,Opioids,97,143.1459646,5.391752577,523,771.8076236,13275.67875,1287740.838,19.0035984
+,Other drug abuse,81,119.5342591,4.62962963,375,553.3993477,13940.11786,1129149.547,16.6632166
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",41,60.50499535,4.146341463,170,250.874371,8819.443289,361597.1748,5.336203752
+,Stimulants,158,233.1655918,4.291139241,678,1000.546021,10118.23853,1598681.688,23.59225075
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Lincoln, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Lincoln, New Mexico",,254,1261.359686,6.039370079,1534,7617.817947,12577.58399,3194706.335,158.648574
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,85,1718.213058,6.341176471,539,10895.49222,12297.13212,1045256.23,211.2909299
+,45-64,110,1663.641863,5.345454546,588,8892.92196,10694.1413,1176355.543,177.9122116
+,65-84,53,1104.626928,6.716981132,356,7419.758233,17299.75104,916886.8052,191.0977085
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,146,1480.730223,6.746575343,985,9989.858012,14394.33268,2101572.572,213.1412344
+,Female,108,1050.890338,5.083333333,549,5342.025883,10121.60892,1093133.763,106.3670101
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,73,†,6.273972603,458,†,13767.27505,1005011.078,†
+,Medicaid,84,†,5.988095238,503,†,12422.41888,1043483.186,†
+,Private insurance,29,†,5.310344828,154,†,18105.53346,525060.4705,†
+,Uninsured,34,†,6.088235294,207,†,10717.81288,364405.6378,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,29,†,6,174,†,6712.646944,194666.7614,†
+Type of stay,Neonatal/maternal,11,68.32298137,6.909090909,76,472.0496894,8174.199442,89916.19386,†
+,Nonneonatal/nonmaternal,243,1509.31677,6,1458,9055.900621,12776.91416,3104790.141,†
+Type of substance or substance-related condition,Alcohol,150,744.8974525,6.7,1005,4990.812931,14970.13649,2245520.473,111.5121653
+,Cannabis,38,188.7073546,4.842105263,184,913.740875,9435.296486,358541.2665,17.8050984
+,Drug-induced mental disorders,26,129.1155584,5.346153846,139,690.2716393,9092.832278,236413.6392,11.74026117
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,56,278.0950489,6.053571429,339,1683.468243,7282.455967,407817.5341,20.25214948
+,Other drug abuse,23,114.2176094,6.391304348,147,729.9995034,11107.67873,255476.6107,12.6869251
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",14,69.52376223,5.071428571,71,352.5847942,7317.748901,102448.4846,5.087574346
+,Stimulants,33,163.8774395,7.787878788,257,1276.257635,11959.25819,394655.5204,19.59852612
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Los Alamos, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Los Alamos, New Mexico",,107,587.202283,5.224299065,559,3067.720338,10170.59923,1088254.118,59.7219909
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,48,942.4700569,4.1875,201,3946.593363,6761.942713,324573.2502,63.72928534
+,45-64,33,543.2098765,5.303030303,175,2880.658436,11060.02791,364980.921,60.07916395
+,65-84,23,768.2030728,4.173913044,96,3206.412826,13618.76659,313231.6317,104.6197835
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,51,557.0726379,6.450980392,329,3593.664664,10381.58511,529460.8407,57.83297004
+,Female,56,617.624352,4.107142857,230,2536.671446,9978.451382,558793.2774,61.62934569
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,26,†,4.115384615,107,†,12896.4118,335306.7067,†
+,Medicaid,33,†,3.787878788,125,†,8574.842065,282969.7881,†
+,Private insurance,39,†,7.820512821,305,†,10866.27284,423784.6407,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,102,641.509434,4.617647059,471,2962.264151,9610.598604,980281.0576,†
+Type of substance or substance-related condition,Alcohol,70,384.1510262,5.085714286,356,1953.682362,9538.43185,667690.2295,36.64198384
+,Cannabis,16,87.80594885,6.9375,111,609.1537702,7443.154898,119090.4784,6.535532783
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,21,115.2453079,8.380952381,176,965.8654374,9635.018698,202335.3926,11.10390696
+,Other drug abuse,13,71.34233344,2.692307692,35,192.0755131,8756.0849,113829.1037,6.246795286
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Luna, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Luna, New Mexico",,224,898.984629,5.6875,1274,5112.975077,10414.85166,2332926.772,93.62791555
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,93,1233.749005,3.258064516,303,4019.633855,5879.571491,546800.1487,72.53915477
+,45-64,85,1504.424779,6.517647059,554,9805.309735,10560.51334,897643.6342,158.8749795
+,65-84,41,801.877567,5.829268293,239,4674.359476,10275.63895,421301.197,82.39804362
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,143,1148.871214,6.111888112,874,7021.772315,10473.35035,1497689.1,120.3253073
+,Female,81,649.5589415,4.938271605,400,3207.698476,10311.57619,835237.6712,66.97976513
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,55,†,5.709090909,314,†,10757.46064,591660.3352,†
+,Medicaid,100,†,6.2,620,†,11982.29248,1198229.248,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,20,†,5.05,101,†,7759.64411,155192.8822,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,37,†,3.918918919,145,†,4701.252959,173946.3595,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,216,545.4545455,5.819444444,1257,3174.242424,10649.35538,2300260.762,†
+Type of substance or substance-related condition,Alcohol,132,529.7587992,5.568181818,735,2949.793314,9482.669787,1251712.412,50.2352776
+,Cannabis,40,160.5329695,3.7,148,593.971987,5422.246315,216889.8526,8.70449302
+,Drug-induced mental disorders,11,44.1465666,7.636363636,84,337.1192359,32512.60309,357638.634,14.35319798
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,27,108.3597544,10.81481481,292,1171.890677,24810.02606,669870.7035,26.8840833
+,Other drug abuse,24,96.31978168,3.208333333,77,309.0259662,6913.95468,165934.9123,6.659506053
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",23,92.30645744,8.565217391,197,790.6248746,11932.39183,274445.0121,11.01436819
+,Stimulants,39,156.5196452,5.333333333,208,834.7714412,6077.902394,237038.1934,9.513111265
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 McKinley, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"McKinley, New Mexico",,754,1035.956199,5.887920633,4439.492157,6099.627876,13664.69067,10303176.77,141.5602101
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,12,56.5397663,6.25,75,353.3735394,11993.39026,143920.6831,6.781034823
+,18-44,363,1380.753138,5.738292011,2083,7923.164701,12572.33623,4563758.053,173.5929271
+,45-64,317,1928.693113,6.00470712,1903.492157,11581.23727,14703.23276,4660924.784,283.5802375
+,65-84,52,685.9253397,5.846153846,304,4010.025063,15482.65239,805097.9241,106.199436
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,546,1554.138677,5.98441787,3267.492157,9300.615271,14264.45051,7788389.977,221.6893424
+,Female,208,552.4421662,5.634615385,1172,3112.799129,12090.32111,2514786.791,66.79203185
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,118,†,6.050847458,714,†,15576.54817,1838032.684,†
+,Medicaid,369,†,6.64498645,2452,†,13100.20946,4833977.29,†
+,Private insurance,61,†,5.426229508,331,†,14576.9715,889195.2617,†
+,Uninsured,69,†,3.412929811,235.492157,†,11685.81951,806321.5462,†
+,Other,133,†,4.947368421,658,†,14110.76073,1876731.177,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,25,52.5210084,3.6,90,189.0756303,5762.714539,144067.8635,†
+,Nonneonatal/nonmaternal,729,1531.512605,5.96638156,4349.492157,9137.588565,13935.67751,10159108.9,†
+Type of substance or substance-related condition,Alcohol,641,880.7001635,5.900923802,3782.492157,5196.944557,13945.04278,8938772.423,122.8140146
+,Cannabis,84,115.4115659,5.452380952,458,629.2678235,10564.07534,887382.3286,12.19216477
+,Drug-induced mental disorders,27,37.09657475,7.074074074,191,262.4239177,15568.73137,420355.7471,5.775466071
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,61,83.81077999,6.803278689,415,570.1880934,13977.0022,852597.1344,11.71423457
+,Other drug abuse,38,52.20999409,7.736842105,294,403.9404806,9136.79041,347198.0356,4.770317733
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",17,23.35710262,4.058823529,69,94.80235769,8632.114689,146745.9497,2.016211886
+,Stimulants,43,59.07973016,7.348837209,316,434.1673193,9321.356949,400818.3488,5.507032532
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Mora, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Mora, New Mexico",,50,1092.657343,4.34,217,4742.132867,10899.08077,544954.0386,119.0896063
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,13,1034.208433,2.692307692,35,2784.407319,5496.300112,71451.90146,56.84319925
+,45-64,30,2035.278155,5.333333333,160,10854.81682,14042.64149,421279.2446,285.8068145
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,36,1539.777588,4.472222222,161,6886.227545,10534.11516,379228.1457,162.2019443
+,Female,14,625.5585344,4,56,2502.234138,11837.56378,165725.8929,74.05089047
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,14,†,3.285714286,46,†,7671.061601,107394.8624,†
+,Medicaid,24,†,5.166666667,124,†,12908.93786,309814.5087,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,50,1190.47619,4.34,217,5166.666667,10899.08077,544954.0386,†
+Type of substance or substance-related condition,Alcohol,39,852.2727273,4.769230769,186,4064.685315,11888.89532,463666.9175,101.3258124
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Otero, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Otero, New Mexico",,788,1062.38119,5.519035533,4349,5863.319537,9506.909966,7491445.053,100.9996232
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,313,1211.910017,4.891373802,1531,5927.904906,8285.605114,2593394.401,100.4140783
+,45-64,327,1826.203507,5.302752294,1734,9683.904836,9508.269457,3109204.112,173.6403503
+,65-84,130,1138.852387,6.676923077,868,7604.029785,11681.09491,1518542.338,133.0304282
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,458,1224.402502,5.593886463,2562,6849.168583,10559.74963,4836365.333,129.2938388
+,Female,330,897.5439933,5.415151515,1787,4860.336715,8045.696122,2655079.72,72.21366226
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,217,†,6.34562212,1377,†,10026.22878,2175691.645,†
+,Medicaid,348,†,5.451149425,1897,†,9717.197787,3381584.83,†
+,Private insurance,41,†,7.219512195,296,†,18985.72231,778414.6145,†
+,Uninsured,63,†,3.968253968,250,†,6062.084455,381911.3207,†
+,Other,44,†,4.318181818,190,†,7865.967656,346102.5769,†
+,Missing,75,†,4.52,339,†,5703.200876,427740.0657,†
+Type of stay,Neonatal/maternal,24,25.1572327,5.041666667,121,126.8343816,8159.543364,195829.0407,†
+,Nonneonatal/nonmaternal,764,800.8385744,5.534031414,4228,4431.865828,9549.235618,7295616.012,†
+Type of substance or substance-related condition,Alcohol,500,674.0997398,5.73,2865,3862.591509,10106.52505,5053262.523,68.12805903
+,Cannabis,114,153.6947407,5.438596491,620,835.8836773,8339.619481,950716.6208,12.81755653
+,Drug-induced mental disorders,31,41.79418387,6.032258065,187,252.1133027,7782.778135,241266.1222,3.252748604
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,111,149.6501422,5.558558559,617,831.8390789,8348.660897,926701.3595,12.49378291
+,Other drug abuse,77,103.8113599,5.493506494,423,570.2883799,8644.351282,665615.0487,8.973818623
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",55,74.15097138,4.363636364,240,323.5678751,7893.464582,434140.552,5.853080663
+,Stimulants,149,200.8817225,4.738255034,706,951.8288326,7716.874684,1149814.328,15.50179079
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Quay, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Quay, New Mexico",,124,1482.544237,5.225806452,648,7747.48924,10729.00758,1330396.94,159.0622836
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,49,2151.954326,3.816326531,187,8212.560386,6485.398748,317784.5387,139.5628189
+,45-64,57,2329.382918,5.842105263,333,13608.5002,12164.99828,693404.9022,283.369392
+,65-84,13,705.3716766,7,91,4937.601736,22728.78396,295474.1915,160.3224045
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,71,1735.092864,6.14084507,436,10654.93646,12933.50264,918278.6876,224.4082814
+,Female,53,1240.636704,4,212,4962.546816,7775.81608,412118.2523,96.46962834
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,25,†,5.24,131,†,16130.18116,403254.5289,†
+,Medicaid,61,†,6.229508197,380,†,10398.72267,634322.0828,†
+,Private insurance,19,†,3.368421053,64,†,11031.02087,209589.3966,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,118,1340.909091,5.406779661,638,7250,11163.10155,1317245.982,†
+Type of substance or substance-related condition,Alcohol,66,789.0961263,4.363636364,288,3443.328551,10059.20966,663907.8372,79.37683372
+,Cannabis,29,346.7240555,5.482758621,159,1901.004304,7068.194672,204977.6455,24.50713121
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,19,227.1640363,7.157894737,136,1626.01626,9054.014839,172026.2819,20.56746556
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,25,298.9000478,6.64,166,1984.696318,12793.04968,319826.242,38.23843162
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Rio Arriba, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Rio Arriba, New Mexico",,891,1857.449603,5.436588103,4844,10098.18841,11275.31384,10046304.63,209.4332722
+Age group,<1,47,6983.655275,12.12765957,570,84695.39376,18751.46817,881319.0038,1309.537896
+,17-Jan,12,107.6426265,6.333333333,76,681.7366344,7939.072385,95268.86862,8.545826034
+,18-44,419,2693.840813,4.558472554,1910,12279.79941,9357.817663,3920925.601,252.0847114
+,45-64,326,2477.580179,5.512269939,1797,13657.09074,12237.24238,3989341.015,303.1874917
+,65-84,87,1169.983862,5.643678161,491,6603.012372,13327.01315,1159450.144,155.9239031
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,517,2181.066487,5.551257253,2870,12107.66115,12689.9783,6560718.783,276.776864
+,Female,374,1541.314651,5.278074866,1974,8135.174119,9319.748259,3485585.849,143.6466453
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,204,†,5.387254902,1099,†,12762.80779,2603612.789,†
+,Medicaid,508,†,5.56496063,2827,†,10748.68924,5460334.134,†
+,Private insurance,112,†,6.142857143,688,†,13131.64628,1470744.384,†
+,Uninsured,42,†,2.785714286,117,†,6700.330084,281413.8635,†
+,Other,25,†,4.52,113,†,9207.978489,230199.4622,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,128,281.938326,5.2109375,667,1469.162996,6187.764723,792033.8846,†
+,Nonneonatal/nonmaternal,763,1680.61674,5.474442988,4177,9200.440529,12128.79521,9254270.748,†
+Type of substance or substance-related condition,Alcohol,525,1094.456837,5.297142857,2781,5797.494215,11896.52693,6245676.639,130.2023523
+,Cannabis,115,239.7381642,3.834782609,441,919.3437428,7340.473511,844154.4537,17.59791644
+,Drug-induced mental disorders,48,100.0646251,5.75,276,575.3715942,9125.834402,438040.0513,9.131731979
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,276,575.3715942,6.351449275,1753,3654.443495,11228.88726,3099172.885,64.60782766
+,Other drug abuse,155,323.1253518,3.670967742,569,1186.182743,8207.800254,1272209.039,26.52148344
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",59,122.9961016,3.966101695,234,487.8150472,8078.027549,476603.6254,9.935658975
+,Stimulants,100,208.4679689,4.46,446,929.7671413,9839.014066,983901.4066,20.51119278
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Roosevelt, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Roosevelt, New Mexico",,174,851.563647,5.350574713,931,4556.354916,11260.1856,1959272.295,95.8876472
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,78,924.4992296,4.782051282,373,4421.002726,8234.857777,642318.9066,76.13119671
+,45-64,55,1340.482574,6.854545455,377,9188.398733,17153.79554,943458.7545,229.9436399
+,65-84,36,1476.01476,4.25,153,6273.062731,9851.146813,354641.2853,145.404381
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,114,1108.410306,5.00877193,571,5551.774429,11838.96571,1349642.091,131.2243161
+,Female,60,591.2495073,6,360,3547.497044,10160.5034,609630.2041,60.0739263
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,50,†,4.38,219,†,8395.246758,419762.3379,†
+,Medicaid,44,†,6.863636364,302,†,15661.74619,689116.8322,†
+,Private insurance,38,†,6.105263158,232,†,15447.7165,587013.2269,†
+,Uninsured,18,†,4.055555556,73,†,10483.37886,188700.8195,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,19,†,4.578947368,87,†,2727.243499,51817.62648,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,169,534.8101266,5.366863905,907,2870.253165,11483.11148,1940645.84,†
+Type of substance or substance-related condition,Alcohol,95,464.9341751,4.863157895,462,2261.048304,11842.41338,1125029.271,55.05942695
+,Cannabis,25,122.3510987,4.56,114,557.9210101,9057.143704,226428.5926,11.08151483
+,Drug-induced mental disorders,17,83.19874712,6.882352941,117,572.603142,12790.02145,217430.3646,10.6411376
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,24,117.4570548,6.125,147,719.4244604,8352.552261,200461.2543,9.810661884
+,Other drug abuse,22,107.6689669,8.954545455,197,964.1266579,15027.42827,330603.4219,16.17987676
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",15,73.41065923,6.266666667,94,460.0401312,11024.82874,165372.4311,8.093399455
+,Stimulants,22,107.6689669,6.818181818,150,734.1065923,12924.48619,284338.6962,13.91566075
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Sandoval, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Sandoval, New Mexico",,1352,984.6333115,5.511094675,7451,5426.407399,14732.88146,19918855.73,145.0648586
+Age group,<1,21,1181.767023,12.57142857,264,14856.49972,18287.72152,384042.1518,216.1182621
+,17-Jan,35,106.1603324,9.371428571,328,994.8739725,9356.554594,327479.4108,9.932949462
+,18-44,616,1355.544308,4.719155844,2907,6397.024844,13455.47776,8288574.299,182.3949629
+,45-64,483,1273.868552,5.679089027,2743,7234.412913,16679.56929,8056231.967,212.4757877
+,65-84,196,1020.567561,6.163265306,1208,6290.028638,14567.91545,2855311.429,148.6754194
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,867,1291.523909,5.794694348,5024,7483.986295,16406.03439,14224031.82,211.8878567
+,Female,485,691.0800798,5.004123711,2427,3458.250214,11741.90497,5694823.911,81.14596625
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,342,†,5.722222222,1957,†,15289.88721,5229141.425,†
+,Medicaid,543,†,5.817679558,3159,†,15284.97439,8299741.092,†
+,Private insurance,282,†,5.074468085,1431,†,14036.07135,3958172.121,†
+,Uninsured,85,†,5.094117647,433,†,13469.75015,1144928.763,†
+,Other,94,†,4.680851064,440,†,12950.67996,1217363.916,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,69,46.03068712,5.782608696,399,266.1774516,8541.241796,589345.6839,†
+,Nonneonatal/nonmaternal,1283,855.903936,5.496492596,7052,4704.469646,15065.86909,19329510.04,†
+Type of substance or substance-related condition,Alcohol,873,635.7876338,5.394043528,4709,3429.466171,15289.65526,13347869.04,97.20973738
+,Cannabis,201,146.3840944,5.542288557,1114,811.3028913,12831.28291,2579087.865,18.78295729
+,Drug-induced mental disorders,70,50.97953536,6.928571429,485,353.2153521,17438.06378,1220664.465,8.889843891
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,269,195.9070716,6.037174721,1624,1182.72522,12365.74362,3326385.034,24.22536621
+,Other drug abuse,135,98.31767533,5.074074074,685,498.8711674,12283.76173,1658307.833,12.07710897
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",64,46.6098609,4.53125,290,211.2009322,12076.09444,772870.0445,5.628650823
+,Stimulants,121,88.12176826,5.495867769,665,484.3055859,12320.10527,1490732.738,10.85669462
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 San Juan, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"San Juan, New Mexico",,1542,1201.739483,5.90077821,9099,7091.198155,13072.97444,20158526.59,157.1030955
+Age group,<1,25,1201.345507,18.36,459,22056.70351,36982.94054,924573.5135,444.2928945
+,17-Jan,38,110.4298044,14.10526316,536,1557.641452,36408.06237,1383506.37,40.20535207
+,18-44,776,1722.148247,4.81314433,3735,8288.948069,10340.36445,8024122.815,178.0764051
+,45-64,565,1811.013527,6.345132743,3585,11491.12123,14042.31509,7933908.027,254.3082258
+,65-84,138,886.6615266,5.68115942,784,5037.265484,13713.15846,1892415.867,121.5893001
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,962,1508.309815,6.398128898,6155,9650.360615,14341.68368,13796699.7,216.3170226
+,Female,580,898.751046,5.075862069,2944,4561.936344,10968.66705,6361826.891,98.58100987
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,301,†,6.149501661,1851,†,13761.95216,4142347.599,†
+,Medicaid,723,†,6.409405256,4634,†,13801.6208,9978571.841,†
+,Private insurance,247,†,5.502024292,1359,†,13191.70841,3258351.977,†
+,Uninsured,166,†,4.114457831,683,†,7316.880433,1214602.152,†
+,Other,95,†,4.810526316,457,†,14448.81961,1372637.863,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,101,68.94197952,5.386138614,544,371.331058,9122.203106,921342.5137,†
+,Nonneonatal/nonmaternal,1441,983.6177474,5.93684941,8555,5839.590444,13349.88486,19237184.08,†
+Type of substance or substance-related condition,Alcohol,1044,813.6290662,5.799808429,6055,4718.892716,13024.7607,13597850.17,105.9732388
+,Cannabis,251,195.6138847,4.322709163,1085,845.5819318,8015.220862,2011820.436,15.67888489
+,Drug-induced mental disorders,66,51.43632028,10.84848485,716,558.0061412,27366.31631,1806176.876,14.0762261
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,142,110.6660224,9.091549296,1291,1006.125598,19214.49585,2728458.411,21.26391829
+,Other drug abuse,247,192.4965319,5.16194332,1275,993.6561872,10143.97546,2505561.938,19.52680095
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",81,63.12639307,6.098765432,494,384.9930639,9014.82045,730200.4564,5.690730992
+,Stimulants,179,139.5015353,5.759776536,1031,803.4976698,8474.873179,1517002.299,11.8225782
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 San Miguel, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"San Miguel, New Mexico",,426,1455.166524,5.382629108,2293,7832.621691,12427.43154,5294085.838,180.8398237
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,186,1955.835962,3.994623656,743,7812.828601,9017.829823,1677316.347,176.3739587
+,45-64,174,2033.660589,5.534482759,963,11255.25947,12859.04793,2237474.339,261.5093898
+,65-84,53,1054.726368,5.641509434,299,5950.248756,15410.58787,816761.157,162.5395337
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,291,1991.786448,5.4604811,1589,10876.11225,12824.77516,3732009.571,255.4421336
+,Female,135,920.5591544,5.214814815,704,4800.545517,11570.93531,1562076.267,106.5173042
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,127,†,5.984251969,760,†,14831.25065,1883568.833,†
+,Medicaid,211,†,4.701421801,992,†,10470.69241,2209316.098,†
+,Private insurance,63,†,7.333333333,462,†,15221.584,958959.7923,†
+,Uninsured,16,†,2.3125,37,†,8089.068787,129425.1006,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,23,80.98591549,12.60869565,290,1021.126761,23575.96681,542247.2367,†
+,Nonneonatal/nonmaternal,403,1419.014085,4.970223325,2003,7052.816901,11791.16278,4751838.601,†
+Type of substance or substance-related condition,Alcohol,260,888.1298036,5.280769231,1373,4690.00854,12664.89028,3292871.473,112.4806652
+,Cannabis,84,286.9342442,4.511904762,379,1294.619983,8722.336095,732676.2319,25.02736915
+,Drug-induced mental disorders,28,95.64474808,6.142857143,172,587.5320239,14578.64154,408201.9632,13.94370498
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,60,204.9530316,7.766666667,466,1591.801879,16082.9786,964978.7158,32.9625522
+,Other drug abuse,41,140.0512383,4.902439024,201,686.5926558,10600.6833,434628.0155,14.84638823
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",26,88.81298036,3.576923077,93,317.677199,8151.269502,211933.0071,7.239385382
+,Stimulants,53,181.0418446,4.905660377,260,888.1298036,10475.70493,555212.3611,18.96540943
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Santa Fe, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Santa Fe, New Mexico",,1635,1143.988637,5.082568807,8310,5814.400963,10366.90053,16949882.36,118.5961641
+Age group,<1,41,2711.640212,9.926829268,407,26917.98942,9769.123897,400534.0798,264.9034919
+,17-Jan,28,102.6355339,4.821428571,135,494.8498955,6951.875715,194652.52,7.135094755
+,18-44,664,1518.582047,4.194277108,2785,6369.353917,8101.180958,5379184.156,123.0230796
+,45-64,659,1450.487531,5.459787557,3598,7919.353774,11625.3348,7661095.634,168.6240317
+,65-84,243,973.1678014,5.699588477,1385,5546.655987,13639.57191,3314415.975,132.7359221
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,997,1428.796629,5.372116349,5356,7675.661732,11205.79349,11172176.11,160.1079996
+,Female,638,872.275847,4.630094044,2954,4038.719204,9055.965922,5777706.258,78.99300345
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,428,†,5.392523365,2308,†,11637.94221,4981039.266,†
+,Medicaid,765,†,5.298039216,4053,†,9950.080788,7611811.803,†
+,Private insurance,302,†,4.649006623,1404,†,11022.57847,3328818.697,†
+,Uninsured,105,†,3.895238095,409,†,7083.094303,743724.9019,†
+,Other,34,†,3.558823529,121,†,8122.93209,276179.6911,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,130,100.231303,5.169230769,672,518.1187355,5418.542814,704410.5659,†
+,Nonneonatal/nonmaternal,1505,1160.370085,5.075083057,7638,5888.974557,10794.33342,16245471.8,†
+Type of substance or substance-related condition,Alcohol,969,677.9969354,5.102167183,4944,3459.253714,10989.10303,10648440.84,74.5057818
+,Cannabis,282,197.3118016,4.854609929,1369,957.8718313,9430.034221,2659269.65,18.60657041
+,Drug-induced mental disorders,89,62.27216434,6.820224719,607,424.7101546,13554.5893,1206358.447,8.440736122
+,Hallucinogens,13,9.095934117,5.153846154,67,46.87904507,5295.075973,68835.98765,0.481636622
+,Opioids,358,250.4880318,4.974860335,1781,1246.142974,8277.237225,2963250.927,20.73348862
+,Other drug abuse,236,165.1261886,4.04661017,955,668.201314,7184.975412,1695654.197,11.86427605
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",83,58.0740409,3.987951807,331,231.5964764,8850.173185,734564.3743,5.139653195
+,Stimulants,179,125.2440159,4.581005587,820,573.7435366,9980.547075,1786517.926,12.50003797
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Sierra, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Sierra, New Mexico",,155,1317.243138,5.593548387,867,7368.063228,14192.63881,2199859.015,186.9515607
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,36,1452.198467,4.611111111,166,6696.248487,7715.798851,277768.7586,112.0487126
+,45-64,76,2114.047288,4.657894737,354,9847.009736,11967.03401,909494.5848,252.988758
+,65-84,36,952.6329717,6.805555556,245,6483.196613,14333.58592,516009.0931,136.5464655
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,102,1729.399797,5.225490196,533,9036.961682,11606.33244,1183845.909,200.7198896
+,Female,50,851.9338899,6.56,328,5588.686318,20075.199,1003759.95,171.0274238
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,59,†,5.644067797,333,†,13184.84541,777905.8791,†
+,Medicaid,54,†,5.703703704,308,†,15986.14496,863251.8276,†
+,Private insurance,16,†,7.25,116,†,18954.232,303267.712,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,11,104.7619048,5.545454546,61,580.952381,7005.689535,77062.58489,†
+,Nonneonatal/nonmaternal,144,1371.428571,5.597222222,806,7676.190476,14741.64188,2122796.43,†
+Type of substance or substance-related condition,Alcohol,92,781.8475397,5.195652174,478,4062.207869,11457.04195,1054047.859,89.57660059
+,Cannabis,22,186.9635421,4.590909091,101,858.3326251,9912.981374,218085.5902,18.53366111
+,Drug-induced mental disorders,11,93.48177105,11.90909091,131,1113.28291,62150.55405,683656.0946,58.09943865
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,27,229.4552562,4.62962963,125,1062.292853,6938.54689,187340.766,15.92086054
+,Other drug abuse,23,195.4618849,5.217391304,120,1019.801139,7939.261484,182603.0141,15.51823015
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,15,127.4751423,6.6,99,841.3359395,7748.718082,116230.7712,9.877689406
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Socorro, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Socorro, New Mexico",,287,1630.403908,5.43554007,1560,8862.125774,10943.19876,3140698.043,178.4183402
+Age group,<1,24,10344.82759,11.5,276,118965.5172,11170.01051,268080.2523,1155.518329
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,143,2336.601307,4.41958042,632,10326.79739,8791.833698,1257232.219,205.4301011
+,45-64,94,2082.871704,5.64893617,531,11766.00931,13604.92839,1278863.269,283.3732039
+,65-84,22,789.0961263,4.818181818,106,3802.008608,14173.12766,311808.8084,111.8396013
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,172,1908.77816,6.226744186,1071,11885.47331,12432.79708,2138441.097,237.3145153
+,Female,115,1338.454376,4.252173913,489,5691.340782,8715.277789,1002256.946,116.650017
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,44,†,4.5,198,†,11142.97811,490291.0367,†
+,Medicaid,185,†,5.556756757,1028,†,10514.8687,1945250.71,†
+,Private insurance,38,†,6.105263158,232,†,13464.81828,511663.0946,†
+,Uninsured,13,†,5.846153846,76,†,12636.11014,164269.4318,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,67,316.0377358,5.895522388,395,1863.207547,7843.053194,525484.564,†
+,Nonneonatal/nonmaternal,220,1037.735849,5.295454546,1165,5495.283019,11887.334,2615213.479,†
+Type of substance or substance-related condition,Alcohol,145,823.723229,5.772413793,837,4754.871329,12816.34861,1858370.549,105.5712406
+,Cannabis,55,312.446742,5,275,1562.23371,10240.16111,563208.8611,31.99504977
+,Drug-induced mental disorders,17,96.57444754,4.529411765,77,437.4254388,9138.168462,155348.8639,8.825135707
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,93,528.3190365,5.677419355,528,2999.488724,8936.693099,831112.4582,47.21425088
+,Other drug abuse,44,249.9573936,2.795454546,123,698.7445322,6298.317606,277125.9747,15.74311053
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,59,335.1701415,4.813559322,284,1613.361359,10038.13896,592250.1987,33.64484455
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Taos, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Taos, New Mexico",,435,1334.478633,5.91954023,2575,7899.499954,12813.60124,5573916.539,170.9947706
+Age group,<1,11,3142.857143,12.90909091,142,40571.42857,17654.83226,194203.1549,554.8661569
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,151,1648.291671,6.344370861,958,10457.37365,14097.02791,2128651.214,232.3601369
+,45-64,187,1770.665657,5.048128342,944,8938.547486,11403.80008,2132510.616,201.9231717
+,65-84,78,1243.226012,5.782051282,451,7188.396557,12839.11803,1001451.206,159.6192551
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,280,1751.094434,5.892857143,1650,10318.94934,13399.89537,3751970.704,234.644822
+,Female,155,933.3413621,5.967741936,925,5569.940387,11754.48926,1821945.835,109.7095101
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,134,†,5.537313433,742,†,13431.86873,1799870.41,†
+,Medicaid,135,†,7.896296296,1066,†,14963.99232,2020138.963,†
+,Private insurance,54,†,5.851851852,316,†,12354.44113,667139.8208,†
+,Uninsured,40,†,3.875,155,†,10661.8361,426473.4438,†
+,Other,72,†,4.111111111,296,†,9170.748622,660293.9008,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,25,92.25092251,7.4,185,682.6568266,10519.5891,262989.7275,†
+,Nonneonatal/nonmaternal,410,1512.915129,5.829268293,2390,8819.188192,12953.48003,5310926.811,†
+Type of substance or substance-related condition,Alcohol,252,773.0772771,5.380952381,1356,4159.892015,12522.65976,3155710.261,96.80983712
+,Cannabis,82,251.5568917,4.719512195,387,1187.225818,11082.05613,908728.6028,27.87767595
+,Drug-induced mental disorders,36,110.439611,5.638888889,203,622.7566954,11386.30291,409906.9048,12.57498864
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,71,217.811455,8.056338028,572,1754.762708,12312.02989,874154.1223,26.81701145
+,Other drug abuse,38,116.575145,4.578947368,174,533.7914532,8155.56631,309911.5198,9.507363248
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",20,61.35533945,8,160,490.8427156,20508.05814,410161.1628,12.58278869
+,Stimulants,55,168.7271835,6.454545455,355,1089.057275,15948.2729,877155.0093,26.90907167
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Torrance, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Torrance, New Mexico",,134,992.6661234,5.416160783,725.7655449,5376.439328,12224.42512,1638072.967,121.347727
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,45,1059.322034,4.711111111,212,4990.583804,10228.0437,460261.9666,108.3479206
+,45-64,65,1636.867288,5.030769231,327,8234.701587,11889.65959,772827.8735,194.6179485
+,65-84,19,845.9483526,6.157894737,117,5209.260908,14513.23635,275751.4906,122.7744838
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,79,1127.443985,5.430379747,429,6122.44898,12200.34206,963827.0227,137.5520226
+,Female,55,847.1965496,5.39573718,296.7655449,4571.249921,12259.01716,674245.944,103.8579704
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,47,†,5.829787234,274,†,13436.02372,631493.1149,†
+,Medicaid,52,†,5.283952786,274.7655449,†,10462.45077,544047.44,†
+,Private insurance,23,†,6.347826087,146,†,16163.0043,371749.0989,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,124,1117.117117,5.387096774,668,6018.018018,12573.19219,1559075.832,†
+Type of substance or substance-related condition,Alcohol,71,525.9648863,5.295774648,376,2785.39151,12359.43747,877520.0602,65.00630122
+,Cannabis,19,140.7511668,6.52631579,124,918.586562,15917.65562,302435.4567,22.404286
+,Drug-induced mental disorders,11,81.48751759,6.636363636,73,540.7807986,13160.6239,144766.8629,10.72426572
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,40,296.3182458,5.219138622,208.7655449,1546.526001,10298.55931,411942.3725,30.5165103
+,Other drug abuse,12,88.89547374,3.916666667,47,348.1739388,9369.789488,112437.4739,8.329318754
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",12,88.89547374,5.25,63,466.7012371,12962.20769,155546.4923,11.52281594
+,Stimulants,21,155.567079,5.571428571,117,866.730869,10037.84974,210794.8446,15.61558965
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Union, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Union, New Mexico",,27,610.1694915,5.481481482,148,3344.632768,13814.18153,372982.9012,84.28992117
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,11,718.4846506,7.090909091,78,5094.70934,20156.18587,221718.0446,144.8191016
+,45-64,11,924.3697479,3.363636364,37,3109.243697,8936.40319,98300.43509,82.60540763
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,15,590.3187721,5.066666667,76,2990.948445,12193.37242,182900.5863,71.97976634
+,Female,12,636.9426752,6,72,3821.656051,15840.19291,190082.3149,100.8929485
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,26,1000,5.5,143,5500,13814.12637,359167.2857,†
+Type of substance or substance-related condition,Alcohol,16,361.5819209,4.6875,75,1694.915254,10160.54006,162568.6409,36.73867591
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Valencia, New Mexico",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,23786.94824,1133.639246,5.567427471,132432.1091,6311.454279,11649.57971,277107949.5,132.0642075
+"Valencia, New Mexico",,799,1013.714967,6.073206705,4852.492157,6156.500535,12943.60817,10341942.93,131.2112933
+Age group,<1,22,2044.609665,19.18181818,422,39219.33086,37948.05779,834857.2713,775.8896573
+,17-Jan,27,143.1449475,8.074074074,218,1155.76291,9280.480327,250572.9688,13.28453869
+,18-44,294,1111.699312,5.93877551,1746,6602.132648,11602.2248,3411054.093,128.9818533
+,45-64,326,1537.445765,5.40797546,1763,8314.468968,12651.78784,4124482.837,194.5143764
+,65-84,129,1148.606535,5.426356589,700,6232.748642,13267.37278,1711491.089,152.3899109
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,492,1232.248854,5.932926829,2919,7310.842287,13532.21357,6657849.077,166.7505467
+,Female,307,789.3654222,6.298020055,1933.492157,4971.43926,12000.30571,3684093.853,94.72626384
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,232,†,5.564655172,1291,†,12311.72352,2856319.856,†
+,Medicaid,334,†,7.022431608,2345.492157,†,14198.77445,4742390.665,†
+,Private insurance,123,†,5.520325203,679,†,12045.74606,1481626.765,†
+,Uninsured,63,†,4.619047619,291,†,9405.209356,592528.1894,†
+,Other,40,†,4.95,198,†,15515.73983,620629.5933,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,73,87.4251497,7.397260274,540,646.7065868,11584.14021,845642.2353,†
+,Nonneonatal/nonmaternal,726,869.4610778,5.940071842,4312.492157,5164.661266,13080.30399,9496300.695,†
+Type of substance or substance-related condition,Alcohol,442,560.7784925,5.296380091,2341,2970.096043,13029.56593,5759068.142,73.06700341
+,Cannabis,132,167.47231,5.996152704,791.492157,1004.189544,9746.365473,1286520.242,16.3224634
+,Drug-induced mental disorders,49,62.16775143,8.234533816,403.492157,511.9224514,21646.90613,1060698.401,13.4573948
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,150,190.3094432,6.906666667,1036,1314.403887,12930.23229,1939534.844,24.60745308
+,Other drug abuse,97,123.0667732,6.036001618,585.492157,742.8312424,10002.20203,970213.5973,12.3093873
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",37,46.94299598,6.45945946,239,303.2263794,12821.03413,474378.2629,6.018577537
+,Stimulants,118,149.7100953,6.82620472,805.492157,1021.951759,13264.47634,1565208.209,19.85826017
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,

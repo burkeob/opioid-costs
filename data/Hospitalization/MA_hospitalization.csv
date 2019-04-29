@@ -1,0 +1,601 @@
+"Statistics for community hospital stays 2014 Massachusetts, by county or county equivalent",,,,,,
+,,,,,,
+"Analysis Type: Community | Setting of Care: Hospital Inpatient | Geographic Settings: State | Years: 2014 | Categorization Type: Stays for Alcohol and Other Drugs | Outcome and Measures: Number, Costs | State: Massachusetts | Community Level: County",,,,,,
+,,,,,,
+"2014 State Total, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+Age group,<1,1449.990254,1994.539402,23173.09457,33600761.29,462.1965018
+,17-Jan,869.976715,65.91786377,11650.88275,10135996.7,7.680013021
+,18-44,35194.53537,1454.099726,8795.419527,309550703.7,127.8941712
+,45-64,41417.26679,2197.621021,11982.68123,496289905.4,263.3339217
+,65-84,13348.51355,1325.665816,14151.00715,188894910.6,187.5950644
+,Missing,*,†,*,*,†
+Sex,Male,57988.82973,1784.956009,11740.09578,680794414.9,209.555545
+,Female,34292.45295,992.3535196,10430.92172,357701892.4,103.5116189
+,Missing,*,†,*,*,†
+Payer,Medicare,30879.33092,†,12071.96073,372774070.3,†
+,Medicaid,34521.06195,†,10687.95514,368959561.3,†
+,Private insurance,21754.67324,†,10911.4378,237374763.9,†
+,Uninsured,1234.62136,†,10093.81906,12462044.62,†
+,Other,3875.215075,†,12040.82525,46660787.53,†
+,Missing,18.3801375,†,14788.03218,271806.0648,†
+Type of stay,Neonatal/maternal,4065.182886,59.9195638,12489.71454,50772973.8,†
+,Nonneonatal/nonmaternal,88218.09979,1300.308057,11196.45586,987730060,†
+Type of substance or substance-related condition,Alcohol,55620.55793,829.6099146,11314.98683,629345880.3,93.87025257
+,Cannabis,12680.55315,189.1371286,9046.772597,114718080.8,17.11080592
+,Drug-induced mental disorders,8664.75863,129.2394384,12000.06882,103977699.8,15.50882154
+,Hallucinogens,354.8632333,5.292972017,10969.82309,3892786.892,0.580629667
+,Opioids,25087.06043,374.1867186,10393.41944,260740341.4,38.89079514
+,Other drug abuse,11120.78832,165.8724147,9276.235305,103159049.3,15.3867155
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",5428.802566,80.9734494,8862.241728,48111360.63,7.176062821
+,Stimulants,10510.22543,156.7655476,10059.06385,105723028.7,15.76914653
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Barnstable, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Barnstable, Massachusetts",,3410,1568.681571,9248.114198,31536069.41,145.0734631
+Age group,<1,73,4188.181297,9833.643411,717855.969,411.8508141
+,17-Jan,15,44.68674591,6488.895701,97333.43552,2.899676334
+,18-44,1000,1835.704452,6232.668325,6232668.325,114.4133699
+,45-64,1497,2154.08081,9980.915599,14941430.65,214.9969876
+,65-84,825,1419.990017,11571.8558,9546781.034,164.3191971
+,Missing,*,†,*,*,†
+Sex,Male,1975,1908.544481,10530.07859,20796905.22,200.9712339
+,Female,1435,1259.899208,7483.738112,10739164.19,94.28755721
+,Missing,*,†,*,*,†
+Payer,Medicare,1389,†,10216.62149,14190887.24,†
+,Medicaid,851,†,8799.348204,7488245.321,†
+,Private insurance,1014,†,8007.885639,8119996.038,†
+,Uninsured,34,†,7951.976984,270367.2175,†
+,Other,121,†,12066.90875,1460095.959,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,215,141.8205805,6233.564993,1340216.473,†
+,Nonneonatal/nonmaternal,3195,2107.519789,9450.971187,30195852.94,†
+Type of substance or substance-related condition,Alcohol,2189,1006.992364,9724.408599,21286730.42,97.924052
+,Cannabis,411,189.0698316,6976.311994,2867264.23,13.19010134
+,Drug-induced mental disorders,201,92.46480817,12459.73246,2504406.225,11.52086772
+,Hallucinogens,*,*,*,*,*
+,Opioids,925,425.5221272,7790.955125,7206633.49,33.15223797
+,Other drug abuse,392,180.3293771,6938.994221,2720085.735,12.51304506
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",166,76.36397093,5818.428144,965859.0719,4.443182776
+,Stimulants,184,84.64440151,7071.404228,1301138.378,5.985547788
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Berkshire, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Berkshire, Massachusetts",,3834,2967.538197,7909.034649,30323238.84,234.7036242
+Age group,<1,56,4840.103717,19569.10692,1095869.988,947.1650715
+,17-Jan,33,146.6471137,11942.05364,394087.7702,17.51267699
+,18-44,2064,5216.336433,5799.167318,11969481.34,302.5040776
+,45-64,1381,3462.888666,9222.290247,12735982.83,319.3576437
+,65-84,299,1146.032963,13796.82129,4125249.566,158.1161198
+,Missing,*,†,*,*,†
+Sex,Male,2522,4047.699295,8206.635687,20697135.2,332.1799349
+,Female,1311,1959.90492,7341.621315,9624865.544,143.8887974
+,Missing,*,†,*,*,†
+Payer,Medicare,1104,†,9871.25728,10897868.04,†
+,Medicaid,1441,†,7683.333097,11071682.99,†
+,Private insurance,1167,†,6387.590184,7454317.745,†
+,Uninsured,*,†,*,*,†
+,Other,112,†,7381.523865,826730.6729,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,200,199.6007984,9809.589055,1961917.811,†
+,Nonneonatal/nonmaternal,3634,3626.746507,7804.436167,28361321.03,†
+Type of substance or substance-related condition,Alcohol,2334,1806.529513,7707.719844,17989818.12,139.2422337
+,Cannabis,934,722.9214075,6979.518574,6518870.348,50.45643391
+,Drug-induced mental disorders,773,598.3064753,5040.413,3896239.249,30.15711737
+,Hallucinogens,25,19.35014474,11529.65561,288241.3902,2.231005048
+,Opioids,1389,1075.094042,6432.908417,8935309.791,69.15981509
+,Other drug abuse,393,304.1842753,9309.232285,3658528.288,28.31722076
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",275,212.8515921,7451.904753,2049273.807,15.86149791
+,Stimulants,612,473.6915432,6259.015503,3830517.488,29.64842713
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Bristol, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Bristol, Massachusetts",,8388,1517.610469,10554.35691,88529945.75,160.1740254
+Age group,<1,232,3861.517976,23076.21324,5353681.472,891.0921225
+,17-Jan,50,44.96079419,9519.043728,475952.1864,4.279837659
+,18-44,3260,1703.826816,8033.017727,26187637.79,136.8687102
+,45-64,3833,2421.566026,11265.68141,43181356.85,272.8059137
+,65-84,1013,1179.621543,13160.23441,13331317.46,155.2409602
+,Missing,*,†,*,*,†
+Sex,Male,5229,1951.760279,11153.81701,58323309.12,217.69577
+,Female,3159,1109.203333,9562.088203,30206636.63,106.063001
+,Missing,*,†,*,*,†
+Payer,Medicare,2927,†,10960.74632,32082104.48,†
+,Medicaid,3449,†,10114.0618,34883399.15,†
+,Private insurance,1584,†,10926.41148,17307435.78,†
+,Uninsured,136,†,8496.458568,1155518.365,†
+,Other,292,†,10621.5342,3101487.987,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,496,91.76688252,13871.87927,6880452.12,†
+,Nonneonatal/nonmaternal,7892,1460.12951,10345.85576,81649493.63,†
+Type of substance or substance-related condition,Alcohol,4622,836.2417249,10706.8313,49486974.26,89.53499073
+,Cannabis,1126,203.723103,7637.603181,8599941.182,15.5595622
+,Drug-induced mental disorders,609,110.184165,13107.26439,7982324.016,14.44212982
+,Hallucinogens,30,5.427791377,15505.90543,465177.1628,0.841628198
+,Opioids,2311,418.1208624,10772.3785,24894966.72,45.04156191
+,Other drug abuse,1312,237.3754096,8480.915951,11126961.73,20.13160897
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",557,100.7759932,8153.399499,4541443.521,8.216669328
+,Stimulants,735,132.9808887,9393.791348,6904436.641,12.49194722
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Dukes, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Dukes, Massachusetts",,212,1219.161539,16593.57237,3517837.342,202.3024523
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,48,934.0338587,13709.91691,658076.0117,128.0552659
+,45-64,91,1540.28436,20064.4525,1825865.177,309.0496238
+,65-84,70,2240,14493.15905,1014521.134,324.6467628
+,Missing,*,†,*,*,†
+Sex,Male,133,1541.314173,19756.1403,2627566.66,304.5041905
+,Female,79,901.826484,11269.24915,890270.6826,101.6290734
+,Missing,*,†,*,*,†
+Payer,Medicare,81,†,15438.3728,1250508.197,†
+,Medicaid,62,†,17980.06051,1114763.752,†
+,Private insurance,38,†,19687.2026,748113.6986,†
+,Uninsured,*,†,*,*,†
+,Other,26,†,14136.60535,367551.7391,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,209,1366.013072,16775.72158,3506125.811,†
+Type of substance or substance-related condition,Alcohol,143,822.3589626,18256.59129,2610692.555,150.1347148
+,Cannabis,33,189.7751452,14554.22454,480289.4099,27.62030076
+,Drug-induced mental disorders,16,92.01219162,12143.82615,194301.2184,11.17380059
+,Hallucinogens,*,*,*,*,*
+,Opioids,29,166.7720973,15699.36971,455281.7217,26.18216813
+,Other drug abuse,15,86.26142964,22162.83355,332442.5033,19.11797707
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",13,74.75990569,11446.26788,148801.4825,8.557219073
+,Stimulants,*,*,*,*,*
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Essex, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Essex, Massachusetts",,12178,1596.310841,10721.89202,130571201,171.1547247
+Age group,<1,147,1692.76831,21255.12767,3124503.768,359.8000654
+,17-Jan,150,93.92081849,12267.17973,1840076.959,11.52143561
+,18-44,4822,1912.566139,8406.496165,40536124.51,160.7797991
+,45-64,5269,2350.54269,11582.54381,61028423.34,272.2526369
+,65-84,1790,1514.279913,13431.32537,24042072.4,203.3878621
+,Missing,*,†,*,*,†
+Sex,Male,7606,2071.768276,11003.75105,83694530.48,227.9722234
+,Female,4572,1155.251442,10252.99005,46876670.5,118.4478153
+,Missing,*,†,*,*,†
+Payer,Medicare,4082,†,12033.70018,49121564.14,†
+,Private insurance,2624,†,11025.8009,28931701.56,†
+,Uninsured,199,†,8529.407243,1697352.041,†
+,Other,455,†,10493.79826,4774678.209,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,440,54.54320069,11384.24626,5009068.353,†
+,Nonneonatal/nonmaternal,11738,1455.06384,10697.06361,125562132.6,†
+Type of substance or substance-related condition,Alcohol,7419,972.4938523,10830.67231,80352757.89,105.3276224
+,Cannabis,1586,207.8953026,9014.943389,14297700.22,18.74164383
+,Drug-induced mental disorders,1240,162.5410941,10146.45653,12581606.1,16.49216145
+,Hallucinogens,40,5.243261099,7264.384799,290575.392,0.380890662
+,Opioids,3508,459.8339984,9773.322448,34284815.15,44.94105939
+,Other drug abuse,1248,163.5897463,9490.302937,11843898.07,15.5251625
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",841,110.2395646,8716.738712,7330777.257,9.609294803
+,Stimulants,1430,187.4465843,9658.761976,13812029.63,18.10501941
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Franklin, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Franklin, Massachusetts",,1139,1614.915639,10124.9276,11532292.53,163.5090391
+Age group,<1,28,4341.085271,17963.91983,502989.7552,779.8290778
+,17-Jan,*,*,*,*,*
+,18-44,470,2145.922747,7503.6491,3526715.077,161.0225129
+,45-64,478,2036.642522,11638.39565,5563153.121,237.0325147
+,65-84,158,1307.081403,12054.67755,1904639.053,157.5644484
+,Missing,*,†,*,*,†
+Sex,Male,680,1976.284585,10543.93879,7169878.377,208.3782369
+,Female,459,1270.69376,9504.17027,4362414.154,120.7688986
+,Missing,*,†,*,*,†
+Payer,Medicare,445,†,10771.01202,4793100.349,†
+,Medicaid,377,†,9304.578771,3507826.197,†
+,Private insurance,283,†,10135.10231,2868233.955,†
+,Uninsured,*,†,*,*,†
+,Other,26,†,11309.68696,294051.861,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,73,129.2035398,11108.15935,810895.6325,†
+,Nonneonatal/nonmaternal,1066,1886.725664,10057.59559,10721396.9,†
+Type of substance or substance-related condition,Alcohol,632,896.0725932,10729.17783,6780840.389,96.14122202
+,Cannabis,205,290.6564582,9086.471443,1862726.646,26.41041608
+,Drug-induced mental disorders,128,181.4830569,8048.69029,1030232.357,14.60700917
+,Hallucinogens,*,*,*,*,*
+,Opioids,316,448.0362966,8300.787365,2623048.807,37.1905403
+,Other drug abuse,203,287.8207855,8054.5598,1635075.639,23.18269728
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",44,62.38480079,6504.084122,286179.7014,4.057559923
+,Stimulants,90,127.6052744,8705.432025,783488.8823,11.10859042
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Hampden, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Hampden, Massachusetts",,7891,1691.003459,9583.504983,75623437.82,162.0574007
+Age group,<1,147,2675.646159,25393.08938,3732784.139,679.4292209
+,17-Jan,43,42.90218302,6531.475373,280853.441,2.802145519
+,18-44,3065,1888.932029,7996.001364,24507744.18,151.0390308
+,45-64,3528,2774.588295,9761.816574,34439688.87,270.85022
+,65-84,1106,1546.658463,11423.30785,12634178.48,176.6795575
+,Missing,*,†,*,*,†
+Sex,Male,4866,2164.215283,9822.971092,47798577.34,212.5902416
+,Female,3025,1250.997697,9198.300988,27824860.49,115.0705335
+,Missing,*,†,*,*,†
+Payer,Medicare,2657,†,9936.363804,26400918.63,†
+,Medicaid,3338,†,9293.429703,31021468.35,†
+,Private insurance,1583,†,9338.15132,14782293.54,†
+,Uninsured,61,†,10260.58278,625895.5498,†
+,Other,251,†,11115.1123,2789893.187,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,413,80.45977011,13043.34724,5386902.409,†
+,Nonneonatal/nonmaternal,7478,1456.847847,9392.422495,70236535.42,†
+Type of substance or substance-related condition,Alcohol,4181,895.96825,9461.846628,39559980.75,84.77514165
+,Cannabis,1439,308.3707993,8063.432474,11603279.33,24.86527117
+,Drug-induced mental disorders,738,158.1498609,10674.90954,7878083.238,16.88235459
+,Hallucinogens,36,7.714627362,8550.42396,307815.2626,0.659633346
+,Opioids,2144,459.4489185,9269.688234,19874211.57,42.58948234
+,Other drug abuse,1434,307.2993233,8003.192941,11476578.68,24.59375775
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",411,88.07532905,8024.302769,3297988.438,7.067431067
+,Stimulants,1318,282.4410795,8362.434063,11021688.09,23.61894904
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Hampshire, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Hampshire, Massachusetts",,1748,1075.904178,11120.3135,19438308.01,119.6439176
+Age group,<1,32,2680.067002,18378.6644,588117.261,492.5605201
+,17-Jan,*,*,*,*,*
+,18-44,709,1020.599116,8461.088635,5998911.842,86.35379583
+,45-64,730,1642.257767,12672.56986,9250975.994,208.1162627
+,65-84,271,1179.594324,13065.27115,3540688.481,154.1171969
+,Missing,*,†,*,*,†
+Sex,Male,1058,1389.39959,11660.30821,12336606.09,162.0082745
+,Female,690,799.3512512,10292.32162,7101701.918,82.27180164
+,Missing,*,†,*,*,†
+Payer,Medicare,594,†,11324.63199,6726831.405,†
+,Medicaid,558,†,10900.73604,6082610.709,†
+,Private insurance,495,†,11068.37205,5478844.165,†
+,Uninsured,11,†,10654.48029,117199.2832,†
+,Other,88,†,11059.6756,973251.4525,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,74,72.05452775,11723.63908,867549.2918,†
+,Nonneonatal/nonmaternal,1674,1629.990263,11093.6432,18570758.71,†
+Type of substance or substance-related condition,Alcohol,979,602.5802004,11436.19936,11196039.17,68.91227301
+,Cannabis,249,153.2609498,8511.778937,2119432.955,13.04523325
+,Drug-induced mental disorders,196,120.6391412,9452.292388,1852649.308,11.40316436
+,Hallucinogens,*,*,*,*,*
+,Opioids,476,292.9807716,10470.328,4983876.126,30.67604775
+,Other drug abuse,327,201.270404,9436.732229,3085811.439,18.99334908
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",73,44.93192506,7820.77616,570916.6597,3.514025283
+,Stimulants,136,83.70879189,8639.636678,1174990.588,7.232135487
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Middlesex, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Middlesex, Massachusetts",,15807,1019.886727,12687.74798,200555232.3,129.4006575
+Age group,<1,248,1448.767379,28074.27352,6962419.832,406.7309167
+,17-Jan,209,69.01493562,11931.21028,2493622.948,8.234317092
+,18-44,6081,1056.697806,9877.82339,60067044.04,104.3787431
+,45-64,6931,1597.678284,13506.96974,93616807.26,215.7979223
+,65-84,2338,1059.654275,16003.13867,37415338.21,169.5779431
+,Missing,*,†,*,*,†
+Sex,Male,9862,1305.51621,13371.61075,131870825.3,174.5685459
+,Female,5945,748.299491,11553.30648,68684407.03,86.45333359
+,Missing,*,†,*,*,†
+Payer,Medicare,5123,†,13713.10549,70252239.44,†
+,Medicaid,5435,†,12653.18667,68770069.57,†
+,Private insurance,4188,†,11454.73286,47972421.22,†
+,Uninsured,371,†,12693.6261,4709335.284,†
+,Other,689,†,12801.01884,8819901.981,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,656,41.11306092,14456.89745,9483724.727,†
+,Nonneonatal/nonmaternal,15151,949.5487591,12611.14828,191071507.6,†
+Type of substance or substance-related condition,Alcohol,9858,636.0500633,12684.88465,125047592.9,80.68221683
+,Cannabis,1834,118.3318945,9273.69038,17007948.16,10.97373352
+,Drug-induced mental disorders,1505,97.10441725,13940.1467,20979920.79,13.53649822
+,Hallucinogens,65,4.193878486,10249.36768,666208.8992,0.429846026
+,Opioids,4136,266.8597141,11771.86733,48688443.27,31.4143715
+,Other drug abuse,1573,101.4918594,9764.852458,15360112.92,9.910530323
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",973,62.77913487,9762.091868,9498515.388,6.128556821
+,Stimulants,1452,93.68479325,10893.68334,15817628.21,10.20572471
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Nantucket, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Nantucket, Massachusetts",,113,1080.305927,15212.63237,1719027.458,164.3429692
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,33,898.9376192,9797.433463,323315.3043,88.07281511
+,45-64,51,1641.45478,18215.0564,928967.8765,298.9919139
+,65-84,27,1864.640884,16390.82743,442552.3405,305.6300694
+,Missing,*,†,*,*,†
+Sex,Male,75,1406.074241,16132.50399,1209937.799,226.834983
+,Female,38,741.3187671,13397.09628,509089.6585,99.31518894
+,Missing,*,†,*,*,†
+Payer,Medicare,39,†,17944.36306,699830.1592,†
+,Medicaid,20,†,11135.57086,222711.4172,†
+,Private insurance,47,†,13216.2708,621164.7277,†
+,Uninsured,*,†,*,*,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,112,854.9618321,15146.70966,1696431.482,†
+Type of substance or substance-related condition,Alcohol,78,745.6978967,15165.68859,1182923.71,113.0902208
+,Cannabis,20,191.2045889,13339.41855,266788.371,25.5055804
+,Drug-induced mental disorders,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*
+,Opioids,18,172.08413,10940.9468,196937.0424,18.82763312
+,Other drug abuse,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,*,*,*,*,*
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Norfolk, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Norfolk, Massachusetts",,6966,994.7563233,11405.92524,79453675.24,113.4611626
+Age group,<1,81,1083.61204,16315.92313,1321589.774,176.8013075
+,17-Jan,109,76.81032782,10456.78656,1139789.735,8.031892036
+,18-44,2387,1013.132093,8648.878611,20644873.24,87.62456493
+,45-64,3100,1512.416451,12292.61867,38107117.88,185.9155871
+,65-84,1289,1168.493287,14150.74058,18240304.61,165.3504538
+,Missing,*,†,*,*,†
+Sex,Male,4332,1291.307225,12039.23358,52153959.88,155.4634931
+,Female,2634,722.0434323,10364.35663,27299715.36,74.83515632
+,Missing,*,†,*,*,†
+Payer,Medicare,2443,†,12296.01027,30039153.08,†
+,Medicaid,1863,†,10950.64591,20401053.33,†
+,Private insurance,2316,†,11139.32369,25798673.66,†
+,Uninsured,46,†,7709.837039,354652.5038,†
+,Other,296,†,9598.853683,2841260.69,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,263,37.11020178,9687.182906,2547729.104,†
+,Nonneonatal/nonmaternal,6703,945.8162833,11473.3621,76905946.14,†
+Type of substance or substance-related condition,Alcohol,4388,626.6136587,11458.1956,50278562.28,71.79861866
+,Cannabis,691,98.67594306,9258.041975,6397307.005,9.135460228
+,Drug-induced mental disorders,715,102.1031828,13636.14457,9749843.367,13.92293761
+,Hallucinogens,19,2.71323143,9774.195155,185709.7079,0.265196535
+,Opioids,1916,273.6079695,10081.55138,19316252.43,27.58392801
+,Other drug abuse,701,100.1039596,8886.659875,6229548.572,8.895898411
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",443,63.26113282,8789.540492,3893766.438,5.560362884
+,Stimulants,561,80.11172801,10245.86191,5747928.533,8.208137028
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Plymouth, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Plymouth, Massachusetts",,6827,1365.8398,11053.3214,75461025.19,150.9706629
+Age group,<1,137,2507.320644,16150.96477,2212682.174,404.9564739
+,17-Jan,56,52.13521641,9561.514233,535444.797,4.984916137
+,18-44,2362,1504.171177,8490.730238,20055104.82,127.715117
+,45-64,3130,2066.661384,11733.84055,36726920.93,242.4987516
+,65-84,1142,1455.147808,13949.97589,15930872.47,202.9927684
+,Missing,*,†,*,*,†
+Sex,Male,4347,1785.802317,11442.77783,49741755.22,204.3453916
+,Female,2480,967.1670196,10370.67337,25719269.97,100.3017326
+,Missing,*,†,*,*,†
+Payer,Medicare,2398,†,11560.29422,27721585.55,†
+,Medicaid,2343,†,9785.837354,22928216.92,†
+,Private insurance,1652,†,12043.81319,19896379.38,†
+,Uninsured,56,†,10185.29893,570376.7402,†
+,Other,377,†,11510.23238,4339357.609,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,335,67.33668342,10028.35603,3359499.27,†
+,Nonneonatal/nonmaternal,6492,1304.924623,11106.21163,72101525.92,†
+Type of substance or substance-related condition,Alcohol,4251,850.4738526,11468.16253,48751158.92,97.53372371
+,Cannabis,795,159.0512145,9108.04191,7240893.319,14.48645127
+,Drug-induced mental disorders,479,95.83085754,13769.80273,6595735.506,13.19572003
+,Hallucinogens,29,5.801868202,5833.79673,169180.1052,0.338469197
+,Opioids,1718,343.7106748,10039.07198,17247125.66,34.50536204
+,Other drug abuse,727,145.4468339,8004.388229,5819190.242,11.64212925
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",393,78.62531735,8230.257609,3234491.24,6.471066164
+,Stimulants,644,128.841487,9149.834619,5892493.495,11.78878298
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Suffolk, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Suffolk, Massachusetts",,12322,1630.856299,12029.95993,148233166.2,196.1913592
+Age group,<1,107,1299.174356,30866.89626,3302757.9,401.0148008
+,17-Jan,105,82.36586131,11900.91346,1249595.914,9.802289879
+,18-44,4325,1162.303215,9915.181869,42883161.58,115.2444776
+,45-64,6228,3829.010224,12243.09783,76250013.32,468.7894679
+,65-84,1557,1830.063823,15765.98428,24547637.53,288.5275747
+,Missing,*,†,*,*,†
+Sex,Male,8284,2270.074153,12246.81055,101452578.6,278.0116809
+,Female,4038,1033.709476,11585.08857,46780587.64,119.7561583
+,Missing,*,†,*,*,†
+Payer,Medicare,3917,†,13059.62022,51154532.4,†
+,Medicaid,5428,†,11574.25574,62825060.17,†
+,Private insurance,2105,†,11275.04818,23733976.43,†
+,Uninsured,184,†,9633.607823,1772583.839,†
+,Other,684,†,12673.46702,8668651.444,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,402,44.92122025,13435.71724,5401158.329,†
+,Nonneonatal/nonmaternal,11920,1331.992401,11982.551,142832007.9,†
+Type of substance or substance-related condition,Alcohol,7902,1045.855094,11696.61778,92426673.7,122.3296729
+,Cannabis,1646,217.8533897,9876.89479,16257368.82,21.5171501
+,Drug-induced mental disorders,1113,147.3091268,12891.89478,14348678.89,18.99093763
+,Hallucinogens,34,4.500009265,11171.09285,379817.1569,0.502700213
+,Opioids,3299,436.6332519,11747.18072,38753949.19,51.29209718
+,Other drug abuse,865,114.4855298,10841.95545,9378291.465,12.41247014
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",595,78.75016213,10012.50449,5957440.171,7.884863518
+,Stimulants,2109,279.1329276,11710.50612,24697457.4,32.68787856
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Worcester, Massachusetts",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,92283.28268,1376.453763,11253.42536,1038503034,154.8981969
+"Worcester, Massachusetts",,11053,1365.893324,12543.3534,138641685.2,171.3288267
+Age group,<1,159,1734.482382,29267.75694,4653573.353,507.6440878
+,17-Jan,82,47.95405767,18002.40125,1476196.902,8.632881876
+,18-44,4416,1575.955262,10163.63613,44882617.14,160.1743584
+,45-64,5000,2120.11737,13221.02457,66105122.87,280.3012385
+,65-84,1396,1235.365433,15418.4634,21524174.91,190.4743671
+,Missing,*,†,*,*,†
+Sex,Male,6797,1702.04561,13087.89227,88958403.75,222.7618958
+,Female,4255,1038.13151,11675.15702,49677793.1,121.2034838
+,Missing,*,†,*,*,†
+Payer,Medicare,3534,†,13042.02501,46090516.38,†
+,Medicaid,4415,†,11681.01747,51571692.11,†
+,Private insurance,2551,†,12871.24404,32834543.56,†
+,Uninsured,103,†,8316.78446,856628.7993,†
+,Other,445,†,16251.18768,7231778.518,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,482,61.18304138,15766.4256,7599417.138,†
+,Nonneonatal/nonmaternal,10571,1341.83803,12396.39278,131042268,†
+Type of substance or substance-related condition,Alcohol,6406,791.6323741,12530.43227,80269949.1,99.19495844
+,Cannabis,1651,204.0251404,11365.61571,18764631.53,23.18871341
+,Drug-induced mental disorders,917,113.3198388,15220.66421,13957349.08,17.24803214
+,Hallucinogens,55,6.796718791,15797.1532,868843.4257,1.07368808
+,Opioids,2795,345.3968913,11610.25052,32450650.2,40.10144437
+,Other drug abuse,1875,231.7063224,10635.90513,19942322.12,24.64406464
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",611,75.50536694,9972.35406,6093108.331,7.529662525
+,Stimulants,1194,147.5505861,11967.51893,14289217.6,17.65814432
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,

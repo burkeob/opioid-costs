@@ -1,0 +1,1201 @@
+"Statistics for community hospital stays 2014 Louisiana, by county or county equivalent",,,,,,
+,,,,,,
+"Analysis Type: Community | Setting of Care: Hospital Inpatient | Geographic Settings: State | Years: 2014 | Categorization Type: Stays for Alcohol and Other Drugs | Outcome and Measures: Number, Costs | State: Louisiana | Community Level: County",,,,,,
+,,,,,,
+"2014 State Total, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+Age group,<1,731.1960043,1151.943291,15751.83315,11517677.46,181.4521852
+,17-Jan,665.1048653,62.49223577,5978.614886,3970427.233,3.730552695
+,18-44,17755.90611,1053.53601,5825.550864,103389451.4,61.34550917
+,45-64,16132.06375,1341.429978,8651.907738,139164263.1,115.7193012
+,65-84,3869.46224,617.4709916,10690.05862,41297190.88,65.90015827
+,Missing,*,†,*,*,†
+Sex,Male,24354.83895,1071.372626,8070.704294,196222261.1,86.31843537
+,Female,14583.21606,615.5421808,6913.865701,100703288.3,42.50579668
+,Missing,217.6779543,†,*,*,†
+Payer,Medicare,8465.602489,†,9051.691432,76341877.47,†
+,Medicaid,8650.487931,†,7246.760017,62619284.22,†
+,Private insurance,8189.780727,†,8603.888881,70339347.49,†
+,Uninsured,11447.08595,†,6428.109665,73542482.48,†
+,Other,2194.475031,†,7071.364238,15510860.89,†
+,Missing,208.3008402,†,4780.415179,995764.4981,†
+Type of stay,Neonatal/maternal,2524.695378,42.10843401,7719.547099,19489504.88,†
+,Nonneonatal/nonmaternal,36631.03759,610.9551444,7653.114045,279860112.2,†
+Type of substance or substance-related condition,Alcohol,19015.23782,409.5990334,8220.316258,155922800.2,33.58665765
+,Cannabis,7806.075415,168.1473025,6013.01889,46913057.42,10.10533929
+,Drug-induced mental disorders,5193.796655,111.8773328,7068.276741,36688847.7,7.902986385
+,Hallucinogens,419.3469417,9.032971539,5581.126461,2340428.313,0.504141565
+,Opioids,6685.943376,144.0190215,6742.165616,45049681.89,9.703957603
+,Other drug abuse,5843.854591,125.8799504,5957.125507,34750122.73,7.485374004
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",2790.631361,60.1117861,6354.423722,17726499.7,3.818388816
+,Stimulants,6650.688096,143.2596028,6247.433518,41503985.25,8.940194389
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Acadia Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Acadia Parish, Louisiana",,475,782.2921985,7435.433585,3531830.953,58.16681686
+Age group,<1,13,1436.464088,26446.8857,343809.5142,379.9000156
+,17-Jan,*,*,*,*,*
+,18-44,216,1055.5637,5038.874781,1088396.953,53.18853309
+,45-64,199,1269.618476,8417.093457,1675001.598,106.8649737
+,65-84,41,491.8426104,9834.774399,403225.7503,48.37161113
+,Missing,*,†,*,*,†
+Sex,Male,342,1154.00189,7681.622712,2627114.967,88.64607124
+,Female,133,427.8866261,6802.375831,904715.9855,29.10645644
+,Missing,*,†,*,*,†
+Payer,Medicare,116,†,7350.72245,852683.8042,†
+,Medicaid,126,†,8204.95161,1033823.903,†
+,Private insurance,85,†,8501.962042,722666.7736,†
+,Uninsured,119,†,6127.681568,729194.1066,†
+,Other,28,†,6406.542163,179383.1806,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,38,44.18604651,11281.24648,428687.3662,†
+,Nonneonatal/nonmaternal,437,508.1395349,7101.015073,3103143.587,†
+Type of substance or substance-related condition,Alcohol,238,391.9695647,8041.865842,1913964.07,31.52166654
+,Cannabis,70,115.2851661,4772.897899,334102.8529,5.50244327
+,Drug-induced mental disorders,35,57.64258305,9528.479114,333496.769,5.492461486
+,Hallucinogens,*,*,*,*,*
+,Opioids,72,118.579028,8220.546252,591879.3301,9.74784384
+,Other drug abuse,90,148.223785,4941.628069,444746.5262,7.324668164
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",24,39.52634266,7175.0124,172200.2976,2.836019987
+,Stimulants,67,110.3443733,5741.748071,384697.1207,6.335695923
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Assumption Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Assumption Parish, Louisiana",,109,552.9065639,7505.627587,818113.407,41.49910759
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,55,842.9118774,4510.731558,248090.2357,38.02149206
+,45-64,35,627.9153211,11827.65319,413967.8617,74.26764651
+,65-84,15,487.4878128,7753.134174,116297.0126,37.79558421
+,Missing,*,†,*,*,†
+Sex,Male,75,780.1123362,8942.309544,670673.2158,69.76005989
+,Female,34,336.6336634,4336.476213,147440.1913,14.59803874
+,Missing,*,†,*,*,†
+Payer,Medicare,27,†,11870.16238,320494.3843,†
+,Medicaid,16,†,8518.399355,136294.3897,†
+,Private insurance,12,†,8627.890384,103534.6846,†
+,Uninsured,34,†,3939.619121,133947.0501,†
+,Other,20,†,6192.144917,123842.8983,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,104,504.8543689,7469.755761,776854.5991,†
+Type of substance or substance-related condition,Alcohol,60,304.352237,9210.20054,552612.0324,28.03145137
+,Cannabis,13,65.94298468,5091.801414,66193.41838,3.357685826
+,Drug-induced mental disorders,14,71.01552196,3181.356714,44538.99399,2.259257076
+,Hallucinogens,*,*,*,*,*
+,Opioids,24,121.7408948,5156.322153,123751.7317,6.277352727
+,Other drug abuse,13,65.94298468,3996.721705,51957.38217,2.635557582
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,*,*,*,*,*
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Bossier Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Bossier Parish, Louisiana",,905,739.9231461,7781.788332,7042518.441,57.57925305
+Age group,<1,17,963.1728045,22956.01427,390252.2425,221.1060864
+,17-Jan,*,*,*,*,*
+,18-44,416,924.6499222,6241.570989,2596493.532,57.7126813
+,45-64,373,1235.917826,8629.219664,3218698.935,106.6500641
+,65-84,91,568.1108753,8999.886239,818989.6478,51.12933249
+,Missing,*,†,*,*,†
+Sex,Male,488,811.9124865,8915.9628,4350989.846,72.38981526
+,Female,417,670.3641186,6454.505023,2691528.594,43.26868571
+,Missing,*,†,*,*,†
+Payer,Medicare,179,†,8077.833391,1445932.177,†
+,Medicaid,155,†,6722.579502,1041999.823,†
+,Private insurance,209,†,8182.401844,1710121.985,†
+,Uninsured,310,†,7989.195786,2476650.694,†
+,Other,52,†,7073.341571,367813.7617,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,79,44.50704225,8711.9544,688244.3976,†
+,Nonneonatal/nonmaternal,826,465.3521127,7692.825718,6354274.043,†
+Type of substance or substance-related condition,Alcohol,473,386.7222631,7692.282587,3638449.664,29.74776931
+,Cannabis,176,143.896656,7358.994238,1295182.986,10.58934663
+,Drug-induced mental disorders,108,88.30022075,8313.712255,897880.9236,7.341026274
+,Hallucinogens,*,*,*,*,*
+,Opioids,137,112.0104652,7943.176851,1088215.229,8.897189343
+,Other drug abuse,92,75.21870657,6794.039649,625051.6477,5.110388747
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",89,72.76592266,8260.952656,735224.7864,6.01115842
+,Stimulants,158,129.1799526,6327.801572,999792.6484,8.17425107
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Caddo Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Caddo Parish, Louisiana",,2852,1095.301189,9185.722802,26197681.43,100.611331
+Age group,<1,48,1297.998918,16126.52794,774073.341,209.3221582
+,17-Jan,23,38.05867655,6895.244064,158590.6135,2.624238636
+,18-44,1274,1375.557403,7495.843449,9549704.554,103.1096295
+,45-64,1217,1843.576265,10286.69312,12518905.53,189.6430329
+,65-84,290,770.7846056,11022.09445,3196407.392,84.95660726
+,Missing,*,†,*,*,†
+Sex,Male,1622,1306.831457,9964.861421,16163005.22,130.2239437
+,Female,1230,902.6330466,8158.273339,10034676.21,73.63927119
+,Missing,*,†,*,*,†
+Payer,Medicare,659,†,10161.3105,6696303.623,†
+,Medicaid,490,†,7473.1177,3661827.673,†
+,Private insurance,647,†,10944.36358,7081003.237,†
+,Uninsured,967,†,8324.644057,8049930.803,†
+,Other,89,†,7961.978593,708616.0948,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,237,69.76744186,9162.341228,2171474.871,†
+,Nonneonatal/nonmaternal,2615,769.7968796,9187.841897,24026206.56,†
+Type of substance or substance-related condition,Alcohol,1499,575.6860034,9612.883137,14409711.82,55.34002274
+,Cannabis,721,276.8976708,8650.019208,6236663.849,23.95170171
+,Drug-induced mental disorders,309,118.6704303,10010.56301,3093263.969,11.8795782
+,Hallucinogens,18,6.912840601,4803.270883,86458.8759,0.33204246
+,Opioids,339,130.1918313,8417.633565,2853577.778,10.95907129
+,Other drug abuse,230,88.33074102,7223.949868,1661508.47,6.380968449
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",205,78.72957352,5756.983022,1180181.519,4.53244818
+,Stimulants,621,238.4930007,7822.151004,4857555.773,18.65528265
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Cameron Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Cameron Parish, Louisiana",,20,722.0216606,18175.47126,363509.4252,131.2308394
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,*,*,*,*,*
+,45-64,16,1722.282024,20970.79186,335532.6697,361.1761784
+,65-84,*,*,*,*,*
+,Missing,*,†,*,*,†
+Sex,Male,13,912.9213483,23758.85589,308865.1265,216.8996675
+,Female,*,*,*,*,*
+,Missing,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†
+,Private insurance,*,†,*,*,†
+,Uninsured,*,†,*,*,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,20,571.4285714,18175.47126,363509.4252,†
+Type of substance or substance-related condition,Alcohol,13,469.3140794,24584.24952,319595.2437,115.3773443
+,Cannabis,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*
+,Opioids,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,*,*,*,*,*
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 De Soto Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"De Soto Parish, Louisiana",,220,809.5974093,8032.631738,1767178.982,65.03197844
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,79,907.5244113,7619.314808,601925.8698,69.14714186
+,45-64,103,1357.406431,8580.84926,883827.4737,116.4769997
+,65-84,35,812.6306013,7885.031635,275976.1072,64.07617999
+,Missing,*,†,*,*,†
+Sex,Male,108,824.3016333,8904.738326,961711.7392,73.40190347
+,Female,112,795.9067652,7191.671813,805467.243,57.23900249
+,Missing,*,†,*,*,†
+Payer,Medicare,57,†,7386.094929,421007.4109,†
+,Medicaid,37,†,9724.487653,359806.0432,†
+,Private insurance,53,†,8012.589292,424667.2325,†
+,Uninsured,62,†,7523.353709,466447.93,†
+,Other,11,†,8659.124157,95250.36572,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,14,41.2979351,4649.63257,65094.85598,†
+,Nonneonatal/nonmaternal,206,607.6696165,8262.544302,1702084.126,†
+Type of substance or substance-related condition,Alcohol,113,415.8386693,8617.421084,973768.5825,35.83456916
+,Cannabis,30,110.3996467,6537.536571,196126.0971,7.217417278
+,Drug-induced mental disorders,26,95.67969383,5583.604682,145173.7217,5.342375865
+,Hallucinogens,*,*,*,*,*
+,Opioids,24,88.31971738,7794.645988,187071.5037,6.884209308
+,Other drug abuse,30,110.3996467,7140.480146,214214.4044,7.883064855
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",17,62.55979981,6466.916832,109937.5861,4.045690224
+,Stimulants,36,132.4795761,6432.445196,231568.0271,8.521676126
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 East Baton Rouge Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"East Baton Rouge Parish, Louisiana",,3865,866.4714771,6269.553745,24231825.22,54.32389494
+Age group,<1,46,783.3787466,5403.134856,248544.2034,42.32701011
+,17-Jan,93,94.70564873,4562.482818,424310.9021,4.320928951
+,18-44,1720,949.3793157,4815.880648,8283314.714,45.72097474
+,45-64,1631,1532.47705,7318.547939,11936551.69,112.1550676
+,65-84,375,689.4522991,8904.276573,3339103.715,61.39073955
+,Missing,*,†,*,*,†
+Sex,Male,2528,1177.215661,6304.636185,15938120.28,74.21916457
+,Female,1337,577.9922012,6203.219855,8293704.946,35.85412699
+,Missing,*,†,*,*,†
+Payer,Medicare,773,†,7527.833503,5819015.298,†
+,Medicaid,845,†,5908.021105,4992277.834,†
+,Private insurance,697,†,7926.70754,5524915.155,†
+,Uninsured,1400,†,5110.613925,7154859.495,†
+,Other,148,†,4944.349566,731763.7358,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,197,32.96519411,4882.202582,961793.9087,†
+,Nonneonatal/nonmaternal,3668,613.7884873,6344.065244,23270031.31,†
+Type of substance or substance-related condition,Alcohol,1815,406.8941089,6724.637228,12205216.57,27.36215273
+,Cannabis,769,172.3975591,4880.808871,3753342.022,8.414395357
+,Drug-induced mental disorders,699,156.7046733,4763.865902,3329942.265,7.4652005
+,Hallucinogens,58,13.00267676,4203.760425,243818.1046,0.54660138
+,Opioids,790,177.1054248,4196.463225,3315205.948,7.432164022
+,Other drug abuse,605,135.6313696,6293.887807,3807802.123,8.536486236
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",204,45.73355273,5053.364852,1030886.43,2.311083279
+,Stimulants,617,138.3215786,5686.774414,3508739.814,7.866036142
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 East Feliciana Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"East Feliciana Parish, Louisiana",,152,700.9776794,8093.463121,1230206.394,56.73336997
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,69,929.0426821,6518.327175,449764.5751,60.55804162
+,45-64,64,966.4753851,9787.110818,626375.0923,94.59001697
+,65-84,16,510.6926269,9131.587152,146105.3944,46.6343423
+,Missing,*,†,*,*,†
+Sex,Male,95,819.2480166,7841.339395,744927.2425,64.24001746
+,Female,57,565.0277557,8513.669331,485279.1518,48.10459475
+,Missing,*,†,*,*,†
+Payer,Medicare,34,†,9178.494198,312068.8027,†
+,Medicaid,22,†,8563.655753,188400.4266,†
+,Private insurance,29,†,6182.726332,179299.0636,†
+,Uninsured,42,†,5210.684116,218848.7329,†
+,Other,24,†,13796.41556,331113.9735,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,142,636.7713004,8280.413828,1175818.764,†
+Type of substance or substance-related condition,Alcohol,68,313.5952776,9837.056924,668919.8708,30.84854597
+,Cannabis,24,110.6806862,7303.504627,175284.111,8.083569039
+,Drug-induced mental disorders,24,110.6806862,2831.583015,67957.99236,3.134015512
+,Hallucinogens,*,*,*,*,*
+,Opioids,31,142.962553,4076.48968,126371.1801,5.82785372
+,Other drug abuse,21,96.84560044,10654.24847,223739.2178,10.3181709
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",14,64.56373363,4696.052013,65744.72818,3.031946513
+,Stimulants,29,133.7391625,6389.546568,185296.8505,8.545326069
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Evangeline Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Evangeline Parish, Louisiana",,436,1323.779451,7160.491736,3121974.397,94.78911819
+Age group,<1,23,4674.796748,19874.47789,457112.9914,929.091446
+,17-Jan,*,*,*,*,*
+,18-44,167,1488.546216,5094.546175,850789.2113,75.83467433
+,45-64,203,2449.028833,6609.935923,1341816.992,161.8792366
+,65-84,37,792.6306769,10369.33002,383665.2107,82.19049072
+,Missing,*,†,*,*,†
+Sex,Male,273,1645.073817,7453.894807,2034913.282,122.6220718
+,Female,163,997.4909736,6669.086592,1087061.115,66.52353678
+,Missing,*,†,*,*,†
+Payer,Medicare,142,†,7928.999287,1125917.899,†
+,Medicaid,169,†,5903.623013,997712.2892,†
+,Private insurance,57,†,10548.60368,601270.4096,†
+,Uninsured,35,†,6899.529085,241483.518,†
+,Other,23,†,5292.379055,121724.7183,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,59,120.9016393,9672.82411,570696.6225,†
+,Nonneonatal/nonmaternal,377,772.5409836,6767.315051,2551277.774,†
+Type of substance or substance-related condition,Alcohol,189,573.8401749,7304.937758,1380633.236,41.91866761
+,Cannabis,62,188.2438669,4885.970256,302930.1559,9.197539345
+,Drug-induced mental disorders,26,78.94097644,7665.330244,199298.5864,6.051086542
+,Hallucinogens,*,*,*,*,*
+,Opioids,99,300.5829487,9999.247583,989925.5107,30.05603324
+,Other drug abuse,90,273.2572261,4620.13768,415812.3912,12.62486007
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",19,57.68763663,7958.895824,151219.0206,4.591298902
+,Stimulants,78,236.8229293,5288.023988,412465.871,12.52325331
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Iberia Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Iberia Parish, Louisiana",,335,443.1216931,8546.951718,2863228.826,37.87339716
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,150,587.7973275,6599.190743,989878.6114,38.78986682
+,45-64,142,712.5294797,8954.027352,1271471.884,63.8000845
+,65-84,25,250.400641,8334.090877,208352.2719,20.86861698
+,Missing,*,†,*,*,†
+Sex,Male,225,608.8321247,9631.660386,2167123.587,58.64064257
+,Female,110,284.6496222,6328.229443,696105.2387,18.0132812
+,Missing,*,†,*,*,†
+Payer,Medicare,71,†,8334.10456,591721.4238,†
+,Medicaid,89,†,10141.41796,902586.198,†
+,Private insurance,62,†,10597.52668,657046.6543,†
+,Uninsured,97,†,6025.35703,584459.6319,†
+,Other,15,†,7987.852512,119817.7877,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,16,19.48842875,23784.51177,380552.1884,†
+,Nonneonatal/nonmaternal,319,388.5505481,7782.685383,2482676.637,†
+Type of substance or substance-related condition,Alcohol,170,224.8677249,9024.687606,1534196.893,20.2936097
+,Cannabis,71,93.91534392,6215.950651,441332.4962,5.837731432
+,Drug-induced mental disorders,35,46.2962963,5678.187188,198736.5516,2.628790365
+,Hallucinogens,*,*,*,*,*
+,Opioids,44,58.2010582,11001.82411,484080.261,6.403178056
+,Other drug abuse,41,54.23280423,6330.121947,259534.9998,3.433002643
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",29,38.35978836,5378.093181,155964.7023,2.063025162
+,Stimulants,63,83.33333333,5069.650633,319387.9899,4.224708861
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Iberville Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Iberville Parish, Louisiana",,266,776.4383082,7550.644236,2008471.367,58.62609437
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,107,850.4888324,6102.691811,652988.0237,51.90271232
+,45-64,121,1268.343816,8733.815437,1056791.668,110.774808
+,65-84,24,526.8935236,9433.150156,226395.6037,49.70265724
+,Missing,*,†,*,*,†
+Sex,Male,170,973.9329705,8370.548584,1422993.259,81.52353247
+,Female,96,571.2925494,6098.730288,585478.1076,34.84159174
+,Missing,*,†,*,*,†
+Payer,Medicare,44,†,8733.813037,384287.7736,†
+,Medicaid,66,†,6969.383393,459979.3039,†
+,Private insurance,54,†,7641.169936,412623.1765,†
+,Uninsured,101,†,7366.490492,744015.5397,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,13,30.37383178,7881.594384,102460.727,†
+,Nonneonatal/nonmaternal,253,591.1214953,7533.638893,1906010.64,†
+Type of substance or substance-related condition,Alcohol,109,318.1645699,9008.262537,981900.6166,28.66109976
+,Cannabis,52,151.7849324,4710.207045,244930.7663,7.14938458
+,Drug-induced mental disorders,45,131.3523454,5209.72904,234437.8068,6.843101281
+,Hallucinogens,*,*,*,*,*
+,Opioids,54,157.6228144,6532.703463,352765.987,10.29703106
+,Other drug abuse,39,113.8386993,5300.369139,206714.3964,6.033871287
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",29,84.64928924,5559.897644,161237.0317,4.706413838
+,Stimulants,46,134.2712864,6308.252067,290179.5951,8.470171198
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Jefferson Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Jefferson Parish, Louisiana",,3178,732.345811,7425.763838,23599077.48,54.3822704
+Age group,<1,53,949.3104066,14347.46289,760415.533,136.2019583
+,17-Jan,84,91.82334937,6985.953292,586820.0765,6.414736298
+,18-44,1368,897.7615026,5439.020396,7440579.902,48.82943124
+,45-64,1296,1082.779133,8376.011199,10855310.51,90.69370145
+,65-84,377,581.6644552,10493.23992,3955951.45,61.03544682
+,Missing,*,†,*,*,†
+Sex,Male,2004,949.1737357,7785.914657,15602972.97,73.90185701
+,Female,1167,523.748188,6799.672874,7935218.244,35.61316347
+,Missing,*,†,*,*,†
+Payer,Medicare,783,†,8951.154369,7008753.871,†
+,Medicaid,742,†,7005.2335,5197883.257,†
+,Private insurance,623,†,7724.672868,4812471.197,†
+,Uninsured,928,†,6234.244939,5785379.304,†
+,Other,98,†,7751.689915,759665.6116,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,186,32.30849401,6759.160618,1257203.875,†
+,Nonneonatal/nonmaternal,2992,519.7151294,7467.203744,22341873.6,†
+Type of substance or substance-related condition,Alcohol,1616,372.3948492,7894.974283,12758278.44,29.40047757
+,Cannabis,551,126.9737388,5047.241075,2781029.832,6.408670698
+,Drug-induced mental disorders,410,94.48136643,8017.807384,3287301.028,7.575333975
+,Hallucinogens,20,4.608847143,4465.623952,89312.47904,0.205813782
+,Opioids,643,148.1744356,6957.11271,4473423.472,10.30866249
+,Other drug abuse,468,107.8470231,5269.780783,2466257.407,5.683301701
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",188,43.32316314,6257.39132,1176389.568,2.71089985
+,Stimulants,317,73.05022722,5783.023077,1833218.315,4.224511498
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Jefferson Davis Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Jefferson Davis Parish, Louisiana",,212,735.5237137,6421.865218,1361435.426,47.23434154
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,108,1147.837177,4754.311057,513465.5942,54.57174984
+,45-64,77,1033.834586,8127.032789,625781.5248,84.02007583
+,65-84,19,423.6343367,8144.017589,154736.3342,34.50085489
+,Missing,*,†,*,*,†
+Sex,Male,134,941.143419,6868.415766,920367.7127,64.64164298
+,Female,78,534.7960233,5654.714276,441067.7135,30.24118708
+,Missing,*,†,*,*,†
+Payer,Medicare,42,†,6800.72205,285630.3261,†
+,Medicaid,66,†,6565.08675,433295.7255,†
+,Private insurance,47,†,6346.599215,298290.1631,†
+,Uninsured,43,†,5067.68821,217910.593,†
+,Other,14,†,9022.044177,126308.6185,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,21,51.85185185,4864.096166,102146.0195,†
+,Nonneonatal/nonmaternal,191,471.6049383,6593.138255,1259289.407,†
+Type of substance or substance-related condition,Alcohol,82,284.4950213,7711.621537,632352.9661,21.93917934
+,Cannabis,50,173.472574,4575.551854,228777.5927,7.937327575
+,Drug-induced mental disorders,29,100.6140929,6733.77776,195279.555,6.775129412
+,Hallucinogens,*,*,*,*,*
+,Opioids,31,107.5529959,5783.53437,179289.5655,6.220364482
+,Other drug abuse,58,201.2281858,4693.420773,272218.4048,9.444485474
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,43,149.1864136,5333.297227,229331.7808,7.956554861
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Lafourche Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Lafourche Parish, Louisiana",,551,605.1420601,7380.476438,4066642.517,44.66236717
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,275,843.7653412,5711.09993,1570552.481,48.18828181
+,45-64,201,831.9536424,8446.729681,1697792.666,70.27287524
+,65-84,61,480.2771435,9240.930659,563696.7702,44.3820778
+,Missing,*,†,*,*,†
+Sex,Male,349,783.5829273,7723.771509,2695596.257,60.52215489
+,Female,201,432.1279615,6511.796893,1308871.175,28.13929517
+,Missing,*,†,*,*,†
+Payer,Medicare,99,†,8634.874979,854852.6229,†
+,Medicaid,61,†,7685.74085,468830.1918,†
+,Private insurance,141,†,10177.41773,1435015.9,†
+,Uninsured,175,†,4964.456323,868779.8566,†
+,Other,74,†,5914.746283,437691.2249,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,20,17.27115717,10994.9036,219898.072,†
+,Nonneonatal/nonmaternal,531,458.5492228,7244.339822,3846744.445,†
+Type of substance or substance-related condition,Alcohol,250,274.565363,8031.353612,2007838.403,22.0513152
+,Cannabis,88,96.64700779,6300.54712,554448.1466,6.089290266
+,Drug-induced mental disorders,88,96.64700779,8290.359186,729551.6084,8.012384088
+,Hallucinogens,*,*,*,*,*
+,Opioids,74,81.27134746,7744.471824,573090.915,6.294036605
+,Other drug abuse,97,106.5313609,6092.055434,590929.3771,6.489949558
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",43,47.22524244,5499.576736,236481.7996,2.597188447
+,Stimulants,96,105.4330994,5154.703301,494851.5169,5.434763455
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Livingston Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Livingston Parish, Louisiana",,1329,1018.913925,6655.013282,8844512.652,67.80885705
+Age group,<1,24,1267.828843,8723.116761,209354.8023,110.5941903
+,17-Jan,33,100.456621,4138.483205,136569.9458,4.157380389
+,18-44,704,1469.14585,5020.926819,3534732.48,73.764738
+,45-64,458,1389.689596,8142.79805,3729401.507,113.1596173
+,65-84,110,742.5408397,11222.30833,1234453.917,83.33022254
+,Missing,*,†,*,*,†
+Sex,Male,792,1227.697602,7205.28107,5706582.607,88.45906291
+,Female,537,814.5990716,5843.445149,3137930.045,47.60064993
+,Missing,*,†,*,*,†
+Payer,Medicare,210,†,9194.375814,1930818.921,†
+,Medicaid,255,†,6776.120783,1727910.8,†
+,Private insurance,289,†,7557.351875,2184074.692,†
+,Uninsured,548,†,5201.576463,2850463.901,†
+,Other,26,†,5768.085809,149970.231,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,71,39.91006183,5735.253881,407203.0255,†
+,Nonneonatal/nonmaternal,1258,707.138842,6706.923392,8437309.627,†
+Type of substance or substance-related condition,Alcohol,521,399.4387923,7158.03297,3729335.177,28.59196045
+,Cannabis,209,160.2355232,4950.416003,1034636.945,7.932324984
+,Drug-induced mental disorders,336,257.6035206,4890.80775,1643311.404,12.59889295
+,Hallucinogens,31,23.76699148,5169.701146,160260.7355,1.228682431
+,Opioids,425,325.8377864,4895.39558,2080543.121,15.9510486
+,Other drug abuse,256,196.269349,6754.761273,1729218.886,13.25752598
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",106,81.26777733,5193.306126,550490.4493,4.220484458
+,Stimulants,124,95.06796593,4945.77834,613276.5141,4.701850867
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Natchitoches Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Natchitoches Parish, Louisiana",,255,653.3268428,8870.065591,2261866.726,57.95051948
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,85,569.3997856,5948.982729,505663.532,33.87349491
+,45-64,125,1400.246443,10514.05344,1314256.68,147.2226593
+,65-84,40,707.4637425,10922.07687,436883.0748,77.26973378
+,Missing,*,†,*,*,†
+Sex,Male,150,804.1170794,9187.768081,1378165.212,73.88041236
+,Female,105,515.286843,8416.204892,883701.5136,43.36759649
+,Missing,*,†,*,*,†
+Payer,Medicare,66,†,11628.10311,767454.8055,†
+,Medicaid,14,†,10031.74744,140444.4641,†
+,Private insurance,78,†,8198.692173,639497.9895,†
+,Uninsured,92,†,7470.430308,687279.5884,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,19,40.25423729,4217.352779,80129.7028,†
+,Nonneonatal/nonmaternal,236,500,9244.648403,2181737.023,†
+Type of substance or substance-related condition,Alcohol,133,340.7547847,9293.873505,1236085.176,31.66931865
+,Cannabis,61,156.2860291,7474.313753,455933.1389,11.68130816
+,Drug-induced mental disorders,26,66.6137173,7939.560559,206428.5745,5.288836426
+,Hallucinogens,*,*,*,*,*
+,Opioids,24,61.4895852,7139.712599,171353.1024,4.390179662
+,Other drug abuse,33,84.54817965,5846.449952,192932.8484,4.943067009
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",21,53.80338705,7494.390965,157382.2103,4.032236178
+,Stimulants,48,122.9791704,7488.943191,359469.2732,9.209840208
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Orleans Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Orleans Parish, Louisiana",,3290,856.4295997,8246.599127,27131311.13,70.62631589
+Age group,<1,55,1108.64745,14705.40126,808797.0691,163.031056
+,17-Jan,77,98.04046397,4544.396821,349918.5552,4.455347728
+,18-44,1349,874.7868153,6520.338927,8795937.212,57.03906524
+,45-64,1501,1520.138544,9048.366396,13581597.96,137.5477052
+,65-84,307,643.5653942,11703.09676,3592850.705,75.3170808
+,Missing,*,†,*,*,†
+Sex,Male,2238,1206.436484,8511.894662,19049620.25,102.6906027
+,Female,1047,527.0629455,7684.685593,8045865.815,40.50313024
+,Missing,*,†,*,*,†
+Payer,Medicare,674,†,9878.526022,6658126.539,†
+,Medicaid,785,†,7408.759955,5815876.565,†
+,Private insurance,688,†,9669.042943,6652301.545,†
+,Uninsured,1008,†,6530.388554,6582631.662,†
+,Other,134,†,10606.44624,1421263.796,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,176,35.74329813,7262.864431,1278264.14,†
+,Nonneonatal/nonmaternal,3114,632.4126726,8302.198776,25853046.99,†
+Type of substance or substance-related condition,Alcohol,1792,466.4808032,8609.320982,15427903.2,40.16082967
+,Cannabis,707,184.0412544,5849.249028,4135419.062,10.76503128
+,Drug-induced mental disorders,332,86.42389881,8946.204553,2970139.912,7.731658771
+,Hallucinogens,11,2.863442431,6018.206886,66200.27574,0.17232789
+,Opioids,581,151.2418229,7863.684025,4568800.419,11.89317907
+,Other drug abuse,261,67.94167949,5658.087062,1476760.723,3.844199377
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",144,37.48506454,7516.483879,1082373.679,2.817558833
+,Stimulants,692,180.1365602,6430.667128,4450021.652,11.58398256
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Plaquemines Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Plaquemines Parish, Louisiana",,115,468.3745367,8398.303966,965804.9561,39.33551729
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,55,651.8132259,6165.257649,339089.1707,40.18596477
+,45-64,42,633.3886292,11924.69697,500837.2728,75.52967469
+,65-84,11,369.00369,8686.451344,95550.96478,32.05332599
+,Missing,*,†,*,*,†
+Sex,Male,66,536.4109233,10180.18532,671892.2313,54.60762608
+,Female,49,400.0326557,5998.218874,293912.7248,23.99483426
+,Missing,*,†,*,*,†
+Payer,Medicare,16,†,13152.78592,210444.5748,†
+,Medicaid,21,†,4734.544488,99425.43425,†
+,Private insurance,35,†,10045.72446,351600.356,†
+,Uninsured,40,†,6107.985124,244319.405,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,11,33.84615385,3743.836776,41182.20454,†
+,Nonneonatal/nonmaternal,104,320,8890.603381,924622.7516,†
+Type of substance or substance-related condition,Alcohol,52,211.786747,10036.81317,521914.285,21.25664012
+,Cannabis,17,69.23797499,3949.265758,67137.51788,2.734391638
+,Drug-induced mental disorders,16,65.16515293,15957.19854,255315.1766,10.39853283
+,Hallucinogens,*,*,*,*,*
+,Opioids,23,93.67490734,5000.353458,115008.1295,4.684076469
+,Other drug abuse,23,93.67490734,4541.992249,104465.8217,4.25470703
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,*,*,*,*,*
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Red River Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Red River Parish, Louisiana",,102,1102.226064,10877.12192,1109466.435,119.8904728
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,36,1193.238316,11741.60494,422697.7778,140.1053291
+,45-64,43,1756.535948,12709.25237,546497.852,223.2425866
+,65-84,23,1622.002821,6098.730682,140270.8057,98.92158371
+,Missing,*,†,*,*,†
+Sex,Male,54,1215.121512,12992.87212,701615.0944,157.8791842
+,Female,48,997.9209979,8496.902939,407851.3411,84.7923786
+,Missing,*,†,*,*,†
+Payer,Medicare,37,†,6999.648284,258986.9865,†
+,Medicaid,13,†,5862.581807,76213.56348,†
+,Private insurance,21,†,16202.34933,340249.3359,†
+,Uninsured,29,†,14163.97785,410755.3577,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,100,970.8737864,11015.49386,1101549.386,†
+Type of substance or substance-related condition,Alcohol,58,626.7559974,9390.137984,544628.0031,58.85325298
+,Cannabis,12,129.6736546,19832.74472,237992.9367,25.71784489
+,Drug-induced mental disorders,11,118.8675167,16608.40836,182692.4919,19.74200259
+,Hallucinogens,*,*,*,*,*
+,Opioids,12,129.6736546,7425.411193,89104.93432,9.628802066
+,Other drug abuse,14,151.2859304,6682.061008,93548.85411,10.10901817
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,15,162.0920683,14749.01834,221235.2752,23.90698889
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Sabine Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Sabine Parish, Louisiana",,104,447.7547682,9263.585178,963412.8585,41.47814434
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,36,509.1937765,7403.703334,266533.32,37.69919661
+,45-64,51,828.1909711,10492.90594,535138.2027,86.90129957
+,65-84,14,317.7485247,11252.33645,157532.7104,35.75413308
+,Missing,*,†,*,*,†
+Sex,Male,67,580.9920222,8609.185149,576815.405,50.01867889
+,Female,37,316.374519,10448.57982,386597.4535,33.05664416
+,Missing,*,†,*,*,†
+Payer,Medicare,31,†,8789.117691,272462.6484,†
+,Medicaid,11,†,9089.946375,99989.41012,†
+,Private insurance,24,†,13913.01553,333912.3728,†
+,Uninsured,29,†,7256.974893,210452.2719,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,98,381.3229572,9546.676051,935574.253,†
+Type of substance or substance-related condition,Alcohol,57,245.4040556,9090.335719,518149.136,22.30805253
+,Cannabis,14,60.27468033,9711.794091,135965.1173,5.853752843
+,Drug-induced mental disorders,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*
+,Opioids,12,51.66401171,5658.520272,67902.24326,2.923418576
+,Other drug abuse,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,19,81.80135188,6562.760883,124692.4568,5.368427123
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 St. Charles Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"St. Charles Parish, Louisiana",,308,604.1466429,9986.054912,3075704.913,60.33041551
+Age group,<1,*,*,*,*,*
+,17-Jan,17,139.002453,3332.222474,56647.78206,4.631870978
+,18-44,120,684.3846242,7818.682154,938241.8584,53.50985847
+,45-64,128,870.9260393,11975.95992,1532922.87,104.3017534
+,65-84,39,667.579596,12287.28241,479204.0139,82.02739027
+,Missing,*,†,*,*,†
+Sex,Male,119,472.5222363,9228.1904,1098154.658,43.60525165
+,Female,83,321.7428383,9158.661067,760168.8686,29.46733607
+,Missing,*,†,*,*,†
+Payer,Medicare,66,†,11187.60301,738381.7987,†
+,Medicaid,48,†,7524.417106,361172.0211,†
+,Private insurance,104,†,9075.618874,943864.3629,†
+,Uninsured,79,†,11142.46893,880255.0454,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,12,19.01743265,8559.819315,102717.8318,†
+,Nonneonatal/nonmaternal,296,469.0966719,10043.87527,2972987.081,†
+Type of substance or substance-related condition,Alcohol,145,284.4196858,12062.30425,1749034.117,34.30756785
+,Cannabis,42,82.38363312,5893.315849,247519.2657,4.855127708
+,Drug-induced mental disorders,42,82.38363312,8289.548805,348161.0498,6.829231475
+,Hallucinogens,*,*,*,*,*
+,Opioids,71,139.2675703,8858.535554,628956.0244,12.33706723
+,Other drug abuse,57,111.8063592,7442.463623,424220.4265,8.321147614
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",26,50.99939193,9183.886451,238781.0477,4.683726246
+,Stimulants,24,47.07636178,6909.7502,165834.0048,3.252859002
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 St. James Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"St. James Parish, Louisiana",,111,496.6442953,7650.036332,849154.0328,37.99346903
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,38,519.1966116,4611.675223,175243.6585,23.94366149
+,45-64,47,746.3871685,10275.6246,482954.3561,76.69594349
+,65-84,22,688.1451361,7039.71056,154873.6323,48.44342581
+,Missing,*,†,*,*,†
+Sex,Male,74,675.613987,7720.04611,571283.4121,52.15771132
+,Female,37,324.6468369,7510.016776,277870.6207,24.38103191
+,Missing,*,†,*,*,†
+Payer,Medicare,27,†,8708.658013,235133.7664,†
+,Medicaid,12,†,6992.832188,83913.98626,†
+,Private insurance,33,†,9332.394534,307969.0196,†
+,Uninsured,30,†,5867.645654,176029.3696,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,105,364.5833333,7845.868125,823816.1531,†
+Type of substance or substance-related condition,Alcohol,60,268.4563758,8691.478235,521488.6941,23.33282748
+,Cannabis,23,102.9082774,5557.145485,127814.3462,5.718762691
+,Drug-induced mental disorders,19,85.01118568,6915.969945,131403.429,5.879348052
+,Hallucinogens,*,*,*,*,*
+,Opioids,*,*,*,*,*
+,Other drug abuse,21,93.95973154,5321.959054,111761.1401,5.00049844
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*
+,Stimulants,11,49.21700224,7907.523048,86982.75353,3.891845795
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 St. John the Baptist Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"St. John the Baptist Parish, Louisiana",,177,390.6163794,8068.264595,1428082.833,31.51596304
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,71,447.0188252,6350.912593,450914.7941,28.38977486
+,45-64,81,655.4989075,7969.150312,645501.1753,52.23769323
+,65-84,15,283.179158,17031.48509,255472.2763,48.22961607
+,Missing,*,†,*,*,†
+Sex,Male,98,440.9448819,7199.540653,705554.984,31.74600603
+,Female,74,320.5128205,9291.461818,687568.1745,29.78032634
+,Missing,*,†,*,*,†
+Payer,Medicare,33,†,9178.602408,302893.8795,†
+,Medicaid,47,†,6897.014384,324159.6761,†
+,Private insurance,34,†,12227.01088,415718.3698,†
+,Uninsured,58,†,5420.589805,314394.2087,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,12,21.54398564,6873.366456,82480.39747,†
+,Nonneonatal/nonmaternal,165,296.2298025,8155.166278,1345602.436,†
+Type of substance or substance-related condition,Alcohol,79,174.3429038,9546.947986,754208.8909,16.64442634
+,Cannabis,37,81.6542714,4555.065476,168537.4226,3.719405526
+,Drug-induced mental disorders,18,39.7236996,6681.944513,120275.0012,2.654315566
+,Hallucinogens,*,*,*,*,*
+,Opioids,34,75.0336548,8017.889633,272608.2475,6.01611563
+,Other drug abuse,24,52.9649328,5910.515619,141852.3749,3.130500626
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",12,26.4824664,5133.054542,61596.6545,1.359359444
+,Stimulants,27,59.5855494,5828.320485,157364.6531,3.472836782
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 St. Landry Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"St. Landry Parish, Louisiana",,990,1113.610799,7089.44951,7018555.015,78.94887531
+Age group,<1,27,1966.496723,17608.80037,475437.6101,346.2764822
+,17-Jan,*,*,*,*,*
+,18-44,446,1546.195181,4957.66912,2211120.427,76.65524103
+,45-64,443,1924.664379,8334.608767,3692231.684,160.413246
+,65-84,67,517.5343736,9108.139408,610245.3404,47.13775223
+,Missing,*,†,*,*,†
+Sex,Male,660,1544.979985,7583.877505,5005359.153,117.1693896
+,Female,330,714.579589,6100.59352,2013195.861,43.5935961
+,Missing,*,†,*,*,†
+Payer,Medicare,274,†,8791.896304,2408979.587,†
+,Medicaid,331,†,6017.403466,1991760.547,†
+,Private insurance,110,†,9335.715203,1026928.672,†
+,Uninsured,223,†,5674.526511,1265419.412,†
+,Other,50,†,6463.520985,323176.0492,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,94,69.47524021,7274.832287,683834.235,†
+,Nonneonatal/nonmaternal,896,662.2320769,7070.00087,6334720.78,†
+Type of substance or substance-related condition,Alcohol,467,525.3093363,8102.588327,3783908.749,42.56365297
+,Cannabis,160,179.9775028,5354.641352,856742.6163,9.63714979
+,Drug-induced mental disorders,78,87.73903262,7799.859298,608389.0252,6.843521094
+,Hallucinogens,21,23.62204724,4211.076693,88432.61056,0.994742526
+,Opioids,158,177.727784,7069.56114,1116990.66,12.56457435
+,Other drug abuse,163,183.352081,4922.684914,802397.641,9.025845231
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",71,79.86501687,5878.503171,417373.7251,4.694867549
+,Stimulants,193,217.0978628,6145.040371,1185992.792,13.34075131
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 St. Mary Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"St. Mary Parish, Louisiana",,406,759.1197203,6066.588039,2463034.744,46.05266615
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,173,953.5357989,4842.213524,837702.9397,46.17223941
+,45-64,166,1133.415267,6530.921856,1084133.028,74.02246539
+,65-84,54,717.5126229,7906.551247,426953.7674,56.73050324
+,Missing,*,†,*,*,†
+Sex,Male,243,918.645093,6624.925504,1609856.898,60.85955306
+,Female,163,603.0113573,5234.219916,853177.8463,31.56294056
+,Missing,*,†,*,*,†
+Payer,Medicare,111,†,6375.210671,707648.3845,†
+,Medicaid,111,†,4972.969223,551999.5838,†
+,Private insurance,68,†,8019.673902,545337.8254,†
+,Uninsured,91,†,5153.131642,468934.9794,†
+,Other,25,†,7564.558834,189113.9708,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,15,19.97336884,7291.458739,109371.8811,†
+,Nonneonatal/nonmaternal,391,520.6391478,6019.598115,2353662.863,†
+Type of substance or substance-related condition,Alcohol,179,334.685788,7715.254368,1381030.532,25.82185988
+,Cannabis,59,110.3154273,4210.966196,248447.0056,4.645345354
+,Drug-induced mental disorders,99,185.1055476,3527.377769,349210.3991,6.529371934
+,Hallucinogens,12,22.43703607,3467.98877,41615.86525,0.778113891
+,Opioids,31,57.96234317,6116.053345,189597.6537,3.545007828
+,Other drug abuse,76,142.1012284,4316.199334,328031.1494,6.133372275
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",41,76.65987323,4951.623574,203016.5665,3.795908354
+,Stimulants,50,93.48765028,6159.277273,307963.8636,5.758163597
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 St. Tammany Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"St. Tammany Parish, Louisiana",,1239,511.1386139,9394.43552,11639705.61,48.01858749
+Age group,<1,36,1184.990125,11886.31823,427907.4562,140.8516972
+,17-Jan,32,56.86260573,4308.446994,137870.3038,2.449895227
+,18-44,491,631.0161802,6793.690653,3335702.11,42.86928725
+,45-64,527,749.015762,10199.47265,5375122.088,76.39565781
+,65-84,153,438.194524,15445.1219,2363103.651,67.67967839
+,Missing,*,†,*,*,†
+Sex,Male,761,644.7731856,10424.39531,7932964.829,67.2137057
+,Female,476,382.716645,7740.12365,3684298.857,29.62274155
+,Missing,*,†,*,*,†
+Payer,Medicare,303,†,12149.02991,3681156.063,†
+,Medicaid,214,†,8882.562739,1900868.426,†
+,Private insurance,331,†,9254.654849,3063290.755,†
+,Uninsured,320,†,7546.625331,2414920.106,†
+,Other,68,†,8312.715714,565264.6685,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,71,28.82663419,8479.197445,602023.0186,†
+,Nonneonatal/nonmaternal,1168,474.2184328,9450.070711,11037682.59,†
+Type of substance or substance-related condition,Alcohol,647,266.9141914,10596.36986,6855851.302,28.28321494
+,Cannabis,137,56.51815182,7009.458957,960295.8771,3.961616655
+,Drug-induced mental disorders,152,62.70627063,7060.068422,1073130.4,4.427105611
+,Hallucinogens,*,*,*,*,*
+,Opioids,287,118.3993399,7870.864781,2258938.192,9.319051948
+,Other drug abuse,177,73.01980198,6537.204227,1157085.148,4.773453582
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",108,44.55445545,7798.408034,842228.0676,3.474538233
+,Stimulants,106,43.72937294,6293.748353,667137.3255,2.752216689
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Terrebonne Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Terrebonne Parish, Louisiana",,955,806.5129084,6604.821541,6307604.572,53.26873831
+Age group,<1,17,988.9470622,5231.033848,88927.57542,51.73215557
+,17-Jan,13,45.22525657,3506.326172,45582.24023,1.585745007
+,18-44,515,1211.593657,5129.283592,2641581.05,62.14607467
+,45-64,339,1095.669037,8394.775218,2845828.799,91.97895278
+,65-84,71,489.6214054,9657.533904,685684.9072,47.28535323
+,Missing,*,†,*,*,†
+Sex,Male,588,1001.311241,7207.801025,4238187.003,72.17252189
+,Female,367,614.8639593,5638.73997,2069417.569,34.67057983
+,Missing,*,†,*,*,†
+Payer,Medicare,201,†,8056.998649,1619456.728,†
+,Medicaid,198,†,6667.378239,1320140.891,†
+,Private insurance,176,†,6752.080257,1188366.125,†
+,Uninsured,185,†,5353.81527,990455.825,†
+,Other,195,†,6098.384625,1189185.002,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,68,39.42028986,3109.464944,211443.6162,†
+,Nonneonatal/nonmaternal,887,514.2028986,6872.785745,6096160.956,†
+Type of substance or substance-related condition,Alcohol,389,328.5167763,7987.395411,3107096.815,26.23993391
+,Cannabis,177,149.4793558,4813.4646,851983.2342,7.195135876
+,Drug-induced mental disorders,101,85.29612958,6277.439321,634021.3715,5.354412778
+,Hallucinogens,15,12.66774202,7555.93118,113338.9677,0.957165869
+,Opioids,151,127.5219363,5727.551623,864860.295,7.303884732
+,Other drug abuse,200,168.9032269,5056.403536,1011280.707,8.540428737
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",59,49.82645193,7243.175124,427347.3323,3.609017172
+,Stimulants,228,192.5496787,4715.649605,1075168.11,9.079968162
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 West Baton Rouge Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"West Baton Rouge Parish, Louisiana",,253,1042.310386,6693.072392,1693347.315,69.76258868
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,121,1380.018248,4673.9372,565546.4013,64.50118627
+,45-64,92,1398.388813,7772.585256,715077.8436,108.6909627
+,65-84,29,976.4309764,10103.19006,292992.5116,98.65067731
+,Missing,*,†,*,*,†
+Sex,Male,164,1372.614664,6251.241913,1025203.674,85.80546315
+,Female,89,722.1095335,7507.231926,668143.6414,54.21043744
+,Missing,*,†,*,*,†
+Payer,Medicare,44,†,10081.28501,443576.5403,†
+,Medicaid,55,†,5283.860513,290612.3282,†
+,Private insurance,49,†,9645.973206,472652.6871,†
+,Uninsured,97,†,4763.657232,462074.7515,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,18,50.56179775,5357.439313,96433.90764,†
+,Nonneonatal/nonmaternal,235,660.1123596,6795.376202,1596913.407,†
+Type of substance or substance-related condition,Alcohol,103,424.3398014,6946.578622,715497.5981,29.47709793
+,Cannabis,51,210.1099988,3769.323912,192235.5195,7.919726424
+,Drug-induced mental disorders,66,271.9070572,5611.836781,370381.2275,15.25898025
+,Hallucinogens,*,*,*,*,*
+,Opioids,73,300.7456845,5376.40463,392477.538,16.16930491
+,Other drug abuse,37,152.4327442,5258.891376,194578.9809,8.016272439
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",23,94.75548964,3673.071031,84480.63372,3.480436441
+,Stimulants,46,189.5109793,5656.459002,260197.1141,10.71961085
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,
+,,,,,,
+"2014 Winn Parish, Louisiana",,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,
+,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,11215.25804,37717079769,118.906547
+State Total,,39155.73297,843.4367497,7657.404429,299349617,64.48160943
+"Winn Parish, Louisiana",,140,1024.290313,5214.135931,729979.0303,53.40788925
+Age group,<1,*,*,*,*,*
+,17-Jan,*,*,*,*,*
+,18-44,55,1143.926789,4712.218939,259172.0416,53.90433478
+,45-64,70,1887.81014,5547.463131,388322.4191,104.7255715
+,65-84,12,562.3242737,5507.491911,66089.90293,30.96996389
+,Missing,*,†,*,*,†
+Sex,Male,98,1361.300181,5091.619422,498978.7033,69.31222438
+,Female,42,649.2502705,5500.007785,231000.327,35.70881542
+,Missing,*,†,*,*,†
+Payer,Medicare,21,†,6742.572744,141594.0276,†
+,Medicaid,21,†,4714.912972,99013.1724,†
+,Private insurance,18,†,4708.168271,84747.02888,†
+,Uninsured,73,†,5073.353448,370354.8017,†
+,Other,*,†,*,*,†
+,Missing,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,†
+,Nonneonatal/nonmaternal,136,906.6666667,5183.424304,704945.7053,†
+Type of substance or substance-related condition,Alcohol,83,607.2578285,5173.239082,429378.8438,31.41489931
+,Cannabis,33,241.4398595,4361.237216,143920.8281,10.52976501
+,Drug-induced mental disorders,17,124.3781095,5227.520223,88867.84379,6.501890824
+,Hallucinogens,*,*,*,*,*
+,Opioids,27,197.5417032,5525.204623,149180.5248,10.91458332
+,Other drug abuse,17,124.3781095,5224.428536,88815.28511,6.498045443
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",12,87.79631255,4555.312681,54663.75217,3.999396559
+,Stimulants,31,226.8071408,5041.599891,156289.5966,11.43470856
+,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,

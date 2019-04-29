@@ -1,0 +1,721 @@
+"Statistics for community hospital stays 2014 North Dakota, by county or county equivalent",,,,,,,,,
+,,,,,,,,,
+"Analysis Type: Community | Setting of Care: Hospital Inpatient | Geographic Settings: State | Years: 2014 | Categorization Type: Stays for Alcohol and Other Drugs | Outcome and Measures: Number, Costs, Days | State: North Dakota | Community Level: County",,,,,,,,,
+,,,,,,,,,
+"2014 State Total, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+Age group,<1,130.1369042,1393.328738,9.294291516,1209.530324,12950.00347,16364.55532,2129632.567,228.0120521
+,17-Jan,206.8585981,136.9253466,4.808520928,994.6838982,658.4083947,5955.891674,1232027.402,8.155125319
+,18-44,3122.568738,1184.999597,4.13201105,12902.48853,4896.43143,7802.91563,24365140.42,92.46451878
+,45-64,2581.864832,1385.522003,5.496516612,14191.26294,7615.544706,11749.14576,30334706.25,162.7869997
+,65-84,828.8024118,759.5747675,6.212592985,5149.012049,4718.928872,14030.1085,11628187.76,106.569164
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,4012.544107,1101.173504,5.127425839,20574.02233,5646.185475,10727.31052,43043806.62,118.1263011
+,Female,2856.687378,804.7142707,4.855608464,13870.95541,3907.377424,9326.132865,26641846.04,75.04872207
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,1583.880931,†,6.176236948,9782.423925,†,12815.39103,20298053.47,†
+,Medicaid,1527.871283,†,4.549547776,6951.123399,†,7843.968144,11984573.67,†
+,Private insurance,2627.004757,†,5.004741721,13147.48031,†,10650.7738,27979633.45,†
+,Uninsured,551.9209278,†,4.266114248,2354.557734,†,7791.943289,4300536.57,†
+,Other,417.2718381,†,4.037155421,1684.591263,†,9262.427555,3864950.171,†
+,Missing,162.2817476,†,3.24621296,526.8011122,†,7776.272311,1261947.06,†
+Type of stay,Neonatal/maternal,468.4226954,46.1545665,4.313092094,2020.350224,199.0688959,6652.108153,3115998.431,†
+,Nonneonatal/nonmaternal,6401.808789,630.7822238,5.065228998,32426.62752,3195.056411,10399.20094,66573695.96,†
+Type of substance or substance-related condition,Alcohol,4688.108571,651.6855538,4.956697065,23237.53399,3230.207872,9997.803501,46870788.28,65.15424112
+,Cannabis,1195.292682,166.1554892,4.266805578,5100.081481,708.9531682,7342.3348,8776239.052,12.19969231
+,Drug-induced mental disorders,558.3347645,77.61311299,5.949139396,3321.611343,461.7312281,13064.89792,7294586.704,10.14007399
+,Hallucinogens,64.42120007,8.955075339,2.906448934,187.2369283,26.02746917,3711.027397,239068.8384,0.332325299
+,Opioids,1023.321976,142.2501503,5.434103675,5560.837712,773.0020645,10040.62511,10274792.33,14.28280432
+,Other drug abuse,818.8376378,113.8251496,4.625598522,3787.614167,526.5094439,7743.285533,6340493.635,8.813806343
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",365.228403,50.76974445,3.38958772,1237.97371,172.0885023,6523.40789,2382533.846,3.311917515
+,Stimulants,847.4552887,117.8032379,4.113847337,3486.301682,484.6245364,7407.187568,6277260.279,8.725906791
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Adams, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Adams, North Dakota",,12,528.6343612,4.666666667,56,2466.960352,11230.87038,134770.4446,59.37023992
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,*,*,*,*,*,*,*,*
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,*,*,*,*,*,*,*,*
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,12,923.0769231,4.666666667,56,4307.692308,11230.87038,134770.4446,†
+Type of substance or substance-related condition,Alcohol,*,*,*,*,*,*,*,*
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Barnes, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Barnes, North Dakota",,83,775.7734368,5.759036145,478,4467.707262,13193.18566,1095034.41,102.3492298
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,22,670.3229738,4,88,2681.291895,9536.598065,209805.1574,63.92600775
+,45-64,43,1400.651466,7.627906977,328,10684.03909,16521.73686,710434.6849,231.4119495
+,65-84,15,679.9637353,3.6,54,2447.869447,11030.11476,165451.7213,75.0007803
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,45,847.9366874,7.377777778,332,6255.888449,17553.16121,789892.2545,148.8396937
+,Female,38,704.7477745,3.842105263,146,2707.715134,8030.056723,305142.1555,56.59164604
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,23,†,5.956521739,137,†,12085.11666,277957.6831,†
+,Medicaid,13,†,4.538461539,59,†,7172.797712,93246.37025,†
+,Private insurance,32,†,6.53125,209,†,16373.36497,523947.679,†
+,Uninsured,11,†,5,55,†,13566.45342,149230.9877,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,77,647.0588235,6.025974026,464,3899.159664,13886.31197,1069246.021,†
+Type of substance or substance-related condition,Alcohol,54,504.7200673,6.462962963,349,3261.987102,15300.81426,826243.9699,77.22628002
+,Cannabis,18,168.2400224,6.5,117,1093.560146,16345.4011,294217.2199,27.49950648
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,12,112.160015,5.083333333,61,570.1467427,10736.35806,128836.2967,12.0419008
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,11,102.813347,5.727272727,63,588.8400785,13377.20843,147149.2928,13.75355573
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Bottineau, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Bottineau, North Dakota",,46,674.7836292,4.347826087,200,2933.841866,9817.958662,451626.0985,66.24997777
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,15,801.2820513,3.4,51,2724.358974,4067.415387,61011.23081,32.59146945
+,45-64,17,809.9094807,5,85,4049.547404,13767.8915,234054.1554,111.5074585
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,34,957.4767671,4.411764706,150,4224.162208,11295.42351,384044.3994,108.1510559
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,16,†,5,80,†,13403.33773,214453.4036,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,19,†,3.578947368,68,†,8585.637899,163127.1201,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,46,613.3333333,4.347826087,200,2666.666667,9817.958662,451626.0985,†
+Type of substance or substance-related condition,Alcohol,32,469.4146985,4.5,144,2112.366143,11626.52783,372048.8906,54.57663058
+,Cannabis,11,161.3613026,5.090909091,56,821.4757225,9921.776172,109139.5379,16.00990728
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Burleigh, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Burleigh, North Dakota",,869,980.6687506,5.429228999,4718,5324.275219,9370.579383,8143033.484,91.89434376
+Age group,<1,11,955.6907037,11.63636364,128,11120.76455,11788.68432,129675.5275,112.6633601
+,17-Jan,33,175.8686847,5.454545455,180,959.2837348,5998.867724,197962.6349,10.55012976
+,18-44,350,1086.484137,4.845714286,1696,5264.791705,7736.566381,2707798.233,84.0565665
+,45-64,366,1548.0269,5.459016393,1998,8450.704225,10016.36215,3665988.546,155.0559805
+,65-84,109,848.843548,6.568807339,716,5575.889728,13225.76644,1441608.542,112.2660651
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,526,1203.716417,5.053231939,2658,6082.658245,9086.812251,4779663.244,109.3794509
+,Female,343,763.6647,6.005830904,2060,4586.441055,9805.744139,3363370.24,74.88300656
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,221,†,6.316742081,1396,†,10994.74169,2429837.914,†
+,Medicaid,121,†,5.272727273,638,†,7718.129172,933893.6298,†
+,Private insurance,396,†,5.426767677,2149,†,9602.513252,3802595.248,†
+,Uninsured,84,†,4.523809524,380,†,6388.470521,536631.5237,†
+,Other,36,†,3.388888889,122,†,9414.030493,338905.0978,†
+,Missing,11,†,3,33,†,9197.279098,101170.0701,†
+Type of stay,Neonatal/maternal,24,18.735363,7.208333333,173,135.0507416,7946.044802,190705.0752,†
+,Nonneonatal/nonmaternal,845,659.6409055,5.378698225,4545,3548.009368,9411.039537,7952328.408,†
+Type of substance or substance-related condition,Alcohol,567,639.8609685,5.271604938,2989,3373.094241,8900.824459,5046767.468,56.95290159
+,Cannabis,108,121.8782797,4.37962963,473,533.781725,5057.697523,546231.3324,6.164234733
+,Drug-induced mental disorders,58,65.45315022,6.275862069,364,410.7749427,11180.55243,648472.0408,7.318023775
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,179,202.0019636,6.262569832,1121,1265.051403,12069.90763,2160513.466,24.38145042
+,Other drug abuse,93,104.9507409,4.322580645,402,453.6580411,6414.605163,596558.2802,6.732175642
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",29,32.72657511,4.551724138,132,148.9623419,7326.52367,212469.1864,2.397720272
+,Stimulants,100,112.850259,3.95,395,445.758523,5118.076571,511807.6571,5.775762666
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Cass, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Cass, North Dakota",,1342,830.4558225,5.543219076,7439,4603.398557,10881.72317,14603272.49,90.36790364
+Age group,<1,14,648.1481481,15.42857143,216,10000,68783.8452,962973.8328,445.8212189
+,17-Jan,18,53.6576641,4.611111111,83,247.4214511,9704.343459,174678.1823,5.207124017
+,18-44,633,885.512842,4.883096367,3091,4324.044541,8826.133191,5586942.31,78.15654286
+,45-64,545,1464.738766,5.932110092,3233,8688.991615,11001.50414,5995819.754,161.1432959
+,65-84,132,767.4418605,6.181818182,816,4744.186047,14264.0789,1882858.414,109.4685125
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,826,1013.186139,5.872881356,4851,5950.321987,11487.06414,9488314.983,116.3853417
+,Female,515,643.1631137,5.021359223,2586,3229.553033,9924.1083,5110915.774,63.82820394
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,365,†,5.854794521,2137,†,11968.86005,4368633.918,†
+,Private insurance,540,†,5.672222222,3063,†,11715.63338,6326442.026,†
+,Uninsured,160,†,5.06875,811,†,7291.170676,1166587.308,†
+,Other,47,†,6.14893617,289,†,13435.99414,631491.7245,†
+,Missing,23,†,3.260869565,75,†,8436.25334,194033.8268,†
+Type of stay,Neonatal/maternal,53,21.06518283,4.226415094,224,89.03020668,8268.278102,438218.7394,†
+,Nonneonatal/nonmaternal,1289,512.3211447,5.597362296,7215,2867.647059,10989.18057,14165053.75,†
+Type of substance or substance-related condition,Alcohol,1001,619.4383594,5.40959041,5415,3350.907808,9768.980959,9778749.94,60.51281538
+,Cannabis,206,127.4768252,5.597087379,1153,713.4989294,8595.579189,1770689.313,10.95737146
+,Drug-induced mental disorders,99,61.26313444,8.585858586,850,525.9966089,25049.67222,2479917.55,15.34621437
+,Hallucinogens,12,7.425834478,5.75,69,42.69854825,6144.912901,73738.95482,0.456311061
+,Opioids,140,86.63473558,5.507142857,771,477.1098652,10670.15961,1493822.345,9.244064562
+,Other drug abuse,165,102.1052241,5.927272727,978,605.20551,9036.090287,1490954.897,9.226320235
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",102,63.11959306,3.921568628,400,247.5278159,5384.54683,549223.7766,3.398704047
+,Stimulants,155,95.91702868,4.574193548,709,438.7430538,6858.735077,1063103.937,6.578694891
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Eddy, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Eddy, North Dakota",,20,819.6721311,6.55,131,5368.852459,22546.72881,450934.5762,184.8092525
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,*,*,*,*,*,*,*,*
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,11,941.7808219,8.727272727,96,8219.178082,33886.39734,372750.3708,319.1355914
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,18,500,7.055555556,127,3527.777778,24764.23182,445756.1728,†
+Type of substance or substance-related condition,Alcohol,11,450.8196721,6.545454546,72,2950.819672,24201.40553,266215.4608,109.104697
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Foster, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Foster, North Dakota",,16,453.0011325,5,80,2265.005663,11425.54745,182808.7591,51.75785933
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,*,*,*,*,*,*,*,*
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,12,674.5362563,5.25,63,3541.315346,10268.55651,123222.6781,69.26513663
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,15,300,5.133333333,77,1540,11726.53415,175898.0122,†
+Type of substance or substance-related condition,Alcohol,*,*,*,*,*,*,*,*
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Grand Forks, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Grand Forks, North Dakota",,604,884.3338214,4.751655629,2870,4202.04978,9862.492673,5956945.574,87.21735833
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,270,864.2212406,3.881481482,1048,3354.458741,7224.373669,1950580.891,62.43457175
+,45-64,236,1531.572458,5.194915254,1226,7956.389123,11383.16954,2686428.011,174.3414895
+,65-84,86,1108.247423,6.38372093,549,7074.742268,14744.06445,1267989.543,163.4007142
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,371,1058.487874,4.676549865,1735,4950.071327,10224.86142,3793423.586,108.2289183
+,Female,233,700.7518797,4.871244635,1135,3413.533835,9285.502094,2163521.988,65.06833047
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,162,†,6.944444444,1125,†,13879.11871,2248417.23,†
+,Medicaid,72,†,4.569444444,329,†,7161.325635,515615.4457,†
+,Private insurance,262,†,4.152671756,1088,†,9667.095753,2532779.087,†
+,Uninsured,43,†,2.744186047,118,†,5253.499363,225900.4726,†
+,Other,16,†,2.9375,47,†,5336.918589,85390.69743,†
+,Missing,49,†,3.326530612,163,†,7119.237573,348842.6411,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,597,587.5984252,4.772194305,2849,2804.133858,9926.535847,5926141.901,†
+Type of substance or substance-related condition,Alcohol,445,651.5373353,4.808988764,2140,3133.235725,9664.134224,4300539.73,62.9654426
+,Cannabis,60,87.8477306,2.95,177,259.1508053,4658.704242,279522.2545,4.092565952
+,Drug-induced mental disorders,33,48.31625183,5.939393939,196,286.9692533,19289.36004,636548.8812,9.319895772
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,70,102.489019,4.971428571,348,509.5168375,12380.89758,866662.8306,12.68906048
+,Other drug abuse,79,115.6661786,4.898734177,387,566.6178624,9882.656836,780729.89,11.43089151
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",37,54.1727672,2.972972973,110,161.0541728,7469.059855,276355.2146,4.046196408
+,Stimulants,44,64.42166911,4.227272727,186,272.3279649,6323.926911,278252.7841,4.073979269
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Hettinger, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Hettinger, North Dakota",,18,640.569395,7.777777778,140,4982.206406,14535.34049,261636.1287,93.10894261
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,*,*,*,*,*,*,*,*
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,*,*,*,*,*,*,*,*
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,16,484.8484848,7.75,124,3757.575758,15233.60628,243737.7005,†
+Type of substance or substance-related condition,Alcohol,11,391.4590747,7,77,2740.213523,16554.17132,182095.8845,64.80280586
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Morton, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Morton, North Dakota",,265,911.5927073,5.471698113,1450,4987.960096,10391.84753,2753839.595,94.73132421
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,15,233.826968,4.666666667,70,1091.192518,3583.530298,53752.95447,8.379260245
+,18-44,121,1262.257459,4.289256198,519,5414.145629,7533.392624,911540.5075,95.0908103
+,45-64,89,1102.986739,6.831460674,608,7535.010534,13506.86342,1202110.844,148.9789124
+,65-84,37,802.9513889,6.27027027,232,5034.722222,15279.78595,565352.08,122.6892535
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,167,1152.91681,5.646706587,943,6510.182948,11590.67453,1935642.647,133.6308351
+,Female,98,671.9232088,5.173469388,507,3476.174152,8348.948448,818196.948,56.09852231
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,73,†,6.397260274,467,†,13310.80187,971688.5364,†
+,Medicaid,48,†,5.6875,273,†,8919.847275,428152.6692,†
+,Private insurance,104,†,5.086538462,529,†,9161.328298,952778.143,†
+,Uninsured,20,†,5.2,104,†,10801.45598,216029.1195,†
+,Other,11,†,3.363636364,37,†,7551.570789,83067.27868,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,258,598.6078886,5.484496124,1415,3283.062645,10536.19454,2718338.193,†
+Type of substance or substance-related condition,Alcohol,147,505.6759546,5.619047619,826,2841.417269,10831.18284,1592183.877,54.77068722
+,Cannabis,37,127.2789818,4.540540541,168,577.9153767,4189.471031,155010.4281,5.33231607
+,Drug-induced mental disorders,25,85.99931201,4.64,116,399.0368077,8855.559231,221388.9808,7.615720013
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,62,213.2782938,5.177419355,321,1104.231166,10013.08232,620811.1039,21.35573113
+,Other drug abuse,33,113.5190918,4.787878788,158,543.5156519,7609.090248,251099.9782,8.637770148
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",18,61.91950464,4.222222222,76,261.4379085,5754.995126,103589.9123,3.563464474
+,Stimulants,37,127.2789818,5.108108108,189,650.1547988,8402.888697,310906.8818,10.69511117
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Ransom, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Ransom, North Dakota",,42,768.3863886,5.857142857,246,4500.548847,13345.75746,560521.8134,102.5469838
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,13,866.0892738,5.538461539,72,4796.802132,7602.190682,98828.47887,65.84175807
+,45-64,17,1055.245189,5.470588235,93,5772.811918,16276.13716,276694.3317,171.7531544
+,65-84,11,964.9122807,7.181818182,79,6929.824561,16697.22046,183669.425,161.1135307
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,24,866.4259928,6.958333333,167,6028.880866,18560.95992,445463.0381,160.8169812
+,Female,18,667.6557864,4.388888889,79,2930.267062,6392.154186,115058.7754,42.6775873
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,16,†,5.9375,95,†,10905.62172,174489.9476,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,19,†,5.421052632,103,†,12492.91975,237365.4752,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,38,355.1401869,6.210526316,236,2205.607477,14384.62506,546615.7524,†
+Type of substance or substance-related condition,Alcohol,33,603.7321625,6.303030303,208,3805.342115,15214.91188,502092.092,91.8573165
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Richland, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Richland, North Dakota",,84,532.555633,7.785714286,654,4146.326,17603.00091,1478652.077,93.74577294
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,32,584.261457,3.75,120,2190.980464,7986.141428,255556.5257,46.65994627
+,45-64,37,834.6492217,10.05405405,372,8391.608392,25132.31453,929895.6377,209.7666676
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,52,636.3970138,7.461538462,388,4748.500795,17681.83754,919455.5519,112.5266861
+,Female,32,420.9418574,8.3125,266,3499.07919,17474.8914,559196.5247,73.55913242
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,20,†,5,100,†,14476.87747,289537.5495,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,45,†,8.555555556,385,†,19332.13472,869946.0626,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,78,496.8152866,6.897435897,538,3426.751592,16732.42733,1305129.332,†
+Type of substance or substance-related condition,Alcohol,56,355.0370887,6.821428571,382,2421.860141,15029.30383,841641.0144,53.35960277
+,Cannabis,11,69.73942814,8.272727273,91,576.9352691,25854.11153,284395.2268,18.03050953
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,11,69.73942814,14.09090909,155,982.6919419,24690.86036,271599.4639,17.21926482
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Sargent, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Sargent, North Dakota",,19,466.0289429,5.789473684,110,2698.062301,12055.71528,229058.5903,56.18312247
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,*,*,*,*,*,*,*,*
+,45-64,*,*,*,*,*,*,*,*
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,14,650.2554575,6.928571429,97,4505.341384,13682.66936,191557.3711,88.97230425
+,Female,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,*,†,*,*,†,*,*,†
+,Medicaid,*,†,*,*,†,*,*,†
+,Private insurance,*,†,*,*,†,*,*,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,17,293.1034483,6.176470588,105,1810.344828,12857.74525,218581.6693,†
+Type of substance or substance-related condition,Alcohol,15,367.9175865,4.933333333,74,1815.060093,10928.80285,163932.0427,40.20898767
+,Cannabis,*,*,*,*,*,*,*,*
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,*,*,*,*,*,*,*,*
+,Other drug abuse,*,*,*,*,*,*,*,*
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Sioux, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Sioux, North Dakota",,159,3406.899507,7.018867925,1116,23912.57767,11185.49335,1778493.443,381.0785178
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,22,1421.18863,4.454545455,98,6330.749354,3595.169197,79093.72233,51.09413587
+,18-44,72,4334.73811,6.611111111,476,28657.43528,11981.2612,862650.8063,519.3562952
+,45-64,50,5096.839959,6.76,338,34454.63812,11404.2023,570210.1148,581.2539396
+,65-84,*,*,*,*,*,*,*,*
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,76,3218.975011,6.986842105,531,22490.47014,11969.30968,909667.5356,385.2890875
+,Female,83,3599.306158,7.048192771,585,25368.60364,10467.78201,868825.9072,376.7675226
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,11,†,6.090909091,67,†,9215.16651,101366.8316,†
+,Medicaid,42,†,7.380952381,310,†,10385.47583,436189.9849,†
+,Private insurance,51,†,9.117647059,465,†,16111.35301,821679.0036,†
+,Uninsured,*,†,*,*,†,*,*,†
+,Other,25,†,5.76,144,†,9612.942344,240323.5586,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,13,121.4953271,12.76923077,166,1551.401869,14357.93069,186653.099,†
+,Nonneonatal/nonmaternal,146,1364.485981,6.506849315,950,8878.504673,10903.01605,1591840.344,†
+Type of substance or substance-related condition,Alcohol,104,2228.412256,5.884615385,612,13113.34905,10616.38356,1104103.89,236.5767925
+,Cannabis,31,664.2382687,7.258064516,225,4821.084208,8883.969556,275403.0562,59.01072557
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,31,664.2382687,9.806451613,304,6513.820441,14332.34792,444302.7856,95.2009397
+,Other drug abuse,27,578.530105,7.259259259,196,4199.700021,10682.21583,288419.8274,61.79983446
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,22,471.3949004,6.272727273,138,2956.931648,10944.8337,240786.3414,51.59338791
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Stark, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Stark, North Dakota",,183,619.7717343,4.617486339,845,2861.787517,10641.12979,1947326.752,65.95071466
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,88,833.4911915,4.295454546,378,3580.223527,9279.340789,816581.9894,77.34248811
+,45-64,51,660.3651431,4.68627451,239,3094.652337,14071.41232,717642.0283,92.92270209
+,65-84,35,730.994152,4.942857143,173,3613.199666,10383.33336,363416.6676,75.90155964
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,92,614.9321569,4.836956522,445,2974.400107,11136.29619,1024539.25,68.48066637
+,Female,91,624.7425511,4.395604396,400,2746.121104,10140.522,922787.5021,63.35215585
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,44,†,6.136363636,270,†,16119.95668,709278.0941,†
+,Medicaid,32,†,5.46875,175,†,8453.111222,270499.5591,†
+,Private insurance,64,†,4.078125,261,†,8644.096862,553222.1992,†
+,Uninsured,25,†,2.96,74,†,7121.886602,178047.165,†
+,Other,11,†,4.545454546,50,†,16151.51768,177666.6944,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,28,68.62745098,3.035714286,85,208.3333333,5400.576978,151216.1554,†
+,Nonneonatal/nonmaternal,155,379.9019608,4.903225807,760,1862.745098,11587.8103,1796110.596,†
+Type of substance or substance-related condition,Alcohol,100,338.6730789,4.61,461,1561.282894,11199.49969,1119949.969,37.92969042
+,Cannabis,46,155.7896163,3.760869565,173,585.9044265,9860.452428,453580.8117,15.361561
+,Drug-induced mental disorders,13,44.02750025,3.923076923,51,172.7232702,8633.379083,112233.9281,3.801060998
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,32,108.3753852,5.0625,162,548.6503878,10924.20715,349574.6289,11.83915159
+,Other drug abuse,19,64.34788499,3.315789474,63,213.3640397,6440.306975,122365.8325,4.144201325
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",18,60.9611542,3.277777778,59,199.8171165,8517.348774,153312.2779,5.19227412
+,Stimulants,25,84.66826972,4.16,104,352.220002,9329.033544,233225.8386,7.898731283
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Stutsman, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Stutsman, North Dakota",,122,583.8996841,6.860655738,837,4005.934718,14623.77069,1784100.024,85.38815088
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,*,*,*,*,*,*,*,*
+,18-44,44,643.3689136,4.886363636,215,3143.734464,8366.58775,368129.861,53.82802471
+,45-64,52,868.6936184,8.75,455,7601.069161,20703.31337,1076572.295,179.8483621
+,65-84,22,573.0659026,5.636363636,124,3230.007815,12253.55061,269578.1134,70.22092039
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,74,696.5361446,6.810810811,504,4743.975904,15387.89923,1138704.543,107.18228
+,Female,48,467.3807205,6.9375,333,3242.453749,13445.7392,645395.4816,62.84279275
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,30,†,7.5,225,†,16572.12679,497163.8036,†
+,Medicaid,21,†,6.238095238,131,†,10303.22148,216367.651,†
+,Private insurance,42,†,7.071428571,297,†,14679.22411,616527.4126,†
+,Uninsured,26,†,6.769230769,176,†,16802.73985,436871.236,†
+,Other,*,†,*,*,†,*,*,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,*,*,*,*,*,*,*,†
+,Nonneonatal/nonmaternal,118,728.3950617,7.016949153,828,5111.111111,14971.67373,1766657.501,†
+Type of substance or substance-related condition,Alcohol,91,435.5317316,6.703296703,610,2919.498421,12843.98975,1168803.067,55.93965095
+,Cannabis,21,100.5073227,8.380952381,176,842.3470853,19664.83428,412961.5198,19.76459844
+,Drug-induced mental disorders,*,*,*,*,*,*,*,*
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,11,52.64669283,7.272727273,80,382.8850388,15052.30623,165575.3685,7.924541424
+,Other drug abuse,14,67.00488178,4.428571429,62,296.735905,6457.660366,90407.24512,4.326947694
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",*,*,*,*,*,*,*,*
+,Stimulants,*,*,*,*,*,*,*,*
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,
+,,,,,,,,,
+"2014 Ward, North Dakota",,,,,,,,,
+"Stays for Alcohol and Other Drugs, All-Listed",,,,,,,,,
+,,,,,,,,,
+,,Total number of discharges,"Rate of discharges per 100,000 population","Mean length of stay, days",Aggregate number of days in the hospital,"Number of inpatient days per 100,000 population","Mean cost per stay, $","Aggregate costs for all hospital stays, $","Costs for inpatient stays per capita, $"
+US Total,,3363014.89,1060.221233,5.622767757,18909451.69,5961.377762,11215.25804,37717079769,118.906547
+State Total,,6870.231484,955.0185415,5.013947175,34446.97774,4788.412518,10143.71853,69689694.4,96.87439274
+"Ward, North Dakota",,662,997.6039422,3.86102719,2556,3851.775946,7413.682802,4907858.015,73.95919189
+Age group,<1,*,*,*,*,*,*,*,*
+,17-Jan,21,139.7484528,3.428571429,72,479.1375524,3430.092742,72031.94759,4.793501537
+,18-44,363,1355.995517,2.920110193,1060,3959.656332,4965.566465,1802500.627,67.33285868
+,45-64,227,1526.666218,4.440528634,1008,6779.205058,9940.910044,2256586.58,151.7645154
+,65-84,47,541.7867435,8.191489362,385,4438.040346,15977.37251,750936.5079,86.56328622
+,Missing,*,†,*,*,†,*,*,†
+Sex,Male,397,1167.54404,3.876574307,1539,4526.071229,7824.786673,3106440.309,91.35783047
+,Female,265,819.0134751,3.837735849,1017,3143.157374,6797.802662,1801417.705,55.67491981
+,Missing,*,†,*,*,†,*,*,†
+Payer,Medicare,94,†,5.680851064,534,†,11302.04836,1062392.546,†
+,Medicaid,242,†,3.29338843,797,†,5750.828342,1391700.459,†
+,Private insurance,254,†,3.917322835,995,†,8153.236091,2070921.967,†
+,Uninsured,12,†,3.166666667,38,†,5340.954427,64091.45312,†
+,Other,60,†,3.2,192,†,5312.526503,318751.5902,†
+,Missing,*,†,*,*,†,*,*,†
+Type of stay,Neonatal/maternal,34,28.35696414,4.176470588,142,118.4320267,5390.73383,183284.9502,†
+,Nonneonatal/nonmaternal,628,523.7698082,3.843949045,2414,2013.344454,7523.205517,4724573.065,†
+Type of substance or substance-related condition,Alcohol,484,729.3660242,3.898760331,1887,2843.623322,7572.743399,3665207.805,55.23301745
+,Cannabis,154,232.0710077,2.967532468,457,688.6782501,4912.818521,756574.0522,11.40122745
+,Drug-induced mental disorders,94,141.653732,3.510638298,330,497.2950165,6070.892536,570663.8984,8.599645842
+,Hallucinogens,*,*,*,*,*,*,*,*
+,Opioids,110,165.7650055,3.190909091,351,528.941063,4723.44308,519578.7388,7.829815682
+,Other drug abuse,83,125.0772314,3.530120482,293,441.5376965,5663.192551,470044.9817,7.083364453
+,"Sedatives, hypnotics, anxiolytics, tranquilizers, barbiturates",26,39.18081948,3.384615385,88,132.6120044,6972.947428,181296.6331,2.732057944
+,Stimulants,102,153.7093687,3.490196078,356,536.475836,5756.460921,587159.014,8.848219744
+,,,,,,,,,
+"Statistic is not reported because the reporting cell draws from fewer than two hospitals, contains fewer than 11 discharges, has a relative standard error (standard error / weighted estimate) greater than 0.30 or equal to 0, or because the county is missing 2% or more of total discharges in the HCUP State Inpatient Database (SID) when compared to the Medicare Hospital Service Area File.",,,,,,,,,
+"Statistics for age, sex, and expected payer type cannot be calculated because population estimates are not available for missing categories of age or sex and because population insurance coverage information is not available at the county- or region-level.",,,,,,,,,
+"Community-level statistics are from the Agency for Healthcare Research and Quality (AHRQ), Healthcare Cost and Utilization Project (HCUP), State Inpatient Databases (SID), based on data collected by individual States and provided to AHRQ by State Partners. Weighted national estimates are from the HCUP National (Nationwide) Inpatient Sample (NIS).",,,,,,,,,
+"Rates of discharges are calculated using HCUP inpatient data as numerators and Claritas county population estimates as denominators, except for the rate of maternal/neonatal stays, which uses the number of inpatient deliveries as the denominator.",,,,,,,,,
+"For more information, see ""Calculating Community-Level Statistics for HCUPnet: Methods"" PDF (74 KB)",,,,,,,,,
+"Citation: HCUPnet, Healthcare Cost and Utilization Project. Agency for Healthcare Research and Quality, Rockville, MD. https://hcupnet.ahrq.gov/. For more information about HCUP data see http://www.hcup-us.ahrq.gov/",,,,,,,,,

@@ -3,8 +3,8 @@ title: "Opioid Distributional Analysis"
 author: "Scott C. Ganz"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
-  html_notebook: default
   pdf_document: default
+  html_notebook: default
 ---
 ```{r, include = FALSE}
   # pdf_document:
@@ -51,16 +51,6 @@ knitr::opts_chunk$set(
 costdt <- read_excel("../data/CEA_Estimates.xlsx")
 ```
 
-TODO:
-results test final csv files
-unit tests-- for functions
--- apply to map code
--- assert weights > 0, assert type is array or whatever, etc.
--- test that certain inputs feed valueerror
-
-installation instructions
--pip, conda, install from source (these are python)
--probably install from source (conda environment)
 
 ### Introduction
 This project distributes national estimates of the costs of the opioid epidemic among U.S. states and counties. Our aggregate cost measures come from the CEA report "The Underestimate Cost of the Opioid Crisis" (2017). CEA breaks down their $504 billion estimate for 2015 into non-mortality and mortality related costs as follows: `r knitr::kable(costdt)`

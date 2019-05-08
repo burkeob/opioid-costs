@@ -3,6 +3,8 @@ title: "Opioid Distributional Analysis"
 author: "Scott C. Ganz"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
+  html_document:
+    df_print: paged
   html_notebook: default
   pdf_document: default
 ---
@@ -956,6 +958,7 @@ o2 <- d %>% group_by(state.name) %>%
          productivity_cost = sum(productivity_cost),
          death_cost = sum(death_cost),
          total_nonfatal_cost = sum(criminal_cost + health_cost + productivity_cost),
+         total_cost = sum(criminal_cost + health_cost + productivity_cost + death_cost),
          total_population = sum(total_population),
          criminal_cost_pc = sum(criminal_cost)/sum(total_population),
          health_cost_pc = sum(health_cost)/sum(total_population),

@@ -25,6 +25,3 @@ The “opioid_map” folder contains code for creating an interactive shiny map 
 The following packages must be installed on your machine prior to running the code: knitr, mosaic, dplyr, readr, readxl, tidyr, stringr, choroplethr, choroplethrMaps, sas7bdat, tidycensus, lme4, glmmTMB, RColorBrewer.
 
 Open and knit “opioid_distributional_analysis.Rmd”. If you knit to word, then the maps will be easily extractable from the resulting output, which will be saved in the “R” folder. In addition, the data used to create the tables in the paper are outputted to the “out” folder.
-
-## Burke test
-test

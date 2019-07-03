@@ -2,7 +2,7 @@
 
 Replication Materials for Brill and Ganz (2018)
 
-Index: 
+Index:
 The zip file contains three folders:
 1.	R
 2.	data
@@ -19,9 +19,12 @@ The “data” folder stores the raw data used to generate the model. Informatio
 The “out” folder is a repository for the output for the tables in the text. Once you run the Rmd file, new spreadsheets will be created that output the state and county results.
 
 ### opioid_map
-The “opioid_map” folder contains code for creating an interactive shiny map displaying per-capita opioid costs. 
+The “opioid_map” folder contains code for creating an interactive shiny map displaying per-capita opioid costs.
 
 ## Replication Instructions:
 The following packages must be installed on your machine prior to running the code: knitr, mosaic, dplyr, readr, readxl, tidyr, stringr, choroplethr, choroplethrMaps, sas7bdat, tidycensus, lme4, glmmTMB, RColorBrewer.
 
 Open and knit “opioid_distributional_analysis.Rmd”. If you knit to word, then the maps will be easily extractable from the resulting output, which will be saved in the “R” folder. In addition, the data used to create the tables in the paper are outputted to the “out” folder.
+
+## Burke test
+test

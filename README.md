@@ -26,5 +26,3 @@ The following packages must be installed on your machine prior to running the co
 
 Open and knit “opioid_distributional_analysis.Rmd”. If you knit to word, then the maps will be easily extractable from the resulting output, which will be saved in the “R” folder. In addition, the data used to create the tables in the paper are outputted to the “out” folder.
 
-## Burke test
-test

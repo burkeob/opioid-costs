@@ -35,8 +35,16 @@ for (i in 1:length(files)) {
                   total_costs = opioid_data %>% pull(X9),
                   per_capita_costs = opioid_data %>% pull(X10))
     
-  }  else{
-    print("here")
+  }  else if (ncol(d.) == 5) {
+    opioid_data <- d. %>%
+      filter(str_detect(X2, "Opioid") | str_detect(X1, "2016")) %>%
+      fill(X1) %>%
+      filter(!is.na(X2))
+    
+    out <- tibble(location = opioid_data %>% pull(X1),
+                  discharges = opioid_data %>% pull(X3),
+                  discharge_rate =  opioid_data %>% pull(X4))
+   
   } 
   d <- d %>% bind_rows(out)
     

@@ -7,7 +7,7 @@ library(readr)
 # this.dir <- dirname(rstudioapi::getSourceEditorContext()$path)
 # setwd(this.dir)
 
-files <- list.files("../data/Hospitalization")
+files <- list.files("../data/Updated Hospitalization")
 
 files <- files[str_detect(files, ".csv")]
 
@@ -20,31 +20,24 @@ d <- tibble(location = character(),
                 per_capita_costs = character())
 
 for (i in 1:length(files)) {
-  d. <- read_csv(str_c("../data/Hospitalization/", files[i]))
+  d. <- read_csv(str_c("../data/Updated Hospitalization/", files[i]))
   names(d.)[1] <- 'X1' # assign first column name X1
-# filter out county names-- these rows begin with "2014 -countyname-, -Statename-"
-  county_names <- d. %>% filter(str_detect(X1, '2014')) %>% slice(-1) %>% pull(X1)
-  
-# Some state-level files have additional length of stay variables
-# We only care about 
-  if (ncol(d.) == 10) {
-    opioid_data <- d. %>% filter(str_detect(X2, 'Opioids')) %>% select(X3:X4, X8:X10)
-    out <- tibble(location = county_names,
+  if (ncol(d.) == 11) {
+    opioid_data <- d. %>%
+      filter(str_detect(X2, "Opioid") | str_detect(X1, "2016")) %>%
+      fill(X1) %>%
+      filter(!is.na(X2))
+    
+    out <- tibble(location = opioid_data %>% pull(X1),
                   discharges = opioid_data %>% pull(X3),
                   discharge_rate = opioid_data %>% pull(X4),
                   mean_costs = opioid_data %>% pull(X8),
                   total_costs = opioid_data %>% pull(X9),
                   per_capita_costs = opioid_data %>% pull(X10))
     
-  } else if (ncol(d.) == 7)  {
-    opioid_data <- d. %>% filter(str_detect(X2, 'Opioids')) %>% select(X3:X7)
-    out <- tibble(location = county_names,
-                  discharges = opioid_data %>% pull(X3),
-                  discharge_rate = opioid_data %>% pull(X4),
-                  mean_costs = opioid_data %>% pull(X5),
-                  total_costs = opioid_data %>% pull(X6),
-                  per_capita_costs = opioid_data %>% pull(X7))
-  }  
+  }  else{
+    print("here")
+  } 
   d <- d %>% bind_rows(out)
     
 }
@@ -58,3 +51,5 @@ d <- d %>% separate(location, c("region_name", "state_name"), ",") %>%
          per_capita_costs = str_replace(per_capita_costs, "\\*", "") %>% as.numeric)
 
 write_rds(d, "../data/hospitalization_costs.rds")
+
+

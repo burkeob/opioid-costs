@@ -51,7 +51,7 @@ for (i in 1:length(files)) {
 }
 
 d <- d %>% separate(location, c("region_name", "state_name"), ",") %>%
-  mutate(region_name = str_replace(region_name, "2014 ", ""),
+  mutate(region_name = str_replace(region_name, "2016 ", ""),
          discharges = str_replace(discharges, "\\*", "") %>% as.numeric,
          discharge_rate = str_replace(discharge_rate, "\\*", "") %>% as.numeric,
          mean_costs = str_replace(mean_costs, "\\*", "") %>% as.numeric,

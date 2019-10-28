@@ -154,7 +154,15 @@ gpci_xwalk <- read_excel("../data/gpci_county_xwalk.xlsx", skip = 1) %>%
   mutate(`MAC LOCALITY` = str_c(`Carrier Number`, `Locality Number`) %>% as.numeric)
 
 # GPCI data
-gpci_level <- read_csv("../data/gpci_2018.csv") %>%
+gpci_level_2018 <- read_csv("../data/gpci_2018.csv") %>%
+  select(`MAC LOCALITY`, `GPCI WORK`, `GPCI PE`, `GPCI MP`) %>%
+  mutate(GPCI = 4.5 * `GPCI WORK` + 1.42 * `GPCI PE` + 0.38 * `GPCI MP`) %>%
+  right_join(gpci_xwalk) %>%
+  mutate(State = ifelse(State == "HAWAII/GUAM", "HAWAII", State)) %>%
+  unique
+
+
+gpci_level_2019 <- read_csv("../data/gpci_2019.csv") %>%
   select(`MAC LOCALITY`, `GPCI WORK`, `GPCI PE`, `GPCI MP`) %>%
   mutate(GPCI = 4.5 * `GPCI WORK` + 1.42 * `GPCI PE` + 0.38 * `GPCI MP`) %>%
   right_join(gpci_xwalk) %>%
@@ -166,14 +174,25 @@ gpci_level <- read_csv("../data/gpci_2018.csv") %>%
 
 # function to get medical cost values
 find_gpci = function(county, state) {
-  out <- gpci_level %>% filter(str_detect(State %>% tolower, state),
-                        str_detect(Counties %>% tolower, county))
+  out <- gpci_level_2019 %>% filter(str_detect(State %>% tolower, state),
+                                    str_detect(Counties %>% tolower, county))
   if (nrow(out) == 1) { # if the county exists
-     return(out %>% pull(GPCI))
+    return(out %>% pull(GPCI))
   } else { # otherwise pull all counties/other counties value
-    return(gpci_level %>% filter(State %>% tolower == state,
-                                 str_detect(Counties, "ALL COUNTIES|ALL OTHER COUNTIES")) %>%
-             pull(GPCI))
+    
+    out <- gpci_level_2019 %>% filter(State %>% tolower == state,
+                                      str_detect(Counties, "ALL COUNTIES|ALL OTHER COUNTIES"))
+    
+    if (nrow(out) == 1) { # if the county exists
+      return(out %>% pull(GPCI))
+    } else{
+      out <- gpci_level_2018 %>% filter(State %>% tolower == state,
+                                      str_detect(Counties, "ALL COUNTIES|ALL OTHER COUNTIES"))
+      return(out %>% pull(GPCI))
+      
+    }
+    
+    
   }
 }
 

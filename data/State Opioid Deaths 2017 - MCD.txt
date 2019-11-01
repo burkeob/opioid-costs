@@ -1,0 +1,102 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	436	4874747	8.9
+	"Alaska"	"02"	111	739795	15.0
+	"Arizona"	"04"	947	7016270	13.5
+	"Arkansas"	"05"	273	3004279	9.1
+	"California"	"06"	2447	39536653	6.2
+	"Colorado"	"08"	674	5607154	12.0
+	"Connecticut"	"09"	986	3588184	27.5
+	"Delaware"	"10"	280	961939	29.1
+	"District of Columbia"	"11"	245	693972	35.3
+	"Florida"	"12"	3484	20984400	16.6
+	"Georgia"	"13"	1080	10429379	10.4
+	"Hawaii"	"15"	70	1427538	4.9
+	"Idaho"	"16"	127	1716943	7.4
+	"Illinois"	"17"	2251	12802023	17.6
+	"Indiana"	"18"	1203	6666818	18.0
+	"Iowa"	"19"	224	3145711	7.1
+	"Kansas"	"20"	170	2913123	5.8
+	"Kentucky"	"21"	1210	4454189	27.2
+	"Louisiana"	"22"	441	4684333	9.4
+	"Maine"	"23"	371	1335907	27.8
+	"Maryland"	"24"	2056	6052177	34.0
+	"Massachusetts"	"25"	1948	6859819	28.4
+	"Michigan"	"26"	2115	9962311	21.2
+	"Minnesota"	"27"	522	5576606	9.4
+	"Mississippi"	"28"	189	2984100	6.3
+	"Missouri"	"29"	982	6113532	16.1
+	"Montana"	"30"	43	1050493	4.1
+	"Nebraska"	"31"	62	1920076	3.2
+	"Nevada"	"32"	451	2998039	15.0
+	"New Hampshire"	"33"	435	1342795	32.4
+	"New Jersey"	"34"	2047	9005644	22.7
+	"New Mexico"	"35"	363	2088070	17.4
+	"New York"	"36"	3382	19849399	17.0
+	"North Carolina"	"37"	1975	10273419	19.2
+	"North Dakota"	"38"	45	755393	6.0
+	"Ohio"	"39"	4402	11658609	37.8
+	"Oklahoma"	"40"	418	3930864	10.6
+	"Oregon"	"41"	431	4142776	10.4
+	"Pennsylvania"	"42"	2600	12805537	20.3
+	"Rhode Island"	"44"	281	1059639	26.5
+	"South Carolina"	"45"	783	5024369	15.6
+	"South Dakota"	"46"	38	869666	4.4
+	"Tennessee"	"47"	1312	6715984	19.5
+	"Texas"	"48"	1546	28304596	5.5
+	"Utah"	"49"	477	3101833	15.4
+	"Vermont"	"50"	124	623657	19.9
+	"Virginia"	"51"	1286	8470020	15.2
+	"Washington"	"53"	879	7405743	11.9
+	"West Virginia"	"54"	876	1815857	48.2
+	"Wisconsin"	"55"	973	5795483	16.8
+	"Wyoming"	"56"	52	579315	9.0
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication); F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use); F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome); F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state); F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium); F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder); F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome); F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder); F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders); F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder); T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone);"
+"T40.4 (Other synthetic narcotics); T50.7 (Analeptics and opioid receptor antagonists); Y45.0 (Opioids and related analgesics)"
+"Year/Month: 2017"
+"Group By: State"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Oct 30, 2019 1:20:13 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Oct 30, 2019 1:20:13 PM"
+"---"
+Caveats:
+"1. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

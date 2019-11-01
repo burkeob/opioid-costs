@@ -13,11 +13,11 @@ files <- files[str_detect(files, ".csv")]
 
 # try one out
 d <- tibble(location = character(),
-                discharges = character(),
-                discharge_rate = character(),
-                mean_costs = character(),
-                total_costs = character(),
-                per_capita_costs = character())
+            discharges = character(),
+            discharge_rate = character(),
+            mean_costs = character(),
+            total_costs = character(),
+            per_capita_costs = character())
 
 for (i in 1:length(files)) {
   d. <- read_csv(str_c("../data/Updated Hospitalization/", files[i]))
@@ -44,12 +44,11 @@ for (i in 1:length(files)) {
     out <- tibble(location = opioid_data %>% pull(X1),
                   discharges = opioid_data %>% pull(X3),
                   discharge_rate =  opioid_data %>% pull(X4))
-   
+    
   } 
   d <- d %>% bind_rows(out)
-    
+  
 }
-
 d <- d %>% separate(location, c("region_name", "state_name"), ",") %>%
   mutate(region_name = str_replace(region_name, "2016 ", ""),
          discharges = str_replace(discharges, "\\*", "") %>% as.numeric,
@@ -59,5 +58,3 @@ d <- d %>% separate(location, c("region_name", "state_name"), ",") %>%
          per_capita_costs = str_replace(per_capita_costs, "\\*", "") %>% as.numeric)
 
 write_rds(d, "../data/hospitalization_costs.rds")
-
-

@@ -88,7 +88,7 @@ Data on local opioid/general drug-related deaths come from the CDC WONDER [Multi
 * T50.7 (analeptics and opioid receptor antagonists)
 * Y45.0 (opioids and related analgesics)
 
-Overall drug-related deaths include those associated with the following 2016 ICD-10 Codes: 
+Overall drug-related deaths include those associated with the following 2016 ICD-10 Codes. For the drug-related death data, we capture all drug-related deaths from 2008 through 2017: 
 
 * X40-X44 (drug poisonings (overdose) unintentional)
 * X60-X64 (drug poisonings (overdose) suicide) 
@@ -98,19 +98,37 @@ Overall drug-related deaths include those associated with the following 2016 ICD
 Relevant variables include:
 
 * Opioid Deaths (Multiple Cause of Death)
-* Drug-related Deaths (Underlying Cause of Death)
 * Drug-related Deaths (Multiple Cause of Death)
 
 ### add state/county missing/observed breakdown
 
 ```{r, opioid.deaths}
 # Multiple cause of death data: opioid-related deaths
-opioid_deaths <- read_tsv("../data/Opioid Deaths 2017 - MCD.txt") %>%
+opioid_deaths17 <- read_tsv("../data/Opioid Deaths 2017 - MCD.txt") %>%
   select(-Notes) %>% 
   filter(!is.na(County)) %>% 
   mutate(region = `County Code` %>% as.numeric,
-         opioid_deaths = Deaths) %>%
-  select(region, opioid_deaths) 
+         opioid_deaths17 = Deaths) %>%
+  select(region, opioid_deaths17) 
+
+opioid_deaths16 <- read_tsv("../data/Opioid Deaths 2016 - MCD.txt") %>%
+  select(-Notes) %>% 
+  filter(!is.na(County)) %>% 
+  mutate(region = `County Code` %>% as.numeric,
+         opioid_deaths16 = Deaths) %>%
+  select(region, opioid_deaths16)
+
+opioid_deaths <- opioid_deaths17 %>% full_join(opioid_deaths16) %>% 
+  left_join(county.regions %>% select(region, state.fips.character))
+
+opioid_deaths_model <- glmmTMB(opioid_deaths17 ~ opioid_deaths16 + (1|state.fips.character), data = opioid_deaths)
+
+opioid_deaths <- opioid_deaths %>% 
+  mutate(predicted_deaths17 = predict(opioid_deaths_model, opioid_deaths %>% select(-opioid_deaths17), allow.new.levels=TRUE, type = "response"))
+
+opioid_deaths <- opioid_deaths %>% 
+  mutate(opioid_deaths = ifelse(!is.na(opioid_deaths17), opioid_deaths17, predicted_deaths17)) %>%
+  select(region, opioid_deaths)
 ```
 
 
@@ -118,23 +136,37 @@ opioid_deaths <- read_tsv("../data/Opioid Deaths 2017 - MCD.txt") %>%
 
 ```{r, overall.drug.deaths}
 # Underlying cause of death data: drug deaths
-drug_deaths_ucd <- read_tsv("../data/Drug Deaths 2017 - UCD.txt") %>%
-  filter(!is.na(`County Code`)) %>%
-  mutate(region = `County Code` %>% as.numeric,
-         drug_deaths_ucd = Deaths) %>%
-  select(region, drug_deaths_ucd)
 
 # Multiple cause of death data: drug deaths
-drug_deaths_mcd <- read_tsv("../data/Drug Deaths 2017 - MCD.txt") %>%
+drug_deaths_mcd16 <- read_tsv("../data/Drug Deaths 2016 - MCD.txt") %>%
   filter(!is.na(`County Code`)) %>%
   mutate(region = `County Code` %>% as.numeric,
-         drug_deaths_mcd = Deaths) %>%
-  select(region, drug_deaths_mcd)
+         drug_deaths_mcd16 = Deaths) %>%
+  select(region, drug_deaths_mcd16)
+
+drug_deaths_mcd17 <- read_tsv("../data/Drug Deaths 2017 - MCD.txt") %>%
+  filter(!is.na(`County Code`)) %>%
+  mutate(region = `County Code` %>% as.numeric,
+         drug_deaths_mcd17 = Deaths) %>%
+  select(region, drug_deaths_mcd17)
 
 # Combine drug death data
-drug_deaths <- county.regions %>% select(region) %>%
-  left_join(drug_deaths_ucd) %>%
-  left_join(drug_deaths_mcd)
+drug_deaths <- county.regions %>% 
+  as_tibble %>% 
+  select(region, state.fips.character) %>%
+  full_join(drug_deaths_mcd16) %>%
+  full_join(drug_deaths_mcd17)
+
+drug_deaths_model <- glmmTMB(drug_deaths_mcd17 ~ drug_deaths_mcd16 + (1|state.fips.character), data = drug_deaths)
+
+drug_deaths <- drug_deaths %>% 
+  mutate(predicted_deaths17 = predict(drug_deaths_model, drug_deaths %>% select(-drug_deaths_mcd17), allow.new.levels=TRUE, type = "response"))
+
+drug_deaths <- drug_deaths %>% 
+  mutate(drug_deaths = ifelse(!is.na(drug_deaths_mcd17), drug_deaths_mcd17, predicted_deaths17)) %>%
+  select(region, drug_deaths)
+
+
 ```
 
 #### GPCI by County {#costs}
@@ -222,15 +254,15 @@ Opioid addiction rate data come from the [Substance Abuse and Mental Health Serv
 The following code maps sub-state areas to counties; 
 ```{r, opioid.addiction}
 # This crosswalk maps substate regions to county fips codes
-addiction_xwalk1 <- read.sas7bdat("../data/substate_county121314.sas7bdat") %>% tbl_df %>%
-  select(sbst14n, state, county) %>%
+addiction_xwalk1 <- read_xlsx("../data/substate_county141516.xlsx") %>% tbl_df %>%
+  select(sbst16n, state, county) %>%
   mutate(county_fips = state * 1000 + county)
 
 # This crosswalk maps census tracts to county fips codes
 # if > 1 tract in a county using the tract that is most representative
-addiction_xwalk2 <- read.sas7bdat("../data/substate_tract121314.sas7bdat") %>% tbl_df %>%
-  select(sbst14n, state, county) %>% 
-  group_by(sbst14n, state, county) %>%
+addiction_xwalk2 <- read_xlsx("../data/substate_tract141516.xlsx") %>% tbl_df %>%
+  select(sbst16n, state, county) %>% 
+  group_by(sbst16n, state, county) %>%
   summarise(n_tracts = n()) %>%
   arrange(state, county, -n_tracts) %>%
   group_by(state, county) %>%
@@ -255,9 +287,9 @@ nonmedical_use <- read_excel("../data/NonMed Use of Opioid.xlsx") %>%
 # Merge county-level crosswalk to nonmedical_use data
 # correcting error in crosswalk
 nonmedical_use <- addiction_xwalk %>% rename(state_fips = state) %>% 
-  mutate(sbst14n = case_when(sbst14n == "Trillium Health Resources 1" ~ "Trillium Healthcare Resources 1",
-                            sbst14n == "Trillium Health Resources 2" ~ "Trillium Healthcare Resources 2",
-                            TRUE ~ sbst14n)) %>% 
+  mutate(sbst14n = case_when(sbst16n == "Trillium Health Resources 1" ~ "Trillium Healthcare Resources 1",
+                            sbst16n == "Trillium Health Resources 2" ~ "Trillium Healthcare Resources 2",
+                            TRUE ~ sbst16n)) %>% 
   left_join(nonmedical_use) %>%
   select(county_fips, nonmedical_use_pct) %>%
   rename(region = county_fips) %>%
@@ -277,7 +309,7 @@ Criminal justice cost data are available from the [Bureau of Justice](https://ww
 
 ```{r, criminal.justice}
 # read in criminal justice costs
-criminal_costs <- read_csv("../data/criminal_justice_expenditures_2015.csv",
+criminal_costs <- read_csv("../data/criminal_justice_expenditures_2016.csv",
               skip = 20, col_names = F) %>%
   na.omit %>%
   filter(X2 != "-") %>%
@@ -304,7 +336,10 @@ Hospitalization cost data come from the [Agency for Healthcare Reserach and Qual
 
 ```{r, hospitalization.costs}
 # read in hospitalization cost data-- these are already cleaned with the "process_hospitalizations.R" code.
-hospitalization_costs <- read_rds("../data/hospitalization_costs.rds")
+hospitalization_costs14 <- read_rds("../data/hospitalization_costs.rds")
+hospitalization_costs16 <- read_rds("../data/new_hospitalization_costs.rds")
+
+hospitalization_costs <- hospitalization_costs14 %>% full_join(hospitalization_costs16)
 
 # county-level data
 county_hosp_costs <- hospitalization_costs %>% filter(region_name != "State Total") %>%
@@ -437,7 +472,7 @@ st_workers <- get_acs(geography = "state",
 #   select(region, income_per_capita)
 
 # Income by county -- comes from census
-income <- read_excel("../data/est16all.xls", skip = 3) %>% select(`State FIPS Code`, `County FIPS Code`, `Median Household Income`)
+income <- read_excel("../data/est17all.xls", skip = 3) %>% select(`State FIPS Code`, `County FIPS Code`, `Median Household Income`)
 
 
 # Income by state
@@ -545,7 +580,7 @@ hosp_costs_model <- county_hosp_costs %>%
          log_population = log(total_population),
          log_nonmedical_use_count = log(total_population/1000 * nonmedical_use_pct),
          log_opioid_deaths = log(opioid_deaths),
-         log_drug_deaths_mcd = log(drug_deaths_mcd))
+         log_drug_deaths_mcd = log(drug_deaths))
 
 # mixed-effects linear regression with state random effects--counties with opioid-related deaths
 h1 <- lmer(log_total_hosp_costs ~ medical_cost + log_nonmedical_use_count + log_population + log_opioid_deaths + log_drug_deaths_mcd + (1|state.fips.character), data = hosp_costs_model)
@@ -672,7 +707,7 @@ d <- county.regions %>% tbl_df %>% dplyr::select(region, state.fips.character) %
   left_join(medical_cost_index) %>%
   left_join(county_hosp_costs) %>%
   mutate(nonmedical_use_count = nonmedical_use_pct * total_population/1000,
-         drug_deaths_mcd = drug_deaths_mcd,
+         drug_deaths_mcd = drug_deaths,
          opioid_deaths = opioid_deaths %>% as.numeric) %>%
   mutate(log_drug_deaths_mcd = log(drug_deaths_mcd),
          log_nonmedical_use_count = log(nonmedical_use_count),

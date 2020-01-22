@@ -265,6 +265,7 @@ nonmedical_use <- addiction_xwalk %>% rename(state_fips = state) %>%
 
 # merge in the rest of the counties
 nonmedical_use <- county.regions %>% select(region, state.fips.character) %>% left_join(nonmedical_use)
+
 ```
 
 #### Criminal Justice Costs {#criminal}
@@ -462,6 +463,7 @@ demographics <- county.regions %>%
   left_join(educational_attainment) %>% tbl_df
 
 # merge state-level demographic data
+
 st_demographics <- state.regions %>%
   select(region, fips.character) %>%
   left_join(st_income) %>%
@@ -621,7 +623,7 @@ proj_hospital_costs <- hosp_costs_model %>% select(region, state.fips.character,
   left_join(d1_hosp %>% select(region, predicted_hospitalization_costs1)) %>% 
   left_join(d2_hosp %>% select(region, predicted_hospitalization_costs2)) %>% 
   left_join(d3_hosp %>% select(region, predicted_hospitalization_costs3)) %>%
-   mutate(est_total_hosp_costs = case_when(=
+   mutate(est_total_hosp_costs = case_when(
     !is.na(total_costs) ~ total_costs,
     !is.na(predicted_hospitalization_costs1) ~ predicted_hospitalization_costs1,
     !is.na(predicted_hospitalization_costs2) ~ predicted_hospitalization_costs2,
@@ -868,9 +870,9 @@ $$
 c_s = \sum_{c\in s}{c_{s,c}}
 $$
 ```{r, build.model}
-# opioid cost parameters
-fatal_costs <- 431.7
-total_nonfatal_costs <- 72.3
+# opioid cost parameters, from the updated CEA estimates
+fatal_costs <- 699.492144
+total_nonfatal_costs <- 66.16359032
 nonfatal_health_costs <- total_nonfatal_costs * 0.5068966
 total_criminal_justice_costs <- total_nonfatal_costs * 0.1344828
 total_productivity_costs <- total_nonfatal_costs * 0.3586207 
@@ -889,13 +891,13 @@ d <- d %>% filter(!is.na(total_population), !is.na(med_income)) %>%
   mutate(death_wt = est_opioid_deaths/sum(est_opioid_deaths, na.rm = T), # county death cost weight
          death_cost = death_wt * fatal_costs * 10^9,
          death_cost_pc = death_cost/total_population) %>%
-  mutate(health_wt = est_total_hosp_costs/sum(est_total_hosp_costs), # county health care cost weight
+  mutate(health_wt = est_total_hosp_costs/sum(est_total_hosp_costs, na.rm = T), # county health care cost weight
          health_cost = health_wt * nonfatal_health_costs * 10^9,
          health_cost_pc = health_cost/total_population) %>%
-  mutate(criminal_wt = (nonmedical_use_pct * total_population * criminal_cost_per_capita)/sum(nonmedical_use_pct * total_population * criminal_cost_per_capita), # criminal justice cost weight
+  mutate(criminal_wt = (nonmedical_use_pct * total_population * criminal_cost_per_capita)/sum(nonmedical_use_pct * total_population * criminal_cost_per_capita, na.rm = T), # criminal justice cost weight
          criminal_cost = criminal_wt * total_criminal_justice_costs * 10^9,
          criminal_cost_pc = criminal_cost/total_population) %>%
-  mutate(productivity_wt = (med_income * 0.175 * nonmedical_use_pct * working_population)/sum(med_income * 0.175 * nonmedical_use_pct * working_population), # productivity cost weight
+  mutate(productivity_wt = (med_income * 0.175 * nonmedical_use_pct * working_population)/sum(med_income * 0.175 * nonmedical_use_pct * working_population, na.rm = T), # productivity cost weight
          productivity_cost = productivity_wt * total_productivity_costs * 10^9,
          productivity_cost_pc = productivity_cost/total_population)
 ```
@@ -916,7 +918,7 @@ o <- d %>%
          per_capita_nf_cost = (criminal_cost + health_cost + productivity_cost)/total_population,
          per_capita_total_cost = (criminal_cost + health_cost + productivity_cost + death_cost)/total_population)
 
-write_csv(o, "../out/county_data.csv")
+write_csv(o, "../out/county_data_2017.csv")
 
 ### NON-FATAL COSTS
 

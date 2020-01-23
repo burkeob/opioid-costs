@@ -321,9 +321,11 @@ counts_2017 <- counts_2017 %>%
   filter(!is.na(region)) %>%
   left_join(nonmedical_pcts) %>%
   mutate(region_users_2017 = region_pct_of_state *`12 or OlderEstimate`) %>%
-  mutate(county_users = cnty_pct_region * region_users_2017 * 10000)
+  mutate(county_users = cnty_pct_region * region_users_2017 * 10000) %>%
+  mutate(nonmedical_use_pct = county_users / total_population)
 
-
+nonmedical_use <- counts_2017 %>%
+  select(region, state.fips.character, nonmedical_use_pct, sbst14n, total_population)
 
 ```
 

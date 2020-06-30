@@ -1,6 +1,6 @@
 # opioid_costs
 
-Replication Materials for[Brill, Ganz, and O'Brien (2020)](https://www.aei.org/research-products/report/the-economic-cost-and-spatial-diffusion-of-the-opioid-crisis-2009-18/)
+Replication Materials for [Brill, Ganz, and O'Brien (2020)](https://www.aei.org/research-products/report/the-economic-cost-and-spatial-diffusion-of-the-opioid-crisis-2009-18/)
 
 Index:
 The zip file contains four folders:

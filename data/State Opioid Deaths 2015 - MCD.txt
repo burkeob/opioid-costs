@@ -1,0 +1,96 @@
+"Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"Alabama"	"01"	292	4858979	6.0
+	"Alaska"	"02"	92	738432	12.5
+	"Arizona"	"04"	701	6828065	10.3
+	"Arkansas"	"05"	208	2978204	7.0
+	"California"	"06"	2130	39144818	5.4
+	"Colorado"	"08"	512	5456574	9.4
+	"Connecticut"	"09"	692	3590886	19.3
+	"Delaware"	"10"	138	945934	14.6
+	"District of Columbia"	"11"	100	672228	14.9
+	"Florida"	"12"	1886	20271272	9.3
+	"Georgia"	"13"	877	10214860	8.6
+	"Hawaii"	"15"	65	1431603	4.5
+	"Idaho"	"16"	91	1654930	5.5
+	"Illinois"	"17"	1440	12859995	11.2
+	"Indiana"	"18"	564	6619680	8.5
+	"Iowa"	"19"	183	3123899	5.9
+	"Kansas"	"20"	167	2911641	5.7
+	"Kentucky"	"21"	911	4425092	20.6
+	"Louisiana"	"22"	296	4670724	6.3
+	"Maine"	"23"	246	1329328	18.5
+	"Maryland"	"24"	1100	6006401	18.3
+	"Massachusetts"	"25"	1583	6794422	23.3
+	"Michigan"	"26"	1332	9922576	13.4
+	"Minnesota"	"27"	346	5489594	6.3
+	"Mississippi"	"28"	157	2992333	5.2
+	"Missouri"	"29"	716	6083672	11.8
+	"Montana"	"30"	49	1032949	4.7
+	"Nebraska"	"31"	60	1896190	3.2
+	"Nevada"	"32"	476	2890845	16.5
+	"New Hampshire"	"33"	386	1330608	29.0
+	"New Jersey"	"34"	879	8958013	9.8
+	"New Mexico"	"35"	376	2085109	18.0
+	"New York"	"36"	2224	19795791	11.2
+	"North Carolina"	"37"	1189	10042802	11.8
+	"North Dakota"	"38"	36	756927	4.8
+	"Ohio"	"39"	2758	11613423	23.7
+	"Oklahoma"	"40"	447	3911338	11.4
+	"Oregon"	"41"	340	4028977	8.4
+	"Pennsylvania"	"42"	1387	12802503	10.8
+	"Rhode Island"	"44"	258	1056298	24.4
+	"South Carolina"	"45"	581	4896146	11.9
+	"South Dakota"	"46"	28	858469	3.3
+	"Tennessee"	"47"	1074	6600299	16.3
+	"Texas"	"48"	1350	27469114	4.9
+	"Utah"	"49"	463	2995919	15.5
+	"Vermont"	"50"	83	626042	13.3
+	"Virginia"	"51"	832	8382993	9.9
+	"Washington"	"53"	716	7170351	10.0
+	"West Virginia"	"54"	664	1844128	36.0
+	"Wisconsin"	"55"	633	5771337	11.0
+	"Wyoming"	"56"	48	586107	8.2
+"Total"			34162	321418820	10.6
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2015"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 31, 2020 1:24:06 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 31, 2020 1:24:06 PM"
+"---"
+Caveats:
+"1. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"3. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

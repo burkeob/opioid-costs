@@ -1,79 +1,61 @@
 "Notes"	"State"	"State Code"	Deaths	Population	Crude Rate
-	"Alabama"	"01"	360	4863300	7.4
-	"Alaska"	"02"	103	741894	13.9
-	"Arizona"	"04"	793	6931071	11.4
-	"Arkansas"	"05"	231	2988248	7.7
-	"California"	"06"	2281	39250017	5.8
-	"Colorado"	"08"	605	5540545	10.9
-	"Connecticut"	"09"	880	3576452	24.6
-	"Delaware"	"10"	213	952065	22.4
-	"District of Columbia"	"11"	215	681170	31.6
-	"Florida"	"12"	3084	20612439	15.0
-	"Georgia"	"13"	946	10310371	9.2
-	"Hawaii"	"15"	92	1428557	6.4
-	"Idaho"	"16"	129	1683140	7.7
-	"Illinois"	"17"	1994	12801539	15.6
-	"Indiana"	"18"	800	6633053	12.1
-	"Iowa"	"19"	188	3134693	6.0
-	"Kansas"	"20"	175	2907289	6.0
-	"Kentucky"	"21"	1004	4436974	22.6
-	"Louisiana"	"22"	361	4681666	7.7
-	"Maine"	"23"	310	1331479	23.3
-	"Maryland"	"24"	1856	6016447	30.8
-	"Massachusetts"	"25"	1995	6811779	29.3
-	"Michigan"	"26"	1850	9928300	18.6
-	"Minnesota"	"27"	467	5519952	8.5
-	"Mississippi"	"28"	174	2988726	5.8
-	"Missouri"	"29"	950	6093000	15.6
-	"Montana"	"30"	47	1042520	4.5
-	"Nebraska"	"31"	52	1907116	2.7
-	"Nevada"	"32"	420	2940058	14.3
-	"New Hampshire"	"33"	449	1334795	33.6
-	"New Jersey"	"34"	1507	8944469	16.8
-	"New Mexico"	"35"	374	2081015	18.0
-	"New York"	"36"	3107	19745289	15.7
-	"North Carolina"	"37"	1569	10146788	15.5
-	"North Dakota"	"38"	64	757952	8.4
-	"Ohio"	"39"	3699	11614373	31.8
-	"Oklahoma"	"40"	467	3923561	11.9
-	"Oregon"	"41"	395	4093465	9.6
-	"Pennsylvania"	"42"	2295	12784227	18.0
-	"Rhode Island"	"44"	276	1056426	26.1
-	"South Carolina"	"45"	676	4961119	13.6
-	"South Dakota"	"46"	51	865454	5.9
-	"Tennessee"	"47"	1253	6651194	18.8
-	"Texas"	"48"	1416	27862596	5.1
-	"Utah"	"49"	504	3051217	16.5
-	"Vermont"	"50"	110	624594	17.6
-	"Virginia"	"51"	1153	8411808	13.7
-	"Washington"	"53"	850	7288000	11.7
-	"West Virginia"	"54"	790	1831102	43.1
-	"Wisconsin"	"55"	892	5778708	15.4
-	"Wyoming"	"56"	44	585501	7.5
-"Total"			44516	323127513	13.8
+	"Alabama"	"01"	351	4863300	7.2
+	"Alaska"	"02"	101	741894	13.6
+	"Arizona"	"04"	806	6931071	11.6
+	"Arkansas"	"05"	175	2988248	5.9
+	"California"	"06"	2146	39250017	5.5
+	"Colorado"	"08"	560	5540545	10.1
+	"Connecticut"	"09"	868	3576452	24.3
+	"Delaware"	"10"	159	952065	16.7
+	"District of Columbia"	"11"	213	681170	31.3
+	"Florida"	"12"	2847	20612439	13.8
+	"Georgia"	"13"	944	10310371	9.2
+	"Hawaii"	"15"	82	1428557	5.7
+	"Idaho"	"16"	122	1683140	7.2
+	"Illinois"	"17"	2013	12801539	15.7
+	"Indiana"	"18"	828	6633053	12.5
+	"Iowa"	"19"	195	3134693	6.2
+	"Kansas"	"20"	164	2907289	5.6
+	"Kentucky"	"21"	1012	4436974	22.8
+	"Louisiana"	"22"	359	4681666	7.7
+	"Maine"	"23"	306	1331479	23.0
+	"Maryland"	"24"	1847	6016447	30.7
+	"Massachusetts"	"25"	2025	6811779	29.7
+	"Michigan"	"26"	1795	9928300	18.1
+	"Minnesota"	"27"	404	5519952	7.3
+	"Mississippi"	"28"	184	2988726	6.2
+	"Missouri"	"29"	940	6093000	15.4
+	"Montana"	"30"	43	1042520	4.1
+	"Nebraska"	"31"	47	1907116	2.5
+	"Nevada"	"32"	455	2940058	15.5
+	"New Hampshire"	"33"	445	1334795	33.3
+	"New Jersey"	"34"	1465	8944469	16.4
+	"New Mexico"	"35"	368	2081015	17.7
+	"New York"	"36"	3088	19745289	15.6
+	"North Carolina"	"37"	1544	10146788	15.2
+	"North Dakota"	"38"	55	757952	7.3
+	"Ohio"	"39"	3688	11614373	31.8
+	"Oklahoma"	"40"	452	3923561	11.5
+	"Oregon"	"41"	324	4093465	7.9
+	"Pennsylvania"	"42"	2264	12784227	17.7
+	"Rhode Island"	"44"	281	1056426	26.6
+	"South Carolina"	"45"	657	4961119	13.2
+	"South Dakota"	"46"	44	865454	5.1
+	"Tennessee"	"47"	1236	6651194	18.6
+	"Texas"	"48"	1434	27862596	5.1
+	"Utah"	"49"	483	3051217	15.8
+	"Vermont"	"50"	103	624594	16.5
+	"Virginia"	"51"	1145	8411808	13.6
+	"Washington"	"53"	730	7288000	10.0
+	"West Virginia"	"54"	765	1831102	41.8
+	"Wisconsin"	"55"	877	5778708	15.2
+	"Wyoming"	"56"	52	585501	8.9
+"Total"			43491	323127513	13.5
 "---"
-"Dataset: Multiple Cause of Death, 1999-2016"
+"Dataset: Multiple Cause of Death, 1999-2018"
 "Query Parameters:"
-"Title:"
-"2013 Urbanization: All"
-"Autopsy: All"
-"Gender: All"
-"Hispanic Origin: All"
-"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication), F11.1 (Mental and"
-"behavioural disorders due to use of opioids, harmful use), F11.2 (Mental and behavioural disorders due to use of opioids,"
-"dependence syndrome), F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state), F11.4 (Mental and"
-"behavioural disorders due to use of opioids, withdrawal state with delirium), F11.5 (Mental and behavioural disorders due to use"
-"of opioids, psychotic disorder), F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome), F11.7 (Mental"
-"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder), F11.8 (Mental and behavioural"
-"disorders due to use of opioids, other mental and behavioural disorders), F11.9 (Mental and behavioural disorders due to use of"
-"opioids, unspecified mental and behavioural disorder), T40.0 (Opium), T40.1 (Heroin), T40.2 (Other opioids), T40.3 (Methadone),"
-"T40.4 (Other synthetic narcotics), T50.7 (Analeptics and opioid receptor antagonists), Y45.0 (Opioids and related analgesics)"
-"Place of Death: All"
-"Race: All"
-"States: All"
-"Ten-Year Age Groups: All"
-"UCD - ICD-10 Codes: All"
-"Weekday: All"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
 "Year/Month: 2016"
 "Group By: State"
 "Show Totals: True"
@@ -84,28 +66,31 @@
 "---"
 "Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
 "---"
-"Query Date: Feb 27, 2018 8:52:18 AM"
+"Query Date: Mar 9, 2020 3:48:37 PM"
 "---"
 "Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
-"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
 "compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
-"at http://wonder.cdc.gov/mcd-icd10.html on Feb 27, 2018 8:52:18 AM"
+"at http://wonder.cdc.gov/mcd-icd10.html on Mar 9, 2020 3:48:37 PM"
 "---"
 Caveats:
-"1. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
-"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
-"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
-"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
-"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
-"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
-"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
-"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
-"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
-"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
-"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
-"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
-"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
-"previously published reports, due to use of the population estimates which were available at the time of release."
+"1. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are"
+"bridged-race estimates of the July 1 resident population, from the county-level postcensal Vintage 2011 series released by NCHS"
+"on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are"
+"bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released"
+"by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the"
+"1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age Groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
 "2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
 "resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
 "3. Changes to cause of death classification affect reporting trends. More information:"

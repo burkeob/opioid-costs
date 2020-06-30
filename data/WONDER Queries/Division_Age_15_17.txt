@@ -1,0 +1,163 @@
+"Notes"	"Census Division"	"Census Division Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	Suppressed	451008	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	Suppressed	1836993	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	Suppressed	4988746	Suppressed
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	958	6070706	15.8
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	3410	5795210	58.8
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	2733	5261058	51.9
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	2556	6333331	40.4
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	1462	6243719	23.4
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	210	4173330	5.0
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	21	2055525	1.0
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	19	1063484	Unreliable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	Suppressed	1435408	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	Suppressed	5782139	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	18	14668277	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	1965	16307456	12.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	5672	17225063	32.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	4161	15353906	27.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	4185	17229505	24.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	2620	16712064	15.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	469	11203454	4.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	55	5841857	0.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	25	2931743	0.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	11	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	13	1663967	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	22	6749700	0.3
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	14	17758688	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	2343	19104818	12.3
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	7543	18351176	41.1
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	6487	17128419	37.9
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	5778	18770631	30.8
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	3855	18963862	20.3
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	634	12625064	5.0
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	75	6350522	1.2
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	27	2961381	0.9
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	Suppressed	815029	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	Suppressed	3289454	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	Suppressed	8351815	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	607	8720123	7.0
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	1372	8470060	16.2
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	1222	7645950	16.0
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	1095	8032623	13.6
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	809	8374565	9.7
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	155	5566261	2.8
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	27	2912722	0.9
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	Suppressed	1421353	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	11	2242311	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	25	9042017	0.3
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	25	23414840	0.1
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	2374	24894668	9.5
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	7836	25850763	30.3
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	6955	24073473	28.9
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	6579	25999374	25.3
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	4427	24770962	17.9
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	818	18477585	4.4
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	133	9291933	1.4
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	40	3847679	1.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	Suppressed	694014	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	Suppressed	2802189	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	Suppressed	7252013	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	591	7644586	7.7
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	2024	7496324	27.0
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	2187	7052873	31.0
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	2073	7538503	27.5
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	1191	7445733	16.0
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	208	5308533	3.9
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	31	2615648	1.2
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	11	995501	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	Suppressed	1667200	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	20	6671860	0.3
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	Suppressed	16853061	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	741	16656767	4.4
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	1741	17105821	10.2
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	1572	15483615	10.2
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	1592	14906369	10.7
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	1256	13756552	9.1
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	283	9101578	3.1
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	59	4433784	1.3
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	10	1772916	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	Suppressed	930195	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	11	3730322	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	Suppressed	9785890	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	868	9824343	8.8
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	2081	10123708	20.6
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	1853	9110841	20.3
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	1759	8740597	20.1
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	1517	8684441	17.5
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	431	6367569	6.8
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	86	3051177	2.8
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	29	1194599	2.4
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	Suppressed	1988346	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	12	7981026	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	Suppressed	20166900	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	935	21386071	4.4
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	2206	23738992	9.3
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	1817	20825174	8.7
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	2141	20798859	10.3
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	2316	19384723	11.9
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	711	13040919	5.5
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	140	6310091	2.2
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	59	2947518	2.0
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2015; 2016; 2017"
+"Group By: Census Division; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 28, 2020 2:19:20 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 28, 2020 2:19:20 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"4. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

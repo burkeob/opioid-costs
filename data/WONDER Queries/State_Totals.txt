@@ -1,0 +1,622 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"2007"	"2007"	"Alabama"	"01"	172	4672840	3.7
+	"2007"	"2007"	"Alaska"	"02"	16	680300	Unreliable
+	"2007"	"2007"	"Arizona"	"04"	490	6167681	7.9
+	"2007"	"2007"	"Arkansas"	"05"	156	2848650	5.5
+	"2007"	"2007"	"California"	"06"	1762	36250311	4.9
+	"2007"	"2007"	"Colorado"	"08"	368	4803868	7.7
+	"2007"	"2007"	"Connecticut"	"09"	249	3527270	7.1
+	"2007"	"2007"	"Delaware"	"10"	52	871749	6.0
+	"2007"	"2007"	"District of Columbia"	"11"	29	574404	5.0
+	"2007"	"2007"	"Florida"	"12"	1519	18367842	8.3
+	"2007"	"2007"	"Georgia"	"13"	404	9349988	4.3
+	"2007"	"2007"	"Hawaii"	"15"	82	1315675	6.2
+	"2007"	"2007"	"Idaho"	"16"	64	1505105	4.3
+	"2007"	"2007"	"Illinois"	"17"	739	12695866	5.8
+	"2007"	"2007"	"Indiana"	"18"	251	6379599	3.9
+	"2007"	"2007"	"Iowa"	"19"	112	2999212	3.7
+	"2007"	"2007"	"Kansas"	"20"	128	2783785	4.6
+	"2007"	"2007"	"Kentucky"	"21"	356	4256672	8.4
+	"2007"	"2007"	"Louisiana"	"22"	228	4375581	5.2
+	"2007"	"2007"	"Maine"	"23"	108	1327040	8.1
+	"2007"	"2007"	"Maryland"	"24"	620	5653408	11.0
+	"2007"	"2007"	"Massachusetts"	"25"	660	6431559	10.3
+	"2007"	"2007"	"Michigan"	"26"	523	10001284	5.2
+	"2007"	"2007"	"Minnesota"	"27"	185	5207203	3.6
+	"2007"	"2007"	"Mississippi"	"28"	98	2928350	3.3
+	"2007"	"2007"	"Missouri"	"29"	406	5887612	6.9
+	"2007"	"2007"	"Montana"	"30"	62	964706	6.4
+	"2007"	"2007"	"Nebraska"	"31"	41	1783440	2.3
+	"2007"	"2007"	"Nevada"	"32"	414	2601072	15.9
+	"2007"	"2007"	"New Hampshire"	"33"	148	1312540	11.3
+	"2007"	"2007"	"New Jersey"	"34"	348	8677885	4.0
+	"2007"	"2007"	"New Mexico"	"35"	272	1990070	13.7
+	"2007"	"2007"	"New York"	"36"	1064	19132335	5.6
+	"2007"	"2007"	"North Carolina"	"37"	758	9118037	8.3
+	"2007"	"2007"	"North Dakota"	"38"	17	652822	Unreliable
+	"2007"	"2007"	"Ohio"	"39"	755	11500468	6.6
+	"2007"	"2007"	"Oklahoma"	"40"	500	3634349	13.8
+	"2007"	"2007"	"Oregon"	"41"	362	3722417	9.7
+	"2007"	"2007"	"Pennsylvania"	"42"	501	12563937	4.0
+	"2007"	"2007"	"Rhode Island"	"44"	89	1057315	8.4
+	"2007"	"2007"	"South Carolina"	"45"	206	4444110	4.6
+	"2007"	"2007"	"South Dakota"	"46"	21	791623	2.7
+	"2007"	"2007"	"Tennessee"	"47"	494	6175727	8.0
+	"2007"	"2007"	"Texas"	"48"	1064	23831983	4.5
+	"2007"	"2007"	"Utah"	"49"	382	2597746	14.7
+	"2007"	"2007"	"Vermont"	"50"	54	623481	8.7
+	"2007"	"2007"	"Virginia"	"51"	520	7751000	6.7
+	"2007"	"2007"	"Washington"	"53"	675	6461587	10.4
+	"2007"	"2007"	"West Virginia"	"54"	347	1834052	18.9
+	"2007"	"2007"	"Wisconsin"	"55"	390	5610775	7.0
+	"2007"	"2007"	"Wyoming"	"56"	25	534876	4.7
+	"2008"	"2008"	"Alabama"	"01"	195	4718206	4.1
+	"2008"	"2008"	"Alaska"	"02"	94	687455	13.7
+	"2008"	"2008"	"Arizona"	"04"	515	6280362	8.2
+	"2008"	"2008"	"Arkansas"	"05"	210	2874554	7.3
+	"2008"	"2008"	"California"	"06"	1889	36604337	5.2
+	"2008"	"2008"	"Colorado"	"08"	365	4889730	7.5
+	"2008"	"2008"	"Connecticut"	"09"	233	3545579	6.6
+	"2008"	"2008"	"Delaware"	"10"	68	883874	7.7
+	"2008"	"2008"	"District of Columbia"	"11"	33	580236	5.7
+	"2008"	"2008"	"Florida"	"12"	1523	18527305	8.2
+	"2008"	"2008"	"Georgia"	"13"	417	9504843	4.4
+	"2008"	"2008"	"Hawaii"	"15"	58	1332213	4.4
+	"2008"	"2008"	"Idaho"	"16"	75	1534320	4.9
+	"2008"	"2008"	"Illinois"	"17"	895	12747038	7.0
+	"2008"	"2008"	"Indiana"	"18"	324	6424806	5.0
+	"2008"	"2008"	"Iowa"	"19"	138	3016734	4.6
+	"2008"	"2008"	"Kansas"	"20"	103	2808076	3.7
+	"2008"	"2008"	"Kentucky"	"21"	377	4289878	8.8
+	"2008"	"2008"	"Louisiana"	"22"	141	4435586	3.2
+	"2008"	"2008"	"Maine"	"23"	108	1330509	8.1
+	"2008"	"2008"	"Maryland"	"24"	533	5684965	9.4
+	"2008"	"2008"	"Massachusetts"	"25"	612	6468967	9.5
+	"2008"	"2008"	"Michigan"	"26"	656	9946889	6.6
+	"2008"	"2008"	"Minnesota"	"27"	234	5247018	4.5
+	"2008"	"2008"	"Mississippi"	"28"	106	2947806	3.6
+	"2008"	"2008"	"Missouri"	"29"	490	5923916	8.3
+	"2008"	"2008"	"Montana"	"30"	70	976415	7.2
+	"2008"	"2008"	"Nebraska"	"31"	30	1796378	1.7
+	"2008"	"2008"	"Nevada"	"32"	437	2653630	16.5
+	"2008"	"2008"	"New Hampshire"	"33"	94	1315906	7.1
+	"2008"	"2008"	"New Jersey"	"34"	347	8711090	4.0
+	"2008"	"2008"	"New Mexico"	"35"	330	2010662	16.4
+	"2008"	"2008"	"New York"	"36"	1169	19212436	6.1
+	"2008"	"2008"	"North Carolina"	"37"	859	9309449	9.2
+	"2008"	"2008"	"North Dakota"	"38"	32	657569	4.9
+	"2008"	"2008"	"Ohio"	"39"	863	11515391	7.5
+	"2008"	"2008"	"Oklahoma"	"40"	416	3668976	11.3
+	"2008"	"2008"	"Oregon"	"41"	348	3768748	9.2
+	"2008"	"2008"	"Pennsylvania"	"42"	620	12612285	4.9
+	"2008"	"2008"	"Rhode Island"	"44"	133	1055003	12.6
+	"2008"	"2008"	"South Carolina"	"45"	228	4528996	5.0
+	"2008"	"2008"	"South Dakota"	"46"	32	799124	4.0
+	"2008"	"2008"	"Tennessee"	"47"	499	6247411	8.0
+	"2008"	"2008"	"Texas"	"48"	986	24309039	4.1
+	"2008"	"2008"	"Utah"	"49"	371	2663029	13.9
+	"2008"	"2008"	"Vermont"	"50"	59	624151	9.5
+	"2008"	"2008"	"Virginia"	"51"	501	7833496	6.4
+	"2008"	"2008"	"Washington"	"53"	712	6562231	10.8
+	"2008"	"2008"	"West Virginia"	"54"	387	1840310	21.0
+	"2008"	"2008"	"Wisconsin"	"55"	380	5640996	6.7
+	"2008"	"2008"	"Wyoming"	"56"	48	546043	8.8
+	"2009"	"2009"	"Alabama"	"01"	210	4757938	4.4
+	"2009"	"2009"	"Alaska"	"02"	94	698895	13.4
+	"2009"	"2009"	"Arizona"	"04"	625	6343154	9.9
+	"2009"	"2009"	"Arkansas"	"05"	221	2896843	7.6
+	"2009"	"2009"	"California"	"06"	2128	36961229	5.8
+	"2009"	"2009"	"Colorado"	"08"	412	4972195	8.3
+	"2009"	"2009"	"Connecticut"	"09"	220	3561807	6.2
+	"2009"	"2009"	"Delaware"	"10"	93	891730	10.4
+	"2009"	"2009"	"District of Columbia"	"11"	13	592228	Unreliable
+	"2009"	"2009"	"Florida"	"12"	1654	18652644	8.9
+	"2009"	"2009"	"Georgia"	"13"	504	9620846	5.2
+	"2009"	"2009"	"Hawaii"	"15"	59	1346717	4.4
+	"2009"	"2009"	"Idaho"	"16"	66	1554439	4.2
+	"2009"	"2009"	"Illinois"	"17"	933	12796778	7.3
+	"2009"	"2009"	"Indiana"	"18"	339	6459325	5.2
+	"2009"	"2009"	"Iowa"	"19"	148	3032870	4.9
+	"2009"	"2009"	"Kansas"	"20"	160	2832704	5.6
+	"2009"	"2009"	"Kentucky"	"21"	455	4317074	10.5
+	"2009"	"2009"	"Louisiana"	"22"	131	4491648	2.9
+	"2009"	"2009"	"Maine"	"23"	119	1329590	9.0
+	"2009"	"2009"	"Maryland"	"24"	594	5730388	10.4
+	"2009"	"2009"	"Massachusetts"	"25"	636	6517613	9.8
+	"2009"	"2009"	"Michigan"	"26"	747	9901591	7.5
+	"2009"	"2009"	"Minnesota"	"27"	278	5281203	5.3
+	"2009"	"2009"	"Mississippi"	"28"	98	2958774	3.3
+	"2009"	"2009"	"Missouri"	"29"	548	5961088	9.2
+	"2009"	"2009"	"Montana"	"30"	94	983982	9.6
+	"2009"	"2009"	"Nebraska"	"31"	68	1812683	3.8
+	"2009"	"2009"	"Nevada"	"32"	498	2684665	18.5
+	"2009"	"2009"	"New Hampshire"	"33"	127	1316102	9.6
+	"2009"	"2009"	"New Jersey"	"34"	57	8755602	0.7
+	"2009"	"2009"	"New Mexico"	"35"	212	2036802	10.4
+	"2009"	"2009"	"New York"	"36"	1107	19307066	5.7
+	"2009"	"2009"	"North Carolina"	"37"	864	9449566	9.1
+	"2009"	"2009"	"North Dakota"	"38"	18	664968	Unreliable
+	"2009"	"2009"	"Ohio"	"39"	716	11528896	6.2
+	"2009"	"2009"	"Oklahoma"	"40"	583	3717572	15.7
+	"2009"	"2009"	"Oregon"	"41"	382	3808600	10.0
+	"2009"	"2009"	"Pennsylvania"	"42"	654	12666858	5.2
+	"2009"	"2009"	"Rhode Island"	"44"	117	1053646	11.1
+	"2009"	"2009"	"South Carolina"	"45"	248	4589872	5.4
+	"2009"	"2009"	"South Dakota"	"46"	35	807067	4.3
+	"2009"	"2009"	"Tennessee"	"47"	548	6306019	8.7
+	"2009"	"2009"	"Texas"	"48"	1197	24801761	4.8
+	"2009"	"2009"	"Utah"	"49"	393	2723421	14.4
+	"2009"	"2009"	"Vermont"	"50"	46	624817	7.4
+	"2009"	"2009"	"Virginia"	"51"	492	7925937	6.2
+	"2009"	"2009"	"Washington"	"53"	737	6667426	11.1
+	"2009"	"2009"	"West Virginia"	"54"	193	1847775	10.4
+	"2009"	"2009"	"Wisconsin"	"55"	406	5669264	7.2
+	"2009"	"2009"	"Wyoming"	"56"	34	559851	6.1
+	"2010"	"2010"	"Alabama"	"01"	194	4779736	4.1
+	"2010"	"2010"	"Alaska"	"02"	71	710231	10.0
+	"2010"	"2010"	"Arizona"	"04"	650	6392017	10.2
+	"2010"	"2010"	"Arkansas"	"05"	198	2915918	6.8
+	"2010"	"2010"	"California"	"06"	2059	37253956	5.5
+	"2010"	"2010"	"Colorado"	"08"	325	5029196	6.5
+	"2010"	"2010"	"Connecticut"	"09"	225	3574097	6.3
+	"2010"	"2010"	"Delaware"	"10"	116	897934	12.9
+	"2010"	"2010"	"District of Columbia"	"11"	36	601723	6.0
+	"2010"	"2010"	"Florida"	"12"	1739	18801310	9.2
+	"2010"	"2010"	"Georgia"	"13"	550	9687653	5.7
+	"2010"	"2010"	"Hawaii"	"15"	77	1360301	5.7
+	"2010"	"2010"	"Idaho"	"16"	81	1567582	5.2
+	"2010"	"2010"	"Illinois"	"17"	921	12830632	7.2
+	"2010"	"2010"	"Indiana"	"18"	300	6483802	4.6
+	"2010"	"2010"	"Iowa"	"19"	163	3046355	5.4
+	"2010"	"2010"	"Kansas"	"20"	111	2853118	3.9
+	"2010"	"2010"	"Kentucky"	"21"	624	4339367	14.4
+	"2010"	"2010"	"Louisiana"	"22"	130	4533372	2.9
+	"2010"	"2010"	"Maine"	"23"	91	1328361	6.9
+	"2010"	"2010"	"Maryland"	"24"	522	5773552	9.0
+	"2010"	"2010"	"Massachusetts"	"25"	577	6547629	8.8
+	"2010"	"2010"	"Michigan"	"26"	725	9883640	7.3
+	"2010"	"2010"	"Minnesota"	"27"	242	5303925	4.6
+	"2010"	"2010"	"Mississippi"	"28"	105	2967297	3.5
+	"2010"	"2010"	"Missouri"	"29"	612	5988927	10.2
+	"2010"	"2010"	"Montana"	"30"	55	989415	5.6
+	"2010"	"2010"	"Nebraska"	"31"	61	1826341	3.3
+	"2010"	"2010"	"Nevada"	"32"	520	2700551	19.3
+	"2010"	"2010"	"New Hampshire"	"33"	119	1316470	9.0
+	"2010"	"2010"	"New Jersey"	"34"	384	8791894	4.4
+	"2010"	"2010"	"New Mexico"	"35"	201	2059179	9.8
+	"2010"	"2010"	"New York"	"36"	1115	19378102	5.8
+	"2010"	"2010"	"North Carolina"	"37"	787	9535483	8.3
+	"2010"	"2010"	"North Dakota"	"38"	18	672591	Unreliable
+	"2010"	"2010"	"Ohio"	"39"	1197	11536504	10.4
+	"2010"	"2010"	"Oklahoma"	"40"	523	3751351	13.9
+	"2010"	"2010"	"Oregon"	"41"	337	3831074	8.8
+	"2010"	"2010"	"Pennsylvania"	"42"	640	12702379	5.0
+	"2010"	"2010"	"Rhode Island"	"44"	112	1052567	10.6
+	"2010"	"2010"	"South Carolina"	"45"	278	4625364	6.0
+	"2010"	"2010"	"South Dakota"	"46"	33	814180	4.1
+	"2010"	"2010"	"Tennessee"	"47"	652	6346105	10.3
+	"2010"	"2010"	"Texas"	"48"	1171	25145561	4.7
+	"2010"	"2010"	"Utah"	"49"	353	2763885	12.8
+	"2010"	"2010"	"Vermont"	"50"	45	625741	7.2
+	"2010"	"2010"	"Virginia"	"51"	400	8001024	5.0
+	"2010"	"2010"	"Washington"	"53"	648	6724540	9.6
+	"2010"	"2010"	"West Virginia"	"54"	495	1852994	26.7
+	"2010"	"2010"	"Wisconsin"	"55"	420	5686986	7.4
+	"2010"	"2010"	"Wyoming"	"56"	49	563626	8.7
+	"2011"	"2011"	"Alabama"	"01"	180	4802740	3.7
+	"2011"	"2011"	"Alaska"	"02"	72	722718	10.0
+	"2011"	"2011"	"Arizona"	"04"	596	6482505	9.2
+	"2011"	"2011"	"Arkansas"	"05"	176	2937979	6.0
+	"2011"	"2011"	"California"	"06"	2057	37691912	5.5
+	"2011"	"2011"	"Colorado"	"08"	423	5116796	8.3
+	"2011"	"2011"	"Connecticut"	"09"	213	3580709	5.9
+	"2011"	"2011"	"Delaware"	"10"	115	907135	12.7
+	"2011"	"2011"	"District of Columbia"	"11"	57	617996	9.2
+	"2011"	"2011"	"Florida"	"12"	1637	19057542	8.6
+	"2011"	"2011"	"Georgia"	"13"	549	9815210	5.6
+	"2011"	"2011"	"Hawaii"	"15"	78	1374810	5.7
+	"2011"	"2011"	"Idaho"	"16"	80	1584985	5.0
+	"2011"	"2011"	"Illinois"	"17"	955	12869257	7.4
+	"2011"	"2011"	"Indiana"	"18"	375	6516922	5.8
+	"2011"	"2011"	"Iowa"	"19"	183	3062309	6.0
+	"2011"	"2011"	"Kansas"	"20"	131	2871238	4.6
+	"2011"	"2011"	"Kentucky"	"21"	707	4369356	16.2
+	"2011"	"2011"	"Louisiana"	"22"	121	4574836	2.6
+	"2011"	"2011"	"Maine"	"23"	95	1328188	7.2
+	"2011"	"2011"	"Maryland"	"24"	562	5828289	9.6
+	"2011"	"2011"	"Massachusetts"	"25"	669	6587536	10.2
+	"2011"	"2011"	"Michigan"	"26"	756	9876187	7.7
+	"2011"	"2011"	"Minnesota"	"27"	295	5344861	5.5
+	"2011"	"2011"	"Mississippi"	"28"	84	2978512	2.8
+	"2011"	"2011"	"Missouri"	"29"	614	6010688	10.2
+	"2011"	"2011"	"Montana"	"30"	63	998199	6.3
+	"2011"	"2011"	"Nebraska"	"31"	54	1842641	2.9
+	"2011"	"2011"	"Nevada"	"32"	532	2723322	19.5
+	"2011"	"2011"	"New Hampshire"	"33"	158	1318194	12.0
+	"2011"	"2011"	"New Jersey"	"34"	478	8821155	5.4
+	"2011"	"2011"	"New Mexico"	"35"	254	2082224	12.2
+	"2011"	"2011"	"New York"	"36"	1417	19465197	7.3
+	"2011"	"2011"	"North Carolina"	"37"	829	9656401	8.6
+	"2011"	"2011"	"North Dakota"	"38"	10	683932	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	1333	11544951	11.5
+	"2011"	"2011"	"Oklahoma"	"40"	492	3791508	13.0
+	"2011"	"2011"	"Oregon"	"41"	402	3871859	10.4
+	"2011"	"2011"	"Pennsylvania"	"42"	770	12742886	6.0
+	"2011"	"2011"	"Rhode Island"	"44"	145	1051302	13.8
+	"2011"	"2011"	"South Carolina"	"45"	249	4679230	5.3
+	"2011"	"2011"	"South Dakota"	"46"	35	824082	4.2
+	"2011"	"2011"	"Tennessee"	"47"	663	6403353	10.4
+	"2011"	"2011"	"Texas"	"48"	1218	25674681	4.7
+	"2011"	"2011"	"Utah"	"49"	394	2817222	14.0
+	"2011"	"2011"	"Vermont"	"50"	60	626431	9.6
+	"2011"	"2011"	"Virginia"	"51"	582	8096604	7.2
+	"2011"	"2011"	"Washington"	"53"	712	6830038	10.4
+	"2011"	"2011"	"West Virginia"	"54"	596	1855364	32.1
+	"2011"	"2011"	"Wisconsin"	"55"	484	5711767	8.5
+	"2011"	"2011"	"Wyoming"	"56"	47	568158	8.3
+	"2012"	"2012"	"Alabama"	"01"	175	4822023	3.6
+	"2012"	"2012"	"Alaska"	"02"	81	731449	11.1
+	"2012"	"2012"	"Arizona"	"04"	565	6553255	8.6
+	"2012"	"2012"	"Arkansas"	"05"	181	2949131	6.1
+	"2012"	"2012"	"California"	"06"	1847	38041430	4.9
+	"2012"	"2012"	"Colorado"	"08"	415	5187582	8.0
+	"2012"	"2012"	"Connecticut"	"09"	202	3590347	5.6
+	"2012"	"2012"	"Delaware"	"10"	86	917092	9.4
+	"2012"	"2012"	"District of Columbia"	"11"	45	632323	7.1
+	"2012"	"2012"	"Florida"	"12"	1383	19317568	7.2
+	"2012"	"2012"	"Georgia"	"13"	551	9919945	5.6
+	"2012"	"2012"	"Hawaii"	"15"	64	1392313	4.6
+	"2012"	"2012"	"Idaho"	"16"	61	1595728	3.8
+	"2012"	"2012"	"Illinois"	"17"	1204	12875255	9.4
+	"2012"	"2012"	"Indiana"	"18"	397	6537334	6.1
+	"2012"	"2012"	"Iowa"	"19"	185	3074186	6.0
+	"2012"	"2012"	"Kansas"	"20"	184	2885905	6.4
+	"2012"	"2012"	"Kentucky"	"21"	713	4380415	16.3
+	"2012"	"2012"	"Louisiana"	"22"	180	4601893	3.9
+	"2012"	"2012"	"Maine"	"23"	107	1329192	8.1
+	"2012"	"2012"	"Maryland"	"24"	667	5884563	11.3
+	"2012"	"2012"	"Massachusetts"	"25"	712	6646144	10.7
+	"2012"	"2012"	"Michigan"	"26"	700	9883360	7.1
+	"2012"	"2012"	"Minnesota"	"27"	298	5379139	5.5
+	"2012"	"2012"	"Mississippi"	"28"	112	2984926	3.8
+	"2012"	"2012"	"Missouri"	"29"	556	6021988	9.2
+	"2012"	"2012"	"Montana"	"30"	53	1005141	5.3
+	"2012"	"2012"	"Nebraska"	"31"	60	1855525	3.2
+	"2012"	"2012"	"Nevada"	"32"	493	2758931	17.9
+	"2012"	"2012"	"New Hampshire"	"33"	134	1320718	10.1
+	"2012"	"2012"	"New Jersey"	"34"	625	8864590	7.1
+	"2012"	"2012"	"New Mexico"	"35"	339	2085538	16.3
+	"2012"	"2012"	"New York"	"36"	1576	19570261	8.1
+	"2012"	"2012"	"North Carolina"	"37"	841	9752073	8.6
+	"2012"	"2012"	"North Dakota"	"38"	Suppressed	699628	Suppressed
+	"2012"	"2012"	"Ohio"	"39"	1403	11544225	12.2
+	"2012"	"2012"	"Oklahoma"	"40"	538	3814820	14.1
+	"2012"	"2012"	"Oregon"	"41"	369	3899353	9.5
+	"2012"	"2012"	"Pennsylvania"	"42"	840	12763536	6.6
+	"2012"	"2012"	"Rhode Island"	"44"	143	1050292	13.6
+	"2012"	"2012"	"South Carolina"	"45"	245	4723723	5.2
+	"2012"	"2012"	"South Dakota"	"46"	26	833354	3.1
+	"2012"	"2012"	"Tennessee"	"47"	748	6456243	11.6
+	"2012"	"2012"	"Texas"	"48"	1179	26059203	4.5
+	"2012"	"2012"	"Utah"	"49"	438	2855287	15.3
+	"2012"	"2012"	"Vermont"	"50"	57	626011	9.1
+	"2012"	"2012"	"Virginia"	"51"	547	8185867	6.7
+	"2012"	"2012"	"Washington"	"53"	717	6897012	10.4
+	"2012"	"2012"	"West Virginia"	"54"	513	1855413	27.6
+	"2012"	"2012"	"Wisconsin"	"55"	496	5726398	8.7
+	"2012"	"2012"	"Wyoming"	"56"	47	576412	8.2
+	"2013"	"2013"	"Alabama"	"01"	175	4833722	3.6
+	"2013"	"2013"	"Alaska"	"02"	69	735132	9.4
+	"2013"	"2013"	"Arizona"	"04"	545	6626624	8.2
+	"2013"	"2013"	"Arkansas"	"05"	175	2959373	5.9
+	"2013"	"2013"	"California"	"06"	2088	38332521	5.4
+	"2013"	"2013"	"Colorado"	"08"	443	5268367	8.4
+	"2013"	"2013"	"Connecticut"	"09"	442	3596080	12.3
+	"2013"	"2013"	"Delaware"	"10"	115	925749	12.4
+	"2013"	"2013"	"District of Columbia"	"11"	60	646449	9.3
+	"2013"	"2013"	"Florida"	"12"	1327	19552860	6.8
+	"2013"	"2013"	"Georgia"	"13"	539	9992167	5.4
+	"2013"	"2013"	"Hawaii"	"15"	70	1404054	5.0
+	"2013"	"2013"	"Idaho"	"16"	81	1612136	5.0
+	"2013"	"2013"	"Illinois"	"17"	1139	12882135	8.8
+	"2013"	"2013"	"Indiana"	"18"	387	6570902	5.9
+	"2013"	"2013"	"Iowa"	"19"	190	3090416	6.1
+	"2013"	"2013"	"Kansas"	"20"	171	2893957	5.9
+	"2013"	"2013"	"Kentucky"	"21"	689	4395295	15.7
+	"2013"	"2013"	"Louisiana"	"22"	270	4625470	5.8
+	"2013"	"2013"	"Maine"	"23"	134	1328302	10.1
+	"2013"	"2013"	"Maryland"	"24"	759	5928814	12.8
+	"2013"	"2013"	"Massachusetts"	"25"	910	6692824	13.6
+	"2013"	"2013"	"Michigan"	"26"	934	9895622	9.4
+	"2013"	"2013"	"Minnesota"	"27"	314	5420380	5.8
+	"2013"	"2013"	"Mississippi"	"28"	103	2991207	3.4
+	"2013"	"2013"	"Missouri"	"29"	644	6044171	10.7
+	"2013"	"2013"	"Montana"	"30"	68	1015165	6.7
+	"2013"	"2013"	"Nebraska"	"31"	42	1868516	2.2
+	"2013"	"2013"	"Nevada"	"32"	443	2790136	15.9
+	"2013"	"2013"	"New Hampshire"	"33"	161	1323459	12.2
+	"2013"	"2013"	"New Jersey"	"34"	711	8899339	8.0
+	"2013"	"2013"	"New Mexico"	"35"	350	2085287	16.8
+	"2013"	"2013"	"New York"	"36"	1732	19651127	8.8
+	"2013"	"2013"	"North Carolina"	"37"	840	9848060	8.5
+	"2013"	"2013"	"North Dakota"	"38"	14	723393	Unreliable
+	"2013"	"2013"	"Ohio"	"39"	1695	11570808	14.6
+	"2013"	"2013"	"Oklahoma"	"40"	521	3850568	13.5
+	"2013"	"2013"	"Oregon"	"41"	310	3930065	7.9
+	"2013"	"2013"	"Pennsylvania"	"42"	970	12773801	7.6
+	"2013"	"2013"	"Rhode Island"	"44"	195	1051511	18.5
+	"2013"	"2013"	"South Carolina"	"45"	250	4774839	5.2
+	"2013"	"2013"	"South Dakota"	"46"	34	844877	4.0
+	"2013"	"2013"	"Tennessee"	"47"	789	6495978	12.1
+	"2013"	"2013"	"Texas"	"48"	1114	26448193	4.2
+	"2013"	"2013"	"Utah"	"49"	444	2900872	15.3
+	"2013"	"2013"	"Vermont"	"50"	75	626630	12.0
+	"2013"	"2013"	"Virginia"	"51"	651	8260405	7.9
+	"2013"	"2013"	"Washington"	"53"	667	6971406	9.6
+	"2013"	"2013"	"West Virginia"	"54"	518	1854304	27.9
+	"2013"	"2013"	"Wisconsin"	"55"	604	5742713	10.5
+	"2013"	"2013"	"Wyoming"	"56"	52	582658	8.9
+	"2014"	"2014"	"Alabama"	"01"	282	4849377	5.8
+	"2014"	"2014"	"Alaska"	"02"	79	736732	10.7
+	"2014"	"2014"	"Arizona"	"04"	616	6731484	9.2
+	"2014"	"2014"	"Arkansas"	"05"	179	2966369	6.0
+	"2014"	"2014"	"California"	"06"	2159	38802500	5.6
+	"2014"	"2014"	"Colorado"	"08"	532	5355866	9.9
+	"2014"	"2014"	"Connecticut"	"09"	531	3596677	14.8
+	"2014"	"2014"	"Delaware"	"10"	125	935614	13.4
+	"2014"	"2014"	"District of Columbia"	"11"	65	658893	9.9
+	"2014"	"2014"	"Florida"	"12"	1446	19893297	7.3
+	"2014"	"2014"	"Georgia"	"13"	724	10097343	7.2
+	"2014"	"2014"	"Hawaii"	"15"	62	1419561	4.4
+	"2014"	"2014"	"Idaho"	"16"	80	1634464	4.9
+	"2014"	"2014"	"Illinois"	"17"	1263	12880580	9.8
+	"2014"	"2014"	"Indiana"	"18"	489	6596855	7.4
+	"2014"	"2014"	"Iowa"	"19"	170	3107126	5.5
+	"2014"	"2014"	"Kansas"	"20"	188	2904021	6.5
+	"2014"	"2014"	"Kentucky"	"21"	762	4413457	17.3
+	"2014"	"2014"	"Louisiana"	"22"	266	4649676	5.7
+	"2014"	"2014"	"Maine"	"23"	174	1330089	13.1
+	"2014"	"2014"	"Maryland"	"24"	932	5976407	15.6
+	"2014"	"2014"	"Massachusetts"	"25"	1161	6745408	17.2
+	"2014"	"2014"	"Michigan"	"26"	1076	9909877	10.9
+	"2014"	"2014"	"Minnesota"	"27"	331	5457173	6.1
+	"2014"	"2014"	"Mississippi"	"28"	117	2994079	3.9
+	"2014"	"2014"	"Missouri"	"29"	726	6063589	12.0
+	"2014"	"2014"	"Montana"	"30"	54	1023579	5.3
+	"2014"	"2014"	"Nebraska"	"31"	60	1881503	3.2
+	"2014"	"2014"	"Nevada"	"32"	413	2839099	14.5
+	"2014"	"2014"	"New Hampshire"	"33"	302	1326813	22.8
+	"2014"	"2014"	"New Jersey"	"34"	757	8938175	8.5
+	"2014"	"2014"	"New Mexico"	"35"	416	2085572	19.9
+	"2014"	"2014"	"New York"	"36"	1787	19746227	9.0
+	"2014"	"2014"	"North Carolina"	"37"	979	9943964	9.8
+	"2014"	"2014"	"North Dakota"	"38"	34	739482	4.6
+	"2014"	"2014"	"Ohio"	"39"	2175	11594163	18.8
+	"2014"	"2014"	"Oklahoma"	"40"	504	3878051	13.0
+	"2014"	"2014"	"Oregon"	"41"	347	3970239	8.7
+	"2014"	"2014"	"Pennsylvania"	"42"	1110	12787209	8.7
+	"2014"	"2014"	"Rhode Island"	"44"	211	1055173	20.0
+	"2014"	"2014"	"South Carolina"	"45"	530	4832482	11.0
+	"2014"	"2014"	"South Dakota"	"46"	33	853175	3.9
+	"2014"	"2014"	"Tennessee"	"47"	892	6549352	13.6
+	"2014"	"2014"	"Texas"	"48"	1219	26956958	4.5
+	"2014"	"2014"	"Utah"	"49"	471	2942902	16.0
+	"2014"	"2014"	"Vermont"	"50"	72	626562	11.5
+	"2014"	"2014"	"Virginia"	"51"	775	8326289	9.3
+	"2014"	"2014"	"Washington"	"53"	692	7061530	9.8
+	"2014"	"2014"	"West Virginia"	"54"	585	1850326	31.6
+	"2014"	"2014"	"Wisconsin"	"55"	640	5757564	11.1
+	"2014"	"2014"	"Wyoming"	"56"	57	584153	9.8
+	"2015"	"2015"	"Alabama"	"01"	292	4858979	6.0
+	"2015"	"2015"	"Alaska"	"02"	92	738432	12.5
+	"2015"	"2015"	"Arizona"	"04"	701	6828065	10.3
+	"2015"	"2015"	"Arkansas"	"05"	208	2978204	7.0
+	"2015"	"2015"	"California"	"06"	2130	39144818	5.4
+	"2015"	"2015"	"Colorado"	"08"	512	5456574	9.4
+	"2015"	"2015"	"Connecticut"	"09"	692	3590886	19.3
+	"2015"	"2015"	"Delaware"	"10"	138	945934	14.6
+	"2015"	"2015"	"District of Columbia"	"11"	100	672228	14.9
+	"2015"	"2015"	"Florida"	"12"	1886	20271272	9.3
+	"2015"	"2015"	"Georgia"	"13"	877	10214860	8.6
+	"2015"	"2015"	"Hawaii"	"15"	65	1431603	4.5
+	"2015"	"2015"	"Idaho"	"16"	91	1654930	5.5
+	"2015"	"2015"	"Illinois"	"17"	1440	12859995	11.2
+	"2015"	"2015"	"Indiana"	"18"	564	6619680	8.5
+	"2015"	"2015"	"Iowa"	"19"	183	3123899	5.9
+	"2015"	"2015"	"Kansas"	"20"	167	2911641	5.7
+	"2015"	"2015"	"Kentucky"	"21"	911	4425092	20.6
+	"2015"	"2015"	"Louisiana"	"22"	296	4670724	6.3
+	"2015"	"2015"	"Maine"	"23"	246	1329328	18.5
+	"2015"	"2015"	"Maryland"	"24"	1100	6006401	18.3
+	"2015"	"2015"	"Massachusetts"	"25"	1583	6794422	23.3
+	"2015"	"2015"	"Michigan"	"26"	1332	9922576	13.4
+	"2015"	"2015"	"Minnesota"	"27"	346	5489594	6.3
+	"2015"	"2015"	"Mississippi"	"28"	157	2992333	5.2
+	"2015"	"2015"	"Missouri"	"29"	716	6083672	11.8
+	"2015"	"2015"	"Montana"	"30"	49	1032949	4.7
+	"2015"	"2015"	"Nebraska"	"31"	60	1896190	3.2
+	"2015"	"2015"	"Nevada"	"32"	476	2890845	16.5
+	"2015"	"2015"	"New Hampshire"	"33"	386	1330608	29.0
+	"2015"	"2015"	"New Jersey"	"34"	879	8958013	9.8
+	"2015"	"2015"	"New Mexico"	"35"	376	2085109	18.0
+	"2015"	"2015"	"New York"	"36"	2224	19795791	11.2
+	"2015"	"2015"	"North Carolina"	"37"	1189	10042802	11.8
+	"2015"	"2015"	"North Dakota"	"38"	36	756927	4.8
+	"2015"	"2015"	"Ohio"	"39"	2758	11613423	23.7
+	"2015"	"2015"	"Oklahoma"	"40"	447	3911338	11.4
+	"2015"	"2015"	"Oregon"	"41"	340	4028977	8.4
+	"2015"	"2015"	"Pennsylvania"	"42"	1387	12802503	10.8
+	"2015"	"2015"	"Rhode Island"	"44"	258	1056298	24.4
+	"2015"	"2015"	"South Carolina"	"45"	581	4896146	11.9
+	"2015"	"2015"	"South Dakota"	"46"	28	858469	3.3
+	"2015"	"2015"	"Tennessee"	"47"	1074	6600299	16.3
+	"2015"	"2015"	"Texas"	"48"	1350	27469114	4.9
+	"2015"	"2015"	"Utah"	"49"	463	2995919	15.5
+	"2015"	"2015"	"Vermont"	"50"	83	626042	13.3
+	"2015"	"2015"	"Virginia"	"51"	832	8382993	9.9
+	"2015"	"2015"	"Washington"	"53"	716	7170351	10.0
+	"2015"	"2015"	"West Virginia"	"54"	664	1844128	36.0
+	"2015"	"2015"	"Wisconsin"	"55"	633	5771337	11.0
+	"2015"	"2015"	"Wyoming"	"56"	48	586107	8.2
+	"2016"	"2016"	"Alabama"	"01"	351	4863300	7.2
+	"2016"	"2016"	"Alaska"	"02"	101	741894	13.6
+	"2016"	"2016"	"Arizona"	"04"	806	6931071	11.6
+	"2016"	"2016"	"Arkansas"	"05"	175	2988248	5.9
+	"2016"	"2016"	"California"	"06"	2146	39250017	5.5
+	"2016"	"2016"	"Colorado"	"08"	560	5540545	10.1
+	"2016"	"2016"	"Connecticut"	"09"	868	3576452	24.3
+	"2016"	"2016"	"Delaware"	"10"	159	952065	16.7
+	"2016"	"2016"	"District of Columbia"	"11"	213	681170	31.3
+	"2016"	"2016"	"Florida"	"12"	2847	20612439	13.8
+	"2016"	"2016"	"Georgia"	"13"	944	10310371	9.2
+	"2016"	"2016"	"Hawaii"	"15"	82	1428557	5.7
+	"2016"	"2016"	"Idaho"	"16"	122	1683140	7.2
+	"2016"	"2016"	"Illinois"	"17"	2013	12801539	15.7
+	"2016"	"2016"	"Indiana"	"18"	828	6633053	12.5
+	"2016"	"2016"	"Iowa"	"19"	195	3134693	6.2
+	"2016"	"2016"	"Kansas"	"20"	164	2907289	5.6
+	"2016"	"2016"	"Kentucky"	"21"	1012	4436974	22.8
+	"2016"	"2016"	"Louisiana"	"22"	359	4681666	7.7
+	"2016"	"2016"	"Maine"	"23"	306	1331479	23.0
+	"2016"	"2016"	"Maryland"	"24"	1847	6016447	30.7
+	"2016"	"2016"	"Massachusetts"	"25"	2025	6811779	29.7
+	"2016"	"2016"	"Michigan"	"26"	1795	9928300	18.1
+	"2016"	"2016"	"Minnesota"	"27"	404	5519952	7.3
+	"2016"	"2016"	"Mississippi"	"28"	184	2988726	6.2
+	"2016"	"2016"	"Missouri"	"29"	940	6093000	15.4
+	"2016"	"2016"	"Montana"	"30"	43	1042520	4.1
+	"2016"	"2016"	"Nebraska"	"31"	47	1907116	2.5
+	"2016"	"2016"	"Nevada"	"32"	455	2940058	15.5
+	"2016"	"2016"	"New Hampshire"	"33"	445	1334795	33.3
+	"2016"	"2016"	"New Jersey"	"34"	1465	8944469	16.4
+	"2016"	"2016"	"New Mexico"	"35"	368	2081015	17.7
+	"2016"	"2016"	"New York"	"36"	3088	19745289	15.6
+	"2016"	"2016"	"North Carolina"	"37"	1544	10146788	15.2
+	"2016"	"2016"	"North Dakota"	"38"	55	757952	7.3
+	"2016"	"2016"	"Ohio"	"39"	3688	11614373	31.8
+	"2016"	"2016"	"Oklahoma"	"40"	452	3923561	11.5
+	"2016"	"2016"	"Oregon"	"41"	324	4093465	7.9
+	"2016"	"2016"	"Pennsylvania"	"42"	2264	12784227	17.7
+	"2016"	"2016"	"Rhode Island"	"44"	281	1056426	26.6
+	"2016"	"2016"	"South Carolina"	"45"	657	4961119	13.2
+	"2016"	"2016"	"South Dakota"	"46"	44	865454	5.1
+	"2016"	"2016"	"Tennessee"	"47"	1236	6651194	18.6
+	"2016"	"2016"	"Texas"	"48"	1434	27862596	5.1
+	"2016"	"2016"	"Utah"	"49"	483	3051217	15.8
+	"2016"	"2016"	"Vermont"	"50"	103	624594	16.5
+	"2016"	"2016"	"Virginia"	"51"	1145	8411808	13.6
+	"2016"	"2016"	"Washington"	"53"	730	7288000	10.0
+	"2016"	"2016"	"West Virginia"	"54"	765	1831102	41.8
+	"2016"	"2016"	"Wisconsin"	"55"	877	5778708	15.2
+	"2016"	"2016"	"Wyoming"	"56"	52	585501	8.9
+	"2017"	"2017"	"Alabama"	"01"	434	4874747	8.9
+	"2017"	"2017"	"Alaska"	"02"	109	739795	14.7
+	"2017"	"2017"	"Arizona"	"04"	970	7016270	13.8
+	"2017"	"2017"	"Arkansas"	"05"	200	3004279	6.7
+	"2017"	"2017"	"California"	"06"	2341	39536653	5.9
+	"2017"	"2017"	"Colorado"	"08"	600	5607154	10.7
+	"2017"	"2017"	"Connecticut"	"09"	967	3588184	26.9
+	"2017"	"2017"	"Delaware"	"10"	256	961939	26.6
+	"2017"	"2017"	"District of Columbia"	"11"	246	693972	35.4
+	"2017"	"2017"	"Florida"	"12"	3313	20984400	15.8
+	"2017"	"2017"	"Georgia"	"13"	1056	10429379	10.1
+	"2017"	"2017"	"Hawaii"	"15"	55	1427538	3.9
+	"2017"	"2017"	"Idaho"	"16"	108	1716943	6.3
+	"2017"	"2017"	"Illinois"	"17"	2252	12802023	17.6
+	"2017"	"2017"	"Indiana"	"18"	1211	6666818	18.2
+	"2017"	"2017"	"Iowa"	"19"	214	3145711	6.8
+	"2017"	"2017"	"Kansas"	"20"	159	2913123	5.5
+	"2017"	"2017"	"Kentucky"	"21"	1190	4454189	26.7
+	"2017"	"2017"	"Louisiana"	"22"	437	4684333	9.3
+	"2017"	"2017"	"Maine"	"23"	364	1335907	27.2
+	"2017"	"2017"	"Maryland"	"24"	2012	6052177	33.2
+	"2017"	"2017"	"Massachusetts"	"25"	1940	6859819	28.3
+	"2017"	"2017"	"Michigan"	"26"	2074	9962311	20.8
+	"2017"	"2017"	"Minnesota"	"27"	436	5576606	7.8
+	"2017"	"2017"	"Mississippi"	"28"	191	2984100	6.4
+	"2017"	"2017"	"Missouri"	"29"	984	6113532	16.1
+	"2017"	"2017"	"Montana"	"30"	38	1050493	3.6
+	"2017"	"2017"	"Nebraska"	"31"	61	1920076	3.2
+	"2017"	"2017"	"Nevada"	"32"	450	2998039	15.0
+	"2017"	"2017"	"New Hampshire"	"33"	430	1342795	32.0
+	"2017"	"2017"	"New Jersey"	"34"	2007	9005644	22.3
+	"2017"	"2017"	"New Mexico"	"35"	357	2088070	17.1
+	"2017"	"2017"	"New York"	"36"	3300	19849399	16.6
+	"2017"	"2017"	"North Carolina"	"37"	1972	10273419	19.2
+	"2017"	"2017"	"North Dakota"	"38"	36	755393	4.8
+	"2017"	"2017"	"Ohio"	"39"	4379	11658609	37.6
+	"2017"	"2017"	"Oklahoma"	"40"	401	3930864	10.2
+	"2017"	"2017"	"Oregon"	"41"	353	4142776	8.5
+	"2017"	"2017"	"Pennsylvania"	"42"	2579	12805537	20.1
+	"2017"	"2017"	"Rhode Island"	"44"	281	1059639	26.5
+	"2017"	"2017"	"South Carolina"	"45"	773	5024369	15.4
+	"2017"	"2017"	"South Dakota"	"46"	35	869666	4.0
+	"2017"	"2017"	"Tennessee"	"47"	1299	6715984	19.3
+	"2017"	"2017"	"Texas"	"48"	1529	28304596	5.4
+	"2017"	"2017"	"Utah"	"49"	468	3101833	15.1
+	"2017"	"2017"	"Vermont"	"50"	119	623657	19.1
+	"2017"	"2017"	"Virginia"	"51"	1246	8470020	14.7
+	"2017"	"2017"	"Washington"	"53"	767	7405743	10.4
+	"2017"	"2017"	"West Virginia"	"54"	865	1815857	47.6
+	"2017"	"2017"	"Wisconsin"	"55"	947	5795483	16.3
+	"2017"	"2017"	"Wyoming"	"56"	50	579315	8.6
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: Year; State"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 24, 2020 3:22:08 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 24, 2020 3:22:08 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"8. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

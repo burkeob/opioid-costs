@@ -1,0 +1,1252 @@
+"Notes"	"Census Division"	"Census Division Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	162528	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	159788	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	154638	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	152547	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	153390	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	150908	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	153374	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	152245	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	152292	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	150186	Suppressed
+	"Division 1: New England"	"CENS-D1"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	148530	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	651411	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	649622	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	647307	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	645372	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	631915	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	626551	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	619894	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	617884	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	616707	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	611128	Suppressed
+	"Division 1: New England"	"CENS-D1"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	609158	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	1799321	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	1783773	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	1774290	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	1766196	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	1744617	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	1732940	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	1717245	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	1699328	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	1678718	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	1662030	Suppressed
+	"Division 1: New England"	"CENS-D1"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	1647998	Suppressed
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2007"	"2007"	147	2000334	7.3
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2008"	"2008"	124	2009282	6.2
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2009"	"2009"	138	2018752	6.8
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2010"	"2010"	106	2015354	5.3
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2011"	"2011"	140	2011799	7.0
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2012"	"2012"	115	2016616	5.7
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2013"	"2013"	165	2018597	8.2
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2014"	"2014"	207	2031412	10.2
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2015"	"2015"	310	2030699	15.3
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2016"	"2016"	332	2026456	16.4
+	"Division 1: New England"	"CENS-D1"	"15-24 years"	"15-24"	"2017"	"2017"	316	2013551	15.7
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2007"	"2007"	285	1698269	16.8
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2008"	"2008"	275	1714904	16.0
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2009"	"2009"	295	1735132	17.0
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2010"	"2010"	269	1751198	15.4
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2011"	"2011"	333	1788805	18.6
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2012"	"2012"	351	1825729	19.2
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2013"	"2013"	483	1861735	25.9
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2014"	"2014"	706	1889012	37.4
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2015"	"2015"	969	1909359	50.8
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2016"	"2016"	1215	1927764	63.0
+	"Division 1: New England"	"CENS-D1"	"25-34 years"	"25-34"	"2017"	"2017"	1226	1958087	62.6
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2007"	"2007"	357	2107930	16.9
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2008"	"2008"	305	2049899	14.9
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2009"	"2009"	291	1983133	14.7
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2010"	"2010"	293	1937360	15.1
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2011"	"2011"	322	1880394	17.1
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2012"	"2012"	321	1844532	17.4
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2013"	"2013"	445	1810161	24.6
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2014"	"2014"	579	1787951	32.4
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2015"	"2015"	756	1767901	42.8
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2016"	"2016"	981	1743416	56.3
+	"Division 1: New England"	"CENS-D1"	"35-44 years"	"35-44"	"2017"	"2017"	996	1749741	56.9
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2007"	"2007"	389	2244184	17.3
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2008"	"2008"	403	2268380	17.8
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2009"	"2009"	364	2290227	15.9
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2010"	"2010"	343	2297521	14.9
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2011"	"2011"	343	2280323	15.0
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2012"	"2012"	381	2257257	16.9
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2013"	"2013"	528	2222157	23.8
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2014"	"2014"	613	2188577	28.0
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2015"	"2015"	745	2156699	34.5
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2016"	"2016"	898	2110004	42.6
+	"Division 1: New England"	"CENS-D1"	"45-54 years"	"45-54"	"2017"	"2017"	913	2066628	44.2
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2007"	"2007"	99	1676918	5.9
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2008"	"2008"	110	1723059	6.4
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2009"	"2009"	143	1784571	8.0
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2010"	"2010"	128	1837727	7.0
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2011"	"2011"	176	1914910	9.2
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2012"	"2012"	156	1939713	8.0
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2013"	"2013"	248	1977101	12.5
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2014"	"2014"	283	2015237	14.0
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2015"	"2015"	404	2053834	19.7
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2016"	"2016"	512	2081791	24.6
+	"Division 1: New England"	"CENS-D1"	"55-64 years"	"55-64"	"2017"	"2017"	546	2108094	25.9
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2007"	"2007"	18	942276	Unreliable
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2008"	"2008"	15	984162	Unreliable
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2009"	"2009"	26	1020167	2.5
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2010"	"2010"	15	1044234	Unreliable
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2011"	"2011"	18	1083332	Unreliable
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2012"	"2012"	23	1163282	2.0
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2013"	"2013"	32	1228191	2.6
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2014"	"2014"	44	1283922	3.4
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2015"	"2015"	55	1337882	4.1
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2016"	"2016"	68	1389107	4.9
+	"Division 1: New England"	"CENS-D1"	"65-74 years"	"65-74"	"2017"	"2017"	87	1446341	6.0
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2007"	"2007"	Suppressed	694257	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2008"	"2008"	Suppressed	687082	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2009"	"2009"	Suppressed	677399	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2010"	"2010"	10	673815	Unreliable
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2011"	"2011"	Suppressed	669295	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2012"	"2012"	Suppressed	665942	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2013"	"2013"	Suppressed	664324	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2014"	"2014"	10	666163	Unreliable
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2015"	"2015"	Suppressed	671055	Suppressed
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2016"	"2016"	14	680660	Unreliable
+	"Division 1: New England"	"CENS-D1"	"75-84 years"	"75-84"	"2017"	"2017"	Suppressed	703810	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	301777	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	310164	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	317959	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2010"	"2010"	Suppressed	323541	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	333580	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2012"	"2012"	Suppressed	339234	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2013"	"2013"	Suppressed	346027	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2014"	"2014"	Suppressed	348991	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	352438	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2016"	"2016"	Suppressed	352983	Suppressed
+	"Division 1: New England"	"CENS-D1"	"85+ years"	"85+"	"2017"	"2017"	Suppressed	358063	Suppressed
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 1: New England"	"CENS-D1"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	498648	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	497833	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	487475	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	478408	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	489769	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	480702	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	487035	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	485846	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	484040	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	476454	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	474914	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	1936370	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	1937544	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	1941355	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	1947972	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	1933586	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	1933835	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	1935731	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	1946348	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	1945400	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	1916700	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	1920039	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	5147157	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	5105911	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	5087924	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	5072282	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	5027540	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	5008143	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	4979717	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	4946252	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	4908385	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	4892260	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	4867632	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2007"	"2007"	199	5611255	3.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2008"	"2008"	273	5648024	4.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2009"	"2009"	220	5681763	3.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2010"	"2010"	285	5695762	5.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2011"	"2011"	350	5664865	6.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2012"	"2012"	353	5652869	6.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2013"	"2013"	414	5594286	7.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2014"	"2014"	455	5562391	8.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2015"	"2015"	516	5501778	9.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2016"	"2016"	719	5434094	13.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"15-24 years"	"15-24"	"2017"	"2017"	730	5371584	13.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2007"	"2007"	412	5118399	8.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2008"	"2008"	402	5176140	7.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2009"	"2009"	391	5238210	7.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2010"	"2010"	441	5280257	8.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2011"	"2011"	651	5384626	12.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2012"	"2012"	779	5467718	14.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2013"	"2013"	889	5555841	16.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2014"	"2014"	948	5635953	16.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2015"	"2015"	1300	5697934	22.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2016"	"2016"	2081	5730548	36.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"25-34 years"	"25-34"	"2017"	"2017"	2291	5796581	39.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2007"	"2007"	500	5849895	8.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2008"	"2008"	500	5711916	8.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2009"	"2009"	426	5562232	7.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2010"	"2010"	489	5463983	8.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2011"	"2011"	557	5348418	10.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2012"	"2012"	638	5288028	12.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2013"	"2013"	676	5230591	12.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2014"	"2014"	776	5194357	14.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2015"	"2015"	935	5159009	18.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2016"	"2016"	1446	5089925	28.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"35-44 years"	"35-44"	"2017"	"2017"	1780	5104972	34.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2007"	"2007"	557	6077237	9.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2008"	"2008"	664	6131182	10.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2009"	"2009"	519	6183681	8.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2010"	"2010"	604	6198291	9.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2011"	"2011"	726	6154446	11.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2012"	"2012"	805	6087400	13.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2013"	"2013"	842	6007744	14.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2014"	"2014"	865	5932830	14.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2015"	"2015"	1007	5856362	17.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2016"	"2016"	1466	5737592	25.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"45-54 years"	"45-54"	"2017"	"2017"	1712	5635551	30.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2007"	"2007"	205	4577280	4.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2008"	"2008"	233	4680675	5.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2009"	"2009"	214	4834407	4.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2010"	"2010"	251	4972177	5.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2011"	"2011"	324	5171369	6.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2012"	"2012"	381	5228704	7.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2013"	"2013"	487	5326043	9.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2014"	"2014"	503	5421516	9.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2015"	"2015"	596	5515670	10.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2016"	"2016"	907	5567570	16.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"55-64 years"	"55-64"	"2017"	"2017"	1117	5628824	19.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2007"	"2007"	17	2743271	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2008"	"2008"	35	2834947	1.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2009"	"2009"	25	2906264	0.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2010"	"2010"	41	2951574	1.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2011"	"2011"	35	3027899	1.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2012"	"2012"	49	3215203	1.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2013"	"2013"	78	3355777	2.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2014"	"2014"	82	3481657	2.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2015"	"2015"	105	3610113	2.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2016"	"2016"	158	3726665	4.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"65-74 years"	"65-74"	"2017"	"2017"	206	3866676	5.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2007"	"2007"	11	2003290	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2008"	"2008"	14	1978489	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2009"	"2009"	11	1948298	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2010"	"2010"	17	1935508	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2011"	"2011"	Suppressed	1920141	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2012"	"2012"	16	1910229	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2013"	"2013"	16	1905549	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2014"	"2014"	10	1909090	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2015"	"2015"	13	1913307	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2016"	"2016"	24	1930583	1.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"75-84 years"	"75-84"	"2017"	"2017"	18	1997967	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	811355	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	833150	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	857917	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2010"	"2010"	Suppressed	876161	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	906579	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2012"	"2012"	10	925556	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2013"	"2013"	Suppressed	945953	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2014"	"2014"	Suppressed	955371	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	964309	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2016"	"2016"	Suppressed	971594	Suppressed
+	"Division 2: Middle Atlantic"	"CENS-D2"	"85+ years"	"85+"	"2017"	"2017"	11	995840	Unreliable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	603996	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	593113	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	578934	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	570022	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	571733	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	556664	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	556371	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	555705	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	559001	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	554902	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	550064	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	2390199	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	2390246	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	2379601	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	2375215	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	2335699	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	2306282	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	2271383	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	2256703	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	2248741	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	2248848	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	2252111	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	6312021	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	6266765	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	6239950	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	6215977	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	6158014	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	6129800	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	6094425	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	6038966	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	5973873	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	5910374	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	5874441	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2007"	"2007"	340	6568955	5.2
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2008"	"2008"	372	6553030	5.7
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2009"	"2009"	345	6535089	5.3
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2010"	"2010"	412	6509827	6.3
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2011"	"2011"	421	6504747	6.5
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2012"	"2012"	457	6489442	7.0
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2013"	"2013"	502	6488635	7.7
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2014"	"2014"	548	6469546	8.5
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2015"	"2015"	641	6424632	10.0
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2016"	"2016"	825	6367115	13.0
+	"Division 3: East North Central"	"CENS-D3"	"15-24 years"	"15-24"	"2017"	"2017"	877	6313071	13.9
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2007"	"2007"	541	5859529	9.2
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2008"	"2008"	714	5872845	12.2
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2009"	"2009"	715	5888150	12.1
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2010"	"2010"	842	5899104	14.3
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2011"	"2011"	983	5950156	16.5
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2012"	"2012"	1092	5969346	18.3
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2013"	"2013"	1232	5997861	20.5
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2014"	"2014"	1444	6029029	24.0
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2015"	"2015"	1833	6062033	30.2
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2016"	"2016"	2618	6120042	42.8
+	"Division 3: East North Central"	"CENS-D3"	"25-34 years"	"25-34"	"2017"	"2017"	3092	6169101	50.1
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2007"	"2007"	679	6464986	10.5
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2008"	"2008"	785	6314502	12.4
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2009"	"2009"	739	6151629	12.0
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2010"	"2010"	808	6050191	13.4
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2011"	"2011"	858	5933256	14.5
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2012"	"2012"	942	5867856	16.1
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2013"	"2013"	1019	5825670	17.5
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2014"	"2014"	1328	5791591	22.9
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2015"	"2015"	1607	5755488	27.9
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2016"	"2016"	2225	5685797	39.1
+	"Division 3: East North Central"	"CENS-D3"	"35-44 years"	"35-44"	"2017"	"2017"	2655	5687134	46.7
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2007"	"2007"	795	6916728	11.5
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2008"	"2008"	853	6949049	12.3
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2009"	"2009"	919	6963746	13.2
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2010"	"2010"	1001	6943624	14.4
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2011"	"2011"	1092	6843187	16.0
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2012"	"2012"	1116	6723493	16.6
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2013"	"2013"	1219	6591261	18.5
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2014"	"2014"	1332	6478003	20.6
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2015"	"2015"	1482	6376453	23.2
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2016"	"2016"	1972	6254671	31.5
+	"Division 3: East North Central"	"CENS-D3"	"45-54 years"	"45-54"	"2017"	"2017"	2324	6139507	37.9
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2007"	"2007"	229	5136067	4.5
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2008"	"2008"	315	5282409	6.0
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2009"	"2009"	345	5476719	6.3
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2010"	"2010"	415	5646424	7.3
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2011"	"2011"	452	5893221	7.7
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2012"	"2012"	497	5967768	8.3
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2013"	"2013"	660	6088043	10.8
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2014"	"2014"	827	6184430	13.4
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2015"	"2015"	969	6274629	15.4
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2016"	"2016"	1315	6324595	20.8
+	"Division 3: East North Central"	"CENS-D3"	"55-64 years"	"55-64"	"2017"	"2017"	1571	6364638	24.7
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2007"	"2007"	43	3018950	1.4
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2008"	"2008"	49	3131572	1.6
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2009"	"2009"	50	3222540	1.6
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2010"	"2010"	52	3277309	1.6
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2011"	"2011"	67	3364518	2.0
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2012"	"2012"	64	3576938	1.8
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2013"	"2013"	83	3742434	2.2
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2014"	"2014"	135	3899968	3.5
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2015"	"2015"	158	4055056	3.9
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2016"	"2016"	199	4201857	4.7
+	"Division 3: East North Central"	"CENS-D3"	"65-74 years"	"65-74"	"2017"	"2017"	277	4368151	6.3
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2007"	"2007"	Suppressed	2090951	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2008"	"2008"	10	2073412	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2009"	"2009"	18	2046939	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2010"	"2010"	11	2042872	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2011"	"2011"	14	2041571	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2012"	"2012"	14	2037611	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2013"	"2013"	19	2045408	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2014"	"2014"	12	2062777	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2015"	"2015"	18	2075389	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2016"	"2016"	21	2103100	1.0
+	"Division 3: East North Central"	"CENS-D3"	"75-84 years"	"75-84"	"2017"	"2017"	36	2172033	1.7
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	825610	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	848177	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	872557	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2010"	"2010"	13	890999	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	922982	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2012"	"2012"	Suppressed	941372	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2013"	"2013"	12	960689	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2014"	"2014"	Suppressed	972321	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	981716	Suppressed
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2016"	"2016"	12	984672	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"85+ years"	"85+"	"2017"	"2017"	10	994993	Unreliable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 3: East North Central"	"CENS-D3"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	282089	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	280392	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	275191	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	271732	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	268377	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	266103	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	268894	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	271280	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	273258	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	272306	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	269465	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	1076191	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	1092977	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	1106864	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	1117748	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	1107296	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	1098693	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	1089526	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	1089432	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	1090919	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	1097292	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	1101243	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	2705066	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	2711202	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	2725920	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	2739138	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	2743769	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	2760194	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	2778751	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	2782446	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	2782318	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	2779995	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	2789502	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2007"	"2007"	118	2930806	4.0
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2008"	"2008"	117	2917701	4.0
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2009"	"2009"	155	2896428	5.4
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2010"	"2010"	152	2878877	5.3
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2011"	"2011"	151	2885095	5.2
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2012"	"2012"	137	2891892	4.7
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2013"	"2013"	149	2909308	5.1
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2014"	"2014"	156	2920621	5.3
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2015"	"2015"	156	2926346	5.3
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2016"	"2016"	230	2908106	7.9
+	"Division 4: West North Central"	"CENS-D4"	"15-24 years"	"15-24"	"2017"	"2017"	221	2885671	7.7
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2007"	"2007"	152	2541093	6.0
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2008"	"2008"	227	2594336	8.7
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2009"	"2009"	281	2654327	10.6
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2010"	"2010"	292	2692446	10.8
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2011"	"2011"	310	2740910	11.3
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2012"	"2012"	319	2767717	11.5
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2013"	"2013"	311	2786020	11.2
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2014"	"2014"	381	2803148	13.6
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2015"	"2015"	374	2810195	13.3
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2016"	"2016"	501	2819024	17.8
+	"Division 4: West North Central"	"CENS-D4"	"25-34 years"	"25-34"	"2017"	"2017"	497	2840841	17.5
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2007"	"2007"	238	2686845	8.9
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2008"	"2008"	268	2621186	10.2
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2009"	"2009"	300	2560633	11.7
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2010"	"2010"	297	2530143	11.7
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2011"	"2011"	299	2497496	12.0
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2012"	"2012"	300	2491768	12.0
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2013"	"2013"	328	2502850	13.1
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2014"	"2014"	341	2512483	13.6
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2015"	"2015"	351	2529343	13.9
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2016"	"2016"	425	2537902	16.7
+	"Division 4: West North Central"	"CENS-D4"	"35-44 years"	"35-44"	"2017"	"2017"	446	2578705	17.3
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2007"	"2007"	290	2987020	9.7
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2008"	"2008"	311	3012282	10.3
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2009"	"2009"	336	3022060	11.1
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2010"	"2010"	344	3014761	11.4
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2011"	"2011"	350	2969342	11.8
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2012"	"2012"	338	2911218	11.6
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2013"	"2013"	374	2844661	13.1
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2014"	"2014"	379	2790397	13.6
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2015"	"2015"	339	2736951	12.4
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2016"	"2016"	360	2678677	13.4
+	"Division 4: West North Central"	"CENS-D4"	"45-54 years"	"45-54"	"2017"	"2017"	396	2616995	15.1
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2007"	"2007"	90	2208736	4.1
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2008"	"2008"	106	2283056	4.6
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2009"	"2009"	146	2373419	6.2
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2010"	"2010"	129	2449438	5.3
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2011"	"2011"	175	2563017	6.8
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2012"	"2012"	169	2604415	6.5
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2013"	"2013"	196	2662918	7.4
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2014"	"2014"	226	2710887	8.3
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2015"	"2015"	249	2760798	9.0
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2016"	"2016"	268	2795149	9.6
+	"Division 4: West North Central"	"CENS-D4"	"55-64 years"	"55-64"	"2017"	"2017"	292	2818618	10.4
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2007"	"2007"	10	1336141	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2008"	"2008"	17	1380083	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2009"	"2009"	20	1421491	1.4
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2010"	"2010"	10	1447588	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2011"	"2011"	25	1485255	1.7
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2012"	"2012"	34	1571255	2.2
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2013"	"2013"	32	1642803	1.9
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2014"	"2014"	38	1711616	2.2
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2015"	"2015"	52	1782799	2.9
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2016"	"2016"	46	1854498	2.5
+	"Division 4: West North Central"	"CENS-D4"	"65-74 years"	"65-74"	"2017"	"2017"	57	1928964	3.0
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2007"	"2007"	Suppressed	943315	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2008"	"2008"	Suppressed	940036	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2009"	"2009"	Suppressed	933624	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2010"	"2010"	Suppressed	933925	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2011"	"2011"	Suppressed	935318	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2012"	"2012"	11	935575	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2013"	"2013"	10	940681	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2014"	"2014"	Suppressed	948881	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2015"	"2015"	Suppressed	957037	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2016"	"2016"	11	968857	Unreliable
+	"Division 4: West North Central"	"CENS-D4"	"75-84 years"	"75-84"	"2017"	"2017"	Suppressed	986828	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	408395	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	415564	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	422626	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2010"	"2010"	Suppressed	429641	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	443876	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2012"	"2012"	Suppressed	450895	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2013"	"2013"	Suppressed	459298	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2014"	"2014"	Suppressed	464878	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	470428	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2016"	"2016"	Suppressed	473650	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"85+ years"	"85+"	"2017"	"2017"	Suppressed	477275	Suppressed
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 4: West North Central"	"CENS-D4"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	782421	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	776862	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	744458	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	734073	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	743889	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	735542	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	741146	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	738723	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	746923	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	748556	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	746832	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2007"	"2007"	11	2970813	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2008"	"2008"	16	3007985	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	3030680	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	3027227	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2011"	"2011"	10	3018553	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	3000346	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	2989091	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	2992673	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2015"	"2015"	11	2995686	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2016"	"2016"	10	3014819	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	3031512	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	7465624	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2008"	"2008"	10	7502680	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	7552644	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	7604710	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2011"	"2011"	10	7635310	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	7693953	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	7733639	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	7764544	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2015"	"2015"	10	7780691	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	7797281	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	7836868	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2007"	"2007"	541	8062150	6.7
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2008"	"2008"	561	8144319	6.9
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2009"	"2009"	493	8200072	6.0
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2010"	"2010"	506	8221636	6.2
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2011"	"2011"	492	8274215	5.9
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2012"	"2012"	409	8330555	4.9
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2013"	"2013"	382	8335049	4.6
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2014"	"2014"	523	8349766	6.3
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2015"	"2015"	615	8342080	7.4
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2016"	"2016"	848	8279234	10.2
+	"Division 5: South Atlantic"	"CENS-D5"	"15-24 years"	"15-24"	"2017"	"2017"	911	8273354	11.0
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2007"	"2007"	937	7525729	12.5
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2008"	"2008"	982	7614339	12.9
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2009"	"2009"	1020	7703429	13.2
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2010"	"2010"	1132	7773075	14.6
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2011"	"2011"	1251	7937271	15.8
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2012"	"2012"	1070	8064496	13.3
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2013"	"2013"	1181	8174052	14.4
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2014"	"2014"	1479	8332731	17.7
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2015"	"2015"	1843	8483653	21.7
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2016"	"2016"	2745	8604212	31.9
+	"Division 5: South Atlantic"	"CENS-D5"	"25-34 years"	"25-34"	"2017"	"2017"	3248	8762898	37.1
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2007"	"2007"	1188	8402757	14.1
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2008"	"2008"	1112	8321130	13.4
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2009"	"2009"	1085	8181936	13.3
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2010"	"2010"	1156	8095977	14.3
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2011"	"2011"	1186	8001263	14.8
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2012"	"2012"	1151	7982887	14.4
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2013"	"2013"	1165	7969151	14.6
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2014"	"2014"	1428	7980864	17.9
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2015"	"2015"	1725	8003623	21.6
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2016"	"2016"	2399	7995362	30.0
+	"Division 5: South Atlantic"	"CENS-D5"	"35-44 years"	"35-44"	"2017"	"2017"	2831	8074488	35.1
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2007"	"2007"	1271	8417394	15.1
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2008"	"2008"	1324	8560591	15.5
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2009"	"2009"	1392	8689937	16.0
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2010"	"2010"	1404	8762436	16.0
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2011"	"2011"	1481	8761878	16.9
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2012"	"2012"	1400	8729731	16.0
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2013"	"2013"	1392	8685616	16.0
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2014"	"2014"	1562	8664399	18.0
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2015"	"2015"	1742	8666636	20.1
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2016"	"2016"	2262	8676325	26.1
+	"Division 5: South Atlantic"	"CENS-D5"	"45-54 years"	"45-54"	"2017"	"2017"	2575	8656413	29.7
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2007"	"2007"	384	6614800	5.8
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2008"	"2008"	443	6799504	6.5
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2009"	"2009"	508	7020472	7.2
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2010"	"2010"	609	7220244	8.4
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2011"	"2011"	605	7521174	8.0
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2012"	"2012"	694	7608479	9.1
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2013"	"2013"	748	7736155	9.7
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2014"	"2014"	928	7896187	11.8
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2015"	"2015"	1153	8086690	14.3
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2016"	"2016"	1501	8264132	18.2
+	"Division 5: South Atlantic"	"CENS-D5"	"55-64 years"	"55-64"	"2017"	"2017"	1773	8420140	21.1
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2007"	"2007"	77	4139281	1.9
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2008"	"2008"	65	4328267	1.5
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2009"	"2009"	89	4496827	2.0
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2010"	"2010"	73	4610082	1.6
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2011"	"2011"	105	4784825	2.2
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2012"	"2012"	103	5125183	2.0
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2013"	"2013"	133	5398031	2.5
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2014"	"2014"	173	5665997	3.1
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2015"	"2015"	210	5923565	3.5
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2016"	"2016"	295	6171201	4.8
+	"Division 5: South Atlantic"	"CENS-D5"	"65-74 years"	"65-74"	"2017"	"2017"	313	6382819	4.9
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2007"	"2007"	26	2637706	1.0
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2008"	"2008"	27	2656922	1.0
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2009"	"2009"	38	2660096	1.4
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2010"	"2010"	13	2678942	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2011"	"2011"	21	2727220	0.8
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2012"	"2012"	24	2771600	0.9
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2013"	"2013"	20	2831687	0.7
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2014"	"2014"	39	2906743	1.3
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2015"	"2015"	40	2988605	1.3
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2016"	"2016"	37	3086078	1.2
+	"Division 5: South Atlantic"	"CENS-D5"	"75-84 years"	"75-84"	"2017"	"2017"	56	3217250	1.7
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2007"	"2007"	14	945915	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	980875	Suppressed
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2009"	"2009"	12	1020435	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2010"	"2010"	16	1048635	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2011"	"2011"	12	1108173	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2012"	"2012"	11	1145795	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2013"	"2013"	21	1190030	1.8
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2014"	"2014"	16	1221988	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2015"	"2015"	13	1258612	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2016"	"2016"	11	1286109	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"85+ years"	"85+"	"2017"	"2017"	16	1302958	Unreliable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 5: South Atlantic"	"CENS-D5"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	248912	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	250750	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	239745	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	234521	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	235078	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	234430	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	231051	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	230307	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	232303	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	231409	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	230302	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	939448	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	955599	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	967280	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	971572	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	964255	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	958176	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	939030	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	935170	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	933024	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	933209	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	935956	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	2421922	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	2428500	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	2434780	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	2439968	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	2441843	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	2452233	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	2450982	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	2441693	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	2424848	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	2413434	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	2413731	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2007"	"2007"	139	2541438	5.5
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2008"	"2008"	121	2549177	4.7
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2009"	"2009"	121	2561550	4.7
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2010"	"2010"	138	2564499	5.4
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2011"	"2011"	117	2577005	4.5
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2012"	"2012"	136	2581331	5.3
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2013"	"2013"	137	2589808	5.3
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2014"	"2014"	137	2591617	5.3
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2015"	"2015"	152	2571948	5.9
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2016"	"2016"	215	2545848	8.4
+	"Division 6: East South Central"	"CENS-D6"	"15-24 years"	"15-24"	"2017"	"2017"	224	2526790	8.9
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2007"	"2007"	285	2344704	12.2
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2008"	"2008"	259	2355935	11.0
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2009"	"2009"	290	2377272	12.2
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2010"	"2010"	383	2386388	16.0
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2011"	"2011"	370	2408642	15.4
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2012"	"2012"	387	2418094	16.0
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2013"	"2013"	393	2421475	16.2
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2014"	"2014"	480	2442304	19.7
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2015"	"2015"	567	2466333	23.0
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2016"	"2016"	668	2499105	26.7
+	"Division 6: East South Central"	"CENS-D6"	"25-34 years"	"25-34"	"2017"	"2017"	789	2530886	31.2
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2007"	"2007"	284	2513780	11.3
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2008"	"2008"	333	2487634	13.4
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2009"	"2009"	357	2451508	14.6
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2010"	"2010"	398	2425240	16.4
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2011"	"2011"	454	2392157	19.0
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2012"	"2012"	443	2384665	18.6
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2013"	"2013"	426	2383409	17.9
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2014"	"2014"	495	2375799	20.8
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2015"	"2015"	630	2366617	26.6
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2016"	"2016"	733	2345562	31.3
+	"Division 6: East South Central"	"CENS-D6"	"35-44 years"	"35-44"	"2017"	"2017"	824	2340694	35.2
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2007"	"2007"	284	2623624	10.8
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2008"	"2008"	333	2657276	12.5
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2009"	"2009"	381	2674685	14.2
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2010"	"2010"	459	2680363	17.1
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2011"	"2011"	482	2654537	18.2
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2012"	"2012"	516	2613969	19.7
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2013"	"2013"	471	2581878	18.2
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2014"	"2014"	567	2553987	22.2
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2015"	"2015"	662	2532058	26.1
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2016"	"2016"	668	2515252	26.6
+	"Division 6: East South Central"	"CENS-D6"	"45-54 years"	"45-54"	"2017"	"2017"	743	2491193	29.8
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2007"	"2007"	100	2073947	4.8
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2008"	"2008"	102	2133512	4.8
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2009"	"2009"	129	2200094	5.9
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2010"	"2010"	155	2260066	6.9
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2011"	"2011"	162	2348285	6.9
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2012"	"2012"	218	2364094	9.2
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2013"	"2013"	266	2394475	11.1
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2014"	"2014"	313	2422859	12.9
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2015"	"2015"	336	2456392	13.7
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2016"	"2016"	409	2483114	16.5
+	"Division 6: East South Central"	"CENS-D6"	"55-64 years"	"55-64"	"2017"	"2017"	446	2506227	17.8
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2007"	"2007"	19	1283470	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2008"	"2008"	20	1330984	1.5
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2009"	"2009"	20	1372111	1.5
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2010"	"2010"	19	1397358	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2011"	"2011"	37	1436903	2.6
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2012"	"2012"	32	1526240	2.1
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2013"	"2013"	51	1591377	3.2
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2014"	"2014"	48	1656548	2.9
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2015"	"2015"	63	1714853	3.7
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2016"	"2016"	79	1770816	4.5
+	"Division 6: East South Central"	"CENS-D6"	"65-74 years"	"65-74"	"2017"	"2017"	66	1822864	3.6
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2007"	"2007"	Suppressed	772110	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2008"	"2008"	Suppressed	777439	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2009"	"2009"	Suppressed	777420	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2010"	"2010"	Suppressed	783362	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2011"	"2011"	Suppressed	796431	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2012"	"2012"	Suppressed	803682	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2013"	"2013"	Suppressed	818413	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2014"	"2014"	Suppressed	835744	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2015"	"2015"	13	851495	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2016"	"2016"	Suppressed	870932	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"75-84 years"	"75-84"	"2017"	"2017"	13	893221	Unreliable
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	270234	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	276495	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	283360	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2010"	"2010"	Suppressed	289168	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	298825	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2012"	"2012"	Suppressed	306693	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2013"	"2013"	Suppressed	314304	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2014"	"2014"	Suppressed	320237	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	326832	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2016"	"2016"	Suppressed	331513	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"85+ years"	"85+"	"2017"	"2017"	Suppressed	337156	Suppressed
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 6: East South Central"	"CENS-D6"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	543905	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	550610	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	541188	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	532079	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	552340	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	537765	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	534101	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	539800	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	553114	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	558425	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	555661	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	2096423	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	2131740	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	2161753	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	2172469	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	2186811	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	2174823	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	2172336	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	2182142	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2015"	"2015"	12	2200149	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	2228534	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	2243177	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	5047351	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	5134177	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	5244990	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	5330751	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	5405858	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	5458074	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	5510711	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	5551506	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	5589525	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	5613773	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	5649763	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2007"	"2007"	276	5180868	5.3
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2008"	"2008"	250	5222807	4.8
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2009"	"2009"	265	5273345	5.0
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2010"	"2010"	269	5302472	5.1
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2011"	"2011"	298	5361416	5.6
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2012"	"2012"	259	5418100	4.8
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2013"	"2013"	244	5462952	4.5
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2014"	"2014"	211	5508519	3.8
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2015"	"2015"	227	5551744	4.1
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2016"	"2016"	269	5549559	4.8
+	"Division 7: West South Central"	"CENS-D7"	"15-24 years"	"15-24"	"2017"	"2017"	245	5555464	4.4
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2007"	"2007"	446	4844543	9.2
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2008"	"2008"	368	4943942	7.4
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2009"	"2009"	467	5051927	9.2
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2010"	"2010"	446	5124553	8.7
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2011"	"2011"	456	5234588	8.7
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2012"	"2012"	474	5322377	8.9
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2013"	"2013"	454	5404895	8.4
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2014"	"2014"	497	5514925	9.0
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2015"	"2015"	536	5617433	9.5
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2016"	"2016"	555	5705601	9.7
+	"Division 7: West South Central"	"CENS-D7"	"25-34 years"	"25-34"	"2017"	"2017"	650	5782787	11.2
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2007"	"2007"	466	4846355	9.6
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2008"	"2008"	430	4841730	8.9
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2009"	"2009"	477	4840344	9.9
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2010"	"2010"	434	4850126	8.9
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2011"	"2011"	400	4875428	8.2
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2012"	"2012"	426	4921615	8.7
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2013"	"2013"	432	4969522	8.7
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2014"	"2014"	457	5037119	9.1
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2015"	"2015"	487	5106892	9.5
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2016"	"2016"	513	5144042	10.0
+	"Division 7: West South Central"	"CENS-D7"	"35-44 years"	"35-44"	"2017"	"2017"	572	5232681	10.9
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2007"	"2007"	532	4821925	11.0
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2008"	"2008"	493	4911785	10.0
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2009"	"2009"	609	4987529	12.2
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2010"	"2010"	530	5022588	10.6
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2011"	"2011"	539	5021413	10.7
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2012"	"2012"	520	4987903	10.4
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2013"	"2013"	494	4957252	10.0
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2014"	"2014"	525	4961293	10.6
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2015"	"2015"	522	4971670	10.5
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2016"	"2016"	528	4966329	10.6
+	"Division 7: West South Central"	"CENS-D7"	"45-54 years"	"45-54"	"2017"	"2017"	542	4968370	10.9
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2007"	"2007"	188	3515922	5.3
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2008"	"2008"	161	3651712	4.4
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2009"	"2009"	243	3800627	6.4
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2010"	"2010"	273	3924726	7.0
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2011"	"2011"	250	4115928	6.1
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2012"	"2012"	320	4193053	7.6
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2013"	"2013"	370	4288641	8.6
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2014"	"2014"	387	4395053	8.8
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2015"	"2015"	415	4507192	9.2
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2016"	"2016"	410	4585253	8.9
+	"Division 7: West South Central"	"CENS-D7"	"55-64 years"	"55-64"	"2017"	"2017"	431	4664107	9.2
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2007"	"2007"	21	2077730	1.0
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2008"	"2008"	32	2160871	1.5
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2009"	"2009"	50	2244418	2.2
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2010"	"2010"	46	2299319	2.0
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2011"	"2011"	43	2388043	1.8
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2012"	"2012"	57	2540821	2.2
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2013"	"2013"	70	2667951	2.6
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2014"	"2014"	66	2797144	2.4
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2015"	"2015"	76	2918855	2.6
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2016"	"2016"	108	3035828	3.6
+	"Division 7: West South Central"	"CENS-D7"	"65-74 years"	"65-74"	"2017"	"2017"	99	3146895	3.1
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2007"	"2007"	Suppressed	1270728	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2008"	"2008"	12	1280723	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2009"	"2009"	11	1288882	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2010"	"2010"	Suppressed	1302940	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2011"	"2011"	Suppressed	1328423	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2012"	"2012"	12	1344664	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2013"	"2013"	Suppressed	1372690	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2014"	"2014"	10	1404483	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2015"	"2015"	22	1436959	1.5
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2016"	"2016"	20	1476226	1.4
+	"Division 7: West South Central"	"CENS-D7"	"75-84 years"	"75-84"	"2017"	"2017"	17	1520599	Unreliable
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	444813	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	458058	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	472821	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2010"	"2010"	Suppressed	484179	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	508756	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2012"	"2012"	Suppressed	525852	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2013"	"2013"	Suppressed	542553	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2014"	"2014"	Suppressed	559070	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	575847	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2016"	"2016"	Suppressed	592501	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"85+ years"	"85+"	"2017"	"2017"	Suppressed	604568	Suppressed
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 7: West South Central"	"CENS-D7"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	331835	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	327699	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	316639	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	315063	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	312294	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	308501	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	305131	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	307396	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	309654	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	311638	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	308903	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	1276365	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	1303453	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	1311365	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	1305393	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	1295006	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	1268913	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	1245654	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	1237281	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	1230745	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	1248470	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	1251107	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	2995519	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	3051612	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	3107070	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	3145580	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	3172271	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	3199127	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	3229353	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	3246303	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	3259504	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	3256944	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	3269442	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2007"	"2007"	236	3088022	7.6
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2008"	"2008"	225	3116288	7.2
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2009"	"2009"	288	3125004	9.2
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2010"	"2010"	274	3128095	8.8
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2011"	"2011"	309	3166159	9.8
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2012"	"2012"	229	3187916	7.2
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2013"	"2013"	277	3223808	8.6
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2014"	"2014"	228	3247273	7.0
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2015"	"2015"	253	3271188	7.7
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2016"	"2016"	312	3280682	9.5
+	"Division 8: Mountain"	"CENS-D8"	"15-24 years"	"15-24"	"2017"	"2017"	303	3272473	9.3
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2007"	"2007"	419	2961227	14.1
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2008"	"2008"	437	3023473	14.5
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2009"	"2009"	484	3070132	15.8
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2010"	"2010"	479	3092667	15.5
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2011"	"2011"	498	3141137	15.9
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2012"	"2012"	500	3171848	15.8
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2013"	"2013"	501	3199178	15.7
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2014"	"2014"	605	3251078	18.6
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2015"	"2015"	630	3308290	19.0
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2016"	"2016"	704	3368892	20.9
+	"Division 8: Mountain"	"CENS-D8"	"25-34 years"	"25-34"	"2017"	"2017"	747	3446526	21.7
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2007"	"2007"	484	2872038	16.9
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2008"	"2008"	486	2869636	16.9
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2009"	"2009"	503	2859790	17.6
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2010"	"2010"	464	2857699	16.2
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2011"	"2011"	503	2862087	17.6
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2012"	"2012"	505	2890141	17.5
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2013"	"2013"	481	2921484	16.5
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2014"	"2014"	564	2956906	19.1
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2015"	"2015"	589	2994332	19.7
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2016"	"2016"	624	3025453	20.6
+	"Division 8: Mountain"	"CENS-D8"	"35-44 years"	"35-44"	"2017"	"2017"	640	3091056	20.7
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2007"	"2007"	613	2928839	20.9
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2008"	"2008"	693	2971991	23.3
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2009"	"2009"	688	2995805	23.0
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2010"	"2010"	605	3002690	20.1
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2011"	"2011"	586	2977204	19.7
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2012"	"2012"	650	2948310	22.0
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2013"	"2013"	629	2919274	21.5
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2014"	"2014"	589	2912028	20.2
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2015"	"2015"	595	2912827	20.4
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2016"	"2016"	576	2916616	19.7
+	"Division 8: Mountain"	"CENS-D8"	"45-54 years"	"45-54"	"2017"	"2017"	588	2911154	20.2
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2007"	"2007"	240	2267794	10.6
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2008"	"2008"	276	2356970	11.7
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2009"	"2009"	294	2450787	12.0
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2010"	"2010"	333	2529232	13.2
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2011"	"2011"	373	2642372	14.1
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2012"	"2012"	396	2684803	14.7
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2013"	"2013"	406	2733315	14.9
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2014"	"2014"	473	2786488	17.0
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2015"	"2015"	473	2845685	16.6
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2016"	"2016"	517	2899351	17.8
+	"Division 8: Mountain"	"CENS-D8"	"55-64 years"	"55-64"	"2017"	"2017"	527	2939405	17.9
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2007"	"2007"	48	1345175	3.6
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2008"	"2008"	54	1414233	3.8
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2009"	"2009"	54	1481120	3.6
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2010"	"2010"	49	1527495	3.2
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2011"	"2011"	78	1601096	4.9
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2012"	"2012"	90	1720728	5.2
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2013"	"2013"	94	1825962	5.1
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2014"	"2014"	128	1929448	6.6
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2015"	"2015"	133	2029154	6.6
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2016"	"2016"	119	2127805	5.6
+	"Division 8: Mountain"	"CENS-D8"	"65-74 years"	"65-74"	"2017"	"2017"	179	2210610	8.1
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2007"	"2007"	19	812183	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2008"	"2008"	16	821618	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2009"	"2009"	12	830038	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2010"	"2010"	14	841488	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2011"	"2011"	27	864412	3.1
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2012"	"2012"	26	886662	2.9
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2013"	"2013"	20	914593	2.2
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2014"	"2014"	32	947243	3.4
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2015"	"2015"	24	979670	2.4
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2016"	"2016"	20	1017355	2.0
+	"Division 8: Mountain"	"CENS-D8"	"75-84 years"	"75-84"	"2017"	"2017"	42	1054152	4.0
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	286127	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2008"	"2008"	11	297218	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	310759	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2010"	"2010"	Suppressed	320049	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	339373	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2012"	"2012"	Suppressed	350925	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2013"	"2013"	11	363493	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2014"	"2014"	11	375675	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2015"	"2015"	12	389449	Unreliable
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2016"	"2016"	Suppressed	401861	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"85+ years"	"85+"	"2017"	"2017"	Suppressed	403289	Suppressed
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 8: Mountain"	"CENS-D8"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	693663	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	695688	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	665319	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	655708	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	669667	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	672462	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	664680	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	667048	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	667453	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	666269	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	654624	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	2640745	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	2669226	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	2694726	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	2694241	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	2692400	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	2688648	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	2663660	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	2670900	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	2667872	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	2657892	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	2655262	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	6661672	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	6651637	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	6675495	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	6711249	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	6709826	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	6710290	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	6726212	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	6720034	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	6711644	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	6721941	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	6733315	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2007"	"2007"	224	7161987	3.1
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2008"	"2008"	286	7230864	4.0
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2009"	"2009"	262	7284929	3.6
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2010"	"2010"	299	7309820	4.1
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2011"	"2011"	322	7352574	4.4
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2012"	"2012"	288	7375184	3.9
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2013"	"2013"	253	7331959	3.5
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2014"	"2014"	284	7298676	3.9
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2015"	"2015"	277	7227801	3.8
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2016"	"2016"	334	7119933	4.7
+	"Division 9: Pacific"	"CENS-D9"	"15-24 years"	"15-24"	"2017"	"2017"	324	7038337	4.6
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2007"	"2007"	433	6819970	6.3
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2008"	"2008"	457	6911559	6.6
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2009"	"2009"	531	7004763	7.6
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2010"	"2010"	521	7064260	7.4
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2011"	"2011"	579	7204363	8.0
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2012"	"2012"	570	7301996	7.8
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2013"	"2013"	587	7443530	7.9
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2014"	"2014"	631	7618324	8.3
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2015"	"2015"	667	7781972	8.6
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2016"	"2016"	690	7902055	8.7
+	"Division 9: Pacific"	"CENS-D9"	"25-34 years"	"25-34"	"2017"	"2017"	849	8054965	10.5
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2007"	"2007"	646	7051644	9.2
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2008"	"2008"	654	6974853	9.4
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2009"	"2009"	703	6896606	10.2
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2010"	"2010"	596	6859887	8.7
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2011"	"2011"	655	6837455	9.6
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2012"	"2012"	548	6844928	8.0
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2013"	"2013"	595	6839852	8.7
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2014"	"2014"	560	6876063	8.1
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2015"	"2015"	575	6906578	8.3
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2016"	"2016"	601	6902697	8.7
+	"Division 9: Pacific"	"CENS-D9"	"35-44 years"	"35-44"	"2017"	"2017"	641	7015899	9.1
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2007"	"2007"	1025	6922988	14.8
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2008"	"2008"	1047	6997911	15.0
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2009"	"2009"	1100	7059418	15.6
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2010"	"2010"	966	7084442	13.6
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2011"	"2011"	956	7055873	13.5
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2012"	"2012"	859	7009457	12.3
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2013"	"2013"	812	6957689	11.7
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2014"	"2014"	842	6977337	12.1
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2015"	"2015"	764	6978505	10.9
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2016"	"2016"	680	6931213	9.8
+	"Division 9: Pacific"	"CENS-D9"	"45-54 years"	"45-54"	"2017"	"2017"	697	6889141	10.1
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2007"	"2007"	444	5056970	8.8
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2008"	"2008"	511	5246166	9.7
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2009"	"2009"	634	5464504	11.6
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2010"	"2010"	618	5642695	11.0
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2011"	"2011"	651	5891864	11.0
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2012"	"2012"	608	5995173	10.1
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2013"	"2013"	739	6109740	12.1
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2014"	"2014"	760	6244924	12.2
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2015"	"2015"	768	6376929	12.0
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2016"	"2016"	778	6462189	12.0
+	"Division 9: Pacific"	"CENS-D9"	"55-64 years"	"55-64"	"2017"	"2017"	770	6545605	11.8
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2007"	"2007"	56	2812433	2.0
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2008"	"2008"	101	2940560	3.4
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2009"	"2009"	116	3068161	3.8
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2010"	"2010"	120	3158470	3.8
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2011"	"2011"	107	3309867	3.2
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2012"	"2012"	152	3545742	4.3
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2013"	"2013"	171	3764240	4.5
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2014"	"2014"	207	3971990	5.2
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2015"	"2015"	209	4178240	5.0
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2016"	"2016"	236	4352553	5.4
+	"Division 9: Pacific"	"CENS-D9"	"65-74 years"	"65-74"	"2017"	"2017"	266	4510126	5.9
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2007"	"2007"	38	1862899	2.0
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2008"	"2008"	30	1860381	1.6
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2009"	"2009"	35	1860079	1.9
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2010"	"2010"	33	1868270	1.8
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2011"	"2011"	29	1892419	1.5
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2012"	"2012"	32	1916669	1.7
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2013"	"2013"	25	1953174	1.3
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2014"	"2014"	30	2001566	1.5
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2015"	"2015"	54	2049657	2.6
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2016"	"2016"	39	2099743	1.9
+	"Division 9: Pacific"	"CENS-D9"	"75-84 years"	"75-84"	"2017"	"2017"	47	2160691	2.2
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2007"	"2007"	18	745319	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	776139	Suppressed
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2009"	"2009"	11	808867	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2010"	"2010"	26	831060	3.1
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2011"	"2011"	12	875029	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2012"	"2012"	16	901008	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2013"	"2013"	15	918442	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2014"	"2014"	19	943700	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2015"	"2015"	22	967530	2.3
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2016"	"2016"	16	985448	Unreliable
+	"Division 9: Pacific"	"CENS-D9"	"85+ years"	"85+"	"2017"	"2017"	21	994540	2.1
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Division 9: Pacific"	"CENS-D9"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: Census Division; Ten-Year Age Groups; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 29, 2020 1:46:06 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 29, 2020 1:46:06 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"7. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

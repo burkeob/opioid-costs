@@ -1,0 +1,641 @@
+"Notes"	"Census Region"	"Census Region Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	661176	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	657621	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	642113	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	630955	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	643159	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	631610	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	640409	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	638091	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	636332	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	626640	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	623444	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"< 1 year"	"1"	"2018"	"2018"	Suppressed	610408	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	2587781	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	2587166	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	2588662	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	2593344	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	2565501	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	2560386	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	2555625	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	2564232	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	2562107	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2016"	"2016"	Suppressed	2527828	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	2529197	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"1-4 years"	"1-4"	"2018"	"2018"	Suppressed	2507350	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2007"	"2007"	Suppressed	6946478	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	6889684	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	6862214	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	6838478	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	6772157	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	6741083	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	6696962	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	6645580	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	6587103	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	6554290	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	6515630	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"5-14 years"	"5-14"	"2018"	"2018"	Suppressed	6448278	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2007"	"2007"	346	7611589	4.5
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2008"	"2008"	397	7657306	5.2
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2009"	"2009"	358	7700515	4.6
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2010"	"2010"	391	7711116	5.1
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2011"	"2011"	490	7676664	6.4
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2012"	"2012"	468	7669485	6.1
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2013"	"2013"	579	7612883	7.6
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2014"	"2014"	662	7593803	8.7
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2015"	"2015"	826	7532477	11.0
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2016"	"2016"	1051	7460550	14.1
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2017"	"2017"	1046	7385135	14.2
+	"Census Region 1: Northeast"	"CENS-R1"	"15-24 years"	"15-24"	"2018"	"2018"	876	7223065	12.1
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2007"	"2007"	697	6816668	10.2
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2008"	"2008"	677	6891044	9.8
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2009"	"2009"	686	6973342	9.8
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2010"	"2010"	710	7031455	10.1
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2011"	"2011"	984	7173431	13.7
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2012"	"2012"	1130	7293447	15.5
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2013"	"2013"	1372	7417576	18.5
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2014"	"2014"	1654	7524965	22.0
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2015"	"2015"	2269	7607293	29.8
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2016"	"2016"	3296	7658312	43.0
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2017"	"2017"	3517	7754668	45.4
+	"Census Region 1: Northeast"	"CENS-R1"	"25-34 years"	"25-34"	"2018"	"2018"	3632	7723778	47.0
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2007"	"2007"	857	7957825	10.8
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2008"	"2008"	805	7761815	10.4
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2009"	"2009"	717	7545365	9.5
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2010"	"2010"	782	7401343	10.6
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2011"	"2011"	879	7228812	12.2
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2012"	"2012"	959	7132560	13.4
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2013"	"2013"	1121	7040752	15.9
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2014"	"2014"	1355	6982308	19.4
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2015"	"2015"	1691	6926910	24.4
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2016"	"2016"	2427	6833341	35.5
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2017"	"2017"	2776	6854713	40.5
+	"Census Region 1: Northeast"	"CENS-R1"	"35-44 years"	"35-44"	"2018"	"2018"	3136	6835541	45.9
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2007"	"2007"	946	8321421	11.4
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2008"	"2008"	1067	8399562	12.7
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2009"	"2009"	883	8473908	10.4
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2010"	"2010"	947	8495812	11.1
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2011"	"2011"	1069	8434769	12.7
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2012"	"2012"	1186	8344657	14.2
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2013"	"2013"	1370	8229901	16.6
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2014"	"2014"	1478	8121407	18.2
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2015"	"2015"	1752	8013061	21.9
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2016"	"2016"	2364	7847596	30.1
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2017"	"2017"	2625	7702179	34.1
+	"Census Region 1: Northeast"	"CENS-R1"	"45-54 years"	"45-54"	"2018"	"2018"	2713	7450770	36.4
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2007"	"2007"	304	6254198	4.9
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2008"	"2008"	343	6403734	5.4
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2009"	"2009"	357	6618978	5.4
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2010"	"2010"	379	6809904	5.6
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2011"	"2011"	500	7086279	7.1
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2012"	"2012"	537	7168417	7.5
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2013"	"2013"	735	7303144	10.1
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2014"	"2014"	786	7436753	10.6
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2015"	"2015"	1000	7569504	13.2
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2016"	"2016"	1419	7649361	18.6
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2017"	"2017"	1663	7736918	21.5
+	"Census Region 1: Northeast"	"CENS-R1"	"55-64 years"	"55-64"	"2018"	"2018"	1840	7744872	23.8
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2007"	"2007"	35	3685547	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2008"	"2008"	50	3819109	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2009"	"2009"	51	3926431	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2010"	"2010"	56	3995808	1.4
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2011"	"2011"	53	4111231	1.3
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2012"	"2012"	72	4378485	1.6
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2013"	"2013"	110	4583968	2.4
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2014"	"2014"	126	4765579	2.6
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2015"	"2015"	160	4947995	3.2
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2016"	"2016"	226	5115772	4.4
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2017"	"2017"	293	5313017	5.5
+	"Census Region 1: Northeast"	"CENS-R1"	"65-74 years"	"65-74"	"2018"	"2018"	366	5413155	6.8
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2007"	"2007"	20	2697547	0.7
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2008"	"2008"	17	2665571	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2009"	"2009"	16	2625697	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2010"	"2010"	27	2609323	1.0
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2011"	"2011"	13	2589436	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2012"	"2012"	20	2576171	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2013"	"2013"	24	2569873	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2014"	"2014"	20	2575253	0.8
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2015"	"2015"	14	2584362	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2016"	"2016"	38	2611243	1.5
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2017"	"2017"	24	2701777	0.9
+	"Census Region 1: Northeast"	"CENS-R1"	"75-84 years"	"75-84"	"2018"	"2018"	49	2803104	1.7
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2007"	"2007"	Suppressed	1113132	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	1143314	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	1175876	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2010"	"2010"	10	1199702	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2011"	"2011"	Suppressed	1240159	Suppressed
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2012"	"2012"	13	1264790	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2013"	"2013"	12	1291980	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2014"	"2014"	12	1304362	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2015"	"2015"	12	1316747	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2016"	"2016"	13	1324577	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2017"	"2017"	19	1353903	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"85+ years"	"85+"	"2018"	"2018"	13	1350758	Unreliable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 1: Northeast"	"CENS-R1"	"Not Stated"	"NS"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	886085	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	873505	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	854125	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	841754	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	840110	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	822767	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	825265	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	826985	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	832259	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	827208	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	819529	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"< 1 year"	"1"	"2018"	"2018"	Suppressed	801327	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	3466390	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2008"	"2008"	11	3483223	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	3486465	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	3492963	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	3442995	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2012"	"2012"	10	3404975	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	3360909	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	3346135	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	3339660	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2016"	"2016"	10	3346140	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	3353354	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"1-4 years"	"1-4"	"2018"	"2018"	Suppressed	3344522	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2007"	"2007"	11	9017087	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2008"	"2008"	Suppressed	8977967	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	8965870	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2010"	"2010"	Suppressed	8955115	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2011"	"2011"	Suppressed	8901783	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	8889994	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	8873176	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	8821412	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	8756191	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	8690369	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2017"	"2017"	12	8663943	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"5-14 years"	"5-14"	"2018"	"2018"	Suppressed	8641137	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2007"	"2007"	458	9499761	4.8
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2008"	"2008"	489	9470731	5.2
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2009"	"2009"	500	9431517	5.3
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2010"	"2010"	564	9388704	6.0
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2011"	"2011"	572	9389842	6.1
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2012"	"2012"	594	9381334	6.3
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2013"	"2013"	651	9397943	6.9
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2014"	"2014"	704	9390167	7.5
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2015"	"2015"	797	9350978	8.5
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2016"	"2016"	1055	9275221	11.4
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2017"	"2017"	1098	9198742	11.9
+	"Census Region 2: Midwest"	"CENS-R2"	"15-24 years"	"15-24"	"2018"	"2018"	912	9116648	10.0
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2007"	"2007"	693	8400622	8.2
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2008"	"2008"	941	8467181	11.1
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2009"	"2009"	996	8542477	11.7
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2010"	"2010"	1134	8591550	13.2
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2011"	"2011"	1293	8691066	14.9
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2012"	"2012"	1411	8737063	16.1
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2013"	"2013"	1543	8783881	17.6
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2014"	"2014"	1825	8832177	20.7
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2015"	"2015"	2207	8872228	24.9
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2016"	"2016"	3119	8939066	34.9
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2017"	"2017"	3589	9009942	39.8
+	"Census Region 2: Midwest"	"CENS-R2"	"25-34 years"	"25-34"	"2018"	"2018"	3240	9078174	35.7
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2007"	"2007"	917	9151831	10.0
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2008"	"2008"	1053	8935688	11.8
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2009"	"2009"	1039	8712262	11.9
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2010"	"2010"	1105	8580334	12.9
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2011"	"2011"	1157	8430752	13.7
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2012"	"2012"	1242	8359624	14.9
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2013"	"2013"	1347	8328520	16.2
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2014"	"2014"	1669	8304074	20.1
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2015"	"2015"	1958	8284831	23.6
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2016"	"2016"	2650	8223699	32.2
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2017"	"2017"	3101	8265839	37.5
+	"Census Region 2: Midwest"	"CENS-R2"	"35-44 years"	"35-44"	"2018"	"2018"	2921	8345707	35.0
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2007"	"2007"	1085	9903748	11.0
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2008"	"2008"	1164	9961331	11.7
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2009"	"2009"	1255	9985806	12.6
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2010"	"2010"	1345	9958385	13.5
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2011"	"2011"	1442	9812529	14.7
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2012"	"2012"	1454	9634711	15.1
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2013"	"2013"	1593	9435922	16.9
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2014"	"2014"	1711	9268400	18.5
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2015"	"2015"	1821	9113404	20.0
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2016"	"2016"	2332	8933348	26.1
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2017"	"2017"	2720	8756502	31.1
+	"Census Region 2: Midwest"	"CENS-R2"	"45-54 years"	"45-54"	"2018"	"2018"	2287	8539672	26.8
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2007"	"2007"	319	7344803	4.3
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2008"	"2008"	421	7565465	5.6
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2009"	"2009"	491	7850138	6.3
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2010"	"2010"	544	8095862	6.7
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2011"	"2011"	627	8456238	7.4
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2012"	"2012"	666	8572183	7.8
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2013"	"2013"	856	8750961	9.8
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2014"	"2014"	1053	8895317	11.8
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2015"	"2015"	1218	9035427	13.5
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2016"	"2016"	1583	9119744	17.4
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2017"	"2017"	1863	9183256	20.3
+	"Census Region 2: Midwest"	"CENS-R2"	"55-64 years"	"55-64"	"2018"	"2018"	1737	9203482	18.9
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2007"	"2007"	53	4355091	1.2
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2008"	"2008"	66	4511655	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2009"	"2009"	70	4644031	1.5
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2010"	"2010"	62	4724897	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2011"	"2011"	92	4849773	1.9
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2012"	"2012"	98	5148193	1.9
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2013"	"2013"	115	5385237	2.1
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2014"	"2014"	173	5611584	3.1
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2015"	"2015"	210	5837855	3.6
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2016"	"2016"	245	6056355	4.0
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2017"	"2017"	334	6297115	5.3
+	"Census Region 2: Midwest"	"CENS-R2"	"65-74 years"	"65-74"	"2018"	"2018"	397	6472820	6.1
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2007"	"2007"	Suppressed	3034266	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2008"	"2008"	16	3013448	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2009"	"2009"	27	2980563	0.9
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2010"	"2010"	17	2976797	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2011"	"2011"	20	2976889	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2012"	"2012"	25	2973186	0.8
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2013"	"2013"	29	2986089	1.0
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2014"	"2014"	20	3011658	0.7
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2015"	"2015"	27	3032426	0.9
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2016"	"2016"	32	3071957	1.0
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2017"	"2017"	43	3158861	1.4
+	"Census Region 2: Midwest"	"CENS-R2"	"75-84 years"	"75-84"	"2018"	"2018"	42	3287752	1.3
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2007"	"2007"	13	1234005	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2008"	"2008"	Suppressed	1263741	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2009"	"2009"	Suppressed	1295183	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2010"	"2010"	15	1320640	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2011"	"2011"	10	1366858	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2012"	"2012"	10	1392267	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2013"	"2013"	16	1419987	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2014"	"2014"	15	1437199	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2015"	"2015"	Suppressed	1452144	Suppressed
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2016"	"2016"	13	1458322	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2017"	"2017"	13	1472268	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"85+ years"	"85+"	"2018"	"2018"	14	1477503	Unreliable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 2: Midwest"	"CENS-R2"	"Not Stated"	"NS"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	1575238	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	1578222	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	1525391	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2010"	"2010"	10	1500673	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	1531307	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	1507737	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	1506298	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	1508830	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	1532340	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	1538390	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	1532795	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"< 1 year"	"1"	"2018"	"2018"	Suppressed	1494786	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2007"	"2007"	17	6006684	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2008"	"2008"	19	6095324	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2009"	"2009"	12	6159713	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2010"	"2010"	14	6171268	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2011"	"2011"	18	6169619	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	6133345	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2013"	"2013"	12	6100457	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2014"	"2014"	18	6109985	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2015"	"2015"	25	6128859	0.4
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2016"	"2016"	17	6176562	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	6210645	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"1-4 years"	"1-4"	"2018"	"2018"	10	6222026	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2007"	"2007"	11	14934897	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2008"	"2008"	13	15065357	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2009"	"2009"	11	15232414	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2010"	"2010"	18	15375429	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2011"	"2011"	11	15483011	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2012"	"2012"	13	15604260	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	15695332	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	15757743	Suppressed
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2015"	"2015"	13	15795064	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2016"	"2016"	16	15824488	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2017"	"2017"	10	15900362	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"5-14 years"	"5-14"	"2018"	"2018"	12	15966228	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2007"	"2007"	956	15784456	6.1
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2008"	"2008"	932	15916303	5.9
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2009"	"2009"	879	16034967	5.5
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2010"	"2010"	913	16088607	5.7
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2011"	"2011"	907	16212636	5.6
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2012"	"2012"	804	16329986	4.9
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2013"	"2013"	763	16387809	4.7
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2014"	"2014"	871	16449902	5.3
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2015"	"2015"	994	16465772	6.0
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2016"	"2016"	1332	16374641	8.1
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2017"	"2017"	1380	16355608	8.4
+	"Census Region 3: South"	"CENS-R3"	"15-24 years"	"15-24"	"2018"	"2018"	1189	16353884	7.3
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2007"	"2007"	1668	14714976	11.3
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2008"	"2008"	1609	14914216	10.8
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2009"	"2009"	1777	15132628	11.7
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2010"	"2010"	1961	15284016	12.8
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2011"	"2011"	2077	15580501	13.3
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2012"	"2012"	1931	15804967	12.2
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2013"	"2013"	2028	16000422	12.7
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2014"	"2014"	2456	16289960	15.1
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2015"	"2015"	2946	16567419	17.8
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2016"	"2016"	3968	16808918	23.6
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2017"	"2017"	4687	17076571	27.4
+	"Census Region 3: South"	"CENS-R3"	"25-34 years"	"25-34"	"2018"	"2018"	4465	17259305	25.9
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2007"	"2007"	1938	15762892	12.3
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2008"	"2008"	1875	15650494	12.0
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2009"	"2009"	1919	15473788	12.4
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2010"	"2010"	1988	15371343	12.9
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2011"	"2011"	2040	15268848	13.4
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2012"	"2012"	2020	15289167	13.2
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2013"	"2013"	2023	15322082	13.2
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2014"	"2014"	2380	15393782	15.5
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2015"	"2015"	2842	15477132	18.4
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2016"	"2016"	3645	15484966	23.5
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2017"	"2017"	4227	15647863	27.0
+	"Census Region 3: South"	"CENS-R3"	"35-44 years"	"35-44"	"2018"	"2018"	4228	15834974	26.7
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2007"	"2007"	2087	15862943	13.2
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2008"	"2008"	2150	16129652	13.3
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2009"	"2009"	2382	16352151	14.6
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2010"	"2010"	2393	16465387	14.5
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2011"	"2011"	2502	16437828	15.2
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2012"	"2012"	2436	16331603	14.9
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2013"	"2013"	2357	16224746	14.5
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2014"	"2014"	2654	16179679	16.4
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2015"	"2015"	2926	16170364	18.1
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2016"	"2016"	3458	16157906	21.4
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2017"	"2017"	3860	16115976	24.0
+	"Census Region 3: South"	"CENS-R3"	"45-54 years"	"45-54"	"2018"	"2018"	3525	15959916	22.1
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2007"	"2007"	672	12204669	5.5
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2008"	"2008"	706	12584728	5.6
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2009"	"2009"	880	13021193	6.8
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2010"	"2010"	1037	13405036	7.7
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2011"	"2011"	1017	13985387	7.3
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2012"	"2012"	1232	14165626	8.7
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2013"	"2013"	1384	14419271	9.6
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2014"	"2014"	1628	14714099	11.1
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2015"	"2015"	1904	15050274	12.7
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2016"	"2016"	2320	15332499	15.1
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2017"	"2017"	2650	15590474	17.0
+	"Census Region 3: South"	"CENS-R3"	"55-64 years"	"55-64"	"2018"	"2018"	2676	15788540	16.9
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2007"	"2007"	117	7500481	1.6
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2008"	"2008"	117	7820122	1.5
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2009"	"2009"	159	8113356	2.0
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2010"	"2010"	138	8306759	1.7
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2011"	"2011"	185	8609771	2.1
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2012"	"2012"	192	9192244	2.1
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2013"	"2013"	254	9657359	2.6
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2014"	"2014"	287	10119689	2.8
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2015"	"2015"	349	10557273	3.3
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2016"	"2016"	482	10977845	4.4
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2017"	"2017"	478	11352578	4.2
+	"Census Region 3: South"	"CENS-R3"	"65-74 years"	"65-74"	"2018"	"2018"	613	11662480	5.3
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2007"	"2007"	34	4680544	0.7
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2008"	"2008"	42	4715084	0.9
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2009"	"2009"	52	4726398	1.1
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2010"	"2010"	27	4765244	0.6
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2011"	"2011"	34	4852074	0.7
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2012"	"2012"	44	4919946	0.9
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2013"	"2013"	37	5022790	0.7
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2014"	"2014"	57	5146970	1.1
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2015"	"2015"	75	5277059	1.4
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2016"	"2016"	62	5433236	1.1
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2017"	"2017"	86	5631070	1.5
+	"Census Region 3: South"	"CENS-R3"	"75-84 years"	"75-84"	"2018"	"2018"	79	5920200	1.3
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2007"	"2007"	18	1660962	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2008"	"2008"	12	1715428	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2009"	"2009"	21	1776616	1.2
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2010"	"2010"	21	1821982	1.2
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2011"	"2011"	20	1915754	1.0
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2012"	"2012"	17	1978340	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2013"	"2013"	23	2046887	1.1
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2014"	"2014"	22	2101295	1.0
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2015"	"2015"	20	2161291	0.9
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2016"	"2016"	15	2210123	Unreliable
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2017"	"2017"	26	2244682	1.2
+	"Census Region 3: South"	"CENS-R3"	"85+ years"	"85+"	"2018"	"2018"	24	2291609	1.0
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 3: South"	"CENS-R3"	"Not Stated"	"NS"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2007"	"2007"	Suppressed	1025498	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2008"	"2008"	Suppressed	1023387	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2009"	"2009"	Suppressed	981958	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2010"	"2010"	Suppressed	970771	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2011"	"2011"	Suppressed	981961	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2012"	"2012"	Suppressed	980963	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2013"	"2013"	Suppressed	969811	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2014"	"2014"	Suppressed	974444	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2015"	"2015"	Suppressed	977107	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2016"	"2016"	Suppressed	977907	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2017"	"2017"	Suppressed	963527	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"< 1 year"	"1"	"2018"	"2018"	Suppressed	941687	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2007"	"2007"	Suppressed	3917110	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2008"	"2008"	Suppressed	3972679	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2009"	"2009"	Suppressed	4006091	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2010"	"2010"	Suppressed	3999634	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2011"	"2011"	Suppressed	3987406	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2012"	"2012"	Suppressed	3957561	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2013"	"2013"	Suppressed	3909314	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2014"	"2014"	Suppressed	3908181	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2015"	"2015"	Suppressed	3898617	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2016"	"2016"	10	3906362	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2017"	"2017"	Suppressed	3906369	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"1-4 years"	"1-4"	"2018"	"2018"	Suppressed	3888169	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2007"	"2007"	16	9657191	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2008"	"2008"	13	9703249	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2009"	"2009"	Suppressed	9782565	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2010"	"2010"	15	9856829	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2011"	"2011"	10	9882097	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2012"	"2012"	Suppressed	9909417	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2013"	"2013"	Suppressed	9955565	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2014"	"2014"	Suppressed	9966337	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2015"	"2015"	Suppressed	9971148	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2016"	"2016"	Suppressed	9978885	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2017"	"2017"	Suppressed	10002757	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"5-14 years"	"5-14"	"2018"	"2018"	Suppressed	10019526	Suppressed
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2007"	"2007"	460	10250009	4.5
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2008"	"2008"	511	10347152	4.9
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2009"	"2009"	550	10409933	5.3
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2010"	"2010"	573	10437915	5.5
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2011"	"2011"	631	10518733	6.0
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2012"	"2012"	517	10563100	4.9
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2013"	"2013"	530	10555767	5.0
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2014"	"2014"	512	10545949	4.9
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2015"	"2015"	530	10498989	5.0
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2016"	"2016"	646	10400615	6.2
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2017"	"2017"	627	10310810	6.1
+	"Census Region 4: West"	"CENS-R4"	"15-24 years"	"15-24"	"2018"	"2018"	689	10277203	6.7
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2007"	"2007"	852	9781197	8.7
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2008"	"2008"	894	9935032	9.0
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2009"	"2009"	1015	10074895	10.1
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2010"	"2010"	1000	10156927	9.8
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2011"	"2011"	1077	10345500	10.4
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2012"	"2012"	1070	10473844	10.2
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2013"	"2013"	1088	10642708	10.2
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2014"	"2014"	1236	10869402	11.4
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2015"	"2015"	1297	11090262	11.7
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2016"	"2016"	1394	11270947	12.4
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2017"	"2017"	1596	11501491	13.9
+	"Census Region 4: West"	"CENS-R4"	"25-34 years"	"25-34"	"2018"	"2018"	1713	11636517	14.7
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2007"	"2007"	1130	9923682	11.4
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2008"	"2008"	1140	9844489	11.6
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2009"	"2009"	1206	9756396	12.4
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2010"	"2010"	1060	9717586	10.9
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2011"	"2011"	1158	9699542	11.9
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2012"	"2012"	1053	9735069	10.8
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2013"	"2013"	1076	9761336	11.0
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2014"	"2014"	1124	9832969	11.4
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2015"	"2015"	1164	9900910	11.8
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2016"	"2016"	1225	9928150	12.3
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2017"	"2017"	1281	10106955	12.7
+	"Census Region 4: West"	"CENS-R4"	"35-44 years"	"35-44"	"2018"	"2018"	1374	10261666	13.4
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2007"	"2007"	1638	9851827	16.6
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2008"	"2008"	1740	9969902	17.5
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2009"	"2009"	1788	10055223	17.8
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2010"	"2010"	1571	10087132	15.6
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2011"	"2011"	1542	10033077	15.4
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2012"	"2012"	1509	9957767	15.2
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2013"	"2013"	1441	9876963	14.6
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2014"	"2014"	1431	9889365	14.5
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2015"	"2015"	1359	9891332	13.7
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2016"	"2016"	1256	9847829	12.8
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2017"	"2017"	1285	9800295	13.1
+	"Census Region 4: West"	"CENS-R4"	"45-54 years"	"45-54"	"2018"	"2018"	1309	9681341	13.5
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2007"	"2007"	684	7324764	9.3
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2008"	"2008"	787	7603136	10.4
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2009"	"2009"	928	7915291	11.7
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2010"	"2010"	951	8171927	11.6
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2011"	"2011"	1024	8534236	12.0
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2012"	"2012"	1004	8679976	11.6
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2013"	"2013"	1145	8843055	12.9
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2014"	"2014"	1233	9031412	13.7
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2015"	"2015"	1241	9222614	13.5
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2016"	"2016"	1295	9361540	13.8
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2017"	"2017"	1297	9485010	13.7
+	"Census Region 4: West"	"CENS-R4"	"55-64 years"	"55-64"	"2018"	"2018"	1343	9535742	14.1
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2007"	"2007"	104	4157608	2.5
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2008"	"2008"	155	4354793	3.6
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2009"	"2009"	170	4549281	3.7
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2010"	"2010"	169	4685965	3.6
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2011"	"2011"	185	4910963	3.8
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2012"	"2012"	242	5266470	4.6
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2013"	"2013"	265	5590202	4.7
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2014"	"2014"	335	5901438	5.7
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2015"	"2015"	342	6207394	5.5
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2016"	"2016"	355	6480358	5.5
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2017"	"2017"	445	6720736	6.6
+	"Census Region 4: West"	"CENS-R4"	"65-74 years"	"65-74"	"2018"	"2018"	466	6943861	6.7
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2007"	"2007"	57	2675082	2.1
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2008"	"2008"	46	2681999	1.7
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2009"	"2009"	47	2690117	1.7
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2010"	"2010"	47	2709758	1.7
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2011"	"2011"	56	2756831	2.0
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2012"	"2012"	58	2803331	2.1
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2013"	"2013"	45	2867767	1.6
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2014"	"2014"	62	2948809	2.1
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2015"	"2015"	78	3029327	2.6
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2016"	"2016"	59	3117098	1.9
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2017"	"2017"	89	3214843	2.8
+	"Census Region 4: West"	"CENS-R4"	"75-84 years"	"75-84"	"2018"	"2018"	87	3383318	2.6
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2007"	"2007"	23	1031446	2.2
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2008"	"2008"	19	1073357	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2009"	"2009"	14	1119626	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2010"	"2010"	35	1151109	3.0
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2011"	"2011"	19	1214402	Unreliable
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2012"	"2012"	22	1251933	1.8
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2013"	"2013"	26	1281935	2.0
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2014"	"2014"	30	1319375	2.3
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2015"	"2015"	34	1356979	2.5
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2016"	"2016"	24	1387309	1.7
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2017"	"2017"	30	1397829	2.1
+	"Census Region 4: West"	"CENS-R4"	"85+ years"	"85+"	"2018"	"2018"	31	1424633	2.2
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2007"	"2007"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2008"	"2008"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2009"	"2009"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2010"	"2010"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2011"	"2011"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2012"	"2012"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2013"	"2013"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2014"	"2014"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2015"	"2015"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2016"	"2016"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2017"	"2017"	Suppressed	Not Applicable	Not Applicable
+	"Census Region 4: West"	"CENS-R4"	"Not Stated"	"NS"	"2018"	"2018"	Suppressed	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2018"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018"
+"Group By: Census Region; Ten-Year Age Groups; Year"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Feb 25, 2020 2:14:22 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Feb 25, 2020 2:14:22 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"7. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are"
+"bridged-race estimates of the July 1 resident population, from the county-level postcensal Vintage 2011 series released by NCHS"
+"on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are"
+"bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released"
+"by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the"
+"1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age Groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"9. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

@@ -1,0 +1,715 @@
+"Notes"	"Census Division"	"Census Division Code"	"2013 Urbanization"	"2013 Urbanization Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2007"	"2007"	229	2207026	10.4
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2008"	"2008"	213	2217981	9.6
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2009"	"2009"	219	2234185	9.8
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2010"	"2010"	191	2242704	8.5
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2011"	"2011"	226	2252346	10.0
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2012"	"2012"	215	2270008	9.5
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2013"	"2013"	340	2282375	14.9
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2014"	"2014"	392	2297213	17.1
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2015"	"2015"	554	2307435	24.0
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2016"	"2016"	665	2310292	28.8
+	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"	"2017"	"2017"	713	2330684	30.6
+"Total"	"Division 1: New England"	"CENS-D1"	"Large Central Metro"	"1"			3957	24952249	15.9
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2007"	"2007"	477	5041810	9.5
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2008"	"2008"	470	5071055	9.3
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2009"	"2009"	486	5103609	9.5
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2010"	"2010"	428	5122931	8.4
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2011"	"2011"	532	5152245	10.3
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2012"	"2012"	553	5186568	10.7
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2013"	"2013"	684	5221426	13.1
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2014"	"2014"	995	5258610	18.9
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2015"	"2015"	1231	5291280	23.3
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2016"	"2016"	1617	5305741	30.5
+	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"	"2017"	"2017"	1522	5337228	28.5
+"Total"	"Division 1: New England"	"CENS-D1"	"Large Fringe Metro"	"2"			8995	57092503	15.8
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2007"	"2007"	354	4456673	7.9
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2008"	"2008"	359	4475230	8.0
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2009"	"2009"	349	4493002	7.8
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2010"	"2010"	359	4506730	8.0
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2011"	"2011"	355	4519000	7.9
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2012"	"2012"	374	4541337	8.2
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2013"	"2013"	579	4553851	12.7
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2014"	"2014"	657	4568700	14.4
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2015"	"2015"	972	4579877	21.2
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2016"	"2016"	1168	4574335	25.5
+	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"	"2017"	"2017"	1254	4595296	27.3
+"Total"	"Division 1: New England"	"CENS-D1"	"Medium Metro"	"3"			6780	49864031	13.6
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2007"	"2007"	70	818466	8.6
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2008"	"2008"	60	819426	7.3
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2009"	"2009"	70	819293	8.5
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2010"	"2010"	65	819993	7.9
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2011"	"2011"	72	819946	8.8
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2012"	"2012"	74	820495	9.0
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2013"	"2013"	111	820339	13.5
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2014"	"2014"	137	820650	16.7
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2015"	"2015"	173	819128	21.1
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2016"	"2016"	212	817669	25.9
+	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"	"2017"	"2017"	206	817760	25.2
+"Total"	"Division 1: New England"	"CENS-D1"	"Small Metro"	"4"			1250	9013165	13.9
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	118	1100675	10.7
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	90	1102006	8.2
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	83	1100392	7.5
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	85	1099763	7.7
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	100	1097730	9.1
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	89	1094646	8.1
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	145	1092606	13.3
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	188	1088855	17.3
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	230	1084990	21.2
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	227	1084430	20.9
+	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	272	1085358	25.1
+"Total"	"Division 1: New England"	"CENS-D1"	"Micropolitan (Nonmetro)"	"5"			1627	12031451	13.5
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	60	654555	9.2
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	47	654417	7.2
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	58	653094	8.9
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	41	652744	6.3
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	55	651093	8.4
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	50	649650	7.7
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	58	648209	8.9
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	82	646694	12.7
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	88	644874	13.6
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	139	643058	21.6
+	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	134	643675	20.8
+"Total"	"Division 1: New England"	"CENS-D1"	"NonCore (Nonmetro)"	"6"			812	7142063	11.4
+"Total"	"Division 1: New England"	"CENS-D1"					23421	160095462	14.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2007"	"2007"	804	14308295	5.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2008"	"2008"	852	14375812	5.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2009"	"2009"	744	14474108	5.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2010"	"2010"	795	14542605	5.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2011"	"2011"	947	14637955	6.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2012"	"2012"	1114	14764563	7.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2013"	"2013"	1153	14858104	7.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2014"	"2014"	1220	14973100	8.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2015"	"2015"	1610	15048540	10.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2016"	"2016"	2384	15030210	15.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"	"2017"	"2017"	2765	15163599	18.2
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Central Metro"	"1"			14388	162176891	8.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2007"	"2007"	698	14748388	4.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2008"	"2008"	797	14804206	5.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2009"	"2009"	604	14867590	4.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2010"	"2010"	851	14922026	5.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2011"	"2011"	1093	14974082	7.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2012"	"2012"	1216	15015550	8.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2013"	"2013"	1364	15052739	9.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2014"	"2014"	1404	15091513	9.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2015"	"2015"	1602	15114708	10.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2016"	"2016"	2584	15088316	17.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"	"2017"	"2017"	3063	15139029	20.2
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"Large Fringe Metro"	"2"			15276	164818147	9.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2007"	"2007"	205	6091525	3.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2008"	"2008"	241	6124081	3.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2009"	"2009"	242	6152398	3.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2010"	"2010"	271	6171094	4.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2011"	"2011"	305	6185261	4.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2012"	"2012"	374	6196610	6.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2013"	"2013"	476	6208252	7.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2014"	"2014"	556	6216462	8.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2015"	"2015"	684	6226045	11.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2016"	"2016"	977	6219252	15.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"	"2017"	"2017"	1160	6240257	18.6
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"Medium Metro"	"3"			5491	68031237	8.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2007"	"2007"	83	2285364	3.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2008"	"2008"	105	2294531	4.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2009"	"2009"	94	2300846	4.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2010"	"2010"	86	2304793	3.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2011"	"2011"	123	2308193	5.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2012"	"2012"	139	2307710	6.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2013"	"2013"	197	2302634	8.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2014"	"2014"	226	2301285	9.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2015"	"2015"	252	2296552	11.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2016"	"2016"	400	2284961	17.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"	"2017"	"2017"	414	2280009	18.2
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"Small Metro"	"4"			2119	25266878	8.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	82	2110733	3.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	89	2109120	4.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	86	2107786	4.1
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	88	2105987	4.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	118	2100638	5.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	125	2094636	6.0
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	139	2087816	6.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	154	2078984	7.4
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	241	2065680	11.7
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	353	2053209	17.2
+	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	348	2042912	17.0
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"Micropolitan (Nonmetro)"	"5"			1823	22957501	7.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	41	829852	4.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	52	828061	6.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	48	826798	5.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	48	825870	5.8
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	79	823109	9.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	73	819318	8.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	84	814722	10.3
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	94	810267	11.6
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	101	804782	12.5
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	119	798037	14.9
+	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	136	794774	17.1
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"	"NonCore (Nonmetro)"	"6"			875	8975590	9.7
+"Total"	"Division 2: Middle Atlantic"	"CENS-D2"					39972	452226244	8.8
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2007"	"2007"	926	12698877	7.3
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2008"	"2008"	1100	12682881	8.7
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2009"	"2009"	1075	12704402	8.5
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2010"	"2010"	1172	12714919	9.2
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2011"	"2011"	1282	12740912	10.1
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2012"	"2012"	1432	12775046	11.2
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2013"	"2013"	1687	12801914	13.2
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2014"	"2014"	1775	12828998	13.8
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2015"	"2015"	2211	12845916	17.2
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2016"	"2016"	3173	12810684	24.8
+	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"	"2017"	"2017"	3709	12869957	28.8
+"Total"	"Division 3: East North Central"	"CENS-D3"	"Large Central Metro"	"1"			19542	140474506	13.9
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2007"	"2007"	675	12043796	5.6
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2008"	"2008"	768	12136486	6.3
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2009"	"2009"	803	12201354	6.6
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2010"	"2010"	926	12249115	7.6
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2011"	"2011"	1015	12310853	8.2
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2012"	"2012"	1104	12350128	8.9
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2013"	"2013"	1200	12409623	9.7
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2014"	"2014"	1452	12466642	11.6
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2015"	"2015"	1607	12513446	12.8
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2016"	"2016"	2160	12547310	17.2
+	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"	"2017"	"2017"	2575	12616513	20.4
+"Total"	"Division 3: East North Central"	"CENS-D3"	"Large Fringe Metro"	"2"			14285	135845266	10.5
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2007"	"2007"	388	7474571	5.2
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2008"	"2008"	545	7475602	7.3
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2009"	"2009"	478	7484208	6.4
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2010"	"2010"	680	7489347	9.1
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2011"	"2011"	698	7503444	9.3
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2012"	"2012"	739	7508040	9.8
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2013"	"2013"	797	7525806	10.6
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2014"	"2014"	1078	7531500	14.3
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2015"	"2015"	1282	7539059	17.0
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2016"	"2016"	1875	7545738	24.8
+	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"	"2017"	"2017"	2152	7556156	28.5
+"Total"	"Division 3: East North Central"	"CENS-D3"	"Medium Metro"	"3"			10712	82633471	13.0
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2007"	"2007"	273	5208922	5.2
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2008"	"2008"	275	5223073	5.3
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2009"	"2009"	302	5234676	5.8
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2010"	"2010"	280	5242479	5.3
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2011"	"2011"	353	5250206	6.7
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2012"	"2012"	371	5253390	7.1
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2013"	"2013"	405	5258846	7.7
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2014"	"2014"	527	5264519	10.0
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2015"	"2015"	650	5264843	12.3
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2016"	"2016"	784	5255515	14.9
+	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"	"2017"	"2017"	929	5259959	17.7
+"Total"	"Division 3: East North Central"	"CENS-D3"	"Small Metro"	"4"			5149	57716428	8.9
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	260	5776159	4.5
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	301	5780390	5.2
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	332	5768620	5.8
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	349	5768561	6.1
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	392	5764147	6.8
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	390	5746269	6.8
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	458	5737715	8.0
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	586	5730183	10.2
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	727	5717988	12.7
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	876	5702167	15.4
+	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	1077	5692694	18.9
+"Total"	"Division 3: East North Central"	"CENS-D3"	"Micropolitan (Nonmetro)"	"5"			5748	63184893	9.1
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	136	2985667	4.6
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	129	2976688	4.3
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	151	2962594	5.1
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	156	2957143	5.3
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	163	2949522	5.5
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	164	2933699	5.6
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	212	2928276	7.2
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	225	2917197	7.7
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	250	2905759	8.6
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	333	2894559	11.5
+	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	421	2889965	14.6
+"Total"	"Division 3: East North Central"	"CENS-D3"	"NonCore (Nonmetro)"	"6"			2340	32301069	7.2
+"Total"	"Division 3: East North Central"	"CENS-D3"					57776	512155633	11.3
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2007"	"2007"	167	2607144	6.4
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2008"	"2008"	200	2621445	7.6
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2009"	"2009"	221	2642916	8.4
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2010"	"2010"	223	2654517	8.4
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2011"	"2011"	242	2677556	9.0
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2012"	"2012"	244	2700277	9.0
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2013"	"2013"	285	2723904	10.5
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2014"	"2014"	303	2745329	11.0
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2015"	"2015"	302	2764590	10.9
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2016"	"2016"	433	2776337	15.6
+	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"	"2017"	"2017"	453	2807519	16.1
+"Total"	"Division 4: West North Central"	"CENS-D4"	"Large Central Metro"	"1"			3073	29721534	10.3
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2007"	"2007"	230	4555077	5.0
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2008"	"2008"	317	4598590	6.9
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2009"	"2009"	375	4635869	8.1
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2010"	"2010"	381	4662357	8.2
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2011"	"2011"	443	4699616	9.4
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2012"	"2012"	422	4729659	8.9
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2013"	"2013"	459	4766235	9.6
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2014"	"2014"	520	4804353	10.8
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2015"	"2015"	481	4838458	9.9
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2016"	"2016"	656	4866977	13.5
+	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"	"2017"	"2017"	647	4909959	13.2
+"Total"	"Division 4: West North Central"	"CENS-D4"	"Large Fringe Metro"	"2"			4931	52067150	9.5
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2007"	"2007"	200	3371870	5.9
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2008"	"2008"	185	3416453	5.4
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2009"	"2009"	233	3458923	6.7
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2010"	"2010"	214	3486630	6.1
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2011"	"2011"	242	3523746	6.9
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2012"	"2012"	247	3554790	6.9
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2013"	"2013"	223	3586567	6.2
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2014"	"2014"	244	3622880	6.7
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2015"	"2015"	275	3659664	7.5
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2016"	"2016"	261	3687988	7.1
+	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"	"2017"	"2017"	309	3719871	8.3
+"Total"	"Division 4: West North Central"	"CENS-D4"	"Medium Metro"	"3"			2633	39089382	6.7
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2007"	"2007"	113	3094302	3.7
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2008"	"2008"	115	3131592	3.7
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2009"	"2009"	147	3167546	4.6
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2010"	"2010"	139	3191373	4.4
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2011"	"2011"	114	3221332	3.5
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2012"	"2012"	120	3249304	3.7
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2013"	"2013"	132	3285608	4.0
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2014"	"2014"	169	3315511	5.1
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2015"	"2015"	162	3343732	4.8
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2016"	"2016"	195	3364306	5.8
+	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"	"2017"	"2017"	179	3384750	5.3
+"Total"	"Division 4: West North Central"	"CENS-D4"	"Small Metro"	"4"			1585	35749356	4.4
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	94	3078723	3.1
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	107	3091324	3.5
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	151	3107158	4.9
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	130	3124686	4.2
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	155	3138645	4.9
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	137	3148267	4.4
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	148	3157809	4.7
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	159	3160245	5.0
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	144	3165936	4.5
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	162	3156984	5.1
+	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	169	3150333	5.4
+"Total"	"Division 4: West North Central"	"CENS-D4"	"Micropolitan (Nonmetro)"	"5"			1556	34480110	4.5
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	106	3398581	3.1
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	135	3389411	4.0
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	128	3380171	3.8
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	153	3385874	4.5
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	126	3378856	3.7
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	148	3367428	4.4
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	162	3365587	4.8
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	147	3357751	4.4
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	172	3348012	5.1
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	142	3332864	4.3
+	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	168	3321675	5.1
+"Total"	"Division 4: West North Central"	"CENS-D4"	"NonCore (Nonmetro)"	"6"			1587	37026210	4.3
+"Total"	"Division 4: West North Central"	"CENS-D4"					15365	228133742	6.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2007"	"2007"	951	11414520	8.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2008"	"2008"	876	11559892	7.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2009"	"2009"	964	11715612	8.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2010"	"2010"	898	11848912	7.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2011"	"2011"	997	12092169	8.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2012"	"2012"	962	12295007	7.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2013"	"2013"	957	12449566	7.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2014"	"2014"	1163	12648948	9.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2015"	"2015"	1416	12858139	11.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2016"	"2016"	2239	13018078	17.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"	"2017"	"2017"	2459	13231161	18.6
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"Large Central Metro"	"1"			13882	135132004	10.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2007"	"2007"	1344	19795499	6.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2008"	"2008"	1345	20061690	6.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2009"	"2009"	1463	20297365	7.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2010"	"2010"	1432	20484434	7.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2011"	"2011"	1480	20768480	7.1
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2012"	"2012"	1461	21048244	6.9
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2013"	"2013"	1613	21309807	7.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2014"	"2014"	1900	21626034	8.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2015"	"2015"	2325	21927224	10.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2016"	"2016"	3551	22165977	16.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"	"2017"	"2017"	4140	22485746	18.4
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"Large Fringe Metro"	"2"			22054	231970500	9.5
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2007"	"2007"	1059	13821274	7.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2008"	"2008"	1170	14008927	8.4
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2009"	"2009"	1200	14143931	8.5
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2010"	"2010"	1310	14243450	9.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2011"	"2011"	1308	14405420	9.1
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2012"	"2012"	1133	14562489	7.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2013"	"2013"	1220	14725278	8.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2014"	"2014"	1579	14908045	10.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2015"	"2015"	2015	15130254	13.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2016"	"2016"	2452	15344218	16.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"	"2017"	"2017"	2997	15552443	19.3
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"Medium Metro"	"3"			17443	160845729	10.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2007"	"2007"	411	5642315	7.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2008"	"2008"	440	5712759	7.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2009"	"2009"	393	5769825	6.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2010"	"2010"	497	5807335	8.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2011"	"2011"	565	5854324	9.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2012"	"2012"	521	5901676	8.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2013"	"2013"	554	5932352	9.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2014"	"2014"	634	5978526	10.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2015"	"2015"	704	6011436	11.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2016"	"2016"	893	6054518	14.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"	"2017"	"2017"	998	6094116	16.4
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"Small Metro"	"4"			6610	64759182	10.2
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	391	3928656	10.0
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	384	3964343	9.7
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	342	3981280	8.6
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	405	3996182	10.1
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	438	4006525	10.9
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	437	4007861	10.9
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	375	4002191	9.4
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	512	4000796	12.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	494	4003525	12.3
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	553	4009275	13.8
+	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	652	4016596	16.2
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"Micropolitan (Nonmetro)"	"5"			4983	43917230	11.3
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	299	3362326	8.9
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	334	3385863	9.9
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	293	3392973	8.6
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	381	3396724	11.2
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	388	3386853	11.5
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	364	3373290	10.8
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	340	3364453	10.1
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	373	3352266	11.1
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	413	3346186	12.3
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	433	3331243	13.0
+	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	493	3325470	14.8
+"Total"	"Division 5: South Atlantic"	"CENS-D5"	"NonCore (Nonmetro)"	"6"			4111	37017647	11.1
+"Total"	"Division 5: South Atlantic"	"CENS-D5"					69083	673642292	10.3
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2007"	"2007"	140	2904353	4.8
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2008"	"2008"	156	2920038	5.3
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2009"	"2009"	227	2938695	7.7
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2010"	"2010"	225	2953887	7.6
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2011"	"2011"	248	2976400	8.3
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2012"	"2012"	293	2999896	9.8
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2013"	"2013"	375	3014378	12.4
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2014"	"2014"	468	3027969	15.5
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2015"	"2015"	522	3040948	17.2
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2016"	"2016"	696	3043886	22.9
+	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"	"2017"	"2017"	779	3058559	25.5
+"Total"	"Division 6: East South Central"	"CENS-D6"	"Large Central Metro"	"1"			4129	32879009	12.6
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2007"	"2007"	155	2394894	6.5
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2008"	"2008"	197	2447457	8.0
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2009"	"2009"	177	2483619	7.1
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2010"	"2010"	260	2503551	10.4
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2011"	"2011"	264	2535320	10.4
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2012"	"2012"	346	2560384	13.5
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2013"	"2013"	297	2592786	11.5
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2014"	"2014"	361	2629044	13.7
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2015"	"2015"	493	2666235	18.5
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2016"	"2016"	519	2703803	19.2
+	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"	"2017"	"2017"	590	2747332	21.5
+"Total"	"Division 6: East South Central"	"CENS-D6"	"Large Fringe Metro"	"2"			3659	28264425	12.9
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2007"	"2007"	289	4360554	6.6
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2008"	"2008"	327	4409759	7.4
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2009"	"2009"	297	4458794	6.7
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2010"	"2010"	368	4491357	8.2
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2011"	"2011"	364	4537571	8.0
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2012"	"2012"	381	4577752	8.3
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2013"	"2013"	396	4593413	8.6
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2014"	"2014"	450	4622513	9.7
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2015"	"2015"	589	4646069	12.7
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2016"	"2016"	723	4669380	15.5
+	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"	"2017"	"2017"	814	4695910	17.3
+"Total"	"Division 6: East South Central"	"CENS-D6"	"Medium Metro"	"3"			4998	50063072	10.0
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2007"	"2007"	109	2273050	4.8
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2008"	"2008"	82	2300223	3.6
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2009"	"2009"	98	2325850	4.2
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2010"	"2010"	117	2345278	5.0
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2011"	"2011"	126	2366188	5.3
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2012"	"2012"	115	2381296	4.8
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2013"	"2013"	119	2395889	5.0
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2014"	"2014"	151	2409605	6.3
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2015"	"2015"	158	2418266	6.5
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2016"	"2016"	189	2430258	7.8
+	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"	"2017"	"2017"	236	2445537	9.7
+"Total"	"Division 6: East South Central"	"CENS-D6"	"Small Metro"	"4"			1500	26091440	5.7
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	184	3127229	5.9
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	190	3146117	6.0
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	223	3155907	7.1
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	236	3163726	7.5
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	257	3172123	8.1
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	278	3173800	8.8
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	243	3178109	7.6
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	282	3184061	8.9
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	301	3183365	9.5
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	327	3183426	10.3
+	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	386	3184886	12.1
+"Total"	"Division 6: East South Central"	"CENS-D6"	"Micropolitan (Nonmetro)"	"5"			2907	34852749	8.3
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	243	2973509	8.2
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	225	2979707	7.6
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	289	2976940	9.7
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	369	2974706	12.4
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	375	2966359	12.6
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	335	2950479	11.4
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	326	2941627	11.1
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	341	2933073	11.6
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	371	2921820	12.7
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	329	2909441	11.3
+	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	309	2896796	10.7
+"Total"	"Division 6: East South Central"	"CENS-D6"	"NonCore (Nonmetro)"	"6"			3512	32424457	10.8
+"Total"	"Division 6: East South Central"	"CENS-D6"					20705	204575152	10.1
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2007"	"2007"	706	12111788	5.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2008"	"2008"	539	12375198	4.4
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2009"	"2009"	745	12662642	5.9
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2010"	"2010"	719	12853474	5.6
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2011"	"2011"	768	13171343	5.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2012"	"2012"	777	13414657	5.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2013"	"2013"	761	13656027	5.6
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2014"	"2014"	805	13948155	5.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2015"	"2015"	850	14228830	6.0
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2016"	"2016"	929	14423837	6.4
+	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"	"2017"	"2017"	932	14661732	6.4
+"Total"	"Division 7: West South Central"	"CENS-D7"	"Large Central Metro"	"1"			8531	147507683	5.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2007"	"2007"	326	5446868	6.0
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2008"	"2008"	310	5610618	5.5
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2009"	"2009"	337	5749767	5.9
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2010"	"2010"	340	5845708	5.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2011"	"2011"	335	5989748	5.6
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2012"	"2012"	373	6105357	6.1
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2013"	"2013"	373	6239045	6.0
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2014"	"2014"	377	6406470	5.9
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2015"	"2015"	441	6586151	6.7
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2016"	"2016"	462	6759299	6.8
+	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"	"2017"	"2017"	567	6928407	8.2
+"Total"	"Division 7: West South Central"	"CENS-D7"	"Large Fringe Metro"	"2"			4241	67667438	6.3
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2007"	"2007"	468	7990944	5.9
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2008"	"2008"	422	8110714	5.2
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2009"	"2009"	490	8231713	6.0
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2010"	"2010"	478	8334469	5.7
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2011"	"2011"	410	8462748	4.8
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2012"	"2012"	436	8531541	5.1
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2013"	"2013"	477	8596814	5.5
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2014"	"2014"	482	8671586	5.6
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2015"	"2015"	473	8749499	5.4
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2016"	"2016"	517	8803014	5.9
+	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"	"2017"	"2017"	568	8857241	6.4
+"Total"	"Division 7: West South Central"	"CENS-D7"	"Medium Metro"	"3"			5221	93340283	5.6
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2007"	"2007"	110	2943508	3.7
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2008"	"2008"	120	2971291	4.0
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2009"	"2009"	126	3008247	4.2
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2010"	"2010"	135	3030847	4.5
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2011"	"2011"	112	3057901	3.7
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2012"	"2012"	99	3079612	3.2
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2013"	"2013"	111	3100689	3.6
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2014"	"2014"	144	3130132	4.6
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2015"	"2015"	146	3161483	4.6
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2016"	"2016"	132	3174123	4.2
+	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"	"2017"	"2017"	132	3186173	4.1
+"Total"	"Division 7: West South Central"	"CENS-D7"	"Small Metro"	"4"			1367	33844006	4.0
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	176	3314032	5.3
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	216	3331300	6.5
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	243	3361003	7.2
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	182	3378358	5.4
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	217	3393507	6.4
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	221	3400326	6.5
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	200	3400926	5.9
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	203	3408156	6.0
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	225	3416248	6.6
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	218	3411038	6.4
+	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	191	3405426	5.6
+"Total"	"Division 7: West South Central"	"CENS-D7"	"Micropolitan (Nonmetro)"	"5"			2292	37220320	6.2
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	162	2883423	5.6
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	146	2889034	5.1
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	191	2894452	6.6
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	168	2903346	5.8
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	165	2903757	5.7
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	172	2893554	5.9
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	158	2890103	5.5
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	157	2886555	5.4
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	166	2887169	5.7
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	162	2884760	5.6
+	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	177	2885093	6.1
+"Total"	"Division 7: West South Central"	"CENS-D7"	"NonCore (Nonmetro)"	"6"			1824	31801246	5.7
+"Total"	"Division 7: West South Central"	"CENS-D7"					23476	411380976	5.7
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2007"	"2007"	885	7127885	12.4
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2008"	"2008"	902	7258684	12.4
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2009"	"2009"	996	7348992	13.6
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2010"	"2010"	921	7398199	12.4
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2011"	"2011"	960	7519172	12.8
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2012"	"2012"	877	7641035	11.5
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2013"	"2013"	856	7766496	11.0
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2014"	"2014"	926	7912476	11.7
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2015"	"2015"	985	8072607	12.2
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2016"	"2016"	1109	8213075	13.5
+	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"	"2017"	"2017"	1254	8351382	15.0
+"Total"	"Division 8: Mountain"	"CENS-D8"	"Large Central Metro"	"1"			10671	84610003	12.6
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2007"	"2007"	147	2214286	6.6
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2008"	"2008"	146	2279470	6.4
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2009"	"2009"	163	2327454	7.0
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2010"	"2010"	122	2377312	5.1
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2011"	"2011"	186	2421854	7.7
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2012"	"2012"	195	2458179	7.9
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2013"	"2013"	203	2498093	8.1
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2014"	"2014"	248	2553912	9.7
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2015"	"2015"	253	2601321	9.7
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2016"	"2016"	248	2643390	9.4
+	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"	"2017"	"2017"	232	2681299	8.7
+"Total"	"Division 8: Mountain"	"CENS-D8"	"Large Fringe Metro"	"2"			2143	27056570	7.9
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2007"	"2007"	592	5270234	11.2
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2008"	"2008"	635	5374545	11.8
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2009"	"2009"	625	5458016	11.5
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2010"	"2010"	606	5525922	11.0
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2011"	"2011"	659	5616381	11.7
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2012"	"2012"	696	5676968	12.3
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2013"	"2013"	701	5745271	12.2
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2014"	"2014"	801	5823301	13.8
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2015"	"2015"	766	5909753	13.0
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2016"	"2016"	819	6002406	13.6
+	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"	"2017"	"2017"	826	6085967	13.6
+"Total"	"Division 8: Mountain"	"CENS-D8"	"Medium Metro"	"3"			7726	62488764	12.4
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2007"	"2007"	196	2790526	7.0
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2008"	"2008"	231	2832776	8.2
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2009"	"2009"	263	2869870	9.2
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2010"	"2010"	277	2891412	9.6
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2011"	"2011"	248	2923881	8.5
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2012"	"2012"	317	2940542	10.8
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2013"	"2013"	313	2954246	10.6
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2014"	"2014"	279	2973043	9.4
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2015"	"2015"	347	2992519	11.6
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2016"	"2016"	298	3015826	9.9
+	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"	"2017"	"2017"	343	3052590	11.2
+"Total"	"Division 8: Mountain"	"CENS-D8"	"Small Metro"	"4"			3112	32237231	9.7
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	172	2462286	7.0
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	195	2496775	7.8
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	190	2530605	7.5
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	208	2544215	8.2
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	231	2561558	9.0
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	236	2570320	9.2
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	262	2584469	10.1
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	270	2604333	10.4
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	262	2621125	10.0
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	280	2639117	10.6
+	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	282	2646567	10.7
+"Total"	"Division 8: Mountain"	"CENS-D8"	"Micropolitan (Nonmetro)"	"5"			2588	28261370	9.2
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	85	1299907	6.5
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	102	1311941	7.8
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	97	1323572	7.3
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	100	1328391	7.5
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	105	1330565	7.9
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	90	1330830	6.8
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	91	1332670	6.8
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	115	1330054	8.6
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	103	1333173	7.7
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	135	1341253	10.1
+	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	104	1340312	7.8
+"Total"	"Division 8: Mountain"	"CENS-D8"	"NonCore (Nonmetro)"	"6"			1127	14602668	7.7
+"Total"	"Division 8: Mountain"	"CENS-D8"					27367	249256606	11.0
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2007"	"2007"	1300	25556273	5.1
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2008"	"2008"	1364	25816339	5.3
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2009"	"2009"	1522	26096437	5.8
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2010"	"2010"	1474	26296310	5.6
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2011"	"2011"	1512	26630427	5.7
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2012"	"2012"	1385	26933671	5.1
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2013"	"2013"	1602	27186279	5.9
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2014"	"2014"	1592	27551622	5.8
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2015"	"2015"	1565	27830444	5.6
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2016"	"2016"	1660	27918126	5.9
+	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"	"2017"	"2017"	1827	28127383	6.5
+"Total"	"Division 9: Pacific"	"CENS-D9"	"Large Central Metro"	"1"			16803	295943311	5.7
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2007"	"2007"	443	7593048	5.8
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2008"	"2008"	514	7687332	6.7
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2009"	"2009"	547	7776622	7.0
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2010"	"2010"	463	7839938	5.9
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2011"	"2011"	543	7954793	6.8
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2012"	"2012"	501	8034796	6.2
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2013"	"2013"	468	8113628	5.8
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2014"	"2014"	489	8226973	5.9
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2015"	"2015"	466	8328274	5.6
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2016"	"2016"	482	8416164	5.7
+	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"	"2017"	"2017"	535	8515797	6.3
+"Total"	"Division 9: Pacific"	"CENS-D9"	"Large Fringe Metro"	"2"			5451	88487365	6.2
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2007"	"2007"	698	9784424	7.1
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2008"	"2008"	708	9900479	7.2
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2009"	"2009"	801	10019922	8.0
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2010"	"2010"	735	10120294	7.3
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2011"	"2011"	748	10244856	7.3
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2012"	"2012"	673	10324437	6.5
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2013"	"2013"	661	10395850	6.4
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2014"	"2014"	747	10501533	7.1
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2015"	"2015"	782	10600934	7.4
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2016"	"2016"	740	10664391	6.9
+	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"	"2017"	"2017"	771	10752922	7.2
+"Total"	"Division 9: Pacific"	"CENS-D9"	"Medium Metro"	"3"			8064	113310042	7.1
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2007"	"2007"	202	2852268	7.1
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2008"	"2008"	214	2889885	7.4
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2009"	"2009"	232	2915073	8.0
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2010"	"2010"	229	2936430	7.8
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2011"	"2011"	261	2964935	8.8
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2012"	"2012"	251	2973426	8.4
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2013"	"2013"	226	2987112	7.6
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2014"	"2014"	244	3010790	8.1
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2015"	"2015"	240	3038558	7.9
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2016"	"2016"	229	3067529	7.5
+	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"	"2017"	"2017"	237	3096196	7.7
+"Total"	"Division 9: Pacific"	"CENS-D9"	"Small Metro"	"4"			2565	32732202	7.8
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2007"	"2007"	201	1937042	10.4
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2008"	"2008"	226	1951955	11.6
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2009"	"2009"	209	1963392	10.6
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2010"	"2010"	211	1972735	10.7
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2011"	"2011"	200	1979542	10.1
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2012"	"2012"	196	1980606	9.9
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2013"	"2013"	193	1978702	9.8
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2014"	"2014"	199	1987251	10.0
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2015"	"2015"	212	2001760	10.6
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2016"	"2016"	193	2018263	9.6
+	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"	"2017"	"2017"	204	2036073	10.0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"Micropolitan (Nonmetro)"	"5"			2244	21807321	10.3
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2007"	"2007"	53	707235	7.5
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2008"	"2008"	75	708994	10.6
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2009"	"2009"	89	711421	12.5
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2010"	"2010"	80	714395	11.2
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2011"	"2011"	57	716784	8.0
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2012"	"2012"	72	714621	10.1
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2013"	"2013"	54	711607	7.6
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2014"	"2014"	68	712393	9.5
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2015"	"2015"	78	714211	10.9
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2016"	"2016"	79	717460	11.0
+	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"	"2017"	"2017"	51	724134	7.0
+"Total"	"Division 9: Pacific"	"CENS-D9"	"NonCore (Nonmetro)"	"6"			756	7853255	9.6
+"Total"	"Division 9: Pacific"	"CENS-D9"					35883	560133496	6.4
+"Total"							313048	3451599603	9.1
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2007; 2008; 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: Census Division; 2013 Urbanization; Year"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Feb 7, 2020 11:08:55 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Feb 7, 2020 11:08:55 AM"
+"---"
+Messages:
+"1. Selections made to any variable in [Census Regions, 2013 Urbanization] cause equivalent selections in the other variables."
+"More Information: http://wonder.cdc.gov/wonder/help/faq.html#related-variables."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"4. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

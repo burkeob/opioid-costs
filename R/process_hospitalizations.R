@@ -7,7 +7,7 @@ library(readr)
 # this.dir <- dirname(rstudioapi::getSourceEditorContext()$path)
 # setwd(this.dir)
 
-files <- list.files("../data/Hospitalization")
+files <- list.files("../data/Updated Hospitalization")
 
 files <- files[str_detect(files, ".csv")]
 
@@ -20,7 +20,7 @@ d <- tibble(location = character(),
                 per_capita_costs = character())
 
 for (i in 1:length(files)) {
-  d. <- read_csv(str_c("../data/Hospitalization/", files[i]))
+  d. <- read_csv(str_c("../data/Updated Hospitalization/", files[i]))
   names(d.)[1] <- 'X1' # assign first column name X1
 # filter out county names-- these rows begin with "2014 -countyname-, -Statename-"
   county_names <- d. %>% filter(str_detect(X1, '2014')) %>% slice(-1) %>% pull(X1)
@@ -57,4 +57,4 @@ d <- d %>% separate(location, c("region_name", "state_name"), ",") %>%
          total_costs = str_replace(total_costs, "\\*", "") %>% as.numeric,
          per_capita_costs = str_replace(per_capita_costs, "\\*", "") %>% as.numeric)
 
-write_rds(d, "../data/hospitalization_costs.rds")
+write_rds(d, "../data/new_hospitalization_costs.rds")

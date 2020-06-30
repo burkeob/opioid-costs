@@ -1,0 +1,2131 @@
+"Notes"	"County"	"County Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Jefferson County, AL"	"01073"	"25-34 years"	"25-34"	"2007"	"2007"	11	91688	Unreliable
+	"Jefferson County, AL"	"01073"	"25-34 years"	"25-34"	"2008"	"2008"	13	92238	Unreliable
+	"Jefferson County, AL"	"01073"	"25-34 years"	"25-34"	"2009"	"2009"	14	93216	Unreliable
+	"Jefferson County, AL"	"01073"	"25-34 years"	"25-34"	"2010"	"2010"	12	93297	Unreliable
+	"Jefferson County, AL"	"01073"	"25-34 years"	"25-34"	"2011"	"2011"	10	94558	Unreliable
+	"Jefferson County, AL"	"01073"	"35-44 years"	"35-44"	"2008"	"2008"	13	86025	Unreliable
+	"Jefferson County, AL"	"01073"	"35-44 years"	"35-44"	"2009"	"2009"	12	84776	Unreliable
+	"Jefferson County, AL"	"01073"	"35-44 years"	"35-44"	"2011"	"2011"	10	82074	Unreliable
+	"Jefferson County, AL"	"01073"	"45-54 years"	"45-54"	"2009"	"2009"	20	96229	20.8
+	"Jefferson County, AL"	"01073"	"45-54 years"	"45-54"	"2011"	"2011"	11	93013	Unreliable
+	"Anchorage Borough, AK"	"02020"	"25-34 years"	"25-34"	"2010"	"2010"	10	45440	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2008"	"2008"	13	44516	Unreliable
+	"Anchorage Borough, AK"	"02020"	"45-54 years"	"45-54"	"2009"	"2009"	15	45121	Unreliable
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"2007"	"2007"	32	527908	6.1
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"2008"	"2008"	30	538454	5.6
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"2009"	"2009"	52	542971	9.6
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"2010"	"2010"	44	543771	8.1
+	"Maricopa County, AZ"	"04013"	"15-24 years"	"15-24"	"2011"	"2011"	49	549661	8.9
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"2007"	"2007"	48	551446	8.7
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"2008"	"2008"	53	552012	9.6
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"2009"	"2009"	62	548628	11.3
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"2010"	"2010"	67	541126	12.4
+	"Maricopa County, AZ"	"04013"	"25-34 years"	"25-34"	"2011"	"2011"	65	551691	11.8
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"2007"	"2007"	67	531393	12.6
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"2008"	"2008"	59	531200	11.1
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"2009"	"2009"	51	528661	9.6
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"2010"	"2010"	58	524598	11.1
+	"Maricopa County, AZ"	"04013"	"35-44 years"	"35-44"	"2011"	"2011"	47	526563	8.9
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"2007"	"2007"	98	476923	20.5
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"2008"	"2008"	86	489163	17.6
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"2009"	"2009"	92	498838	18.4
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"2010"	"2010"	87	503965	17.3
+	"Maricopa County, AZ"	"04013"	"45-54 years"	"45-54"	"2011"	"2011"	67	508990	13.2
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"2007"	"2007"	26	361831	7.2
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"2008"	"2008"	39	373416	10.4
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"2009"	"2009"	32	386343	8.3
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"2010"	"2010"	54	398309	13.6
+	"Maricopa County, AZ"	"04013"	"55-64 years"	"55-64"	"2011"	"2011"	47	417781	11.2
+	"Maricopa County, AZ"	"04013"	"65-74 years"	"65-74"	"2007"	"2007"	11	223555	Unreliable
+	"Maricopa County, AZ"	"04013"	"65-74 years"	"65-74"	"2011"	"2011"	13	268677	Unreliable
+	"Mohave County, AZ"	"04015"	"25-34 years"	"25-34"	"2009"	"2009"	10	18256	Unreliable
+	"Mohave County, AZ"	"04015"	"45-54 years"	"45-54"	"2008"	"2008"	10	28810	Unreliable
+	"Mohave County, AZ"	"04015"	"45-54 years"	"45-54"	"2009"	"2009"	15	28821	Unreliable
+	"Mohave County, AZ"	"04015"	"45-54 years"	"45-54"	"2010"	"2010"	17	28724	Unreliable
+	"Mohave County, AZ"	"04015"	"45-54 years"	"45-54"	"2011"	"2011"	14	27950	Unreliable
+	"Mohave County, AZ"	"04015"	"55-64 years"	"55-64"	"2010"	"2010"	10	31509	Unreliable
+	"Mohave County, AZ"	"04015"	"55-64 years"	"55-64"	"2011"	"2011"	14	32671	Unreliable
+	"Pima County, AZ"	"04019"	"15-24 years"	"15-24"	"2007"	"2007"	17	142460	Unreliable
+	"Pima County, AZ"	"04019"	"15-24 years"	"15-24"	"2009"	"2009"	16	146255	Unreliable
+	"Pima County, AZ"	"04019"	"15-24 years"	"15-24"	"2010"	"2010"	20	146684	13.6
+	"Pima County, AZ"	"04019"	"15-24 years"	"15-24"	"2011"	"2011"	17	146331	Unreliable
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"2007"	"2007"	15	125489	Unreliable
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"2008"	"2008"	11	125930	Unreliable
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"2009"	"2009"	28	126406	22.2
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"2010"	"2010"	34	126173	26.9
+	"Pima County, AZ"	"04019"	"25-34 years"	"25-34"	"2011"	"2011"	30	128565	23.3
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"2007"	"2007"	30	120097	25.0
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"2008"	"2008"	20	118729	16.8
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"2009"	"2009"	36	116708	30.8
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"2010"	"2010"	26	115795	22.5
+	"Pima County, AZ"	"04019"	"35-44 years"	"35-44"	"2011"	"2011"	37	115226	32.1
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"2007"	"2007"	23	131560	17.5
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"2008"	"2008"	31	132257	23.4
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"2009"	"2009"	40	132021	30.3
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"2010"	"2010"	38	131528	28.9
+	"Pima County, AZ"	"04019"	"45-54 years"	"45-54"	"2011"	"2011"	32	129769	24.7
+	"Pima County, AZ"	"04019"	"55-64 years"	"55-64"	"2009"	"2009"	15	119810	Unreliable
+	"Pima County, AZ"	"04019"	"55-64 years"	"55-64"	"2010"	"2010"	22	122367	18.0
+	"Pima County, AZ"	"04019"	"55-64 years"	"55-64"	"2011"	"2011"	16	126405	Unreliable
+	"Pinal County, AZ"	"04021"	"45-54 years"	"45-54"	"2009"	"2009"	15	41707	Unreliable
+	"Yavapai County, AZ"	"04025"	"45-54 years"	"45-54"	"2009"	"2009"	13	30497	Unreliable
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"2007"	"2007"	10	215481	Unreliable
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"2009"	"2009"	11	221319	Unreliable
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"2010"	"2010"	14	222617	Unreliable
+	"Alameda County, CA"	"06001"	"45-54 years"	"45-54"	"2011"	"2011"	14	222821	Unreliable
+	"Alameda County, CA"	"06001"	"55-64 years"	"55-64"	"2011"	"2011"	16	181234	Unreliable
+	"Contra Costa County, CA"	"06013"	"35-44 years"	"35-44"	"2007"	"2007"	10	153366	Unreliable
+	"Contra Costa County, CA"	"06013"	"35-44 years"	"35-44"	"2008"	"2008"	12	151716	Unreliable
+	"Contra Costa County, CA"	"06013"	"45-54 years"	"45-54"	"2008"	"2008"	19	160015	Unreliable
+	"Contra Costa County, CA"	"06013"	"45-54 years"	"45-54"	"2009"	"2009"	12	162859	Unreliable
+	"Contra Costa County, CA"	"06013"	"45-54 years"	"45-54"	"2011"	"2011"	10	164699	Unreliable
+	"Contra Costa County, CA"	"06013"	"55-64 years"	"55-64"	"2007"	"2007"	10	115850	Unreliable
+	"Contra Costa County, CA"	"06013"	"55-64 years"	"55-64"	"2008"	"2008"	14	119600	Unreliable
+	"Fresno County, CA"	"06019"	"25-34 years"	"25-34"	"2009"	"2009"	15	131610	Unreliable
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"2007"	"2007"	14	115567	Unreliable
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"2008"	"2008"	13	115179	Unreliable
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"2009"	"2009"	10	114543	Unreliable
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"2010"	"2010"	16	114369	Unreliable
+	"Fresno County, CA"	"06019"	"35-44 years"	"35-44"	"2011"	"2011"	10	114872	Unreliable
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"2007"	"2007"	29	111410	26.0
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"2008"	"2008"	29	113275	25.6
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"2009"	"2009"	20	114278	17.5
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"2010"	"2010"	24	115052	20.9
+	"Fresno County, CA"	"06019"	"45-54 years"	"45-54"	"2011"	"2011"	27	115345	23.4
+	"Fresno County, CA"	"06019"	"55-64 years"	"55-64"	"2009"	"2009"	11	85803	Unreliable
+	"Fresno County, CA"	"06019"	"55-64 years"	"55-64"	"2010"	"2010"	15	88854	Unreliable
+	"Fresno County, CA"	"06019"	"55-64 years"	"55-64"	"2011"	"2011"	10	92681	Unreliable
+	"Kern County, CA"	"06029"	"25-34 years"	"25-34"	"2008"	"2008"	11	117795	Unreliable
+	"Kern County, CA"	"06029"	"35-44 years"	"35-44"	"2007"	"2007"	11	109831	Unreliable
+	"Kern County, CA"	"06029"	"35-44 years"	"35-44"	"2009"	"2009"	12	108318	Unreliable
+	"Kern County, CA"	"06029"	"45-54 years"	"45-54"	"2007"	"2007"	16	103969	Unreliable
+	"Kern County, CA"	"06029"	"45-54 years"	"45-54"	"2008"	"2008"	24	106355	22.6
+	"Kern County, CA"	"06029"	"45-54 years"	"45-54"	"2009"	"2009"	14	107847	Unreliable
+	"Kern County, CA"	"06029"	"45-54 years"	"45-54"	"2011"	"2011"	12	108206	Unreliable
+	"Kern County, CA"	"06029"	"55-64 years"	"55-64"	"2009"	"2009"	10	74495	Unreliable
+	"Kern County, CA"	"06029"	"55-64 years"	"55-64"	"2010"	"2010"	11	77285	Unreliable
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"2007"	"2007"	18	1468863	Unreliable
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"2008"	"2008"	15	1483593	Unreliable
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"2009"	"2009"	21	1498872	1.4
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"2010"	"2010"	38	1506418	2.5
+	"Los Angeles County, CA"	"06037"	"15-24 years"	"15-24"	"2011"	"2011"	26	1502269	1.7
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"2007"	"2007"	32	1482639	2.2
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"2008"	"2008"	33	1478765	2.2
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"2009"	"2009"	41	1478176	2.8
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"2010"	"2010"	37	1475731	2.5
+	"Los Angeles County, CA"	"06037"	"25-34 years"	"25-34"	"2011"	"2011"	63	1493904	4.2
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"2007"	"2007"	60	1480261	4.1
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"2008"	"2008"	58	1461350	4.0
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"2009"	"2009"	63	1443328	4.4
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"2010"	"2010"	47	1430326	3.3
+	"Los Angeles County, CA"	"06037"	"35-44 years"	"35-44"	"2011"	"2011"	47	1420986	3.3
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"2007"	"2007"	108	1329239	8.1
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"2008"	"2008"	81	1345965	6.0
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"2009"	"2009"	114	1362368	8.4
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"2010"	"2010"	79	1368947	5.8
+	"Los Angeles County, CA"	"06037"	"45-54 years"	"45-54"	"2011"	"2011"	75	1370921	5.5
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"2007"	"2007"	47	914704	5.1
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"2008"	"2008"	45	945350	4.8
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"2009"	"2009"	51	981839	5.2
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"2010"	"2010"	53	1013156	5.2
+	"Los Angeles County, CA"	"06037"	"55-64 years"	"55-64"	"2011"	"2011"	45	1058231	4.3
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"2009"	"2009"	12	556136	Unreliable
+	"Los Angeles County, CA"	"06037"	"65-74 years"	"65-74"	"2010"	"2010"	10	568470	Unreliable
+	"Monterey County, CA"	"06053"	"25-34 years"	"25-34"	"2011"	"2011"	10	63541	Unreliable
+	"Orange County, CA"	"06059"	"15-24 years"	"15-24"	"2007"	"2007"	26	422791	6.1
+	"Orange County, CA"	"06059"	"15-24 years"	"15-24"	"2008"	"2008"	23	430107	5.3
+	"Orange County, CA"	"06059"	"15-24 years"	"15-24"	"2009"	"2009"	29	436700	6.6
+	"Orange County, CA"	"06059"	"15-24 years"	"15-24"	"2010"	"2010"	29	441290	6.6
+	"Orange County, CA"	"06059"	"15-24 years"	"15-24"	"2011"	"2011"	30	444000	6.8
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"2007"	"2007"	21	409423	5.1
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"2008"	"2008"	34	410250	8.3
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"2009"	"2009"	48	412679	11.6
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"2010"	"2010"	45	413528	10.9
+	"Orange County, CA"	"06059"	"25-34 years"	"25-34"	"2011"	"2011"	46	421768	10.9
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"2007"	"2007"	44	456694	9.6
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"2008"	"2008"	64	450187	14.2
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"2009"	"2009"	53	443295	12.0
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"2010"	"2010"	41	439043	9.3
+	"Orange County, CA"	"06059"	"35-44 years"	"35-44"	"2011"	"2011"	38	436962	8.7
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"2007"	"2007"	55	424037	13.0
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"2008"	"2008"	74	431665	17.1
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"2009"	"2009"	63	439573	14.3
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"2010"	"2010"	54	444185	12.2
+	"Orange County, CA"	"06059"	"45-54 years"	"45-54"	"2011"	"2011"	70	448417	15.6
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"2007"	"2007"	28	292450	9.6
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"2008"	"2008"	33	300944	11.0
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"2009"	"2009"	33	312224	10.6
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"2010"	"2010"	32	321854	9.9
+	"Orange County, CA"	"06059"	"55-64 years"	"55-64"	"2011"	"2011"	32	338184	9.5
+	"Riverside County, CA"	"06065"	"15-24 years"	"15-24"	"2007"	"2007"	10	317243	Unreliable
+	"Riverside County, CA"	"06065"	"15-24 years"	"15-24"	"2008"	"2008"	14	324918	Unreliable
+	"Riverside County, CA"	"06065"	"15-24 years"	"15-24"	"2009"	"2009"	11	333380	Unreliable
+	"Riverside County, CA"	"06065"	"15-24 years"	"15-24"	"2010"	"2010"	13	341697	Unreliable
+	"Riverside County, CA"	"06065"	"15-24 years"	"15-24"	"2011"	"2011"	16	349020	Unreliable
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"2007"	"2007"	10	270170	Unreliable
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"2008"	"2008"	14	272127	Unreliable
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"2009"	"2009"	15	275746	Unreliable
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"2010"	"2010"	17	282429	Unreliable
+	"Riverside County, CA"	"06065"	"25-34 years"	"25-34"	"2011"	"2011"	13	292198	Unreliable
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"2007"	"2007"	13	296576	Unreliable
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"2008"	"2008"	27	294630	9.2
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"2009"	"2009"	28	292371	9.6
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"2010"	"2010"	25	293305	8.5
+	"Riverside County, CA"	"06065"	"35-44 years"	"35-44"	"2011"	"2011"	17	294960	Unreliable
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"2007"	"2007"	29	268469	10.8
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"2008"	"2008"	32	277362	11.5
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"2009"	"2009"	44	286471	15.4
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"2010"	"2010"	35	292738	12.0
+	"Riverside County, CA"	"06065"	"45-54 years"	"45-54"	"2011"	"2011"	37	297935	12.4
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"2007"	"2007"	15	186247	Unreliable
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"2008"	"2008"	19	193536	Unreliable
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"2009"	"2009"	26	203696	12.8
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"2010"	"2010"	18	213739	Unreliable
+	"Riverside County, CA"	"06065"	"55-64 years"	"55-64"	"2011"	"2011"	21	226493	9.3
+	"Sacramento County, CA"	"06067"	"15-24 years"	"15-24"	"2010"	"2010"	10	207588	Unreliable
+	"Sacramento County, CA"	"06067"	"25-34 years"	"25-34"	"2007"	"2007"	12	201903	Unreliable
+	"Sacramento County, CA"	"06067"	"25-34 years"	"25-34"	"2008"	"2008"	11	203522	Unreliable
+	"Sacramento County, CA"	"06067"	"25-34 years"	"25-34"	"2009"	"2009"	16	205436	Unreliable
+	"Sacramento County, CA"	"06067"	"25-34 years"	"25-34"	"2010"	"2010"	13	206646	Unreliable
+	"Sacramento County, CA"	"06067"	"25-34 years"	"25-34"	"2011"	"2011"	12	211200	Unreliable
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"2007"	"2007"	18	197646	Unreliable
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"2008"	"2008"	16	195052	Unreliable
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"2009"	"2009"	11	192222	Unreliable
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"2010"	"2010"	11	190835	Unreliable
+	"Sacramento County, CA"	"06067"	"35-44 years"	"35-44"	"2011"	"2011"	15	190418	Unreliable
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"2007"	"2007"	25	195461	12.8
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"2008"	"2008"	42	197757	21.2
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"2009"	"2009"	27	199925	13.5
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"2010"	"2010"	27	200536	13.5
+	"Sacramento County, CA"	"06067"	"45-54 years"	"45-54"	"2011"	"2011"	24	199877	12.0
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"2007"	"2007"	13	137714	Unreliable
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"2008"	"2008"	13	143460	Unreliable
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"2009"	"2009"	14	150303	Unreliable
+	"Sacramento County, CA"	"06067"	"55-64 years"	"55-64"	"2010"	"2010"	15	155637	Unreliable
+	"San Bernardino County, CA"	"06071"	"25-34 years"	"25-34"	"2011"	"2011"	11	289629	Unreliable
+	"San Bernardino County, CA"	"06071"	"35-44 years"	"35-44"	"2009"	"2009"	11	273755	Unreliable
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"2008"	"2008"	21	271960	7.7
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"2009"	"2009"	20	274839	7.3
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"2010"	"2010"	19	277294	Unreliable
+	"San Bernardino County, CA"	"06071"	"45-54 years"	"45-54"	"2011"	"2011"	21	277854	7.6
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"2009"	"2009"	15	188814	Unreliable
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"2010"	"2010"	16	197043	Unreliable
+	"San Bernardino County, CA"	"06071"	"55-64 years"	"55-64"	"2011"	"2011"	12	207816	Unreliable
+	"San Diego County, CA"	"06073"	"15-24 years"	"15-24"	"2007"	"2007"	17	479703	Unreliable
+	"San Diego County, CA"	"06073"	"15-24 years"	"15-24"	"2008"	"2008"	21	487292	4.3
+	"San Diego County, CA"	"06073"	"15-24 years"	"15-24"	"2009"	"2009"	11	492155	Unreliable
+	"San Diego County, CA"	"06073"	"15-24 years"	"15-24"	"2010"	"2010"	30	495845	6.1
+	"San Diego County, CA"	"06073"	"15-24 years"	"15-24"	"2011"	"2011"	30	494915	6.1
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"2007"	"2007"	32	448174	7.1
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"2008"	"2008"	36	456707	7.9
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"2009"	"2009"	33	464106	7.1
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"2010"	"2010"	44	470922	9.3
+	"San Diego County, CA"	"06073"	"25-34 years"	"25-34"	"2011"	"2011"	45	484925	9.3
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"2007"	"2007"	44	427607	10.3
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"2008"	"2008"	40	424660	9.4
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"2009"	"2009"	53	421194	12.6
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"2010"	"2010"	41	420563	9.7
+	"San Diego County, CA"	"06073"	"35-44 years"	"35-44"	"2011"	"2011"	47	421268	11.2
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"2007"	"2007"	88	415914	21.2
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"2008"	"2008"	86	422737	20.3
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"2009"	"2009"	86	427879	20.1
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"2010"	"2010"	73	430774	16.9
+	"San Diego County, CA"	"06073"	"45-54 years"	"45-54"	"2011"	"2011"	86	430333	20.0
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"2007"	"2007"	35	290880	12.0
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"2008"	"2008"	41	302887	13.5
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"2009"	"2009"	55	317811	17.3
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"2010"	"2010"	44	329616	13.3
+	"San Diego County, CA"	"06073"	"55-64 years"	"55-64"	"2011"	"2011"	63	345861	18.2
+	"San Francisco County, CA"	"06075"	"25-34 years"	"25-34"	"2009"	"2009"	10	167721	Unreliable
+	"San Francisco County, CA"	"06075"	"35-44 years"	"35-44"	"2009"	"2009"	25	134536	18.6
+	"San Francisco County, CA"	"06075"	"35-44 years"	"35-44"	"2010"	"2010"	16	133682	Unreliable
+	"San Francisco County, CA"	"06075"	"35-44 years"	"35-44"	"2011"	"2011"	27	133462	20.2
+	"San Francisco County, CA"	"06075"	"45-54 years"	"45-54"	"2009"	"2009"	25	111619	22.4
+	"San Francisco County, CA"	"06075"	"45-54 years"	"45-54"	"2010"	"2010"	39	111807	34.9
+	"San Francisco County, CA"	"06075"	"45-54 years"	"45-54"	"2011"	"2011"	28	111717	25.1
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	"2009"	"2009"	33	94549	34.9
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	"2010"	"2010"	33	96596	34.2
+	"San Francisco County, CA"	"06075"	"55-64 years"	"55-64"	"2011"	"2011"	32	100128	32.0
+	"San Joaquin County, CA"	"06077"	"25-34 years"	"25-34"	"2011"	"2011"	10	92677	Unreliable
+	"San Joaquin County, CA"	"06077"	"35-44 years"	"35-44"	"2007"	"2007"	16	94187	Unreliable
+	"San Joaquin County, CA"	"06077"	"35-44 years"	"35-44"	"2008"	"2008"	15	92479	Unreliable
+	"San Joaquin County, CA"	"06077"	"35-44 years"	"35-44"	"2009"	"2009"	17	90896	Unreliable
+	"San Joaquin County, CA"	"06077"	"35-44 years"	"35-44"	"2010"	"2010"	11	90738	Unreliable
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"2007"	"2007"	25	88268	28.3
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"2008"	"2008"	19	89841	Unreliable
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"2009"	"2009"	29	90941	31.9
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"2010"	"2010"	27	91839	29.4
+	"San Joaquin County, CA"	"06077"	"45-54 years"	"45-54"	"2011"	"2011"	28	92339	30.3
+	"San Joaquin County, CA"	"06077"	"55-64 years"	"55-64"	"2008"	"2008"	20	63302	31.6
+	"San Joaquin County, CA"	"06077"	"55-64 years"	"55-64"	"2010"	"2010"	27	68697	39.3
+	"San Joaquin County, CA"	"06077"	"55-64 years"	"55-64"	"2011"	"2011"	26	72267	36.0
+	"San Mateo County, CA"	"06081"	"45-54 years"	"45-54"	"2007"	"2007"	11	107175	Unreliable
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	"2007"	"2007"	14	279962	Unreliable
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	"2008"	"2008"	10	279950	Unreliable
+	"Santa Clara County, CA"	"06085"	"35-44 years"	"35-44"	"2011"	"2011"	12	279638	Unreliable
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"2007"	"2007"	23	249062	9.2
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"2008"	"2008"	18	254957	Unreliable
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"2009"	"2009"	20	260392	7.7
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"2010"	"2010"	16	263594	Unreliable
+	"Santa Clara County, CA"	"06085"	"45-54 years"	"45-54"	"2011"	"2011"	16	266015	Unreliable
+	"Santa Clara County, CA"	"06085"	"55-64 years"	"55-64"	"2007"	"2007"	15	166721	Unreliable
+	"Santa Clara County, CA"	"06085"	"55-64 years"	"55-64"	"2011"	"2011"	18	195103	Unreliable
+	"Santa Cruz County, CA"	"06087"	"25-34 years"	"25-34"	"2011"	"2011"	10	32838	Unreliable
+	"Santa Cruz County, CA"	"06087"	"45-54 years"	"45-54"	"2009"	"2009"	10	38933	Unreliable
+	"Santa Cruz County, CA"	"06087"	"55-64 years"	"55-64"	"2011"	"2011"	11	37012	Unreliable
+	"Sonoma County, CA"	"06097"	"25-34 years"	"25-34"	"2010"	"2010"	13	61297	Unreliable
+	"Sonoma County, CA"	"06097"	"35-44 years"	"35-44"	"2007"	"2007"	11	64135	Unreliable
+	"Sonoma County, CA"	"06097"	"45-54 years"	"45-54"	"2007"	"2007"	12	73909	Unreliable
+	"Sonoma County, CA"	"06097"	"45-54 years"	"45-54"	"2008"	"2008"	17	73850	Unreliable
+	"Sonoma County, CA"	"06097"	"45-54 years"	"45-54"	"2009"	"2009"	14	73701	Unreliable
+	"Sonoma County, CA"	"06097"	"55-64 years"	"55-64"	"2008"	"2008"	17	63745	Unreliable
+	"Sonoma County, CA"	"06097"	"55-64 years"	"55-64"	"2009"	"2009"	10	66519	Unreliable
+	"Stanislaus County, CA"	"06099"	"45-54 years"	"45-54"	"2007"	"2007"	15	67893	Unreliable
+	"Stanislaus County, CA"	"06099"	"45-54 years"	"45-54"	"2008"	"2008"	13	68397	Unreliable
+	"Stanislaus County, CA"	"06099"	"45-54 years"	"45-54"	"2009"	"2009"	11	69085	Unreliable
+	"Tulare County, CA"	"06107"	"35-44 years"	"35-44"	"2009"	"2009"	11	54540	Unreliable
+	"Ventura County, CA"	"06111"	"15-24 years"	"15-24"	"2007"	"2007"	10	118279	Unreliable
+	"Ventura County, CA"	"06111"	"15-24 years"	"15-24"	"2011"	"2011"	13	121232	Unreliable
+	"Ventura County, CA"	"06111"	"25-34 years"	"25-34"	"2007"	"2007"	13	99964	Unreliable
+	"Ventura County, CA"	"06111"	"25-34 years"	"25-34"	"2008"	"2008"	13	101234	Unreliable
+	"Ventura County, CA"	"06111"	"25-34 years"	"25-34"	"2009"	"2009"	13	103473	Unreliable
+	"Ventura County, CA"	"06111"	"25-34 years"	"25-34"	"2010"	"2010"	16	105460	Unreliable
+	"Ventura County, CA"	"06111"	"25-34 years"	"25-34"	"2011"	"2011"	20	107419	18.6
+	"Ventura County, CA"	"06111"	"35-44 years"	"35-44"	"2007"	"2007"	10	116812	Unreliable
+	"Ventura County, CA"	"06111"	"35-44 years"	"35-44"	"2009"	"2009"	14	112185	Unreliable
+	"Ventura County, CA"	"06111"	"35-44 years"	"35-44"	"2011"	"2011"	17	109679	Unreliable
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"2007"	"2007"	21	120296	17.5
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"2008"	"2008"	12	121571	Unreliable
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"2009"	"2009"	15	122758	Unreliable
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"2010"	"2010"	21	123704	17.0
+	"Ventura County, CA"	"06111"	"45-54 years"	"45-54"	"2011"	"2011"	21	123215	17.0
+	"Adams County, CO"	"08001"	"25-34 years"	"25-34"	"2011"	"2011"	17	73032	Unreliable
+	"Adams County, CO"	"08001"	"45-54 years"	"45-54"	"2007"	"2007"	13	55037	Unreliable
+	"Adams County, CO"	"08001"	"45-54 years"	"45-54"	"2008"	"2008"	14	56602	Unreliable
+	"Adams County, CO"	"08001"	"45-54 years"	"45-54"	"2009"	"2009"	10	57865	Unreliable
+	"Adams County, CO"	"08001"	"55-64 years"	"55-64"	"2011"	"2011"	11	44484	Unreliable
+	"Arapahoe County, CO"	"08005"	"45-54 years"	"45-54"	"2008"	"2008"	15	84405	Unreliable
+	"Denver County, CO"	"08031"	"25-34 years"	"25-34"	"2007"	"2007"	11	111222	Unreliable
+	"Denver County, CO"	"08031"	"25-34 years"	"25-34"	"2008"	"2008"	17	115023	Unreliable
+	"Denver County, CO"	"08031"	"25-34 years"	"25-34"	"2009"	"2009"	29	119354	24.3
+	"Denver County, CO"	"08031"	"25-34 years"	"25-34"	"2011"	"2011"	14	130306	Unreliable
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"2007"	"2007"	29	85055	34.1
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"2008"	"2008"	32	86310	37.1
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"2009"	"2009"	24	88203	27.2
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"2010"	"2010"	17	89763	Unreliable
+	"Denver County, CO"	"08031"	"35-44 years"	"35-44"	"2011"	"2011"	23	92813	24.8
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"2007"	"2007"	36	71570	50.3
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"2008"	"2008"	38	71805	52.9
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"2009"	"2009"	37	72109	51.3
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"2010"	"2010"	33	72476	45.5
+	"Denver County, CO"	"08031"	"45-54 years"	"45-54"	"2011"	"2011"	25	73193	34.2
+	"Denver County, CO"	"08031"	"55-64 years"	"55-64"	"2007"	"2007"	14	55714	Unreliable
+	"Denver County, CO"	"08031"	"55-64 years"	"55-64"	"2008"	"2008"	16	57705	Unreliable
+	"Denver County, CO"	"08031"	"55-64 years"	"55-64"	"2009"	"2009"	20	60007	33.3
+	"Denver County, CO"	"08031"	"55-64 years"	"55-64"	"2011"	"2011"	19	64864	Unreliable
+	"Jefferson County, CO"	"08059"	"25-34 years"	"25-34"	"2008"	"2008"	10	64324	Unreliable
+	"Jefferson County, CO"	"08059"	"25-34 years"	"25-34"	"2009"	"2009"	11	65225	Unreliable
+	"Jefferson County, CO"	"08059"	"25-34 years"	"25-34"	"2011"	"2011"	17	67494	Unreliable
+	"Jefferson County, CO"	"08059"	"45-54 years"	"45-54"	"2007"	"2007"	12	91276	Unreliable
+	"Jefferson County, CO"	"08059"	"45-54 years"	"45-54"	"2010"	"2010"	11	91184	Unreliable
+	"Jefferson County, CO"	"08059"	"45-54 years"	"45-54"	"2011"	"2011"	11	89353	Unreliable
+	"Fairfield County, CT"	"09001"	"25-34 years"	"25-34"	"2007"	"2007"	11	100631	Unreliable
+	"Fairfield County, CT"	"09001"	"25-34 years"	"25-34"	"2008"	"2008"	11	102309	Unreliable
+	"Fairfield County, CT"	"09001"	"25-34 years"	"25-34"	"2009"	"2009"	12	104109	Unreliable
+	"Fairfield County, CT"	"09001"	"25-34 years"	"25-34"	"2010"	"2010"	11	106063	Unreliable
+	"Fairfield County, CT"	"09001"	"35-44 years"	"35-44"	"2007"	"2007"	13	140687	Unreliable
+	"Fairfield County, CT"	"09001"	"35-44 years"	"35-44"	"2008"	"2008"	14	137877	Unreliable
+	"Fairfield County, CT"	"09001"	"45-54 years"	"45-54"	"2007"	"2007"	11	142327	Unreliable
+	"Fairfield County, CT"	"09001"	"45-54 years"	"45-54"	"2008"	"2008"	15	144955	Unreliable
+	"Fairfield County, CT"	"09001"	"45-54 years"	"45-54"	"2010"	"2010"	10	149286	Unreliable
+	"Hartford County, CT"	"09003"	"15-24 years"	"15-24"	"2007"	"2007"	10	116207	Unreliable
+	"Hartford County, CT"	"09003"	"25-34 years"	"25-34"	"2007"	"2007"	14	104403	Unreliable
+	"Hartford County, CT"	"09003"	"25-34 years"	"25-34"	"2011"	"2011"	10	111945	Unreliable
+	"Hartford County, CT"	"09003"	"35-44 years"	"35-44"	"2007"	"2007"	18	128468	Unreliable
+	"Hartford County, CT"	"09003"	"35-44 years"	"35-44"	"2008"	"2008"	16	125417	Unreliable
+	"Hartford County, CT"	"09003"	"35-44 years"	"35-44"	"2009"	"2009"	16	121594	Unreliable
+	"Hartford County, CT"	"09003"	"35-44 years"	"35-44"	"2010"	"2010"	16	118796	Unreliable
+	"Hartford County, CT"	"09003"	"35-44 years"	"35-44"	"2011"	"2011"	12	115139	Unreliable
+	"Hartford County, CT"	"09003"	"45-54 years"	"45-54"	"2007"	"2007"	17	138484	Unreliable
+	"Hartford County, CT"	"09003"	"45-54 years"	"45-54"	"2008"	"2008"	14	139457	Unreliable
+	"Hartford County, CT"	"09003"	"45-54 years"	"45-54"	"2009"	"2009"	15	140577	Unreliable
+	"Hartford County, CT"	"09003"	"45-54 years"	"45-54"	"2010"	"2010"	13	141254	Unreliable
+	"New Haven County, CT"	"09009"	"15-24 years"	"15-24"	"2007"	"2007"	15	119543	Unreliable
+	"New Haven County, CT"	"09009"	"15-24 years"	"15-24"	"2010"	"2010"	10	121887	Unreliable
+	"New Haven County, CT"	"09009"	"15-24 years"	"15-24"	"2011"	"2011"	10	120606	Unreliable
+	"New Haven County, CT"	"09009"	"25-34 years"	"25-34"	"2008"	"2008"	16	105895	Unreliable
+	"New Haven County, CT"	"09009"	"25-34 years"	"25-34"	"2009"	"2009"	13	107075	Unreliable
+	"New Haven County, CT"	"09009"	"25-34 years"	"25-34"	"2011"	"2011"	16	109769	Unreliable
+	"New Haven County, CT"	"09009"	"35-44 years"	"35-44"	"2007"	"2007"	21	124056	16.9
+	"New Haven County, CT"	"09009"	"35-44 years"	"35-44"	"2008"	"2008"	12	120596	Unreliable
+	"New Haven County, CT"	"09009"	"35-44 years"	"35-44"	"2009"	"2009"	16	116612	Unreliable
+	"New Haven County, CT"	"09009"	"35-44 years"	"35-44"	"2010"	"2010"	17	114007	Unreliable
+	"New Haven County, CT"	"09009"	"35-44 years"	"35-44"	"2011"	"2011"	15	110213	Unreliable
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"2007"	"2007"	21	129735	16.2
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"2008"	"2008"	23	131008	17.6
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"2009"	"2009"	11	132241	Unreliable
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"2010"	"2010"	22	132623	16.6
+	"New Haven County, CT"	"09009"	"45-54 years"	"45-54"	"2011"	"2011"	15	131570	Unreliable
+	"New Haven County, CT"	"09009"	"55-64 years"	"55-64"	"2010"	"2010"	10	105318	Unreliable
+	"Kent County, DE"	"10001"	"45-54 years"	"45-54"	"2011"	"2011"	10	23358	Unreliable
+	"New Castle County, DE"	"10003"	"25-34 years"	"25-34"	"2008"	"2008"	11	70358	Unreliable
+	"New Castle County, DE"	"10003"	"25-34 years"	"25-34"	"2009"	"2009"	11	70762	Unreliable
+	"New Castle County, DE"	"10003"	"25-34 years"	"25-34"	"2010"	"2010"	18	70744	Unreliable
+	"New Castle County, DE"	"10003"	"25-34 years"	"25-34"	"2011"	"2011"	20	72476	27.6
+	"New Castle County, DE"	"10003"	"35-44 years"	"35-44"	"2009"	"2009"	13	74678	Unreliable
+	"New Castle County, DE"	"10003"	"35-44 years"	"35-44"	"2010"	"2010"	18	73298	Unreliable
+	"New Castle County, DE"	"10003"	"45-54 years"	"45-54"	"2009"	"2009"	16	81789	Unreliable
+	"New Castle County, DE"	"10003"	"45-54 years"	"45-54"	"2010"	"2010"	17	81987	Unreliable
+	"New Castle County, DE"	"10003"	"45-54 years"	"45-54"	"2011"	"2011"	16	81513	Unreliable
+	"Sussex County, DE"	"10005"	"45-54 years"	"45-54"	"2010"	"2010"	10	28390	Unreliable
+	"District of Columbia, DC"	"11001"	"35-44 years"	"35-44"	"2010"	"2010"	10	80659	Unreliable
+	"District of Columbia, DC"	"11001"	"45-54 years"	"45-54"	"2007"	"2007"	13	74489	Unreliable
+	"District of Columbia, DC"	"11001"	"45-54 years"	"45-54"	"2008"	"2008"	18	74908	Unreliable
+	"District of Columbia, DC"	"11001"	"45-54 years"	"45-54"	"2010"	"2010"	15	75703	Unreliable
+	"District of Columbia, DC"	"11001"	"45-54 years"	"45-54"	"2011"	"2011"	19	75830	Unreliable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"2008"	"2008"	10	61624	Unreliable
+	"District of Columbia, DC"	"11001"	"55-64 years"	"55-64"	"2011"	"2011"	19	66752	Unreliable
+	"Bay County, FL"	"12005"	"25-34 years"	"25-34"	"2008"	"2008"	10	21393	Unreliable
+	"Bay County, FL"	"12005"	"35-44 years"	"35-44"	"2010"	"2010"	10	21581	Unreliable
+	"Brevard County, FL"	"12009"	"45-54 years"	"45-54"	"2009"	"2009"	11	90331	Unreliable
+	"Brevard County, FL"	"12009"	"45-54 years"	"45-54"	"2011"	"2011"	13	89003	Unreliable
+	"Broward County, FL"	"12011"	"15-24 years"	"15-24"	"2007"	"2007"	22	215950	10.2
+	"Broward County, FL"	"12011"	"15-24 years"	"15-24"	"2008"	"2008"	11	217265	Unreliable
+	"Broward County, FL"	"12011"	"15-24 years"	"15-24"	"2011"	"2011"	10	222908	Unreliable
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"2007"	"2007"	30	220750	13.6
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"2008"	"2008"	23	219731	10.5
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"2009"	"2009"	24	222216	10.8
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"2010"	"2010"	24	224479	10.7
+	"Broward County, FL"	"12011"	"25-34 years"	"25-34"	"2011"	"2011"	22	233831	9.4
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"2007"	"2007"	37	268507	13.8
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"2008"	"2008"	49	261090	18.8
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"2009"	"2009"	24	254302	9.4
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"2010"	"2010"	34	251425	13.5
+	"Broward County, FL"	"12011"	"35-44 years"	"35-44"	"2011"	"2011"	29	249284	11.6
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"2007"	"2007"	35	264812	13.2
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"2008"	"2008"	60	268543	22.3
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"2009"	"2009"	57	273943	20.8
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"2010"	"2010"	42	277040	15.2
+	"Broward County, FL"	"12011"	"45-54 years"	"45-54"	"2011"	"2011"	42	280432	15.0
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"2007"	"2007"	13	187892	Unreliable
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"2008"	"2008"	20	193212	10.4
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"2009"	"2009"	13	199846	Unreliable
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"2010"	"2010"	24	207181	11.6
+	"Broward County, FL"	"12011"	"55-64 years"	"55-64"	"2011"	"2011"	25	217642	11.5
+	"Collier County, FL"	"12021"	"25-34 years"	"25-34"	"2010"	"2010"	13	32550	Unreliable
+	"Collier County, FL"	"12021"	"45-54 years"	"45-54"	"2009"	"2009"	10	40430	Unreliable
+	"Collier County, FL"	"12021"	"45-54 years"	"45-54"	"2010"	"2010"	12	40829	Unreliable
+	"Collier County, FL"	"12021"	"45-54 years"	"45-54"	"2011"	"2011"	14	41119	Unreliable
+	"Duval County, FL"	"12031"	"25-34 years"	"25-34"	"2007"	"2007"	11	125487	Unreliable
+	"Duval County, FL"	"12031"	"25-34 years"	"25-34"	"2009"	"2009"	12	127778	Unreliable
+	"Duval County, FL"	"12031"	"25-34 years"	"25-34"	"2010"	"2010"	16	128855	Unreliable
+	"Duval County, FL"	"12031"	"25-34 years"	"25-34"	"2011"	"2011"	24	132035	18.2
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"2007"	"2007"	14	123981	Unreliable
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"2008"	"2008"	12	121170	Unreliable
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"2009"	"2009"	18	118407	Unreliable
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"2010"	"2010"	12	116948	Unreliable
+	"Duval County, FL"	"12031"	"35-44 years"	"35-44"	"2011"	"2011"	13	114892	Unreliable
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"2007"	"2007"	12	124834	Unreliable
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"2008"	"2008"	12	126865	Unreliable
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"2009"	"2009"	22	127899	17.2
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"2010"	"2010"	18	128368	Unreliable
+	"Duval County, FL"	"12031"	"45-54 years"	"45-54"	"2011"	"2011"	28	126748	22.1
+	"Duval County, FL"	"12031"	"55-64 years"	"55-64"	"2010"	"2010"	11	99765	Unreliable
+	"Duval County, FL"	"12031"	"55-64 years"	"55-64"	"2011"	"2011"	10	104495	Unreliable
+	"Escambia County, FL"	"12033"	"25-34 years"	"25-34"	"2011"	"2011"	10	38969	Unreliable
+	"Escambia County, FL"	"12033"	"35-44 years"	"35-44"	"2007"	"2007"	11	37218	Unreliable
+	"Hernando County, FL"	"12053"	"45-54 years"	"45-54"	"2010"	"2010"	11	23713	Unreliable
+	"Hillsborough County, FL"	"12057"	"15-24 years"	"15-24"	"2007"	"2007"	22	172816	12.7
+	"Hillsborough County, FL"	"12057"	"15-24 years"	"15-24"	"2008"	"2008"	19	175101	Unreliable
+	"Hillsborough County, FL"	"12057"	"15-24 years"	"15-24"	"2009"	"2009"	21	178221	11.8
+	"Hillsborough County, FL"	"12057"	"15-24 years"	"15-24"	"2010"	"2010"	23	180020	12.8
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"2007"	"2007"	47	169275	27.8
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"2008"	"2008"	50	169480	29.5
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"2009"	"2009"	63	171573	36.7
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"2010"	"2010"	43	173877	24.7
+	"Hillsborough County, FL"	"12057"	"25-34 years"	"25-34"	"2011"	"2011"	51	182234	28.0
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"2007"	"2007"	44	178730	24.6
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"2008"	"2008"	33	176643	18.7
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"2009"	"2009"	44	174726	25.2
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"2010"	"2010"	54	174342	31.0
+	"Hillsborough County, FL"	"12057"	"35-44 years"	"35-44"	"2011"	"2011"	47	176152	26.7
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"2007"	"2007"	51	167852	30.4
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"2008"	"2008"	61	171104	35.7
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"2009"	"2009"	66	175268	37.7
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"2010"	"2010"	53	178058	29.8
+	"Hillsborough County, FL"	"12057"	"45-54 years"	"45-54"	"2011"	"2011"	59	184224	32.0
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"2007"	"2007"	16	121490	Unreliable
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"2008"	"2008"	23	125419	18.3
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"2009"	"2009"	27	130199	20.7
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"2010"	"2010"	34	134661	25.2
+	"Hillsborough County, FL"	"12057"	"55-64 years"	"55-64"	"2011"	"2011"	30	148055	20.3
+	"Lee County, FL"	"12071"	"15-24 years"	"15-24"	"2007"	"2007"	13	67264	Unreliable
+	"Lee County, FL"	"12071"	"15-24 years"	"15-24"	"2010"	"2010"	12	68154	Unreliable
+	"Lee County, FL"	"12071"	"25-34 years"	"25-34"	"2007"	"2007"	18	67330	Unreliable
+	"Lee County, FL"	"12071"	"25-34 years"	"25-34"	"2008"	"2008"	11	67223	Unreliable
+	"Lee County, FL"	"12071"	"25-34 years"	"25-34"	"2009"	"2009"	14	65898	Unreliable
+	"Lee County, FL"	"12071"	"25-34 years"	"25-34"	"2010"	"2010"	22	65878	33.4
+	"Lee County, FL"	"12071"	"25-34 years"	"25-34"	"2011"	"2011"	16	66566	Unreliable
+	"Lee County, FL"	"12071"	"35-44 years"	"35-44"	"2008"	"2008"	12	74194	Unreliable
+	"Lee County, FL"	"12071"	"35-44 years"	"35-44"	"2009"	"2009"	23	71726	32.1
+	"Lee County, FL"	"12071"	"35-44 years"	"35-44"	"2010"	"2010"	13	70476	Unreliable
+	"Lee County, FL"	"12071"	"35-44 years"	"35-44"	"2011"	"2011"	15	69948	Unreliable
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"2007"	"2007"	15	79495	Unreliable
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"2008"	"2008"	24	80360	29.9
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"2009"	"2009"	19	80945	Unreliable
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"2010"	"2010"	16	81757	Unreliable
+	"Lee County, FL"	"12071"	"45-54 years"	"45-54"	"2011"	"2011"	18	82016	Unreliable
+	"Lee County, FL"	"12071"	"55-64 years"	"55-64"	"2010"	"2010"	10	87192	Unreliable
+	"Manatee County, FL"	"12081"	"25-34 years"	"25-34"	"2008"	"2008"	13	32146	Unreliable
+	"Manatee County, FL"	"12081"	"25-34 years"	"25-34"	"2009"	"2009"	10	32400	Unreliable
+	"Manatee County, FL"	"12081"	"25-34 years"	"25-34"	"2010"	"2010"	18	32753	Unreliable
+	"Manatee County, FL"	"12081"	"25-34 years"	"25-34"	"2011"	"2011"	20	33440	59.8
+	"Manatee County, FL"	"12081"	"35-44 years"	"35-44"	"2007"	"2007"	10	39239	Unreliable
+	"Manatee County, FL"	"12081"	"35-44 years"	"35-44"	"2009"	"2009"	13	37478	Unreliable
+	"Manatee County, FL"	"12081"	"35-44 years"	"35-44"	"2010"	"2010"	15	36727	Unreliable
+	"Manatee County, FL"	"12081"	"35-44 years"	"35-44"	"2011"	"2011"	10	36253	Unreliable
+	"Manatee County, FL"	"12081"	"45-54 years"	"45-54"	"2007"	"2007"	10	43205	Unreliable
+	"Manatee County, FL"	"12081"	"45-54 years"	"45-54"	"2009"	"2009"	10	43745	Unreliable
+	"Manatee County, FL"	"12081"	"45-54 years"	"45-54"	"2010"	"2010"	15	44048	Unreliable
+	"Manatee County, FL"	"12081"	"45-54 years"	"45-54"	"2011"	"2011"	14	43753	Unreliable
+	"Manatee County, FL"	"12081"	"55-64 years"	"55-64"	"2010"	"2010"	13	45080	Unreliable
+	"Miami-Dade County, FL"	"12086"	"25-34 years"	"25-34"	"2007"	"2007"	16	331752	Unreliable
+	"Miami-Dade County, FL"	"12086"	"25-34 years"	"25-34"	"2008"	"2008"	14	332136	Unreliable
+	"Miami-Dade County, FL"	"12086"	"25-34 years"	"25-34"	"2009"	"2009"	19	335408	Unreliable
+	"Miami-Dade County, FL"	"12086"	"25-34 years"	"25-34"	"2010"	"2010"	15	340467	Unreliable
+	"Miami-Dade County, FL"	"12086"	"25-34 years"	"25-34"	"2011"	"2011"	12	351085	Unreliable
+	"Miami-Dade County, FL"	"12086"	"35-44 years"	"35-44"	"2007"	"2007"	18	374295	Unreliable
+	"Miami-Dade County, FL"	"12086"	"35-44 years"	"35-44"	"2008"	"2008"	28	373098	7.5
+	"Miami-Dade County, FL"	"12086"	"35-44 years"	"35-44"	"2009"	"2009"	20	371888	5.4
+	"Miami-Dade County, FL"	"12086"	"35-44 years"	"35-44"	"2010"	"2010"	12	372397	Unreliable
+	"Miami-Dade County, FL"	"12086"	"35-44 years"	"35-44"	"2011"	"2011"	15	374306	Unreliable
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"2007"	"2007"	25	340294	7.3
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"2008"	"2008"	17	349247	Unreliable
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"2009"	"2009"	22	358761	6.1
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"2010"	"2010"	14	366617	Unreliable
+	"Miami-Dade County, FL"	"12086"	"45-54 years"	"45-54"	"2011"	"2011"	22	379454	5.8
+	"Miami-Dade County, FL"	"12086"	"55-64 years"	"55-64"	"2009"	"2009"	17	264414	Unreliable
+	"Orange County, FL"	"12095"	"15-24 years"	"15-24"	"2008"	"2008"	11	187542	Unreliable
+	"Orange County, FL"	"12095"	"15-24 years"	"15-24"	"2009"	"2009"	11	191571	Unreliable
+	"Orange County, FL"	"12095"	"25-34 years"	"25-34"	"2007"	"2007"	20	174568	11.5
+	"Orange County, FL"	"12095"	"25-34 years"	"25-34"	"2008"	"2008"	24	175293	13.7
+	"Orange County, FL"	"12095"	"25-34 years"	"25-34"	"2009"	"2009"	30	176409	17.0
+	"Orange County, FL"	"12095"	"25-34 years"	"25-34"	"2010"	"2010"	36	177117	20.3
+	"Orange County, FL"	"12095"	"25-34 years"	"25-34"	"2011"	"2011"	27	183376	14.7
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"2007"	"2007"	17	168361	Unreliable
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"2008"	"2008"	20	166214	12.0
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"2009"	"2009"	26	164909	15.8
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"2010"	"2010"	25	164468	15.2
+	"Orange County, FL"	"12095"	"35-44 years"	"35-44"	"2011"	"2011"	33	165652	19.9
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"2007"	"2007"	29	151998	19.1
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"2008"	"2008"	19	155790	Unreliable
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"2009"	"2009"	28	159325	17.6
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"2010"	"2010"	31	162059	19.1
+	"Orange County, FL"	"12095"	"45-54 years"	"45-54"	"2011"	"2011"	30	163890	18.3
+	"Orange County, FL"	"12095"	"55-64 years"	"55-64"	"2007"	"2007"	10	100541	Unreliable
+	"Orange County, FL"	"12095"	"55-64 years"	"55-64"	"2008"	"2008"	10	104504	Unreliable
+	"Orange County, FL"	"12095"	"55-64 years"	"55-64"	"2010"	"2010"	18	114291	Unreliable
+	"Orange County, FL"	"12095"	"55-64 years"	"55-64"	"2011"	"2011"	21	120745	17.4
+	"Osceola County, FL"	"12097"	"25-34 years"	"25-34"	"2011"	"2011"	12	36698	Unreliable
+	"Osceola County, FL"	"12097"	"35-44 years"	"35-44"	"2007"	"2007"	13	39493	Unreliable
+	"Osceola County, FL"	"12097"	"45-54 years"	"45-54"	"2011"	"2011"	12	39436	Unreliable
+	"Palm Beach County, FL"	"12099"	"15-24 years"	"15-24"	"2007"	"2007"	14	149072	Unreliable
+	"Palm Beach County, FL"	"12099"	"15-24 years"	"15-24"	"2008"	"2008"	10	150239	Unreliable
+	"Palm Beach County, FL"	"12099"	"15-24 years"	"15-24"	"2010"	"2010"	11	153675	Unreliable
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"2007"	"2007"	22	140025	15.7
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"2008"	"2008"	27	141353	19.1
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"2009"	"2009"	14	144493	Unreliable
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"2010"	"2010"	22	146694	15.0
+	"Palm Beach County, FL"	"12099"	"25-34 years"	"25-34"	"2011"	"2011"	17	149109	Unreliable
+	"Palm Beach County, FL"	"12099"	"35-44 years"	"35-44"	"2007"	"2007"	26	175558	14.8
+	"Palm Beach County, FL"	"12099"	"35-44 years"	"35-44"	"2008"	"2008"	22	171968	12.8
+	"Palm Beach County, FL"	"12099"	"35-44 years"	"35-44"	"2009"	"2009"	16	167784	Unreliable
+	"Palm Beach County, FL"	"12099"	"35-44 years"	"35-44"	"2010"	"2010"	17	165576	Unreliable
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"2007"	"2007"	21	179429	11.7
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"2008"	"2008"	23	182541	12.6
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"2009"	"2009"	20	185868	10.8
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"2010"	"2010"	28	188126	14.9
+	"Palm Beach County, FL"	"12099"	"45-54 years"	"45-54"	"2011"	"2011"	17	188721	Unreliable
+	"Palm Beach County, FL"	"12099"	"55-64 years"	"55-64"	"2007"	"2007"	13	150194	Unreliable
+	"Palm Beach County, FL"	"12099"	"55-64 years"	"55-64"	"2009"	"2009"	11	155941	Unreliable
+	"Palm Beach County, FL"	"12099"	"55-64 years"	"55-64"	"2010"	"2010"	19	160292	Unreliable
+	"Pasco County, FL"	"12101"	"15-24 years"	"15-24"	"2007"	"2007"	11	48475	Unreliable
+	"Pasco County, FL"	"12101"	"25-34 years"	"25-34"	"2007"	"2007"	10	49846	Unreliable
+	"Pasco County, FL"	"12101"	"25-34 years"	"25-34"	"2008"	"2008"	13	49966	Unreliable
+	"Pasco County, FL"	"12101"	"25-34 years"	"25-34"	"2010"	"2010"	23	49207	46.7
+	"Pasco County, FL"	"12101"	"25-34 years"	"25-34"	"2011"	"2011"	12	49359	Unreliable
+	"Pasco County, FL"	"12101"	"35-44 years"	"35-44"	"2007"	"2007"	10	62799	Unreliable
+	"Pasco County, FL"	"12101"	"35-44 years"	"35-44"	"2010"	"2010"	18	60711	Unreliable
+	"Pasco County, FL"	"12101"	"35-44 years"	"35-44"	"2011"	"2011"	17	59677	Unreliable
+	"Pasco County, FL"	"12101"	"45-54 years"	"45-54"	"2008"	"2008"	11	64256	Unreliable
+	"Pasco County, FL"	"12101"	"45-54 years"	"45-54"	"2009"	"2009"	10	65694	Unreliable
+	"Pasco County, FL"	"12101"	"45-54 years"	"45-54"	"2010"	"2010"	12	66594	Unreliable
+	"Pasco County, FL"	"12101"	"45-54 years"	"45-54"	"2011"	"2011"	15	66546	Unreliable
+	"Pasco County, FL"	"12101"	"55-64 years"	"55-64"	"2010"	"2010"	10	60763	Unreliable
+	"Pinellas County, FL"	"12103"	"15-24 years"	"15-24"	"2010"	"2010"	11	97514	Unreliable
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"2007"	"2007"	10	97432	Unreliable
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"2008"	"2008"	12	97854	Unreliable
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"2009"	"2009"	13	98753	Unreliable
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"2010"	"2010"	28	99379	28.2
+	"Pinellas County, FL"	"12103"	"25-34 years"	"25-34"	"2011"	"2011"	17	101125	Unreliable
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"2007"	"2007"	11	123597	Unreliable
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"2008"	"2008"	12	118567	Unreliable
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"2009"	"2009"	18	113983	Unreliable
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"2010"	"2010"	19	111363	Unreliable
+	"Pinellas County, FL"	"12103"	"35-44 years"	"35-44"	"2011"	"2011"	20	107674	18.6
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"2007"	"2007"	23	146597	15.7
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"2008"	"2008"	19	147340	Unreliable
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"2009"	"2009"	26	147722	17.6
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"2010"	"2010"	23	147591	15.6
+	"Pinellas County, FL"	"12103"	"45-54 years"	"45-54"	"2011"	"2011"	23	145343	15.8
+	"Pinellas County, FL"	"12103"	"55-64 years"	"55-64"	"2008"	"2008"	10	127519	Unreliable
+	"Pinellas County, FL"	"12103"	"55-64 years"	"55-64"	"2010"	"2010"	11	134399	Unreliable
+	"St. Lucie County, FL"	"12111"	"35-44 years"	"35-44"	"2007"	"2007"	11	35639	Unreliable
+	"Sarasota County, FL"	"12115"	"15-24 years"	"15-24"	"2007"	"2007"	11	34279	Unreliable
+	"Sarasota County, FL"	"12115"	"15-24 years"	"15-24"	"2008"	"2008"	15	34114	Unreliable
+	"Sarasota County, FL"	"12115"	"15-24 years"	"15-24"	"2009"	"2009"	10	33567	Unreliable
+	"Sarasota County, FL"	"12115"	"25-34 years"	"25-34"	"2007"	"2007"	12	30838	Unreliable
+	"Sarasota County, FL"	"12115"	"25-34 years"	"25-34"	"2008"	"2008"	12	30943	Unreliable
+	"Sarasota County, FL"	"12115"	"25-34 years"	"25-34"	"2009"	"2009"	15	31025	Unreliable
+	"Sarasota County, FL"	"12115"	"25-34 years"	"25-34"	"2010"	"2010"	17	31182	Unreliable
+	"Sarasota County, FL"	"12115"	"25-34 years"	"25-34"	"2011"	"2011"	15	31391	Unreliable
+	"Sarasota County, FL"	"12115"	"35-44 years"	"35-44"	"2008"	"2008"	10	40485	Unreliable
+	"Sarasota County, FL"	"12115"	"35-44 years"	"35-44"	"2009"	"2009"	12	38975	Unreliable
+	"Sarasota County, FL"	"12115"	"35-44 years"	"35-44"	"2010"	"2010"	16	38116	Unreliable
+	"Sarasota County, FL"	"12115"	"35-44 years"	"35-44"	"2011"	"2011"	14	37125	Unreliable
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"2007"	"2007"	13	51512	Unreliable
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"2008"	"2008"	15	51724	Unreliable
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"2009"	"2009"	21	51663	40.6
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"2010"	"2010"	18	51632	Unreliable
+	"Sarasota County, FL"	"12115"	"45-54 years"	"45-54"	"2011"	"2011"	19	51098	Unreliable
+	"Sarasota County, FL"	"12115"	"55-64 years"	"55-64"	"2011"	"2011"	11	59609	Unreliable
+	"Seminole County, FL"	"12117"	"25-34 years"	"25-34"	"2009"	"2009"	14	54561	Unreliable
+	"Seminole County, FL"	"12117"	"25-34 years"	"25-34"	"2010"	"2010"	12	54808	Unreliable
+	"Seminole County, FL"	"12117"	"25-34 years"	"25-34"	"2011"	"2011"	11	56413	Unreliable
+	"Seminole County, FL"	"12117"	"35-44 years"	"35-44"	"2007"	"2007"	10	62923	Unreliable
+	"Seminole County, FL"	"12117"	"35-44 years"	"35-44"	"2008"	"2008"	13	61411	Unreliable
+	"Seminole County, FL"	"12117"	"35-44 years"	"35-44"	"2009"	"2009"	15	59775	Unreliable
+	"Seminole County, FL"	"12117"	"35-44 years"	"35-44"	"2010"	"2010"	15	58859	Unreliable
+	"Seminole County, FL"	"12117"	"35-44 years"	"35-44"	"2011"	"2011"	10	57761	Unreliable
+	"Seminole County, FL"	"12117"	"45-54 years"	"45-54"	"2007"	"2007"	10	65153	Unreliable
+	"Seminole County, FL"	"12117"	"45-54 years"	"45-54"	"2008"	"2008"	10	66019	Unreliable
+	"Seminole County, FL"	"12117"	"45-54 years"	"45-54"	"2009"	"2009"	17	66871	Unreliable
+	"Seminole County, FL"	"12117"	"45-54 years"	"45-54"	"2010"	"2010"	14	67310	Unreliable
+	"Seminole County, FL"	"12117"	"45-54 years"	"45-54"	"2011"	"2011"	13	67127	Unreliable
+	"Volusia County, FL"	"12127"	"15-24 years"	"15-24"	"2008"	"2008"	15	62881	Unreliable
+	"Volusia County, FL"	"12127"	"15-24 years"	"15-24"	"2010"	"2010"	11	61893	Unreliable
+	"Volusia County, FL"	"12127"	"25-34 years"	"25-34"	"2007"	"2007"	15	52302	Unreliable
+	"Volusia County, FL"	"12127"	"25-34 years"	"25-34"	"2008"	"2008"	14	51725	Unreliable
+	"Volusia County, FL"	"12127"	"25-34 years"	"25-34"	"2009"	"2009"	22	50935	43.2
+	"Volusia County, FL"	"12127"	"25-34 years"	"25-34"	"2010"	"2010"	24	50842	47.2
+	"Volusia County, FL"	"12127"	"25-34 years"	"25-34"	"2011"	"2011"	20	51321	39.0
+	"Volusia County, FL"	"12127"	"35-44 years"	"35-44"	"2007"	"2007"	19	62498	Unreliable
+	"Volusia County, FL"	"12127"	"35-44 years"	"35-44"	"2008"	"2008"	15	60201	Unreliable
+	"Volusia County, FL"	"12127"	"35-44 years"	"35-44"	"2009"	"2009"	19	58078	Unreliable
+	"Volusia County, FL"	"12127"	"35-44 years"	"35-44"	"2010"	"2010"	23	56611	40.6
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"2007"	"2007"	12	74307	Unreliable
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"2008"	"2008"	19	74510	Unreliable
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"2009"	"2009"	23	74221	31.0
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"2010"	"2010"	31	74193	41.8
+	"Volusia County, FL"	"12127"	"45-54 years"	"45-54"	"2011"	"2011"	18	72791	Unreliable
+	"Fulton County, GA"	"13121"	"15-24 years"	"15-24"	"2011"	"2011"	10	138185	Unreliable
+	"Fulton County, GA"	"13121"	"25-34 years"	"25-34"	"2007"	"2007"	10	145419	Unreliable
+	"Fulton County, GA"	"13121"	"25-34 years"	"25-34"	"2008"	"2008"	13	149230	Unreliable
+	"Fulton County, GA"	"13121"	"25-34 years"	"25-34"	"2009"	"2009"	10	152119	Unreliable
+	"Fulton County, GA"	"13121"	"25-34 years"	"25-34"	"2010"	"2010"	13	153601	Unreliable
+	"Fulton County, GA"	"13121"	"35-44 years"	"35-44"	"2011"	"2011"	11	144342	Unreliable
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"2007"	"2007"	11	122556	Unreliable
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"2008"	"2008"	13	124778	Unreliable
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"2009"	"2009"	15	127113	Unreliable
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"2010"	"2010"	16	129027	Unreliable
+	"Fulton County, GA"	"13121"	"45-54 years"	"45-54"	"2011"	"2011"	15	131999	Unreliable
+	"Fulton County, GA"	"13121"	"55-64 years"	"55-64"	"2008"	"2008"	12	88066	Unreliable
+	"Fulton County, GA"	"13121"	"55-64 years"	"55-64"	"2010"	"2010"	10	94331	Unreliable
+	"Fulton County, GA"	"13121"	"55-64 years"	"55-64"	"2011"	"2011"	11	100324	Unreliable
+	"Gwinnett County, GA"	"13135"	"25-34 years"	"25-34"	"2010"	"2010"	12	115054	Unreliable
+	"Honolulu County, HI"	"15003"	"25-34 years"	"25-34"	"2010"	"2010"	12	134446	Unreliable
+	"Honolulu County, HI"	"15003"	"35-44 years"	"35-44"	"2007"	"2007"	14	128466	Unreliable
+	"Honolulu County, HI"	"15003"	"35-44 years"	"35-44"	"2010"	"2010"	14	125296	Unreliable
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"2007"	"2007"	24	129420	18.5
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"2008"	"2008"	19	130494	Unreliable
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"2009"	"2009"	13	130992	Unreliable
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"2010"	"2010"	13	131724	Unreliable
+	"Honolulu County, HI"	"15003"	"45-54 years"	"45-54"	"2011"	"2011"	20	129193	15.5
+	"Honolulu County, HI"	"15003"	"55-64 years"	"55-64"	"2007"	"2007"	12	105690	Unreliable
+	"Honolulu County, HI"	"15003"	"55-64 years"	"55-64"	"2010"	"2010"	13	114478	Unreliable
+	"Honolulu County, HI"	"15003"	"55-64 years"	"55-64"	"2011"	"2011"	13	116360	Unreliable
+	"Ada County, ID"	"16001"	"35-44 years"	"35-44"	"2009"	"2009"	10	55949	Unreliable
+	"Ada County, ID"	"16001"	"45-54 years"	"45-54"	"2010"	"2010"	13	55081	Unreliable
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"2007"	"2007"	28	733489	3.8
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"2008"	"2008"	33	734071	4.5
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"2009"	"2009"	36	734962	4.9
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"2010"	"2010"	40	732693	5.5
+	"Cook County, IL"	"17031"	"15-24 years"	"15-24"	"2011"	"2011"	47	720077	6.5
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"2007"	"2007"	61	814305	7.5
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"2008"	"2008"	80	822154	9.7
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"2009"	"2009"	86	829773	10.4
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"2010"	"2010"	89	831563	10.7
+	"Cook County, IL"	"17031"	"25-34 years"	"25-34"	"2011"	"2011"	95	843465	11.3
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"2007"	"2007"	91	729000	12.5
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"2008"	"2008"	120	721017	16.6
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"2009"	"2009"	96	713528	13.5
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"2010"	"2010"	93	709795	13.1
+	"Cook County, IL"	"17031"	"35-44 years"	"35-44"	"2011"	"2011"	93	706582	13.2
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"2007"	"2007"	102	716963	14.2
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"2008"	"2008"	129	717750	18.0
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"2009"	"2009"	114	718760	15.9
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"2010"	"2010"	100	717063	13.9
+	"Cook County, IL"	"17031"	"45-54 years"	"45-54"	"2011"	"2011"	102	710670	14.4
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"2007"	"2007"	37	523312	7.1
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"2008"	"2008"	26	535373	4.9
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"2009"	"2009"	34	552582	6.2
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"2010"	"2010"	47	569326	8.3
+	"Cook County, IL"	"17031"	"55-64 years"	"55-64"	"2011"	"2011"	37	593358	6.2
+	"DuPage County, IL"	"17043"	"15-24 years"	"15-24"	"2007"	"2007"	10	121205	Unreliable
+	"DuPage County, IL"	"17043"	"15-24 years"	"15-24"	"2008"	"2008"	24	120853	19.9
+	"DuPage County, IL"	"17043"	"15-24 years"	"15-24"	"2009"	"2009"	13	120309	Unreliable
+	"DuPage County, IL"	"17043"	"15-24 years"	"15-24"	"2010"	"2010"	11	119816	Unreliable
+	"DuPage County, IL"	"17043"	"15-24 years"	"15-24"	"2011"	"2011"	11	119576	Unreliable
+	"DuPage County, IL"	"17043"	"25-34 years"	"25-34"	"2007"	"2007"	14	115732	Unreliable
+	"DuPage County, IL"	"17043"	"25-34 years"	"25-34"	"2008"	"2008"	13	115846	Unreliable
+	"DuPage County, IL"	"17043"	"25-34 years"	"25-34"	"2009"	"2009"	16	116216	Unreliable
+	"DuPage County, IL"	"17043"	"25-34 years"	"25-34"	"2011"	"2011"	15	119468	Unreliable
+	"DuPage County, IL"	"17043"	"35-44 years"	"35-44"	"2008"	"2008"	14	132929	Unreliable
+	"DuPage County, IL"	"17043"	"35-44 years"	"35-44"	"2010"	"2010"	14	125979	Unreliable
+	"DuPage County, IL"	"17043"	"45-54 years"	"45-54"	"2007"	"2007"	10	145836	Unreliable
+	"DuPage County, IL"	"17043"	"45-54 years"	"45-54"	"2010"	"2010"	11	149142	Unreliable
+	"DuPage County, IL"	"17043"	"45-54 years"	"45-54"	"2011"	"2011"	15	147461	Unreliable
+	"Lake County, IL"	"17097"	"15-24 years"	"15-24"	"2007"	"2007"	11	96969	Unreliable
+	"Lake County, IL"	"17097"	"15-24 years"	"15-24"	"2008"	"2008"	11	97431	Unreliable
+	"Lake County, IL"	"17097"	"15-24 years"	"15-24"	"2010"	"2010"	14	98378	Unreliable
+	"Lake County, IL"	"17097"	"15-24 years"	"15-24"	"2011"	"2011"	13	100030	Unreliable
+	"Lake County, IL"	"17097"	"25-34 years"	"25-34"	"2008"	"2008"	18	80782	Unreliable
+	"Lake County, IL"	"17097"	"25-34 years"	"25-34"	"2010"	"2010"	20	81060	24.7
+	"Lake County, IL"	"17097"	"25-34 years"	"25-34"	"2011"	"2011"	19	80700	Unreliable
+	"Lake County, IL"	"17097"	"35-44 years"	"35-44"	"2008"	"2008"	14	105357	Unreliable
+	"Lake County, IL"	"17097"	"35-44 years"	"35-44"	"2009"	"2009"	17	102053	Unreliable
+	"Lake County, IL"	"17097"	"35-44 years"	"35-44"	"2010"	"2010"	11	99747	Unreliable
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"2007"	"2007"	13	109946	Unreliable
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"2008"	"2008"	11	111849	Unreliable
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"2009"	"2009"	19	113497	Unreliable
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"2010"	"2010"	19	113983	Unreliable
+	"Lake County, IL"	"17097"	"45-54 years"	"45-54"	"2011"	"2011"	16	113441	Unreliable
+	"LaSalle County, IL"	"17099"	"25-34 years"	"25-34"	"2011"	"2011"	10	13537	Unreliable
+	"McHenry County, IL"	"17111"	"25-34 years"	"25-34"	"2009"	"2009"	12	34784	Unreliable
+	"Madison County, IL"	"17119"	"25-34 years"	"25-34"	"2010"	"2010"	11	34127	Unreliable
+	"Madison County, IL"	"17119"	"25-34 years"	"25-34"	"2011"	"2011"	18	34673	Unreliable
+	"Madison County, IL"	"17119"	"45-54 years"	"45-54"	"2010"	"2010"	12	41268	Unreliable
+	"Will County, IL"	"17197"	"15-24 years"	"15-24"	"2009"	"2009"	11	87998	Unreliable
+	"Will County, IL"	"17197"	"15-24 years"	"15-24"	"2010"	"2010"	11	88992	Unreliable
+	"Will County, IL"	"17197"	"25-34 years"	"25-34"	"2008"	"2008"	10	85515	Unreliable
+	"Will County, IL"	"17197"	"25-34 years"	"25-34"	"2009"	"2009"	13	83979	Unreliable
+	"Will County, IL"	"17197"	"25-34 years"	"25-34"	"2011"	"2011"	16	81736	Unreliable
+	"Will County, IL"	"17197"	"35-44 years"	"35-44"	"2007"	"2007"	14	112789	Unreliable
+	"Will County, IL"	"17197"	"35-44 years"	"35-44"	"2008"	"2008"	10	111901	Unreliable
+	"Will County, IL"	"17197"	"35-44 years"	"35-44"	"2009"	"2009"	12	109829	Unreliable
+	"Will County, IL"	"17197"	"35-44 years"	"35-44"	"2010"	"2010"	14	108115	Unreliable
+	"Will County, IL"	"17197"	"35-44 years"	"35-44"	"2011"	"2011"	11	105857	Unreliable
+	"Will County, IL"	"17197"	"45-54 years"	"45-54"	"2007"	"2007"	11	96482	Unreliable
+	"Will County, IL"	"17197"	"45-54 years"	"45-54"	"2008"	"2008"	10	99186	Unreliable
+	"Will County, IL"	"17197"	"45-54 years"	"45-54"	"2009"	"2009"	11	101738	Unreliable
+	"Will County, IL"	"17197"	"45-54 years"	"45-54"	"2011"	"2011"	12	104550	Unreliable
+	"Winnebago County, IL"	"17201"	"15-24 years"	"15-24"	"2008"	"2008"	10	38224	Unreliable
+	"Marion County, IN"	"18097"	"15-24 years"	"15-24"	"2007"	"2007"	10	127817	Unreliable
+	"Marion County, IN"	"18097"	"15-24 years"	"15-24"	"2008"	"2008"	11	128907	Unreliable
+	"Marion County, IN"	"18097"	"25-34 years"	"25-34"	"2007"	"2007"	11	141128	Unreliable
+	"Marion County, IN"	"18097"	"25-34 years"	"25-34"	"2008"	"2008"	16	142291	Unreliable
+	"Marion County, IN"	"18097"	"25-34 years"	"25-34"	"2010"	"2010"	17	144481	Unreliable
+	"Marion County, IN"	"18097"	"25-34 years"	"25-34"	"2011"	"2011"	13	147389	Unreliable
+	"Marion County, IN"	"18097"	"35-44 years"	"35-44"	"2008"	"2008"	19	121940	Unreliable
+	"Marion County, IN"	"18097"	"35-44 years"	"35-44"	"2009"	"2009"	15	120163	Unreliable
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"2008"	"2008"	15	126617	Unreliable
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"2009"	"2009"	26	127325	20.4
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"2010"	"2010"	12	127404	Unreliable
+	"Marion County, IN"	"18097"	"45-54 years"	"45-54"	"2011"	"2011"	18	126038	Unreliable
+	"Marion County, IN"	"18097"	"55-64 years"	"55-64"	"2009"	"2009"	10	92337	Unreliable
+	"Porter County, IN"	"18127"	"25-34 years"	"25-34"	"2010"	"2010"	11	20072	Unreliable
+	"Vanderburgh County, IN"	"18163"	"45-54 years"	"45-54"	"2009"	"2009"	10	26574	Unreliable
+	"Vanderburgh County, IN"	"18163"	"45-54 years"	"45-54"	"2010"	"2010"	17	26360	Unreliable
+	"Vanderburgh County, IN"	"18163"	"45-54 years"	"45-54"	"2011"	"2011"	18	25838	Unreliable
+	"Vanderburgh County, IN"	"18163"	"55-64 years"	"55-64"	"2009"	"2009"	10	21188	Unreliable
+	"Polk County, IA"	"19153"	"25-34 years"	"25-34"	"2009"	"2009"	10	66475	Unreliable
+	"Polk County, IA"	"19153"	"25-34 years"	"25-34"	"2011"	"2011"	11	69270	Unreliable
+	"Polk County, IA"	"19153"	"35-44 years"	"35-44"	"2011"	"2011"	12	59695	Unreliable
+	"Polk County, IA"	"19153"	"45-54 years"	"45-54"	"2010"	"2010"	11	60299	Unreliable
+	"Polk County, IA"	"19153"	"45-54 years"	"45-54"	"2011"	"2011"	13	60286	Unreliable
+	"Sedgwick County, KS"	"20173"	"45-54 years"	"45-54"	"2007"	"2007"	16	70360	Unreliable
+	"Sedgwick County, KS"	"20173"	"45-54 years"	"45-54"	"2008"	"2008"	12	70794	Unreliable
+	"Clay County, KY"	"21051"	"35-44 years"	"35-44"	"2011"	"2011"	12	3295	Unreliable
+	"Fayette County, KY"	"21067"	"25-34 years"	"25-34"	"2010"	"2010"	10	49233	Unreliable
+	"Fayette County, KY"	"21067"	"35-44 years"	"35-44"	"2009"	"2009"	11	38947	Unreliable
+	"Fayette County, KY"	"21067"	"35-44 years"	"35-44"	"2010"	"2010"	10	39272	Unreliable
+	"Fayette County, KY"	"21067"	"35-44 years"	"35-44"	"2011"	"2011"	10	39796	Unreliable
+	"Fayette County, KY"	"21067"	"45-54 years"	"45-54"	"2009"	"2009"	13	39778	Unreliable
+	"Fayette County, KY"	"21067"	"45-54 years"	"45-54"	"2010"	"2010"	12	39926	Unreliable
+	"Fayette County, KY"	"21067"	"45-54 years"	"45-54"	"2011"	"2011"	14	39487	Unreliable
+	"Floyd County, KY"	"21071"	"35-44 years"	"35-44"	"2009"	"2009"	10	5413	Unreliable
+	"Floyd County, KY"	"21071"	"35-44 years"	"35-44"	"2010"	"2010"	10	5305	Unreliable
+	"Floyd County, KY"	"21071"	"35-44 years"	"35-44"	"2011"	"2011"	13	5198	Unreliable
+	"Floyd County, KY"	"21071"	"45-54 years"	"45-54"	"2011"	"2011"	11	5924	Unreliable
+	"Jefferson County, KY"	"21111"	"15-24 years"	"15-24"	"2011"	"2011"	10	95746	Unreliable
+	"Jefferson County, KY"	"21111"	"25-34 years"	"25-34"	"2010"	"2010"	10	104283	Unreliable
+	"Jefferson County, KY"	"21111"	"25-34 years"	"25-34"	"2011"	"2011"	24	106007	22.6
+	"Jefferson County, KY"	"21111"	"35-44 years"	"35-44"	"2011"	"2011"	17	95235	Unreliable
+	"Jefferson County, KY"	"21111"	"45-54 years"	"45-54"	"2010"	"2010"	11	110757	Unreliable
+	"Jefferson County, KY"	"21111"	"45-54 years"	"45-54"	"2011"	"2011"	19	109184	Unreliable
+	"Kenton County, KY"	"21117"	"25-34 years"	"25-34"	"2011"	"2011"	10	24181	Unreliable
+	"Kenton County, KY"	"21117"	"35-44 years"	"35-44"	"2009"	"2009"	10	21782	Unreliable
+	"Kenton County, KY"	"21117"	"35-44 years"	"35-44"	"2010"	"2010"	12	21526	Unreliable
+	"Kenton County, KY"	"21117"	"35-44 years"	"35-44"	"2011"	"2011"	16	21130	Unreliable
+	"Kenton County, KY"	"21117"	"45-54 years"	"45-54"	"2010"	"2010"	11	24059	Unreliable
+	"Pike County, KY"	"21195"	"35-44 years"	"35-44"	"2011"	"2011"	12	8882	Unreliable
+	"Pike County, KY"	"21195"	"45-54 years"	"45-54"	"2010"	"2010"	10	10136	Unreliable
+	"Jefferson Parish, LA"	"22051"	"25-34 years"	"25-34"	"2007"	"2007"	10	57358	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"25-34 years"	"25-34"	"2007"	"2007"	18	25949	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"35-44 years"	"35-44"	"2007"	"2007"	11	33404	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"35-44 years"	"35-44"	"2010"	"2010"	10	31563	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"45-54 years"	"45-54"	"2007"	"2007"	11	36753	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"45-54 years"	"45-54"	"2011"	"2011"	18	37095	Unreliable
+	"Cumberland County, ME"	"23005"	"45-54 years"	"45-54"	"2008"	"2008"	10	45968	Unreliable
+	"Cumberland County, ME"	"23005"	"45-54 years"	"45-54"	"2009"	"2009"	10	46092	Unreliable
+	"Anne Arundel County, MD"	"24003"	"15-24 years"	"15-24"	"2007"	"2007"	12	69925	Unreliable
+	"Anne Arundel County, MD"	"24003"	"15-24 years"	"15-24"	"2011"	"2011"	10	69965	Unreliable
+	"Anne Arundel County, MD"	"24003"	"25-34 years"	"25-34"	"2007"	"2007"	11	66780	Unreliable
+	"Anne Arundel County, MD"	"24003"	"25-34 years"	"25-34"	"2009"	"2009"	23	70265	32.7
+	"Anne Arundel County, MD"	"24003"	"25-34 years"	"25-34"	"2010"	"2010"	17	71801	Unreliable
+	"Anne Arundel County, MD"	"24003"	"25-34 years"	"25-34"	"2011"	"2011"	24	74263	32.3
+	"Anne Arundel County, MD"	"24003"	"35-44 years"	"35-44"	"2007"	"2007"	16	81844	Unreliable
+	"Anne Arundel County, MD"	"24003"	"35-44 years"	"35-44"	"2008"	"2008"	14	79558	Unreliable
+	"Anne Arundel County, MD"	"24003"	"35-44 years"	"35-44"	"2009"	"2009"	12	76983	Unreliable
+	"Anne Arundel County, MD"	"24003"	"35-44 years"	"35-44"	"2010"	"2010"	12	75812	Unreliable
+	"Anne Arundel County, MD"	"24003"	"35-44 years"	"35-44"	"2011"	"2011"	10	74320	Unreliable
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"2007"	"2007"	16	82338	Unreliable
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"2008"	"2008"	19	83796	Unreliable
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"2009"	"2009"	10	85416	Unreliable
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"2010"	"2010"	12	86219	Unreliable
+	"Anne Arundel County, MD"	"24003"	"45-54 years"	"45-54"	"2011"	"2011"	15	86320	Unreliable
+	"Baltimore County, MD"	"24005"	"15-24 years"	"15-24"	"2007"	"2007"	10	112586	Unreliable
+	"Baltimore County, MD"	"24005"	"15-24 years"	"15-24"	"2008"	"2008"	14	113294	Unreliable
+	"Baltimore County, MD"	"24005"	"15-24 years"	"15-24"	"2009"	"2009"	10	113860	Unreliable
+	"Baltimore County, MD"	"24005"	"15-24 years"	"15-24"	"2010"	"2010"	14	114066	Unreliable
+	"Baltimore County, MD"	"24005"	"15-24 years"	"15-24"	"2011"	"2011"	11	113190	Unreliable
+	"Baltimore County, MD"	"24005"	"25-34 years"	"25-34"	"2007"	"2007"	28	101029	27.7
+	"Baltimore County, MD"	"24005"	"25-34 years"	"25-34"	"2008"	"2008"	15	101909	Unreliable
+	"Baltimore County, MD"	"24005"	"25-34 years"	"25-34"	"2009"	"2009"	26	102778	25.3
+	"Baltimore County, MD"	"24005"	"25-34 years"	"25-34"	"2010"	"2010"	20	103555	19.3
+	"Baltimore County, MD"	"24005"	"25-34 years"	"25-34"	"2011"	"2011"	19	106466	Unreliable
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"2007"	"2007"	34	110457	30.8
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"2008"	"2008"	26	107993	24.1
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"2009"	"2009"	31	104434	29.7
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"2010"	"2010"	26	102844	25.3
+	"Baltimore County, MD"	"24005"	"35-44 years"	"35-44"	"2011"	"2011"	18	101135	Unreliable
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"2007"	"2007"	25	120897	20.7
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"2008"	"2008"	34	121032	28.1
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"2009"	"2009"	20	121713	16.4
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"2010"	"2010"	35	121216	28.9
+	"Baltimore County, MD"	"24005"	"45-54 years"	"45-54"	"2011"	"2011"	25	119744	20.9
+	"Baltimore County, MD"	"24005"	"55-64 years"	"55-64"	"2009"	"2009"	11	97959	Unreliable
+	"Baltimore County, MD"	"24005"	"55-64 years"	"55-64"	"2010"	"2010"	10	101113	Unreliable
+	"Baltimore County, MD"	"24005"	"55-64 years"	"55-64"	"2011"	"2011"	14	105511	Unreliable
+	"Cecil County, MD"	"24015"	"25-34 years"	"25-34"	"2010"	"2010"	12	11606	Unreliable
+	"Harford County, MD"	"24025"	"25-34 years"	"25-34"	"2008"	"2008"	14	27470	Unreliable
+	"Harford County, MD"	"24025"	"25-34 years"	"25-34"	"2010"	"2010"	13	28206	Unreliable
+	"Harford County, MD"	"24025"	"25-34 years"	"25-34"	"2011"	"2011"	11	29029	Unreliable
+	"Montgomery County, MD"	"24031"	"25-34 years"	"25-34"	"2009"	"2009"	11	129379	Unreliable
+	"Montgomery County, MD"	"24031"	"45-54 years"	"45-54"	"2011"	"2011"	12	153258	Unreliable
+	"Prince George's County, MD"	"24033"	"35-44 years"	"35-44"	"2010"	"2010"	13	123932	Unreliable
+	"Prince George's County, MD"	"24033"	"45-54 years"	"45-54"	"2009"	"2009"	17	126972	Unreliable
+	"Prince George's County, MD"	"24033"	"45-54 years"	"45-54"	"2010"	"2010"	13	128053	Unreliable
+	"Prince George's County, MD"	"24033"	"55-64 years"	"55-64"	"2009"	"2009"	13	94206	Unreliable
+	"Baltimore city, MD"	"24510"	"25-34 years"	"25-34"	"2007"	"2007"	19	96027	Unreliable
+	"Baltimore city, MD"	"24510"	"25-34 years"	"25-34"	"2009"	"2009"	14	101703	Unreliable
+	"Baltimore city, MD"	"24510"	"25-34 years"	"25-34"	"2010"	"2010"	13	103564	Unreliable
+	"Baltimore city, MD"	"24510"	"25-34 years"	"25-34"	"2011"	"2011"	19	106122	Unreliable
+	"Baltimore city, MD"	"24510"	"35-44 years"	"35-44"	"2007"	"2007"	71	82748	85.8
+	"Baltimore city, MD"	"24510"	"35-44 years"	"35-44"	"2008"	"2008"	44	80164	54.9
+	"Baltimore city, MD"	"24510"	"35-44 years"	"35-44"	"2009"	"2009"	41	77851	52.7
+	"Baltimore city, MD"	"24510"	"35-44 years"	"35-44"	"2010"	"2010"	30	76564	39.2
+	"Baltimore city, MD"	"24510"	"35-44 years"	"35-44"	"2011"	"2011"	27	74381	36.3
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"2007"	"2007"	99	88127	112.3
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"2008"	"2008"	52	87973	59.1
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"2009"	"2009"	75	87701	85.5
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"2010"	"2010"	49	87445	56.0
+	"Baltimore city, MD"	"24510"	"45-54 years"	"45-54"	"2011"	"2011"	50	85685	58.4
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"2007"	"2007"	22	64737	34.0
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"2008"	"2008"	21	66068	31.8
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"2009"	"2009"	23	67536	34.1
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"2010"	"2010"	22	68906	31.9
+	"Baltimore city, MD"	"24510"	"55-64 years"	"55-64"	"2011"	"2011"	17	71288	Unreliable
+	"Bristol County, MA"	"25005"	"25-34 years"	"25-34"	"2007"	"2007"	21	65450	32.1
+	"Bristol County, MA"	"25005"	"25-34 years"	"25-34"	"2008"	"2008"	14	64922	Unreliable
+	"Bristol County, MA"	"25005"	"25-34 years"	"25-34"	"2009"	"2009"	17	64758	Unreliable
+	"Bristol County, MA"	"25005"	"25-34 years"	"25-34"	"2010"	"2010"	18	64671	Unreliable
+	"Bristol County, MA"	"25005"	"25-34 years"	"25-34"	"2011"	"2011"	26	65214	39.9
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"2007"	"2007"	13	83281	Unreliable
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"2008"	"2008"	28	81479	34.4
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"2009"	"2009"	17	79053	Unreliable
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"2010"	"2010"	24	77447	31.0
+	"Bristol County, MA"	"25005"	"35-44 years"	"35-44"	"2011"	"2011"	18	75142	Unreliable
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"2007"	"2007"	18	83075	Unreliable
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"2008"	"2008"	18	84447	Unreliable
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"2009"	"2009"	19	85675	Unreliable
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"2010"	"2010"	22	86447	25.4
+	"Bristol County, MA"	"25005"	"45-54 years"	"45-54"	"2011"	"2011"	24	86254	27.8
+	"Essex County, MA"	"25009"	"25-34 years"	"25-34"	"2007"	"2007"	20	80405	24.9
+	"Essex County, MA"	"25009"	"25-34 years"	"25-34"	"2008"	"2008"	16	81447	Unreliable
+	"Essex County, MA"	"25009"	"25-34 years"	"25-34"	"2009"	"2009"	19	82650	Unreliable
+	"Essex County, MA"	"25009"	"25-34 years"	"25-34"	"2010"	"2010"	13	83855	Unreliable
+	"Essex County, MA"	"25009"	"25-34 years"	"25-34"	"2011"	"2011"	23	86136	26.7
+	"Essex County, MA"	"25009"	"35-44 years"	"35-44"	"2007"	"2007"	29	109727	26.4
+	"Essex County, MA"	"25009"	"35-44 years"	"35-44"	"2008"	"2008"	16	106471	Unreliable
+	"Essex County, MA"	"25009"	"35-44 years"	"35-44"	"2009"	"2009"	14	102786	Unreliable
+	"Essex County, MA"	"25009"	"35-44 years"	"35-44"	"2010"	"2010"	13	100353	Unreliable
+	"Essex County, MA"	"25009"	"35-44 years"	"35-44"	"2011"	"2011"	14	97791	Unreliable
+	"Essex County, MA"	"25009"	"45-54 years"	"45-54"	"2007"	"2007"	15	117630	Unreliable
+	"Essex County, MA"	"25009"	"45-54 years"	"45-54"	"2008"	"2008"	21	119103	17.6
+	"Essex County, MA"	"25009"	"45-54 years"	"45-54"	"2009"	"2009"	18	120764	Unreliable
+	"Essex County, MA"	"25009"	"55-64 years"	"55-64"	"2009"	"2009"	11	92142	Unreliable
+	"Hampden County, MA"	"25013"	"25-34 years"	"25-34"	"2007"	"2007"	12	52687	Unreliable
+	"Hampden County, MA"	"25013"	"25-34 years"	"25-34"	"2008"	"2008"	16	52979	Unreliable
+	"Hampden County, MA"	"25013"	"25-34 years"	"25-34"	"2009"	"2009"	12	53637	Unreliable
+	"Hampden County, MA"	"25013"	"25-34 years"	"25-34"	"2011"	"2011"	14	55183	Unreliable
+	"Hampden County, MA"	"25013"	"35-44 years"	"35-44"	"2007"	"2007"	15	63788	Unreliable
+	"Hampden County, MA"	"25013"	"35-44 years"	"35-44"	"2008"	"2008"	11	61794	Unreliable
+	"Hampden County, MA"	"25013"	"35-44 years"	"35-44"	"2009"	"2009"	11	59737	Unreliable
+	"Hampden County, MA"	"25013"	"35-44 years"	"35-44"	"2010"	"2010"	14	58419	Unreliable
+	"Hampden County, MA"	"25013"	"45-54 years"	"45-54"	"2008"	"2008"	13	69469	Unreliable
+	"Middlesex County, MA"	"25017"	"15-24 years"	"15-24"	"2008"	"2008"	20	198085	10.1
+	"Middlesex County, MA"	"25017"	"15-24 years"	"15-24"	"2009"	"2009"	16	200245	Unreliable
+	"Middlesex County, MA"	"25017"	"15-24 years"	"15-24"	"2011"	"2011"	13	199610	Unreliable
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"2007"	"2007"	19	206732	Unreliable
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"2008"	"2008"	23	210562	10.9
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"2009"	"2009"	30	216033	13.9
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"2010"	"2010"	28	218324	12.8
+	"Middlesex County, MA"	"25017"	"25-34 years"	"25-34"	"2011"	"2011"	35	224709	15.6
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"2007"	"2007"	25	225509	11.1
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"2008"	"2008"	25	221369	11.3
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"2009"	"2009"	20	216376	9.2
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"2010"	"2010"	17	213018	Unreliable
+	"Middlesex County, MA"	"25017"	"35-44 years"	"35-44"	"2011"	"2011"	33	209495	15.8
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"2007"	"2007"	35	223984	15.6
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"2008"	"2008"	32	227534	14.1
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"2009"	"2009"	35	231631	15.1
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"2010"	"2010"	21	233001	9.0
+	"Middlesex County, MA"	"25017"	"45-54 years"	"45-54"	"2011"	"2011"	30	233620	12.8
+	"Middlesex County, MA"	"25017"	"55-64 years"	"55-64"	"2009"	"2009"	12	172552	Unreliable
+	"Middlesex County, MA"	"25017"	"55-64 years"	"55-64"	"2011"	"2011"	15	186297	Unreliable
+	"Norfolk County, MA"	"25021"	"15-24 years"	"15-24"	"2008"	"2008"	10	81417	Unreliable
+	"Norfolk County, MA"	"25021"	"15-24 years"	"15-24"	"2011"	"2011"	14	82273	Unreliable
+	"Norfolk County, MA"	"25021"	"25-34 years"	"25-34"	"2007"	"2007"	10	75001	Unreliable
+	"Norfolk County, MA"	"25021"	"25-34 years"	"25-34"	"2008"	"2008"	16	76494	Unreliable
+	"Norfolk County, MA"	"25021"	"25-34 years"	"25-34"	"2009"	"2009"	22	77756	28.3
+	"Norfolk County, MA"	"25021"	"25-34 years"	"25-34"	"2010"	"2010"	13	78983	Unreliable
+	"Norfolk County, MA"	"25021"	"25-34 years"	"25-34"	"2011"	"2011"	11	81070	Unreliable
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"2007"	"2007"	14	101257	Unreliable
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"2008"	"2008"	16	98433	Unreliable
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"2009"	"2009"	13	95668	Unreliable
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"2010"	"2010"	15	93628	Unreliable
+	"Norfolk County, MA"	"25021"	"35-44 years"	"35-44"	"2011"	"2011"	12	91743	Unreliable
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"2007"	"2007"	16	105578	Unreliable
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"2008"	"2008"	18	107317	Unreliable
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"2009"	"2009"	15	108981	Unreliable
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"2010"	"2010"	14	109700	Unreliable
+	"Norfolk County, MA"	"25021"	"45-54 years"	"45-54"	"2011"	"2011"	13	109648	Unreliable
+	"Plymouth County, MA"	"25023"	"25-34 years"	"25-34"	"2008"	"2008"	10	48114	Unreliable
+	"Plymouth County, MA"	"25023"	"25-34 years"	"25-34"	"2009"	"2009"	12	48503	Unreliable
+	"Plymouth County, MA"	"25023"	"25-34 years"	"25-34"	"2010"	"2010"	11	49143	Unreliable
+	"Plymouth County, MA"	"25023"	"25-34 years"	"25-34"	"2011"	"2011"	21	49989	42.0
+	"Plymouth County, MA"	"25023"	"35-44 years"	"35-44"	"2007"	"2007"	17	76878	Unreliable
+	"Plymouth County, MA"	"25023"	"35-44 years"	"35-44"	"2009"	"2009"	10	71651	Unreliable
+	"Plymouth County, MA"	"25023"	"35-44 years"	"35-44"	"2011"	"2011"	13	67004	Unreliable
+	"Plymouth County, MA"	"25023"	"45-54 years"	"45-54"	"2007"	"2007"	16	79091	Unreliable
+	"Plymouth County, MA"	"25023"	"45-54 years"	"45-54"	"2008"	"2008"	15	80165	Unreliable
+	"Plymouth County, MA"	"25023"	"45-54 years"	"45-54"	"2009"	"2009"	13	81386	Unreliable
+	"Plymouth County, MA"	"25023"	"45-54 years"	"45-54"	"2011"	"2011"	11	82081	Unreliable
+	"Suffolk County, MA"	"25025"	"25-34 years"	"25-34"	"2007"	"2007"	16	137992	Unreliable
+	"Suffolk County, MA"	"25025"	"25-34 years"	"25-34"	"2008"	"2008"	14	140171	Unreliable
+	"Suffolk County, MA"	"25025"	"25-34 years"	"25-34"	"2009"	"2009"	14	143843	Unreliable
+	"Suffolk County, MA"	"25025"	"25-34 years"	"25-34"	"2010"	"2010"	12	145401	Unreliable
+	"Suffolk County, MA"	"25025"	"25-34 years"	"25-34"	"2011"	"2011"	19	152806	Unreliable
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"2007"	"2007"	27	94815	28.5
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"2008"	"2008"	16	94030	Unreliable
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"2009"	"2009"	25	93326	26.8
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"2010"	"2010"	11	92929	Unreliable
+	"Suffolk County, MA"	"25025"	"35-44 years"	"35-44"	"2011"	"2011"	28	93029	30.1
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"2007"	"2007"	44	81270	54.1
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"2008"	"2008"	28	82310	34.0
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"2009"	"2009"	29	83813	34.6
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"2010"	"2010"	24	84680	28.3
+	"Suffolk County, MA"	"25025"	"45-54 years"	"45-54"	"2011"	"2011"	20	85274	23.5
+	"Suffolk County, MA"	"25025"	"55-64 years"	"55-64"	"2007"	"2007"	10	61572	Unreliable
+	"Suffolk County, MA"	"25025"	"55-64 years"	"55-64"	"2009"	"2009"	13	65417	Unreliable
+	"Suffolk County, MA"	"25025"	"55-64 years"	"55-64"	"2010"	"2010"	10	66988	Unreliable
+	"Worcester County, MA"	"25027"	"15-24 years"	"15-24"	"2011"	"2011"	11	111903	Unreliable
+	"Worcester County, MA"	"25027"	"25-34 years"	"25-34"	"2007"	"2007"	15	92867	Unreliable
+	"Worcester County, MA"	"25027"	"25-34 years"	"25-34"	"2008"	"2008"	14	92298	Unreliable
+	"Worcester County, MA"	"25027"	"25-34 years"	"25-34"	"2009"	"2009"	18	92170	Unreliable
+	"Worcester County, MA"	"25027"	"25-34 years"	"25-34"	"2010"	"2010"	23	92556	24.8
+	"Worcester County, MA"	"25027"	"25-34 years"	"25-34"	"2011"	"2011"	17	94210	Unreliable
+	"Worcester County, MA"	"25027"	"35-44 years"	"35-44"	"2007"	"2007"	17	122667	Unreliable
+	"Worcester County, MA"	"25027"	"35-44 years"	"35-44"	"2008"	"2008"	22	119304	18.4
+	"Worcester County, MA"	"25027"	"35-44 years"	"35-44"	"2009"	"2009"	14	115672	Unreliable
+	"Worcester County, MA"	"25027"	"35-44 years"	"35-44"	"2010"	"2010"	22	113226	19.4
+	"Worcester County, MA"	"25027"	"35-44 years"	"35-44"	"2011"	"2011"	21	109466	19.2
+	"Worcester County, MA"	"25027"	"45-54 years"	"45-54"	"2007"	"2007"	22	124963	17.6
+	"Worcester County, MA"	"25027"	"45-54 years"	"45-54"	"2008"	"2008"	27	127225	21.2
+	"Worcester County, MA"	"25027"	"45-54 years"	"45-54"	"2009"	"2009"	18	129460	Unreliable
+	"Worcester County, MA"	"25027"	"45-54 years"	"45-54"	"2010"	"2010"	16	130690	Unreliable
+	"Worcester County, MA"	"25027"	"45-54 years"	"45-54"	"2011"	"2011"	21	130778	16.1
+	"Genesee County, MI"	"26049"	"15-24 years"	"15-24"	"2008"	"2008"	12	58188	Unreliable
+	"Genesee County, MI"	"26049"	"15-24 years"	"15-24"	"2010"	"2010"	11	57719	Unreliable
+	"Genesee County, MI"	"26049"	"25-34 years"	"25-34"	"2009"	"2009"	14	50999	Unreliable
+	"Genesee County, MI"	"26049"	"25-34 years"	"25-34"	"2010"	"2010"	19	50224	Unreliable
+	"Genesee County, MI"	"26049"	"25-34 years"	"25-34"	"2011"	"2011"	24	49520	48.5
+	"Genesee County, MI"	"26049"	"35-44 years"	"35-44"	"2008"	"2008"	17	58988	Unreliable
+	"Genesee County, MI"	"26049"	"35-44 years"	"35-44"	"2009"	"2009"	11	56695	Unreliable
+	"Genesee County, MI"	"26049"	"35-44 years"	"35-44"	"2010"	"2010"	15	55060	Unreliable
+	"Genesee County, MI"	"26049"	"35-44 years"	"35-44"	"2011"	"2011"	15	53407	Unreliable
+	"Genesee County, MI"	"26049"	"45-54 years"	"45-54"	"2008"	"2008"	23	66150	34.8
+	"Genesee County, MI"	"26049"	"45-54 years"	"45-54"	"2009"	"2009"	17	65607	Unreliable
+	"Genesee County, MI"	"26049"	"45-54 years"	"45-54"	"2010"	"2010"	29	64981	44.6
+	"Genesee County, MI"	"26049"	"45-54 years"	"45-54"	"2011"	"2011"	22	63232	34.8
+	"Genesee County, MI"	"26049"	"55-64 years"	"55-64"	"2009"	"2009"	13	51210	Unreliable
+	"Genesee County, MI"	"26049"	"55-64 years"	"55-64"	"2010"	"2010"	11	52676	Unreliable
+	"Kent County, MI"	"26081"	"25-34 years"	"25-34"	"2007"	"2007"	12	83790	Unreliable
+	"Kent County, MI"	"26081"	"25-34 years"	"25-34"	"2009"	"2009"	16	84165	Unreliable
+	"Kent County, MI"	"26081"	"35-44 years"	"35-44"	"2009"	"2009"	10	78430	Unreliable
+	"Kent County, MI"	"26081"	"35-44 years"	"35-44"	"2010"	"2010"	12	77106	Unreliable
+	"Kent County, MI"	"26081"	"35-44 years"	"35-44"	"2011"	"2011"	13	76259	Unreliable
+	"Kent County, MI"	"26081"	"45-54 years"	"45-54"	"2007"	"2007"	12	86255	Unreliable
+	"Kent County, MI"	"26081"	"45-54 years"	"45-54"	"2008"	"2008"	10	86920	Unreliable
+	"Kent County, MI"	"26081"	"45-54 years"	"45-54"	"2010"	"2010"	11	86882	Unreliable
+	"Macomb County, MI"	"26099"	"15-24 years"	"15-24"	"2007"	"2007"	16	102806	Unreliable
+	"Macomb County, MI"	"26099"	"15-24 years"	"15-24"	"2008"	"2008"	15	104101	Unreliable
+	"Macomb County, MI"	"26099"	"15-24 years"	"15-24"	"2009"	"2009"	10	105233	Unreliable
+	"Macomb County, MI"	"26099"	"15-24 years"	"15-24"	"2010"	"2010"	14	106318	Unreliable
+	"Macomb County, MI"	"26099"	"15-24 years"	"15-24"	"2011"	"2011"	21	105721	19.9
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"2007"	"2007"	14	106454	Unreliable
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"2008"	"2008"	27	104363	25.9
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"2009"	"2009"	20	102481	19.5
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"2010"	"2010"	20	101393	19.7
+	"Macomb County, MI"	"26099"	"25-34 years"	"25-34"	"2011"	"2011"	28	102228	27.4
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"2007"	"2007"	19	126652	Unreliable
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"2008"	"2008"	26	124039	21.0
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"2009"	"2009"	24	120763	19.9
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"2010"	"2010"	19	118439	Unreliable
+	"Macomb County, MI"	"26099"	"35-44 years"	"35-44"	"2011"	"2011"	22	114890	19.1
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"2007"	"2007"	24	129707	18.5
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"2008"	"2008"	30	131196	22.9
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"2009"	"2009"	36	132556	27.2
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"2010"	"2010"	34	132855	25.6
+	"Macomb County, MI"	"26099"	"45-54 years"	"45-54"	"2011"	"2011"	31	132262	23.4
+	"Macomb County, MI"	"26099"	"55-64 years"	"55-64"	"2010"	"2010"	17	103975	Unreliable
+	"Washtenaw County, MI"	"26161"	"35-44 years"	"35-44"	"2010"	"2010"	10	43791	Unreliable
+	"Wayne County, MI"	"26163"	"15-24 years"	"15-24"	"2010"	"2010"	13	264893	Unreliable
+	"Wayne County, MI"	"26163"	"15-24 years"	"15-24"	"2011"	"2011"	10	261457	Unreliable
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"2007"	"2007"	22	241718	9.1
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"2008"	"2008"	21	230491	9.1
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"2009"	"2009"	23	222791	10.3
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"2010"	"2010"	28	218793	12.8
+	"Wayne County, MI"	"26163"	"25-34 years"	"25-34"	"2011"	"2011"	22	217912	10.1
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"2007"	"2007"	15	271187	Unreliable
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"2008"	"2008"	23	261672	8.8
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"2009"	"2009"	37	251820	14.7
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"2010"	"2010"	18	244892	Unreliable
+	"Wayne County, MI"	"26163"	"35-44 years"	"35-44"	"2011"	"2011"	32	236418	13.5
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"2007"	"2007"	43	278367	15.4
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"2008"	"2008"	57	275523	20.7
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"2009"	"2009"	62	272663	22.7
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"2010"	"2010"	36	268999	13.4
+	"Wayne County, MI"	"26163"	"45-54 years"	"45-54"	"2011"	"2011"	39	262398	14.9
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"2007"	"2007"	16	202991	Unreliable
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"2008"	"2008"	25	206998	12.1
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"2009"	"2009"	29	213286	13.6
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"2010"	"2010"	22	218630	10.1
+	"Wayne County, MI"	"26163"	"55-64 years"	"55-64"	"2011"	"2011"	16	226913	Unreliable
+	"Anoka County, MN"	"27003"	"35-44 years"	"35-44"	"2010"	"2010"	12	48295	Unreliable
+	"Dakota County, MN"	"27037"	"45-54 years"	"45-54"	"2009"	"2009"	13	65995	Unreliable
+	"Hennepin County, MN"	"27053"	"15-24 years"	"15-24"	"2009"	"2009"	10	158444	Unreliable
+	"Hennepin County, MN"	"27053"	"25-34 years"	"25-34"	"2008"	"2008"	20	180984	11.1
+	"Hennepin County, MN"	"27053"	"25-34 years"	"25-34"	"2009"	"2009"	12	185488	Unreliable
+	"Hennepin County, MN"	"27053"	"25-34 years"	"25-34"	"2010"	"2010"	17	187523	Unreliable
+	"Hennepin County, MN"	"27053"	"25-34 years"	"25-34"	"2011"	"2011"	11	194486	Unreliable
+	"Hennepin County, MN"	"27053"	"35-44 years"	"35-44"	"2007"	"2007"	16	163460	Unreliable
+	"Hennepin County, MN"	"27053"	"35-44 years"	"35-44"	"2008"	"2008"	16	159324	Unreliable
+	"Hennepin County, MN"	"27053"	"35-44 years"	"35-44"	"2009"	"2009"	23	156217	14.7
+	"Hennepin County, MN"	"27053"	"35-44 years"	"35-44"	"2010"	"2010"	11	154304	Unreliable
+	"Hennepin County, MN"	"27053"	"35-44 years"	"35-44"	"2011"	"2011"	15	153633	Unreliable
+	"Hennepin County, MN"	"27053"	"45-54 years"	"45-54"	"2007"	"2007"	20	170892	11.7
+	"Hennepin County, MN"	"27053"	"45-54 years"	"45-54"	"2008"	"2008"	25	171578	14.6
+	"Hennepin County, MN"	"27053"	"45-54 years"	"45-54"	"2010"	"2010"	20	171130	11.7
+	"Hennepin County, MN"	"27053"	"45-54 years"	"45-54"	"2011"	"2011"	24	170216	14.1
+	"Hennepin County, MN"	"27053"	"55-64 years"	"55-64"	"2009"	"2009"	14	129218	Unreliable
+	"Hennepin County, MN"	"27053"	"55-64 years"	"55-64"	"2010"	"2010"	13	133758	Unreliable
+	"Hennepin County, MN"	"27053"	"55-64 years"	"55-64"	"2011"	"2011"	18	140847	Unreliable
+	"Ramsey County, MN"	"27123"	"45-54 years"	"45-54"	"2008"	"2008"	10	71739	Unreliable
+	"Franklin County, MO"	"29071"	"25-34 years"	"25-34"	"2011"	"2011"	10	12076	Unreliable
+	"Greene County, MO"	"29077"	"25-34 years"	"25-34"	"2010"	"2010"	10	38967	Unreliable
+	"Greene County, MO"	"29077"	"35-44 years"	"35-44"	"2007"	"2007"	13	33956	Unreliable
+	"Greene County, MO"	"29077"	"35-44 years"	"35-44"	"2008"	"2008"	10	33382	Unreliable
+	"Greene County, MO"	"29077"	"35-44 years"	"35-44"	"2010"	"2010"	10	32704	Unreliable
+	"Greene County, MO"	"29077"	"45-54 years"	"45-54"	"2007"	"2007"	14	36483	Unreliable
+	"Greene County, MO"	"29077"	"45-54 years"	"45-54"	"2008"	"2008"	13	36994	Unreliable
+	"Greene County, MO"	"29077"	"45-54 years"	"45-54"	"2010"	"2010"	15	36911	Unreliable
+	"Greene County, MO"	"29077"	"45-54 years"	"45-54"	"2011"	"2011"	12	35996	Unreliable
+	"Jackson County, MO"	"29095"	"25-34 years"	"25-34"	"2009"	"2009"	10	97787	Unreliable
+	"Jackson County, MO"	"29095"	"25-34 years"	"25-34"	"2010"	"2010"	13	98213	Unreliable
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"2007"	"2007"	19	92146	Unreliable
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"2008"	"2008"	13	89982	Unreliable
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"2009"	"2009"	10	87809	Unreliable
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"2010"	"2010"	11	86717	Unreliable
+	"Jackson County, MO"	"29095"	"35-44 years"	"35-44"	"2011"	"2011"	11	85296	Unreliable
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"2007"	"2007"	18	97511	Unreliable
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"2008"	"2008"	15	98368	Unreliable
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"2009"	"2009"	15	99153	Unreliable
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"2010"	"2010"	15	98844	Unreliable
+	"Jackson County, MO"	"29095"	"45-54 years"	"45-54"	"2011"	"2011"	14	97414	Unreliable
+	"Jackson County, MO"	"29095"	"55-64 years"	"55-64"	"2009"	"2009"	10	75083	Unreliable
+	"Jackson County, MO"	"29095"	"55-64 years"	"55-64"	"2010"	"2010"	10	77546	Unreliable
+	"Jackson County, MO"	"29095"	"55-64 years"	"55-64"	"2011"	"2011"	11	80981	Unreliable
+	"Jefferson County, MO"	"29099"	"15-24 years"	"15-24"	"2010"	"2010"	12	27649	Unreliable
+	"Jefferson County, MO"	"29099"	"15-24 years"	"15-24"	"2011"	"2011"	10	27310	Unreliable
+	"Jefferson County, MO"	"29099"	"25-34 years"	"25-34"	"2008"	"2008"	10	28245	Unreliable
+	"Jefferson County, MO"	"29099"	"25-34 years"	"25-34"	"2009"	"2009"	17	28301	Unreliable
+	"Jefferson County, MO"	"29099"	"25-34 years"	"25-34"	"2010"	"2010"	11	28401	Unreliable
+	"Jefferson County, MO"	"29099"	"35-44 years"	"35-44"	"2011"	"2011"	11	29551	Unreliable
+	"Jefferson County, MO"	"29099"	"45-54 years"	"45-54"	"2010"	"2010"	13	36012	Unreliable
+	"Jefferson County, MO"	"29099"	"45-54 years"	"45-54"	"2011"	"2011"	10	35743	Unreliable
+	"St. Charles County, MO"	"29183"	"25-34 years"	"25-34"	"2008"	"2008"	10	45929	Unreliable
+	"St. Charles County, MO"	"29183"	"25-34 years"	"25-34"	"2010"	"2010"	10	47485	Unreliable
+	"St. Charles County, MO"	"29183"	"25-34 years"	"25-34"	"2011"	"2011"	16	48593	Unreliable
+	"St. Charles County, MO"	"29183"	"35-44 years"	"35-44"	"2010"	"2010"	12	50643	Unreliable
+	"St. Charles County, MO"	"29183"	"35-44 years"	"35-44"	"2011"	"2011"	14	49904	Unreliable
+	"St. Charles County, MO"	"29183"	"45-54 years"	"45-54"	"2011"	"2011"	12	57398	Unreliable
+	"St. Louis County, MO"	"29189"	"15-24 years"	"15-24"	"2007"	"2007"	14	133787	Unreliable
+	"St. Louis County, MO"	"29189"	"15-24 years"	"15-24"	"2008"	"2008"	17	132907	Unreliable
+	"St. Louis County, MO"	"29189"	"15-24 years"	"15-24"	"2009"	"2009"	15	132107	Unreliable
+	"St. Louis County, MO"	"29189"	"15-24 years"	"15-24"	"2010"	"2010"	11	131174	Unreliable
+	"St. Louis County, MO"	"29189"	"15-24 years"	"15-24"	"2011"	"2011"	21	129754	16.2
+	"St. Louis County, MO"	"29189"	"25-34 years"	"25-34"	"2008"	"2008"	16	119788	Unreliable
+	"St. Louis County, MO"	"29189"	"25-34 years"	"25-34"	"2009"	"2009"	28	121214	23.1
+	"St. Louis County, MO"	"29189"	"25-34 years"	"25-34"	"2010"	"2010"	43	121851	35.3
+	"St. Louis County, MO"	"29189"	"25-34 years"	"25-34"	"2011"	"2011"	38	124597	30.5
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"2007"	"2007"	15	134317	Unreliable
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"2008"	"2008"	25	129853	19.3
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"2009"	"2009"	21	125591	16.7
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"2010"	"2010"	26	122763	21.2
+	"St. Louis County, MO"	"29189"	"35-44 years"	"35-44"	"2011"	"2011"	31	119764	25.9
+	"St. Louis County, MO"	"29189"	"45-54 years"	"45-54"	"2008"	"2008"	18	157245	Unreliable
+	"St. Louis County, MO"	"29189"	"45-54 years"	"45-54"	"2009"	"2009"	29	156575	18.5
+	"St. Louis County, MO"	"29189"	"45-54 years"	"45-54"	"2010"	"2010"	23	155599	14.8
+	"St. Louis County, MO"	"29189"	"45-54 years"	"45-54"	"2011"	"2011"	34	152457	22.3
+	"St. Louis County, MO"	"29189"	"55-64 years"	"55-64"	"2011"	"2011"	10	133868	Unreliable
+	"St. Louis city, MO"	"29510"	"25-34 years"	"25-34"	"2009"	"2009"	12	56513	Unreliable
+	"St. Louis city, MO"	"29510"	"25-34 years"	"25-34"	"2010"	"2010"	17	57661	Unreliable
+	"St. Louis city, MO"	"29510"	"25-34 years"	"25-34"	"2011"	"2011"	21	59032	35.6
+	"St. Louis city, MO"	"29510"	"35-44 years"	"35-44"	"2008"	"2008"	10	41287	Unreliable
+	"St. Louis city, MO"	"29510"	"35-44 years"	"35-44"	"2009"	"2009"	13	40709	Unreliable
+	"St. Louis city, MO"	"29510"	"35-44 years"	"35-44"	"2010"	"2010"	19	40244	Unreliable
+	"St. Louis city, MO"	"29510"	"35-44 years"	"35-44"	"2011"	"2011"	22	39355	55.9
+	"St. Louis city, MO"	"29510"	"45-54 years"	"45-54"	"2007"	"2007"	12	45465	Unreliable
+	"St. Louis city, MO"	"29510"	"45-54 years"	"45-54"	"2008"	"2008"	19	45373	Unreliable
+	"St. Louis city, MO"	"29510"	"45-54 years"	"45-54"	"2009"	"2009"	21	45198	46.5
+	"St. Louis city, MO"	"29510"	"45-54 years"	"45-54"	"2010"	"2010"	13	44811	Unreliable
+	"St. Louis city, MO"	"29510"	"45-54 years"	"45-54"	"2011"	"2011"	17	43459	Unreliable
+	"St. Louis city, MO"	"29510"	"55-64 years"	"55-64"	"2011"	"2011"	14	36488	Unreliable
+	"Douglas County, NE"	"31055"	"25-34 years"	"25-34"	"2011"	"2011"	11	83862	Unreliable
+	"Douglas County, NE"	"31055"	"35-44 years"	"35-44"	"2007"	"2007"	10	68640	Unreliable
+	"Douglas County, NE"	"31055"	"35-44 years"	"35-44"	"2009"	"2009"	12	67277	Unreliable
+	"Douglas County, NE"	"31055"	"35-44 years"	"35-44"	"2010"	"2010"	11	67026	Unreliable
+	"Douglas County, NE"	"31055"	"45-54 years"	"45-54"	"2009"	"2009"	12	70497	Unreliable
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"2007"	"2007"	35	248401	14.1
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"2008"	"2008"	28	255009	11.0
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"2009"	"2009"	34	257660	13.2
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"2010"	"2010"	40	259685	15.4
+	"Clark County, NV"	"32003"	"15-24 years"	"15-24"	"2011"	"2011"	48	260912	18.4
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"2007"	"2007"	71	289386	24.5
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"2008"	"2008"	56	295692	18.9
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"2009"	"2009"	52	296690	17.5
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"2010"	"2010"	53	294525	18.0
+	"Clark County, NV"	"32003"	"25-34 years"	"25-34"	"2011"	"2011"	71	294836	24.1
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"2007"	"2007"	63	285789	22.0
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"2008"	"2008"	59	289662	20.4
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"2009"	"2009"	76	290113	26.2
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"2010"	"2010"	72	288486	25.0
+	"Clark County, NV"	"32003"	"35-44 years"	"35-44"	"2011"	"2011"	77	285808	26.9
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"2007"	"2007"	86	249704	34.4
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"2008"	"2008"	106	256846	41.3
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"2009"	"2009"	119	262202	45.4
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"2010"	"2010"	108	264813	40.8
+	"Clark County, NV"	"32003"	"45-54 years"	"45-54"	"2011"	"2011"	103	265672	38.8
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"2007"	"2007"	35	198975	17.6
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"2008"	"2008"	44	203912	21.6
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"2009"	"2009"	59	209867	28.1
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"2010"	"2010"	70	215262	32.5
+	"Clark County, NV"	"32003"	"55-64 years"	"55-64"	"2011"	"2011"	55	223044	24.7
+	"Clark County, NV"	"32003"	"65-74 years"	"65-74"	"2009"	"2009"	10	130763	Unreliable
+	"Clark County, NV"	"32003"	"65-74 years"	"65-74"	"2010"	"2010"	10	134903	Unreliable
+	"Clark County, NV"	"32003"	"65-74 years"	"65-74"	"2011"	"2011"	17	141064	Unreliable
+	"Washoe County, NV"	"32031"	"25-34 years"	"25-34"	"2007"	"2007"	10	54533	Unreliable
+	"Washoe County, NV"	"32031"	"25-34 years"	"25-34"	"2008"	"2008"	13	55226	Unreliable
+	"Washoe County, NV"	"32031"	"25-34 years"	"25-34"	"2010"	"2010"	12	56469	Unreliable
+	"Washoe County, NV"	"32031"	"25-34 years"	"25-34"	"2011"	"2011"	10	57841	Unreliable
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"2007"	"2007"	16	57839	Unreliable
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"2008"	"2008"	20	57143	35.0
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"2009"	"2009"	14	55761	Unreliable
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"2010"	"2010"	16	55353	Unreliable
+	"Washoe County, NV"	"32031"	"35-44 years"	"35-44"	"2011"	"2011"	12	54695	Unreliable
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"2007"	"2007"	19	61099	Unreliable
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"2008"	"2008"	22	61640	35.7
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"2009"	"2009"	29	61570	47.1
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"2010"	"2010"	19	61322	Unreliable
+	"Washoe County, NV"	"32031"	"45-54 years"	"45-54"	"2011"	"2011"	20	60533	33.0
+	"Washoe County, NV"	"32031"	"55-64 years"	"55-64"	"2008"	"2008"	11	50021	Unreliable
+	"Washoe County, NV"	"32031"	"55-64 years"	"55-64"	"2009"	"2009"	15	51713	Unreliable
+	"Washoe County, NV"	"32031"	"55-64 years"	"55-64"	"2010"	"2010"	16	53319	Unreliable
+	"Washoe County, NV"	"32031"	"55-64 years"	"55-64"	"2011"	"2011"	26	55454	46.9
+	"Hillsborough County, NH"	"33011"	"25-34 years"	"25-34"	"2007"	"2007"	10	49300	Unreliable
+	"Hillsborough County, NH"	"33011"	"25-34 years"	"25-34"	"2010"	"2010"	11	49098	Unreliable
+	"Hillsborough County, NH"	"33011"	"25-34 years"	"25-34"	"2011"	"2011"	19	50006	Unreliable
+	"Hillsborough County, NH"	"33011"	"35-44 years"	"35-44"	"2008"	"2008"	10	61294	Unreliable
+	"Hillsborough County, NH"	"33011"	"45-54 years"	"45-54"	"2011"	"2011"	10	68259	Unreliable
+	"Rockingham County, NH"	"33015"	"35-44 years"	"35-44"	"2011"	"2011"	13	41042	Unreliable
+	"Rockingham County, NH"	"33015"	"45-54 years"	"45-54"	"2007"	"2007"	11	53156	Unreliable
+	"Rockingham County, NH"	"33015"	"45-54 years"	"45-54"	"2008"	"2008"	10	54102	Unreliable
+	"Rockingham County, NH"	"33015"	"45-54 years"	"45-54"	"2009"	"2009"	10	55153	Unreliable
+	"Bergen County, NJ"	"34003"	"25-34 years"	"25-34"	"2011"	"2011"	11	106681	Unreliable
+	"Bergen County, NJ"	"34003"	"45-54 years"	"45-54"	"2007"	"2007"	11	143311	Unreliable
+	"Essex County, NJ"	"34013"	"25-34 years"	"25-34"	"2011"	"2011"	12	107729	Unreliable
+	"Essex County, NJ"	"34013"	"35-44 years"	"35-44"	"2007"	"2007"	20	120889	16.5
+	"Essex County, NJ"	"34013"	"35-44 years"	"35-44"	"2008"	"2008"	14	118793	Unreliable
+	"Essex County, NJ"	"34013"	"45-54 years"	"45-54"	"2007"	"2007"	13	111565	Unreliable
+	"Essex County, NJ"	"34013"	"45-54 years"	"45-54"	"2008"	"2008"	12	113085	Unreliable
+	"Essex County, NJ"	"34013"	"45-54 years"	"45-54"	"2010"	"2010"	14	115224	Unreliable
+	"Essex County, NJ"	"34013"	"45-54 years"	"45-54"	"2011"	"2011"	13	114864	Unreliable
+	"Hudson County, NJ"	"34017"	"35-44 years"	"35-44"	"2011"	"2011"	14	97958	Unreliable
+	"Hudson County, NJ"	"34017"	"45-54 years"	"45-54"	"2008"	"2008"	11	81192	Unreliable
+	"Hudson County, NJ"	"34017"	"45-54 years"	"45-54"	"2011"	"2011"	15	83059	Unreliable
+	"Mercer County, NJ"	"34021"	"45-54 years"	"45-54"	"2010"	"2010"	10	55646	Unreliable
+	"Middlesex County, NJ"	"34023"	"25-34 years"	"25-34"	"2010"	"2010"	13	111577	Unreliable
+	"Middlesex County, NJ"	"34023"	"25-34 years"	"25-34"	"2011"	"2011"	18	112141	Unreliable
+	"Middlesex County, NJ"	"34023"	"35-44 years"	"35-44"	"2007"	"2007"	14	122401	Unreliable
+	"Middlesex County, NJ"	"34023"	"35-44 years"	"35-44"	"2008"	"2008"	12	120738	Unreliable
+	"Middlesex County, NJ"	"34023"	"35-44 years"	"35-44"	"2010"	"2010"	12	117515	Unreliable
+	"Middlesex County, NJ"	"34023"	"35-44 years"	"35-44"	"2011"	"2011"	13	116349	Unreliable
+	"Middlesex County, NJ"	"34023"	"45-54 years"	"45-54"	"2011"	"2011"	10	121617	Unreliable
+	"Monmouth County, NJ"	"34025"	"15-24 years"	"15-24"	"2007"	"2007"	10	77531	Unreliable
+	"Monmouth County, NJ"	"34025"	"15-24 years"	"15-24"	"2011"	"2011"	10	78545	Unreliable
+	"Monmouth County, NJ"	"34025"	"25-34 years"	"25-34"	"2010"	"2010"	11	64860	Unreliable
+	"Monmouth County, NJ"	"34025"	"35-44 years"	"35-44"	"2007"	"2007"	12	97188	Unreliable
+	"Monmouth County, NJ"	"34025"	"35-44 years"	"35-44"	"2010"	"2010"	15	86499	Unreliable
+	"Monmouth County, NJ"	"34025"	"35-44 years"	"35-44"	"2011"	"2011"	20	83062	24.1
+	"Monmouth County, NJ"	"34025"	"45-54 years"	"45-54"	"2010"	"2010"	12	110979	Unreliable
+	"Monmouth County, NJ"	"34025"	"45-54 years"	"45-54"	"2011"	"2011"	24	110274	21.8
+	"Morris County, NJ"	"34027"	"35-44 years"	"35-44"	"2011"	"2011"	11	69923	Unreliable
+	"Passaic County, NJ"	"34031"	"35-44 years"	"35-44"	"2007"	"2007"	11	72724	Unreliable
+	"Passaic County, NJ"	"34031"	"45-54 years"	"45-54"	"2008"	"2008"	10	71914	Unreliable
+	"Union County, NJ"	"34039"	"45-54 years"	"45-54"	"2010"	"2010"	11	83409	Unreliable
+	"Union County, NJ"	"34039"	"45-54 years"	"45-54"	"2011"	"2011"	11	83565	Unreliable
+	"Bernalillo County, NM"	"35001"	"15-24 years"	"15-24"	"2008"	"2008"	17	94433	Unreliable
+	"Bernalillo County, NM"	"35001"	"15-24 years"	"15-24"	"2009"	"2009"	11	94608	Unreliable
+	"Bernalillo County, NM"	"35001"	"15-24 years"	"15-24"	"2010"	"2010"	12	95201	Unreliable
+	"Bernalillo County, NM"	"35001"	"15-24 years"	"15-24"	"2011"	"2011"	14	94590	Unreliable
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"2007"	"2007"	23	92445	24.9
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"2008"	"2008"	37	93717	39.5
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"2009"	"2009"	13	94788	Unreliable
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"2010"	"2010"	19	96086	Unreliable
+	"Bernalillo County, NM"	"35001"	"25-34 years"	"25-34"	"2011"	"2011"	23	98581	23.3
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"2007"	"2007"	26	86462	30.1
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"2008"	"2008"	38	85082	44.7
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"2009"	"2009"	20	84450	23.7
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"2010"	"2010"	15	84138	Unreliable
+	"Bernalillo County, NM"	"35001"	"35-44 years"	"35-44"	"2011"	"2011"	17	83962	Unreliable
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"2007"	"2007"	35	92804	37.7
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"2008"	"2008"	48	93878	51.1
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"2009"	"2009"	16	94187	Unreliable
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"2010"	"2010"	18	94130	Unreliable
+	"Bernalillo County, NM"	"35001"	"45-54 years"	"45-54"	"2011"	"2011"	20	93278	21.4
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"2007"	"2007"	11	71040	Unreliable
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"2008"	"2008"	21	73833	28.4
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"2009"	"2009"	12	76790	Unreliable
+	"Bernalillo County, NM"	"35001"	"55-64 years"	"55-64"	"2011"	"2011"	19	82867	Unreliable
+	"Albany County, NY"	"36001"	"45-54 years"	"45-54"	"2011"	"2011"	10	44313	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2007"	"2007"	11	198342	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2008"	"2008"	12	200465	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2009"	"2009"	12	203016	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2010"	"2010"	11	203534	Unreliable
+	"Bronx County, NY"	"36005"	"25-34 years"	"25-34"	"2011"	"2011"	22	205202	10.7
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2007"	"2007"	35	195117	17.9
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2008"	"2008"	22	192036	11.5
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2009"	"2009"	28	188595	14.8
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2010"	"2010"	20	187089	10.7
+	"Bronx County, NY"	"36005"	"35-44 years"	"35-44"	"2011"	"2011"	26	183143	14.2
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2007"	"2007"	32	175348	18.2
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2008"	"2008"	36	179075	20.1
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2009"	"2009"	23	183321	12.5
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2010"	"2010"	28	185598	15.1
+	"Bronx County, NY"	"36005"	"45-54 years"	"45-54"	"2011"	"2011"	25	186180	13.4
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2007"	"2007"	18	123979	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2008"	"2008"	13	126291	Unreliable
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2009"	"2009"	28	129828	21.6
+	"Bronx County, NY"	"36005"	"55-64 years"	"55-64"	"2011"	"2011"	19	137423	Unreliable
+	"Dutchess County, NY"	"36027"	"25-34 years"	"25-34"	"2011"	"2011"	10	32114	Unreliable
+	"Dutchess County, NY"	"36027"	"35-44 years"	"35-44"	"2010"	"2010"	13	39717	Unreliable
+	"Dutchess County, NY"	"36027"	"45-54 years"	"45-54"	"2011"	"2011"	11	50035	Unreliable
+	"Erie County, NY"	"36029"	"15-24 years"	"15-24"	"2011"	"2011"	15	133644	Unreliable
+	"Erie County, NY"	"36029"	"25-34 years"	"25-34"	"2011"	"2011"	23	111931	20.5
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2008"	"2008"	11	119896	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2010"	"2010"	15	112542	Unreliable
+	"Erie County, NY"	"36029"	"35-44 years"	"35-44"	"2011"	"2011"	10	108662	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2007"	"2007"	10	142961	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2008"	"2008"	14	143012	Unreliable
+	"Erie County, NY"	"36029"	"45-54 years"	"45-54"	"2011"	"2011"	13	139423	Unreliable
+	"Kings County, NY"	"36047"	"15-24 years"	"15-24"	"2011"	"2011"	10	359922	Unreliable
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2007"	"2007"	27	400015	6.7
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2008"	"2008"	28	410078	6.8
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2009"	"2009"	19	420692	Unreliable
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2010"	"2010"	25	425700	5.9
+	"Kings County, NY"	"36047"	"25-34 years"	"25-34"	"2011"	"2011"	34	437980	7.8
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2007"	"2007"	35	344119	10.2
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2008"	"2008"	32	342229	9.4
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2009"	"2009"	27	341254	7.9
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2010"	"2010"	31	341545	9.1
+	"Kings County, NY"	"36047"	"35-44 years"	"35-44"	"2011"	"2011"	23	344417	6.7
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2007"	"2007"	60	319817	18.8
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2008"	"2008"	52	321797	16.2
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2009"	"2009"	55	324162	17.0
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2010"	"2010"	41	324177	12.6
+	"Kings County, NY"	"36047"	"45-54 years"	"45-54"	"2011"	"2011"	43	323283	13.3
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2007"	"2007"	17	245249	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2008"	"2008"	20	252070	7.9
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2009"	"2009"	15	259483	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2010"	"2010"	14	266012	Unreliable
+	"Kings County, NY"	"36047"	"55-64 years"	"55-64"	"2011"	"2011"	26	275951	9.4
+	"Monroe County, NY"	"36055"	"25-34 years"	"25-34"	"2011"	"2011"	13	94022	Unreliable
+	"Monroe County, NY"	"36055"	"35-44 years"	"35-44"	"2008"	"2008"	12	98762	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2007"	"2007"	15	112170	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2008"	"2008"	13	112672	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2009"	"2009"	10	112897	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2010"	"2010"	14	112657	Unreliable
+	"Monroe County, NY"	"36055"	"45-54 years"	"45-54"	"2011"	"2011"	20	111187	18.0
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2007"	"2007"	13	169884	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2008"	"2008"	18	171252	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2009"	"2009"	13	172512	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2010"	"2010"	15	173446	Unreliable
+	"Nassau County, NY"	"36059"	"15-24 years"	"15-24"	"2011"	"2011"	20	175452	11.4
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2007"	"2007"	16	136291	Unreliable
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2008"	"2008"	16	137908	Unreliable
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2009"	"2009"	20	140526	14.2
+	"Nassau County, NY"	"36059"	"25-34 years"	"25-34"	"2011"	"2011"	30	145484	20.6
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2007"	"2007"	23	192117	12.0
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2008"	"2008"	24	186169	12.9
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2009"	"2009"	16	180503	Unreliable
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2010"	"2010"	16	177632	Unreliable
+	"Nassau County, NY"	"36059"	"35-44 years"	"35-44"	"2011"	"2011"	25	173309	14.4
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2007"	"2007"	23	213258	10.8
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2008"	"2008"	26	214988	12.1
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2009"	"2009"	18	216944	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2010"	"2010"	17	217985	Unreliable
+	"Nassau County, NY"	"36059"	"45-54 years"	"45-54"	"2011"	"2011"	29	216884	13.4
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2007"	"2007"	14	157733	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2008"	"2008"	11	161055	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2009"	"2009"	15	167311	Unreliable
+	"Nassau County, NY"	"36059"	"55-64 years"	"55-64"	"2010"	"2010"	13	172332	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2007"	"2007"	15	336097	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2008"	"2008"	13	338808	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2009"	"2009"	15	338885	Unreliable
+	"New York County, NY"	"36061"	"25-34 years"	"25-34"	"2011"	"2011"	13	354422	Unreliable
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2007"	"2007"	17	249257	Unreliable
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2008"	"2008"	17	244517	Unreliable
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2009"	"2009"	16	237964	Unreliable
+	"New York County, NY"	"36061"	"35-44 years"	"35-44"	"2011"	"2011"	16	234534	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2007"	"2007"	23	203825	11.3
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2008"	"2008"	34	203902	16.7
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2009"	"2009"	20	202953	9.9
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2010"	"2010"	18	202969	Unreliable
+	"New York County, NY"	"36061"	"45-54 years"	"45-54"	"2011"	"2011"	22	203755	10.8
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2007"	"2007"	13	172205	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2008"	"2008"	10	173551	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2009"	"2009"	12	175958	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2010"	"2010"	14	178222	Unreliable
+	"New York County, NY"	"36061"	"55-64 years"	"55-64"	"2011"	"2011"	10	182592	Unreliable
+	"Onondaga County, NY"	"36067"	"45-54 years"	"45-54"	"2009"	"2009"	11	71574	Unreliable
+	"Orange County, NY"	"36071"	"45-54 years"	"45-54"	"2011"	"2011"	15	58116	Unreliable
+	"Queens County, NY"	"36081"	"15-24 years"	"15-24"	"2011"	"2011"	12	293250	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2007"	"2007"	22	351172	6.3
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2008"	"2008"	17	355317	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2009"	"2009"	14	361193	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2010"	"2010"	15	362130	Unreliable
+	"Queens County, NY"	"36081"	"25-34 years"	"25-34"	"2011"	"2011"	13	366485	Unreliable
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2007"	"2007"	24	334150	7.2
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2008"	"2008"	22	330762	6.7
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2009"	"2009"	23	327777	7.0
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2010"	"2010"	20	326279	6.1
+	"Queens County, NY"	"36081"	"35-44 years"	"35-44"	"2011"	"2011"	20	324904	6.2
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2007"	"2007"	30	313503	9.6
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2008"	"2008"	29	316786	9.2
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2009"	"2009"	26	321465	8.1
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2010"	"2010"	31	322884	9.6
+	"Queens County, NY"	"36081"	"45-54 years"	"45-54"	"2011"	"2011"	24	323702	7.4
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2008"	"2008"	20	239702	8.3
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2009"	"2009"	12	246697	Unreliable
+	"Queens County, NY"	"36081"	"55-64 years"	"55-64"	"2011"	"2011"	20	264984	7.5
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2010"	"2010"	14	59847	Unreliable
+	"Richmond County, NY"	"36085"	"25-34 years"	"25-34"	"2011"	"2011"	11	60205	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2008"	"2008"	13	68156	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2009"	"2009"	15	66659	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2010"	"2010"	11	65630	Unreliable
+	"Richmond County, NY"	"36085"	"35-44 years"	"35-44"	"2011"	"2011"	14	64376	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2008"	"2008"	10	70879	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2009"	"2009"	13	71603	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2010"	"2010"	17	71748	Unreliable
+	"Richmond County, NY"	"36085"	"45-54 years"	"45-54"	"2011"	"2011"	20	71460	28.0
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2007"	"2007"	12	191606	Unreliable
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2008"	"2008"	20	193895	10.3
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2009"	"2009"	25	195786	12.8
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2010"	"2010"	27	197363	13.7
+	"Suffolk County, NY"	"36103"	"15-24 years"	"15-24"	"2011"	"2011"	37	199508	18.5
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2007"	"2007"	39	163573	23.8
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2008"	"2008"	27	164492	16.4
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2009"	"2009"	23	165313	13.9
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2010"	"2010"	28	166685	16.8
+	"Suffolk County, NY"	"36103"	"25-34 years"	"25-34"	"2011"	"2011"	52	167527	31.0
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2007"	"2007"	33	235912	14.0
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2008"	"2008"	38	227924	16.7
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2009"	"2009"	30	219454	13.7
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2010"	"2010"	34	213341	15.9
+	"Suffolk County, NY"	"36103"	"35-44 years"	"35-44"	"2011"	"2011"	49	206169	23.8
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2007"	"2007"	40	231621	17.3
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2008"	"2008"	47	237045	19.8
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2009"	"2009"	35	242720	14.4
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2010"	"2010"	42	245782	17.1
+	"Suffolk County, NY"	"36103"	"45-54 years"	"45-54"	"2011"	"2011"	57	247082	23.1
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2008"	"2008"	16	169103	Unreliable
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2010"	"2010"	16	178216	Unreliable
+	"Suffolk County, NY"	"36103"	"55-64 years"	"55-64"	"2011"	"2011"	23	185387	12.4
+	"Westchester County, NY"	"36119"	"25-34 years"	"25-34"	"2009"	"2009"	10	107145	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2007"	"2007"	18	142002	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2009"	"2009"	11	135297	Unreliable
+	"Westchester County, NY"	"36119"	"35-44 years"	"35-44"	"2011"	"2011"	12	130727	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2007"	"2007"	16	144013	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2008"	"2008"	15	145861	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2009"	"2009"	20	148293	13.5
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2010"	"2010"	12	149032	Unreliable
+	"Westchester County, NY"	"36119"	"45-54 years"	"45-54"	"2011"	"2011"	14	149443	Unreliable
+	"Westchester County, NY"	"36119"	"55-64 years"	"55-64"	"2011"	"2011"	12	119403	Unreliable
+	"Cumberland County, NC"	"37051"	"25-34 years"	"25-34"	"2011"	"2011"	10	52939	Unreliable
+	"Forsyth County, NC"	"37067"	"45-54 years"	"45-54"	"2009"	"2009"	13	51120	Unreliable
+	"Forsyth County, NC"	"37067"	"45-54 years"	"45-54"	"2011"	"2011"	10	50894	Unreliable
+	"Gaston County, NC"	"37071"	"25-34 years"	"25-34"	"2007"	"2007"	12	24885	Unreliable
+	"Gaston County, NC"	"37071"	"35-44 years"	"35-44"	"2009"	"2009"	15	31175	Unreliable
+	"Gaston County, NC"	"37071"	"35-44 years"	"35-44"	"2011"	"2011"	11	30008	Unreliable
+	"Gaston County, NC"	"37071"	"45-54 years"	"45-54"	"2007"	"2007"	12	29690	Unreliable
+	"Gaston County, NC"	"37071"	"45-54 years"	"45-54"	"2010"	"2010"	13	30869	Unreliable
+	"Guilford County, NC"	"37081"	"45-54 years"	"45-54"	"2007"	"2007"	12	66767	Unreliable
+	"Guilford County, NC"	"37081"	"45-54 years"	"45-54"	"2008"	"2008"	10	67761	Unreliable
+	"Guilford County, NC"	"37081"	"45-54 years"	"45-54"	"2011"	"2011"	10	69762	Unreliable
+	"Mecklenburg County, NC"	"37119"	"25-34 years"	"25-34"	"2008"	"2008"	10	151335	Unreliable
+	"Mecklenburg County, NC"	"37119"	"25-34 years"	"25-34"	"2011"	"2011"	10	158382	Unreliable
+	"Mecklenburg County, NC"	"37119"	"35-44 years"	"35-44"	"2007"	"2007"	11	142641	Unreliable
+	"Mecklenburg County, NC"	"37119"	"35-44 years"	"35-44"	"2011"	"2011"	10	148002	Unreliable
+	"Mecklenburg County, NC"	"37119"	"45-54 years"	"45-54"	"2007"	"2007"	10	118389	Unreliable
+	"Mecklenburg County, NC"	"37119"	"45-54 years"	"45-54"	"2008"	"2008"	10	121960	Unreliable
+	"Mecklenburg County, NC"	"37119"	"45-54 years"	"45-54"	"2010"	"2010"	11	126985	Unreliable
+	"Mecklenburg County, NC"	"37119"	"45-54 years"	"45-54"	"2011"	"2011"	10	129697	Unreliable
+	"Mecklenburg County, NC"	"37119"	"55-64 years"	"55-64"	"2010"	"2010"	11	89800	Unreliable
+	"New Hanover County, NC"	"37129"	"25-34 years"	"25-34"	"2011"	"2011"	12	29489	Unreliable
+	"Wake County, NC"	"37183"	"35-44 years"	"35-44"	"2007"	"2007"	12	139592	Unreliable
+	"Wake County, NC"	"37183"	"35-44 years"	"35-44"	"2008"	"2008"	10	143392	Unreliable
+	"Wake County, NC"	"37183"	"35-44 years"	"35-44"	"2011"	"2011"	10	148753	Unreliable
+	"Wake County, NC"	"37183"	"45-54 years"	"45-54"	"2010"	"2010"	11	130947	Unreliable
+	"Wilkes County, NC"	"37193"	"45-54 years"	"45-54"	"2009"	"2009"	11	10693	Unreliable
+	"Butler County, OH"	"39017"	"25-34 years"	"25-34"	"2009"	"2009"	12	45067	Unreliable
+	"Butler County, OH"	"39017"	"25-34 years"	"25-34"	"2011"	"2011"	14	45343	Unreliable
+	"Butler County, OH"	"39017"	"35-44 years"	"35-44"	"2008"	"2008"	10	50670	Unreliable
+	"Butler County, OH"	"39017"	"35-44 years"	"35-44"	"2009"	"2009"	10	49610	Unreliable
+	"Butler County, OH"	"39017"	"35-44 years"	"35-44"	"2010"	"2010"	12	48787	Unreliable
+	"Butler County, OH"	"39017"	"35-44 years"	"35-44"	"2011"	"2011"	16	48193	Unreliable
+	"Butler County, OH"	"39017"	"45-54 years"	"45-54"	"2007"	"2007"	12	53224	Unreliable
+	"Butler County, OH"	"39017"	"45-54 years"	"45-54"	"2009"	"2009"	11	54636	Unreliable
+	"Butler County, OH"	"39017"	"45-54 years"	"45-54"	"2010"	"2010"	10	54678	Unreliable
+	"Butler County, OH"	"39017"	"45-54 years"	"45-54"	"2011"	"2011"	12	54391	Unreliable
+	"Clark County, OH"	"39023"	"45-54 years"	"45-54"	"2011"	"2011"	13	19630	Unreliable
+	"Clermont County, OH"	"39025"	"25-34 years"	"25-34"	"2010"	"2010"	11	23777	Unreliable
+	"Clermont County, OH"	"39025"	"35-44 years"	"35-44"	"2010"	"2010"	11	27367	Unreliable
+	"Clermont County, OH"	"39025"	"45-54 years"	"45-54"	"2010"	"2010"	18	31825	Unreliable
+	"Clermont County, OH"	"39025"	"45-54 years"	"45-54"	"2011"	"2011"	19	31467	Unreliable
+	"Cuyahoga County, OH"	"39035"	"15-24 years"	"15-24"	"2010"	"2010"	12	168465	Unreliable
+	"Cuyahoga County, OH"	"39035"	"15-24 years"	"15-24"	"2011"	"2011"	23	166104	13.8
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"2007"	"2007"	11	158257	Unreliable
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"2008"	"2008"	27	157963	17.1
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"2009"	"2009"	17	158277	Unreliable
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"2010"	"2010"	28	157986	17.7
+	"Cuyahoga County, OH"	"39035"	"25-34 years"	"25-34"	"2011"	"2011"	31	159409	19.4
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"2007"	"2007"	19	175568	Unreliable
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"2008"	"2008"	16	169040	Unreliable
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"2009"	"2009"	22	162854	13.5
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"2010"	"2010"	29	158873	18.3
+	"Cuyahoga County, OH"	"39035"	"35-44 years"	"35-44"	"2011"	"2011"	34	153576	22.1
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"2007"	"2007"	35	201955	17.3
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"2008"	"2008"	37	200862	18.4
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"2009"	"2009"	37	199652	18.5
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"2010"	"2010"	43	197186	21.8
+	"Cuyahoga County, OH"	"39035"	"45-54 years"	"45-54"	"2011"	"2011"	63	191656	32.9
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"2007"	"2007"	15	149517	Unreliable
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"2008"	"2008"	23	153114	15.0
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"2009"	"2009"	16	158786	Unreliable
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"2010"	"2010"	27	164111	16.5
+	"Cuyahoga County, OH"	"39035"	"55-64 years"	"55-64"	"2011"	"2011"	31	170798	18.2
+	"Franklin County, OH"	"39049"	"15-24 years"	"15-24"	"2010"	"2010"	19	183640	Unreliable
+	"Franklin County, OH"	"39049"	"15-24 years"	"15-24"	"2011"	"2011"	13	180849	Unreliable
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"2007"	"2007"	16	188432	Unreliable
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"2008"	"2008"	19	189547	Unreliable
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"2009"	"2009"	32	190967	16.8
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"2010"	"2010"	40	190763	21.0
+	"Franklin County, OH"	"39049"	"25-34 years"	"25-34"	"2011"	"2011"	41	196783	20.8
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"2007"	"2007"	20	161280	12.4
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"2008"	"2008"	28	159716	17.5
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"2009"	"2009"	22	158144	13.9
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"2010"	"2010"	44	157860	27.9
+	"Franklin County, OH"	"39049"	"35-44 years"	"35-44"	"2011"	"2011"	32	158476	20.2
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"2007"	"2007"	23	156462	14.7
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"2008"	"2008"	18	158050	Unreliable
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"2009"	"2009"	20	159535	12.5
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"2010"	"2010"	41	159905	25.6
+	"Franklin County, OH"	"39049"	"45-54 years"	"45-54"	"2011"	"2011"	60	159127	37.7
+	"Franklin County, OH"	"39049"	"55-64 years"	"55-64"	"2008"	"2008"	10	112956	Unreliable
+	"Franklin County, OH"	"39049"	"55-64 years"	"55-64"	"2010"	"2010"	16	121877	Unreliable
+	"Franklin County, OH"	"39049"	"55-64 years"	"55-64"	"2011"	"2011"	20	128430	15.6
+	"Hamilton County, OH"	"39061"	"25-34 years"	"25-34"	"2007"	"2007"	12	105296	Unreliable
+	"Hamilton County, OH"	"39061"	"25-34 years"	"25-34"	"2008"	"2008"	18	105921	Unreliable
+	"Hamilton County, OH"	"39061"	"25-34 years"	"25-34"	"2010"	"2010"	21	108115	19.4
+	"Hamilton County, OH"	"39061"	"25-34 years"	"25-34"	"2011"	"2011"	29	110377	26.3
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"2007"	"2007"	16	106250	Unreliable
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"2008"	"2008"	14	103011	Unreliable
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"2009"	"2009"	13	99704	Unreliable
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"2010"	"2010"	22	97846	22.5
+	"Hamilton County, OH"	"39061"	"35-44 years"	"35-44"	"2011"	"2011"	34	95353	35.7
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"2007"	"2007"	26	121874	21.3
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"2008"	"2008"	27	121424	22.2
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"2009"	"2009"	13	120839	Unreliable
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"2010"	"2010"	39	119898	32.5
+	"Hamilton County, OH"	"39061"	"45-54 years"	"45-54"	"2011"	"2011"	45	116934	38.5
+	"Hamilton County, OH"	"39061"	"55-64 years"	"55-64"	"2010"	"2010"	12	95939	Unreliable
+	"Hamilton County, OH"	"39061"	"55-64 years"	"55-64"	"2011"	"2011"	14	100701	Unreliable
+	"Lake County, OH"	"39085"	"25-34 years"	"25-34"	"2011"	"2011"	10	25947	Unreliable
+	"Lake County, OH"	"39085"	"45-54 years"	"45-54"	"2007"	"2007"	10	37684	Unreliable
+	"Lake County, OH"	"39085"	"45-54 years"	"45-54"	"2011"	"2011"	11	36974	Unreliable
+	"Lucas County, OH"	"39095"	"25-34 years"	"25-34"	"2010"	"2010"	12	55943	Unreliable
+	"Lucas County, OH"	"39095"	"45-54 years"	"45-54"	"2007"	"2007"	11	66162	Unreliable
+	"Lucas County, OH"	"39095"	"45-54 years"	"45-54"	"2008"	"2008"	11	65666	Unreliable
+	"Lucas County, OH"	"39095"	"45-54 years"	"45-54"	"2010"	"2010"	12	64441	Unreliable
+	"Mahoning County, OH"	"39099"	"25-34 years"	"25-34"	"2011"	"2011"	12	25891	Unreliable
+	"Mahoning County, OH"	"39099"	"35-44 years"	"35-44"	"2011"	"2011"	10	27770	Unreliable
+	"Mahoning County, OH"	"39099"	"45-54 years"	"45-54"	"2010"	"2010"	10	36598	Unreliable
+	"Montgomery County, OH"	"39113"	"25-34 years"	"25-34"	"2007"	"2007"	13	67871	Unreliable
+	"Montgomery County, OH"	"39113"	"25-34 years"	"25-34"	"2008"	"2008"	17	67149	Unreliable
+	"Montgomery County, OH"	"39113"	"25-34 years"	"25-34"	"2010"	"2010"	13	67089	Unreliable
+	"Montgomery County, OH"	"39113"	"25-34 years"	"25-34"	"2011"	"2011"	11	68263	Unreliable
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"2007"	"2007"	19	71984	Unreliable
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"2008"	"2008"	18	69464	Unreliable
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"2009"	"2009"	11	67100	Unreliable
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"2010"	"2010"	13	65645	Unreliable
+	"Montgomery County, OH"	"39113"	"35-44 years"	"35-44"	"2011"	"2011"	11	63627	Unreliable
+	"Montgomery County, OH"	"39113"	"45-54 years"	"45-54"	"2007"	"2007"	29	80301	36.1
+	"Montgomery County, OH"	"39113"	"45-54 years"	"45-54"	"2008"	"2008"	16	79857	Unreliable
+	"Montgomery County, OH"	"39113"	"45-54 years"	"45-54"	"2009"	"2009"	15	79447	Unreliable
+	"Montgomery County, OH"	"39113"	"45-54 years"	"45-54"	"2011"	"2011"	18	77186	Unreliable
+	"Stark County, OH"	"39151"	"45-54 years"	"45-54"	"2011"	"2011"	10	56200	Unreliable
+	"Summit County, OH"	"39153"	"25-34 years"	"25-34"	"2010"	"2010"	16	64539	Unreliable
+	"Summit County, OH"	"39153"	"45-54 years"	"45-54"	"2007"	"2007"	11	85503	Unreliable
+	"Summit County, OH"	"39153"	"45-54 years"	"45-54"	"2010"	"2010"	11	84435	Unreliable
+	"Summit County, OH"	"39153"	"45-54 years"	"45-54"	"2011"	"2011"	14	82489	Unreliable
+	"Trumbull County, OH"	"39155"	"25-34 years"	"25-34"	"2010"	"2010"	11	22343	Unreliable
+	"Trumbull County, OH"	"39155"	"25-34 years"	"25-34"	"2011"	"2011"	10	22369	Unreliable
+	"Trumbull County, OH"	"39155"	"45-54 years"	"45-54"	"2011"	"2011"	10	31516	Unreliable
+	"Cleveland County, OK"	"40027"	"25-34 years"	"25-34"	"2010"	"2010"	11	39695	Unreliable
+	"Oklahoma County, OK"	"40109"	"15-24 years"	"15-24"	"2011"	"2011"	12	101527	Unreliable
+	"Oklahoma County, OK"	"40109"	"25-34 years"	"25-34"	"2007"	"2007"	10	102773	Unreliable
+	"Oklahoma County, OK"	"40109"	"25-34 years"	"25-34"	"2010"	"2010"	15	109189	Unreliable
+	"Oklahoma County, OK"	"40109"	"25-34 years"	"25-34"	"2011"	"2011"	14	113522	Unreliable
+	"Oklahoma County, OK"	"40109"	"35-44 years"	"35-44"	"2007"	"2007"	24	90032	26.7
+	"Oklahoma County, OK"	"40109"	"35-44 years"	"35-44"	"2009"	"2009"	13	88561	Unreliable
+	"Oklahoma County, OK"	"40109"	"35-44 years"	"35-44"	"2010"	"2010"	18	88765	Unreliable
+	"Oklahoma County, OK"	"40109"	"35-44 years"	"35-44"	"2011"	"2011"	15	89672	Unreliable
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"2007"	"2007"	36	98176	36.7
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"2008"	"2008"	22	98526	22.3
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"2009"	"2009"	22	98630	22.3
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"2010"	"2010"	35	98023	35.7
+	"Oklahoma County, OK"	"40109"	"45-54 years"	"45-54"	"2011"	"2011"	25	96971	25.8
+	"Oklahoma County, OK"	"40109"	"55-64 years"	"55-64"	"2009"	"2009"	13	77769	Unreliable
+	"Oklahoma County, OK"	"40109"	"55-64 years"	"55-64"	"2010"	"2010"	21	79909	26.3
+	"Oklahoma County, OK"	"40109"	"55-64 years"	"55-64"	"2011"	"2011"	13	84044	Unreliable
+	"Tulsa County, OK"	"40143"	"15-24 years"	"15-24"	"2007"	"2007"	16	82192	Unreliable
+	"Tulsa County, OK"	"40143"	"15-24 years"	"15-24"	"2008"	"2008"	15	82693	Unreliable
+	"Tulsa County, OK"	"40143"	"15-24 years"	"15-24"	"2009"	"2009"	14	83350	Unreliable
+	"Tulsa County, OK"	"40143"	"15-24 years"	"15-24"	"2010"	"2010"	11	83827	Unreliable
+	"Tulsa County, OK"	"40143"	"25-34 years"	"25-34"	"2007"	"2007"	33	82118	40.2
+	"Tulsa County, OK"	"40143"	"25-34 years"	"25-34"	"2008"	"2008"	15	83471	Unreliable
+	"Tulsa County, OK"	"40143"	"25-34 years"	"25-34"	"2009"	"2009"	22	86197	25.5
+	"Tulsa County, OK"	"40143"	"25-34 years"	"25-34"	"2010"	"2010"	22	87168	25.2
+	"Tulsa County, OK"	"40143"	"25-34 years"	"25-34"	"2011"	"2011"	16	88947	Unreliable
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"2007"	"2007"	23	79385	29.0
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"2008"	"2008"	18	78823	Unreliable
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"2009"	"2009"	19	78320	Unreliable
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"2010"	"2010"	24	78473	30.6
+	"Tulsa County, OK"	"40143"	"35-44 years"	"35-44"	"2011"	"2011"	14	78562	Unreliable
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"2007"	"2007"	24	83794	28.6
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"2008"	"2008"	31	84371	36.7
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"2009"	"2009"	27	84233	32.1
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"2010"	"2010"	27	83642	32.3
+	"Tulsa County, OK"	"40143"	"45-54 years"	"45-54"	"2011"	"2011"	27	82479	32.7
+	"Tulsa County, OK"	"40143"	"55-64 years"	"55-64"	"2009"	"2009"	14	66330	Unreliable
+	"Tulsa County, OK"	"40143"	"55-64 years"	"55-64"	"2010"	"2010"	11	68168	Unreliable
+	"Clackamas County, OR"	"41005"	"35-44 years"	"35-44"	"2011"	"2011"	17	49587	Unreliable
+	"Clackamas County, OR"	"41005"	"45-54 years"	"45-54"	"2007"	"2007"	13	60531	Unreliable
+	"Clackamas County, OR"	"41005"	"45-54 years"	"45-54"	"2009"	"2009"	13	60197	Unreliable
+	"Clackamas County, OR"	"41005"	"45-54 years"	"45-54"	"2010"	"2010"	11	59872	Unreliable
+	"Lane County, OR"	"41039"	"25-34 years"	"25-34"	"2007"	"2007"	10	42366	Unreliable
+	"Lane County, OR"	"41039"	"25-34 years"	"25-34"	"2009"	"2009"	14	45449	Unreliable
+	"Lane County, OR"	"41039"	"35-44 years"	"35-44"	"2008"	"2008"	11	41503	Unreliable
+	"Lane County, OR"	"41039"	"35-44 years"	"35-44"	"2011"	"2011"	12	40121	Unreliable
+	"Lane County, OR"	"41039"	"45-54 years"	"45-54"	"2007"	"2007"	13	50822	Unreliable
+	"Lane County, OR"	"41039"	"45-54 years"	"45-54"	"2009"	"2009"	22	48843	45.0
+	"Marion County, OR"	"41047"	"45-54 years"	"45-54"	"2009"	"2009"	14	41215	Unreliable
+	"Multnomah County, OR"	"41051"	"25-34 years"	"25-34"	"2007"	"2007"	24	126076	19.0
+	"Multnomah County, OR"	"41051"	"25-34 years"	"25-34"	"2008"	"2008"	21	130259	16.1
+	"Multnomah County, OR"	"41051"	"25-34 years"	"25-34"	"2009"	"2009"	17	134608	Unreliable
+	"Multnomah County, OR"	"41051"	"25-34 years"	"25-34"	"2010"	"2010"	19	136118	Unreliable
+	"Multnomah County, OR"	"41051"	"25-34 years"	"25-34"	"2011"	"2011"	36	139778	25.8
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"2007"	"2007"	26	107397	24.2
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"2008"	"2008"	32	109309	29.3
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"2009"	"2009"	23	110806	20.8
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"2010"	"2010"	18	112550	Unreliable
+	"Multnomah County, OR"	"41051"	"35-44 years"	"35-44"	"2011"	"2011"	18	115620	Unreliable
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2007"	"2007"	44	101361	43.4
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2008"	"2008"	34	100571	33.8
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2009"	"2009"	32	100067	32.0
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2010"	"2010"	22	99199	22.2
+	"Multnomah County, OR"	"41051"	"45-54 years"	"45-54"	"2011"	"2011"	27	98937	27.3
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2007"	"2007"	18	76638	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2008"	"2008"	12	80715	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2009"	"2009"	23	84900	27.1
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2010"	"2010"	18	87767	Unreliable
+	"Multnomah County, OR"	"41051"	"55-64 years"	"55-64"	"2011"	"2011"	25	92038	27.2
+	"Washington County, OR"	"41067"	"35-44 years"	"35-44"	"2009"	"2009"	13	80909	Unreliable
+	"Washington County, OR"	"41067"	"45-54 years"	"45-54"	"2007"	"2007"	13	73153	Unreliable
+	"Washington County, OR"	"41067"	"45-54 years"	"45-54"	"2011"	"2011"	11	75078	Unreliable
+	"Allegheny County, PA"	"42003"	"15-24 years"	"15-24"	"2007"	"2007"	12	165766	Unreliable
+	"Allegheny County, PA"	"42003"	"15-24 years"	"15-24"	"2008"	"2008"	28	167204	16.7
+	"Allegheny County, PA"	"42003"	"15-24 years"	"15-24"	"2009"	"2009"	21	168513	12.5
+	"Allegheny County, PA"	"42003"	"15-24 years"	"15-24"	"2010"	"2010"	16	168897	Unreliable
+	"Allegheny County, PA"	"42003"	"15-24 years"	"15-24"	"2011"	"2011"	18	165960	Unreliable
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"2007"	"2007"	31	148925	20.8
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"2008"	"2008"	24	151340	15.9
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"2009"	"2009"	32	155103	20.6
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"2010"	"2010"	30	157549	19.0
+	"Allegheny County, PA"	"42003"	"25-34 years"	"25-34"	"2011"	"2011"	54	165176	32.7
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"2007"	"2007"	35	158704	22.1
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"2008"	"2008"	40	153755	26.0
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"2009"	"2009"	28	148942	18.8
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"2010"	"2010"	41	145894	28.1
+	"Allegheny County, PA"	"42003"	"35-44 years"	"35-44"	"2011"	"2011"	47	142947	32.9
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"2007"	"2007"	58	193563	30.0
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"2008"	"2008"	51	191727	26.6
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"2009"	"2009"	50	189214	26.4
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"2010"	"2010"	40	186865	21.4
+	"Allegheny County, PA"	"42003"	"45-54 years"	"45-54"	"2011"	"2011"	55	182916	30.1
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"2007"	"2007"	19	146724	Unreliable
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"2008"	"2008"	13	151022	Unreliable
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"2009"	"2009"	21	157062	13.4
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"2010"	"2010"	21	162705	12.9
+	"Allegheny County, PA"	"42003"	"55-64 years"	"55-64"	"2011"	"2011"	16	170708	Unreliable
+	"Berks County, PA"	"42011"	"25-34 years"	"25-34"	"2011"	"2011"	13	46812	Unreliable
+	"Berks County, PA"	"42011"	"35-44 years"	"35-44"	"2010"	"2010"	10	53903	Unreliable
+	"Fayette County, PA"	"42051"	"25-34 years"	"25-34"	"2011"	"2011"	10	15166	Unreliable
+	"Fayette County, PA"	"42051"	"35-44 years"	"35-44"	"2011"	"2011"	10	17343	Unreliable
+	"Lackawanna County, PA"	"42069"	"25-34 years"	"25-34"	"2011"	"2011"	10	24768	Unreliable
+	"Montgomery County, PA"	"42091"	"15-24 years"	"15-24"	"2009"	"2009"	11	95250	Unreliable
+	"Montgomery County, PA"	"42091"	"15-24 years"	"15-24"	"2010"	"2010"	10	95171	Unreliable
+	"Montgomery County, PA"	"42091"	"15-24 years"	"15-24"	"2011"	"2011"	12	95198	Unreliable
+	"Montgomery County, PA"	"42091"	"25-34 years"	"25-34"	"2009"	"2009"	17	95531	Unreliable
+	"Montgomery County, PA"	"42091"	"25-34 years"	"25-34"	"2010"	"2010"	21	96641	21.7
+	"Montgomery County, PA"	"42091"	"25-34 years"	"25-34"	"2011"	"2011"	15	98512	Unreliable
+	"Montgomery County, PA"	"42091"	"35-44 years"	"35-44"	"2009"	"2009"	14	110655	Unreliable
+	"Montgomery County, PA"	"42091"	"35-44 years"	"35-44"	"2010"	"2010"	16	108884	Unreliable
+	"Montgomery County, PA"	"42091"	"35-44 years"	"35-44"	"2011"	"2011"	10	106318	Unreliable
+	"Montgomery County, PA"	"42091"	"45-54 years"	"45-54"	"2009"	"2009"	10	128174	Unreliable
+	"Montgomery County, PA"	"42091"	"45-54 years"	"45-54"	"2010"	"2010"	14	128311	Unreliable
+	"Montgomery County, PA"	"42091"	"45-54 years"	"45-54"	"2011"	"2011"	14	127503	Unreliable
+	"Philadelphia County, PA"	"42101"	"35-44 years"	"35-44"	"2008"	"2008"	13	192075	Unreliable
+	"Philadelphia County, PA"	"42101"	"45-54 years"	"45-54"	"2008"	"2008"	12	196737	Unreliable
+	"Philadelphia County, PA"	"42101"	"45-54 years"	"45-54"	"2011"	"2011"	10	196213	Unreliable
+	"Washington County, PA"	"42125"	"25-34 years"	"25-34"	"2010"	"2010"	11	20705	Unreliable
+	"Washington County, PA"	"42125"	"45-54 years"	"45-54"	"2011"	"2011"	10	32789	Unreliable
+	"Westmoreland County, PA"	"42129"	"25-34 years"	"25-34"	"2010"	"2010"	10	35676	Unreliable
+	"Westmoreland County, PA"	"42129"	"35-44 years"	"35-44"	"2009"	"2009"	11	47290	Unreliable
+	"Westmoreland County, PA"	"42129"	"45-54 years"	"45-54"	"2009"	"2009"	13	60622	Unreliable
+	"Kent County, RI"	"44003"	"45-54 years"	"45-54"	"2011"	"2011"	11	27886	Unreliable
+	"Providence County, RI"	"44007"	"25-34 years"	"25-34"	"2008"	"2008"	16	84528	Unreliable
+	"Providence County, RI"	"44007"	"25-34 years"	"25-34"	"2010"	"2010"	14	83786	Unreliable
+	"Providence County, RI"	"44007"	"25-34 years"	"25-34"	"2011"	"2011"	20	85321	23.4
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"2007"	"2007"	15	89186	Unreliable
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"2008"	"2008"	22	86474	25.4
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"2009"	"2009"	20	84046	23.8
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"2010"	"2010"	19	82506	Unreliable
+	"Providence County, RI"	"44007"	"35-44 years"	"35-44"	"2011"	"2011"	18	80141	Unreliable
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"2007"	"2007"	20	90186	22.2
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"2008"	"2008"	22	90811	24.2
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"2009"	"2009"	26	91077	28.5
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"2010"	"2010"	27	91150	29.6
+	"Providence County, RI"	"44007"	"45-54 years"	"45-54"	"2011"	"2011"	28	90219	31.0
+	"Providence County, RI"	"44007"	"55-64 years"	"55-64"	"2008"	"2008"	13	65967	Unreliable
+	"Providence County, RI"	"44007"	"55-64 years"	"55-64"	"2009"	"2009"	12	68340	Unreliable
+	"Providence County, RI"	"44007"	"55-64 years"	"55-64"	"2011"	"2011"	17	73772	Unreliable
+	"Charleston County, SC"	"45019"	"25-34 years"	"25-34"	"2010"	"2010"	10	55456	Unreliable
+	"Greenville County, SC"	"45045"	"25-34 years"	"25-34"	"2011"	"2011"	11	62195	Unreliable
+	"Greenville County, SC"	"45045"	"35-44 years"	"35-44"	"2011"	"2011"	13	62912	Unreliable
+	"Greenville County, SC"	"45045"	"45-54 years"	"45-54"	"2007"	"2007"	16	61741	Unreliable
+	"Greenville County, SC"	"45045"	"45-54 years"	"45-54"	"2009"	"2009"	14	64483	Unreliable
+	"Greenville County, SC"	"45045"	"45-54 years"	"45-54"	"2010"	"2010"	12	65148	Unreliable
+	"Davidson County, TN"	"47037"	"25-34 years"	"25-34"	"2007"	"2007"	10	107569	Unreliable
+	"Davidson County, TN"	"47037"	"25-34 years"	"25-34"	"2010"	"2010"	13	113401	Unreliable
+	"Davidson County, TN"	"47037"	"25-34 years"	"25-34"	"2011"	"2011"	10	117120	Unreliable
+	"Davidson County, TN"	"47037"	"35-44 years"	"35-44"	"2007"	"2007"	13	86880	Unreliable
+	"Davidson County, TN"	"47037"	"35-44 years"	"35-44"	"2009"	"2009"	16	85944	Unreliable
+	"Davidson County, TN"	"47037"	"35-44 years"	"35-44"	"2010"	"2010"	10	85778	Unreliable
+	"Davidson County, TN"	"47037"	"35-44 years"	"35-44"	"2011"	"2011"	18	86151	Unreliable
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"2007"	"2007"	14	83771	Unreliable
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"2008"	"2008"	18	84592	Unreliable
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"2009"	"2009"	22	84905	25.9
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"2010"	"2010"	22	85139	25.8
+	"Davidson County, TN"	"47037"	"45-54 years"	"45-54"	"2011"	"2011"	24	84541	28.4
+	"Davidson County, TN"	"47037"	"55-64 years"	"55-64"	"2009"	"2009"	10	65107	Unreliable
+	"Davidson County, TN"	"47037"	"55-64 years"	"55-64"	"2010"	"2010"	12	67274	Unreliable
+	"Davidson County, TN"	"47037"	"55-64 years"	"55-64"	"2011"	"2011"	13	71180	Unreliable
+	"Hamilton County, TN"	"47065"	"25-34 years"	"25-34"	"2011"	"2011"	12	44407	Unreliable
+	"Knox County, TN"	"47093"	"25-34 years"	"25-34"	"2009"	"2009"	11	58471	Unreliable
+	"Knox County, TN"	"47093"	"25-34 years"	"25-34"	"2010"	"2010"	15	59327	Unreliable
+	"Knox County, TN"	"47093"	"25-34 years"	"25-34"	"2011"	"2011"	15	59184	Unreliable
+	"Knox County, TN"	"47093"	"35-44 years"	"35-44"	"2007"	"2007"	18	58952	Unreliable
+	"Knox County, TN"	"47093"	"35-44 years"	"35-44"	"2008"	"2008"	18	58783	Unreliable
+	"Knox County, TN"	"47093"	"35-44 years"	"35-44"	"2009"	"2009"	12	57786	Unreliable
+	"Knox County, TN"	"47093"	"35-44 years"	"35-44"	"2010"	"2010"	18	57385	Unreliable
+	"Knox County, TN"	"47093"	"35-44 years"	"35-44"	"2011"	"2011"	13	56737	Unreliable
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"2007"	"2007"	20	60810	32.9
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"2008"	"2008"	24	61459	39.1
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"2009"	"2009"	13	62039	Unreliable
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"2010"	"2010"	29	62120	46.7
+	"Knox County, TN"	"47093"	"45-54 years"	"45-54"	"2011"	"2011"	27	61550	43.9
+	"Knox County, TN"	"47093"	"55-64 years"	"55-64"	"2007"	"2007"	11	47502	Unreliable
+	"Knox County, TN"	"47093"	"55-64 years"	"55-64"	"2008"	"2008"	12	48988	Unreliable
+	"Knox County, TN"	"47093"	"55-64 years"	"55-64"	"2009"	"2009"	10	50643	Unreliable
+	"Shelby County, TN"	"47157"	"25-34 years"	"25-34"	"2009"	"2009"	17	129094	Unreliable
+	"Shelby County, TN"	"47157"	"25-34 years"	"25-34"	"2011"	"2011"	18	131550	Unreliable
+	"Shelby County, TN"	"47157"	"35-44 years"	"35-44"	"2009"	"2009"	10	125954	Unreliable
+	"Shelby County, TN"	"47157"	"35-44 years"	"35-44"	"2010"	"2010"	16	124961	Unreliable
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"2008"	"2008"	12	132946	Unreliable
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"2009"	"2009"	17	132831	Unreliable
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"2010"	"2010"	21	132868	15.8
+	"Shelby County, TN"	"47157"	"45-54 years"	"45-54"	"2011"	"2011"	13	131149	Unreliable
+	"Shelby County, TN"	"47157"	"55-64 years"	"55-64"	"2010"	"2010"	11	105675	Unreliable
+	"Bexar County, TX"	"48029"	"15-24 years"	"15-24"	"2007"	"2007"	10	254759	Unreliable
+	"Bexar County, TX"	"48029"	"15-24 years"	"15-24"	"2008"	"2008"	15	259188	Unreliable
+	"Bexar County, TX"	"48029"	"15-24 years"	"15-24"	"2009"	"2009"	21	263283	8.0
+	"Bexar County, TX"	"48029"	"15-24 years"	"15-24"	"2010"	"2010"	22	266115	8.3
+	"Bexar County, TX"	"48029"	"15-24 years"	"15-24"	"2011"	"2011"	38	269622	14.1
+	"Bexar County, TX"	"48029"	"25-34 years"	"25-34"	"2007"	"2007"	12	238234	Unreliable
+	"Bexar County, TX"	"48029"	"25-34 years"	"25-34"	"2008"	"2008"	20	243065	8.2
+	"Bexar County, TX"	"48029"	"25-34 years"	"25-34"	"2009"	"2009"	25	248190	10.1
+	"Bexar County, TX"	"48029"	"25-34 years"	"25-34"	"2010"	"2010"	39	253267	15.4
+	"Bexar County, TX"	"48029"	"25-34 years"	"25-34"	"2011"	"2011"	41	261813	15.7
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"2007"	"2007"	12	225242	Unreliable
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"2008"	"2008"	33	227489	14.5
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"2009"	"2009"	32	229008	14.0
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"2010"	"2010"	21	230754	9.1
+	"Bexar County, TX"	"48029"	"35-44 years"	"35-44"	"2011"	"2011"	39	234064	16.7
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"2007"	"2007"	16	212701	Unreliable
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"2008"	"2008"	24	218089	11.0
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"2009"	"2009"	20	223270	9.0
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"2010"	"2010"	29	227116	12.8
+	"Bexar County, TX"	"48029"	"45-54 years"	"45-54"	"2011"	"2011"	34	230002	14.8
+	"Bexar County, TX"	"48029"	"55-64 years"	"55-64"	"2009"	"2009"	12	167050	Unreliable
+	"Bexar County, TX"	"48029"	"55-64 years"	"55-64"	"2010"	"2010"	10	173127	Unreliable
+	"Bexar County, TX"	"48029"	"55-64 years"	"55-64"	"2011"	"2011"	16	182537	Unreliable
+	"Collin County, TX"	"48085"	"15-24 years"	"15-24"	"2011"	"2011"	10	97208	Unreliable
+	"Collin County, TX"	"48085"	"25-34 years"	"25-34"	"2009"	"2009"	10	109599	Unreliable
+	"Collin County, TX"	"48085"	"25-34 years"	"25-34"	"2011"	"2011"	12	111628	Unreliable
+	"Dallas County, TX"	"48113"	"15-24 years"	"15-24"	"2007"	"2007"	20	336562	5.9
+	"Dallas County, TX"	"48113"	"15-24 years"	"15-24"	"2008"	"2008"	19	336974	Unreliable
+	"Dallas County, TX"	"48113"	"15-24 years"	"15-24"	"2009"	"2009"	22	339534	6.5
+	"Dallas County, TX"	"48113"	"15-24 years"	"15-24"	"2010"	"2010"	24	340774	7.0
+	"Dallas County, TX"	"48113"	"15-24 years"	"15-24"	"2011"	"2011"	28	342920	8.2
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"2007"	"2007"	28	374337	7.5
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"2008"	"2008"	16	377792	Unreliable
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"2009"	"2009"	36	382582	9.4
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"2010"	"2010"	29	385041	7.5
+	"Dallas County, TX"	"48113"	"25-34 years"	"25-34"	"2011"	"2011"	25	390784	6.4
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"2007"	"2007"	19	347180	Unreliable
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"2008"	"2008"	16	344578	Unreliable
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"2009"	"2009"	15	343060	Unreliable
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"2010"	"2010"	13	342987	Unreliable
+	"Dallas County, TX"	"48113"	"35-44 years"	"35-44"	"2011"	"2011"	18	346122	Unreliable
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"2007"	"2007"	25	306120	8.2
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"2008"	"2008"	21	310584	6.8
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"2009"	"2009"	23	315666	7.3
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"2010"	"2010"	24	317883	7.5
+	"Dallas County, TX"	"48113"	"45-54 years"	"45-54"	"2011"	"2011"	24	321219	7.5
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"2007"	"2007"	11	201463	Unreliable
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"2009"	"2009"	15	216718	Unreliable
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"2010"	"2010"	11	223730	Unreliable
+	"Dallas County, TX"	"48113"	"55-64 years"	"55-64"	"2011"	"2011"	10	237009	Unreliable
+	"Denton County, TX"	"48121"	"25-34 years"	"25-34"	"2011"	"2011"	11	102927	Unreliable
+	"El Paso County, TX"	"48141"	"35-44 years"	"35-44"	"2007"	"2007"	13	100895	Unreliable
+	"El Paso County, TX"	"48141"	"35-44 years"	"35-44"	"2008"	"2008"	11	102304	Unreliable
+	"El Paso County, TX"	"48141"	"35-44 years"	"35-44"	"2009"	"2009"	12	103479	Unreliable
+	"El Paso County, TX"	"48141"	"35-44 years"	"35-44"	"2010"	"2010"	11	104786	Unreliable
+	"El Paso County, TX"	"48141"	"45-54 years"	"45-54"	"2007"	"2007"	10	96707	Unreliable
+	"El Paso County, TX"	"48141"	"45-54 years"	"45-54"	"2008"	"2008"	11	98795	Unreliable
+	"El Paso County, TX"	"48141"	"45-54 years"	"45-54"	"2010"	"2010"	11	101858	Unreliable
+	"El Paso County, TX"	"48141"	"45-54 years"	"45-54"	"2011"	"2011"	11	101876	Unreliable
+	"Fort Bend County, TX"	"48157"	"25-34 years"	"25-34"	"2011"	"2011"	11	75747	Unreliable
+	"Galveston County, TX"	"48167"	"25-34 years"	"25-34"	"2010"	"2010"	11	37720	Unreliable
+	"Galveston County, TX"	"48167"	"35-44 years"	"35-44"	"2007"	"2007"	12	40502	Unreliable
+	"Galveston County, TX"	"48167"	"45-54 years"	"45-54"	"2009"	"2009"	10	45948	Unreliable
+	"Harris County, TX"	"48201"	"15-24 years"	"15-24"	"2007"	"2007"	34	570530	6.0
+	"Harris County, TX"	"48201"	"15-24 years"	"15-24"	"2008"	"2008"	20	579810	3.4
+	"Harris County, TX"	"48201"	"15-24 years"	"15-24"	"2009"	"2009"	19	592147	Unreliable
+	"Harris County, TX"	"48201"	"15-24 years"	"15-24"	"2010"	"2010"	23	598171	3.8
+	"Harris County, TX"	"48201"	"15-24 years"	"15-24"	"2011"	"2011"	22	600129	3.7
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"2007"	"2007"	68	624655	10.9
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"2008"	"2008"	35	637224	5.5
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"2009"	"2009"	57	653472	8.7
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"2010"	"2010"	49	661590	7.4
+	"Harris County, TX"	"48201"	"25-34 years"	"25-34"	"2011"	"2011"	49	674761	7.3
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"2007"	"2007"	67	573224	11.7
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"2008"	"2008"	35	576888	6.1
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"2009"	"2009"	57	584117	9.8
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"2010"	"2010"	46	588282	7.8
+	"Harris County, TX"	"48201"	"35-44 years"	"35-44"	"2011"	"2011"	34	597022	5.7
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"2007"	"2007"	88	529192	16.6
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"2008"	"2008"	46	536770	8.6
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"2009"	"2009"	72	545175	13.2
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"2010"	"2010"	67	548550	12.2
+	"Harris County, TX"	"48201"	"45-54 years"	"45-54"	"2011"	"2011"	59	552926	10.7
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"2007"	"2007"	30	350421	8.6
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"2008"	"2008"	18	365770	Unreliable
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"2009"	"2009"	24	384630	6.2
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"2010"	"2010"	29	399166	7.3
+	"Harris County, TX"	"48201"	"55-64 years"	"55-64"	"2011"	"2011"	33	422856	7.8
+	"Harris County, TX"	"48201"	"65-74 years"	"65-74"	"2010"	"2010"	12	195502	Unreliable
+	"Montgomery County, TX"	"48339"	"25-34 years"	"25-34"	"2008"	"2008"	10	55278	Unreliable
+	"Montgomery County, TX"	"48339"	"25-34 years"	"25-34"	"2009"	"2009"	11	57685	Unreliable
+	"Montgomery County, TX"	"48339"	"35-44 years"	"35-44"	"2008"	"2008"	16	63943	Unreliable
+	"Montgomery County, TX"	"48339"	"35-44 years"	"35-44"	"2009"	"2009"	13	64837	Unreliable
+	"Montgomery County, TX"	"48339"	"45-54 years"	"45-54"	"2007"	"2007"	10	63327	Unreliable
+	"Montgomery County, TX"	"48339"	"45-54 years"	"45-54"	"2008"	"2008"	11	65609	Unreliable
+	"Montgomery County, TX"	"48339"	"45-54 years"	"45-54"	"2009"	"2009"	11	67765	Unreliable
+	"Montgomery County, TX"	"48339"	"45-54 years"	"45-54"	"2010"	"2010"	14	68698	Unreliable
+	"Nueces County, TX"	"48355"	"25-34 years"	"25-34"	"2011"	"2011"	10	47277	Unreliable
+	"Nueces County, TX"	"48355"	"45-54 years"	"45-54"	"2007"	"2007"	10	48202	Unreliable
+	"Nueces County, TX"	"48355"	"45-54 years"	"45-54"	"2010"	"2010"	12	48532	Unreliable
+	"Nueces County, TX"	"48355"	"45-54 years"	"45-54"	"2011"	"2011"	12	47277	Unreliable
+	"Tarrant County, TX"	"48439"	"15-24 years"	"15-24"	"2009"	"2009"	14	251850	Unreliable
+	"Tarrant County, TX"	"48439"	"15-24 years"	"15-24"	"2011"	"2011"	14	257883	Unreliable
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"2007"	"2007"	16	253951	Unreliable
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"2008"	"2008"	16	259294	Unreliable
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"2009"	"2009"	12	263849	Unreliable
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"2010"	"2010"	12	266550	Unreliable
+	"Tarrant County, TX"	"48439"	"25-34 years"	"25-34"	"2011"	"2011"	23	272398	8.4
+	"Tarrant County, TX"	"48439"	"35-44 years"	"35-44"	"2011"	"2011"	11	265063	Unreliable
+	"Tarrant County, TX"	"48439"	"45-54 years"	"45-54"	"2007"	"2007"	13	241206	Unreliable
+	"Tarrant County, TX"	"48439"	"45-54 years"	"45-54"	"2009"	"2009"	21	254954	8.2
+	"Travis County, TX"	"48453"	"15-24 years"	"15-24"	"2008"	"2008"	10	159688	Unreliable
+	"Travis County, TX"	"48453"	"25-34 years"	"25-34"	"2009"	"2009"	10	191399	Unreliable
+	"Travis County, TX"	"48453"	"25-34 years"	"25-34"	"2011"	"2011"	18	202385	Unreliable
+	"Travis County, TX"	"48453"	"35-44 years"	"35-44"	"2008"	"2008"	10	149993	Unreliable
+	"Travis County, TX"	"48453"	"35-44 years"	"35-44"	"2009"	"2009"	13	152836	Unreliable
+	"Travis County, TX"	"48453"	"35-44 years"	"35-44"	"2011"	"2011"	13	161321	Unreliable
+	"Travis County, TX"	"48453"	"45-54 years"	"45-54"	"2007"	"2007"	11	125648	Unreliable
+	"Travis County, TX"	"48453"	"45-54 years"	"45-54"	"2009"	"2009"	20	130771	15.3
+	"Travis County, TX"	"48453"	"45-54 years"	"45-54"	"2010"	"2010"	11	132397	Unreliable
+	"Davis County, UT"	"49011"	"25-34 years"	"25-34"	"2008"	"2008"	14	46931	Unreliable
+	"Davis County, UT"	"49011"	"25-34 years"	"25-34"	"2009"	"2009"	13	47720	Unreliable
+	"Davis County, UT"	"49011"	"25-34 years"	"25-34"	"2010"	"2010"	10	47957	Unreliable
+	"Davis County, UT"	"49011"	"35-44 years"	"35-44"	"2007"	"2007"	11	35873	Unreliable
+	"Davis County, UT"	"49011"	"35-44 years"	"35-44"	"2008"	"2008"	13	36438	Unreliable
+	"Davis County, UT"	"49011"	"35-44 years"	"35-44"	"2009"	"2009"	10	37193	Unreliable
+	"Davis County, UT"	"49011"	"35-44 years"	"35-44"	"2010"	"2010"	10	38266	Unreliable
+	"Davis County, UT"	"49011"	"45-54 years"	"45-54"	"2008"	"2008"	12	34754	Unreliable
+	"Salt Lake County, UT"	"49035"	"15-24 years"	"15-24"	"2007"	"2007"	20	153258	13.0
+	"Salt Lake County, UT"	"49035"	"15-24 years"	"15-24"	"2008"	"2008"	18	153399	Unreliable
+	"Salt Lake County, UT"	"49035"	"15-24 years"	"15-24"	"2009"	"2009"	20	154192	13.0
+	"Salt Lake County, UT"	"49035"	"15-24 years"	"15-24"	"2010"	"2010"	18	154677	Unreliable
+	"Salt Lake County, UT"	"49035"	"15-24 years"	"15-24"	"2011"	"2011"	23	153454	15.0
+	"Salt Lake County, UT"	"49035"	"25-34 years"	"25-34"	"2007"	"2007"	42	171023	24.6
+	"Salt Lake County, UT"	"49035"	"25-34 years"	"25-34"	"2008"	"2008"	44	173808	25.3
+	"Salt Lake County, UT"	"49035"	"25-34 years"	"25-34"	"2009"	"2009"	41	176264	23.3
+	"Salt Lake County, UT"	"49035"	"25-34 years"	"25-34"	"2010"	"2010"	37	177221	20.9
+	"Salt Lake County, UT"	"49035"	"25-34 years"	"25-34"	"2011"	"2011"	37	180796	20.5
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"2007"	"2007"	30	129295	23.2
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"2008"	"2008"	24	130249	18.4
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"2009"	"2009"	41	132561	30.9
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"2010"	"2010"	34	134998	25.2
+	"Salt Lake County, UT"	"49035"	"35-44 years"	"35-44"	"2011"	"2011"	33	138992	23.7
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"2007"	"2007"	39	121602	32.1
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"2008"	"2008"	53	122916	43.1
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"2009"	"2009"	38	123335	30.8
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"2010"	"2010"	20	123442	16.2
+	"Salt Lake County, UT"	"49035"	"45-54 years"	"45-54"	"2011"	"2011"	32	123520	25.9
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"2007"	"2007"	12	83904	Unreliable
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"2008"	"2008"	12	87673	Unreliable
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"2009"	"2009"	11	91895	Unreliable
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"2010"	"2010"	14	95532	Unreliable
+	"Salt Lake County, UT"	"49035"	"55-64 years"	"55-64"	"2011"	"2011"	17	101253	Unreliable
+	"Utah County, UT"	"49049"	"15-24 years"	"15-24"	"2007"	"2007"	16	106692	Unreliable
+	"Utah County, UT"	"49049"	"15-24 years"	"15-24"	"2010"	"2010"	14	106568	Unreliable
+	"Utah County, UT"	"49049"	"25-34 years"	"25-34"	"2007"	"2007"	21	77246	27.2
+	"Utah County, UT"	"49049"	"25-34 years"	"25-34"	"2008"	"2008"	17	82164	Unreliable
+	"Utah County, UT"	"49049"	"25-34 years"	"25-34"	"2009"	"2009"	20	85982	23.3
+	"Utah County, UT"	"49049"	"25-34 years"	"25-34"	"2010"	"2010"	20	88102	22.7
+	"Utah County, UT"	"49049"	"25-34 years"	"25-34"	"2011"	"2011"	22	85511	25.7
+	"Utah County, UT"	"49049"	"35-44 years"	"35-44"	"2007"	"2007"	12	49223	Unreliable
+	"Utah County, UT"	"49049"	"35-44 years"	"35-44"	"2008"	"2008"	13	51509	Unreliable
+	"Utah County, UT"	"49049"	"35-44 years"	"35-44"	"2009"	"2009"	14	54181	Unreliable
+	"Utah County, UT"	"49049"	"35-44 years"	"35-44"	"2011"	"2011"	20	59021	33.9
+	"Utah County, UT"	"49049"	"45-54 years"	"45-54"	"2009"	"2009"	13	42430	Unreliable
+	"Utah County, UT"	"49049"	"45-54 years"	"45-54"	"2010"	"2010"	11	43278	Unreliable
+	"Utah County, UT"	"49049"	"45-54 years"	"45-54"	"2011"	"2011"	18	43786	Unreliable
+	"Weber County, UT"	"49057"	"25-34 years"	"25-34"	"2009"	"2009"	11	36029	Unreliable
+	"Weber County, UT"	"49057"	"45-54 years"	"45-54"	"2008"	"2008"	15	28043	Unreliable
+	"Weber County, UT"	"49057"	"45-54 years"	"45-54"	"2011"	"2011"	20	28095	71.2
+	"Fairfax County, VA"	"51059"	"15-24 years"	"15-24"	"2008"	"2008"	10	128232	Unreliable
+	"Fairfax County, VA"	"51059"	"25-34 years"	"25-34"	"2007"	"2007"	10	145129	Unreliable
+	"Fairfax County, VA"	"51059"	"45-54 years"	"45-54"	"2007"	"2007"	12	168119	Unreliable
+	"Fairfax County, VA"	"51059"	"45-54 years"	"45-54"	"2008"	"2008"	10	170519	Unreliable
+	"Fairfax County, VA"	"51059"	"45-54 years"	"45-54"	"2011"	"2011"	13	174522	Unreliable
+	"Henrico County, VA"	"51087"	"35-44 years"	"35-44"	"2011"	"2011"	10	43433	Unreliable
+	"Norfolk city, VA"	"51710"	"35-44 years"	"35-44"	"2007"	"2007"	13	29163	Unreliable
+	"Virginia Beach city, VA"	"51810"	"25-34 years"	"25-34"	"2007"	"2007"	12	64365	Unreliable
+	"Virginia Beach city, VA"	"51810"	"45-54 years"	"45-54"	"2007"	"2007"	10	63702	Unreliable
+	"Virginia Beach city, VA"	"51810"	"45-54 years"	"45-54"	"2011"	"2011"	10	64320	Unreliable
+	"Clark County, WA"	"53011"	"25-34 years"	"25-34"	"2008"	"2008"	12	54267	Unreliable
+	"Clark County, WA"	"53011"	"25-34 years"	"25-34"	"2009"	"2009"	12	54668	Unreliable
+	"Clark County, WA"	"53011"	"25-34 years"	"25-34"	"2011"	"2011"	11	55740	Unreliable
+	"Clark County, WA"	"53011"	"35-44 years"	"35-44"	"2008"	"2008"	12	60207	Unreliable
+	"Clark County, WA"	"53011"	"35-44 years"	"35-44"	"2011"	"2011"	12	60008	Unreliable
+	"Clark County, WA"	"53011"	"45-54 years"	"45-54"	"2007"	"2007"	16	60430	Unreliable
+	"Clark County, WA"	"53011"	"45-54 years"	"45-54"	"2008"	"2008"	13	61163	Unreliable
+	"Clark County, WA"	"53011"	"45-54 years"	"45-54"	"2009"	"2009"	17	61689	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2007"	"2007"	18	240952	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2008"	"2008"	11	244970	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2009"	"2009"	11	248229	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2010"	"2010"	17	247336	Unreliable
+	"King County, WA"	"53033"	"15-24 years"	"15-24"	"2011"	"2011"	12	246002	Unreliable
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2007"	"2007"	29	296537	9.8
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2008"	"2008"	26	303796	8.6
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2009"	"2009"	25	310968	8.0
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2010"	"2010"	26	312717	8.3
+	"King County, WA"	"53033"	"25-34 years"	"25-34"	"2011"	"2011"	30	324105	9.3
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2007"	"2007"	48	299519	16.0
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2008"	"2008"	38	297405	12.8
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2009"	"2009"	39	296804	13.1
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2010"	"2010"	34	296790	11.5
+	"King County, WA"	"53033"	"35-44 years"	"35-44"	"2011"	"2011"	37	299581	12.4
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2007"	"2007"	59	286395	20.6
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2008"	"2008"	68	288533	23.6
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2009"	"2009"	51	290781	17.5
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2010"	"2010"	58	291132	19.9
+	"King County, WA"	"53033"	"45-54 years"	"45-54"	"2011"	"2011"	51	290338	17.6
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2007"	"2007"	27	203306	13.3
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2008"	"2008"	30	210648	14.2
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2009"	"2009"	34	220289	15.4
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2010"	"2010"	36	228217	15.8
+	"King County, WA"	"53033"	"55-64 years"	"55-64"	"2011"	"2011"	32	239495	13.4
+	"Kitsap County, WA"	"53035"	"45-54 years"	"45-54"	"2009"	"2009"	10	38945	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2007"	"2007"	25	104773	23.9
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2008"	"2008"	17	108903	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2009"	"2009"	16	112019	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2010"	"2010"	15	112050	Unreliable
+	"Pierce County, WA"	"53053"	"25-34 years"	"25-34"	"2011"	"2011"	22	116927	18.8
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2007"	"2007"	16	113352	Unreliable
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2008"	"2008"	22	111572	19.7
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2009"	"2009"	18	109947	Unreliable
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2010"	"2010"	15	108427	Unreliable
+	"Pierce County, WA"	"53053"	"35-44 years"	"35-44"	"2011"	"2011"	22	106503	20.7
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2007"	"2007"	28	116881	24.0
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2008"	"2008"	30	118177	25.4
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2009"	"2009"	20	119150	16.8
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2010"	"2010"	24	118943	20.2
+	"Pierce County, WA"	"53053"	"45-54 years"	"45-54"	"2011"	"2011"	23	116721	19.7
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2007"	"2007"	10	82171	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2008"	"2008"	16	85271	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2009"	"2009"	21	88490	23.7
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2010"	"2010"	16	91448	Unreliable
+	"Pierce County, WA"	"53053"	"55-64 years"	"55-64"	"2011"	"2011"	23	95759	24.0
+	"Snohomish County, WA"	"53061"	"15-24 years"	"15-24"	"2011"	"2011"	13	93380	Unreliable
+	"Snohomish County, WA"	"53061"	"25-34 years"	"25-34"	"2007"	"2007"	14	93173	Unreliable
+	"Snohomish County, WA"	"53061"	"25-34 years"	"25-34"	"2008"	"2008"	17	95874	Unreliable
+	"Snohomish County, WA"	"53061"	"25-34 years"	"25-34"	"2009"	"2009"	19	98123	Unreliable
+	"Snohomish County, WA"	"53061"	"25-34 years"	"25-34"	"2010"	"2010"	11	99203	Unreliable
+	"Snohomish County, WA"	"53061"	"25-34 years"	"25-34"	"2011"	"2011"	23	101110	22.7
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"2007"	"2007"	23	108632	21.2
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"2008"	"2008"	26	106578	24.4
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"2009"	"2009"	24	105294	22.8
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"2010"	"2010"	22	104474	21.1
+	"Snohomish County, WA"	"53061"	"35-44 years"	"35-44"	"2011"	"2011"	32	103942	30.8
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"2007"	"2007"	28	110381	25.4
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"2008"	"2008"	38	112290	33.8
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"2009"	"2009"	33	113725	29.0
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"2010"	"2010"	23	114411	20.1
+	"Snohomish County, WA"	"53061"	"45-54 years"	"45-54"	"2011"	"2011"	36	113690	31.7
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"2007"	"2007"	10	72774	Unreliable
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"2008"	"2008"	10	76818	Unreliable
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"2009"	"2009"	15	81152	Unreliable
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"2010"	"2010"	14	84583	Unreliable
+	"Snohomish County, WA"	"53061"	"55-64 years"	"55-64"	"2011"	"2011"	32	89756	35.7
+	"Spokane County, WA"	"53063"	"25-34 years"	"25-34"	"2007"	"2007"	10	58377	Unreliable
+	"Spokane County, WA"	"53063"	"25-34 years"	"25-34"	"2008"	"2008"	11	60021	Unreliable
+	"Spokane County, WA"	"53063"	"25-34 years"	"25-34"	"2011"	"2011"	11	63897	Unreliable
+	"Spokane County, WA"	"53063"	"35-44 years"	"35-44"	"2009"	"2009"	12	58395	Unreliable
+	"Spokane County, WA"	"53063"	"45-54 years"	"45-54"	"2007"	"2007"	15	68082	Unreliable
+	"Spokane County, WA"	"53063"	"45-54 years"	"45-54"	"2009"	"2009"	12	68272	Unreliable
+	"Spokane County, WA"	"53063"	"45-54 years"	"45-54"	"2010"	"2010"	18	67825	Unreliable
+	"Thurston County, WA"	"53067"	"45-54 years"	"45-54"	"2009"	"2009"	13	37127	Unreliable
+	"Thurston County, WA"	"53067"	"45-54 years"	"45-54"	"2011"	"2011"	12	36323	Unreliable
+	"Cabell County, WV"	"54011"	"25-34 years"	"25-34"	"2011"	"2011"	10	12803	Unreliable
+	"Cabell County, WV"	"54011"	"35-44 years"	"35-44"	"2011"	"2011"	13	11486	Unreliable
+	"Cabell County, WV"	"54011"	"45-54 years"	"45-54"	"2007"	"2007"	12	13271	Unreliable
+	"Cabell County, WV"	"54011"	"45-54 years"	"45-54"	"2010"	"2010"	10	12844	Unreliable
+	"Kanawha County, WV"	"54039"	"25-34 years"	"25-34"	"2008"	"2008"	10	24127	Unreliable
+	"Kanawha County, WV"	"54039"	"25-34 years"	"25-34"	"2010"	"2010"	14	23977	Unreliable
+	"Kanawha County, WV"	"54039"	"25-34 years"	"25-34"	"2011"	"2011"	15	24147	Unreliable
+	"Kanawha County, WV"	"54039"	"35-44 years"	"35-44"	"2011"	"2011"	15	23446	Unreliable
+	"Kanawha County, WV"	"54039"	"45-54 years"	"45-54"	"2008"	"2008"	16	30456	Unreliable
+	"Kanawha County, WV"	"54039"	"45-54 years"	"45-54"	"2011"	"2011"	16	28607	Unreliable
+	"Logan County, WV"	"54045"	"35-44 years"	"35-44"	"2010"	"2010"	10	4977	Unreliable
+	"Mercer County, WV"	"54055"	"35-44 years"	"35-44"	"2010"	"2010"	11	7526	Unreliable
+	"Mercer County, WV"	"54055"	"35-44 years"	"35-44"	"2011"	"2011"	17	7499	Unreliable
+	"Mercer County, WV"	"54055"	"45-54 years"	"45-54"	"2011"	"2011"	13	8362	Unreliable
+	"Raleigh County, WV"	"54081"	"25-34 years"	"25-34"	"2010"	"2010"	13	10082	Unreliable
+	"Raleigh County, WV"	"54081"	"25-34 years"	"25-34"	"2011"	"2011"	13	10118	Unreliable
+	"Raleigh County, WV"	"54081"	"35-44 years"	"35-44"	"2010"	"2010"	10	10357	Unreliable
+	"Raleigh County, WV"	"54081"	"35-44 years"	"35-44"	"2011"	"2011"	16	10450	Unreliable
+	"Raleigh County, WV"	"54081"	"45-54 years"	"45-54"	"2010"	"2010"	13	11210	Unreliable
+	"Raleigh County, WV"	"54081"	"45-54 years"	"45-54"	"2011"	"2011"	18	10835	Unreliable
+	"Wyoming County, WV"	"54109"	"45-54 years"	"45-54"	"2010"	"2010"	10	3667	Unreliable
+	"Dane County, WI"	"55025"	"25-34 years"	"25-34"	"2008"	"2008"	11	74529	Unreliable
+	"Dane County, WI"	"55025"	"25-34 years"	"25-34"	"2009"	"2009"	10	77246	Unreliable
+	"Dane County, WI"	"55025"	"25-34 years"	"25-34"	"2010"	"2010"	11	78853	Unreliable
+	"Dane County, WI"	"55025"	"25-34 years"	"25-34"	"2011"	"2011"	23	79387	29.0
+	"Dane County, WI"	"55025"	"35-44 years"	"35-44"	"2007"	"2007"	11	67200	Unreliable
+	"Dane County, WI"	"55025"	"35-44 years"	"35-44"	"2008"	"2008"	10	66070	Unreliable
+	"Dane County, WI"	"55025"	"35-44 years"	"35-44"	"2011"	"2011"	10	64096	Unreliable
+	"Dane County, WI"	"55025"	"45-54 years"	"45-54"	"2007"	"2007"	10	68158	Unreliable
+	"Dane County, WI"	"55025"	"45-54 years"	"45-54"	"2010"	"2010"	14	68809	Unreliable
+	"Dane County, WI"	"55025"	"45-54 years"	"45-54"	"2011"	"2011"	12	68087	Unreliable
+	"Kenosha County, WI"	"55059"	"25-34 years"	"25-34"	"2010"	"2010"	11	20873	Unreliable
+	"Kenosha County, WI"	"55059"	"45-54 years"	"45-54"	"2007"	"2007"	13	24847	Unreliable
+	"Milwaukee County, WI"	"55079"	"15-24 years"	"15-24"	"2007"	"2007"	11	143747	Unreliable
+	"Milwaukee County, WI"	"55079"	"15-24 years"	"15-24"	"2008"	"2008"	11	145129	Unreliable
+	"Milwaukee County, WI"	"55079"	"15-24 years"	"15-24"	"2011"	"2011"	11	144550	Unreliable
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"2007"	"2007"	22	141319	15.6
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"2008"	"2008"	24	142713	16.8
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"2009"	"2009"	31	145112	21.4
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"2010"	"2010"	27	146338	18.5
+	"Milwaukee County, WI"	"55079"	"25-34 years"	"25-34"	"2011"	"2011"	28	150410	18.6
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"2007"	"2007"	36	123931	29.0
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"2008"	"2008"	42	121533	34.6
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"2009"	"2009"	31	119817	25.9
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"2010"	"2010"	17	119301	Unreliable
+	"Milwaukee County, WI"	"55079"	"35-44 years"	"35-44"	"2011"	"2011"	26	118457	21.9
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"2007"	"2007"	32	128675	24.9
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"2008"	"2008"	30	128411	23.4
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"2009"	"2009"	37	128336	28.8
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"2010"	"2010"	44	127190	34.6
+	"Milwaukee County, WI"	"55079"	"45-54 years"	"45-54"	"2011"	"2011"	40	125304	31.9
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"2007"	"2007"	10	90130	Unreliable
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"2008"	"2008"	16	93254	Unreliable
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"2009"	"2009"	15	97451	Unreliable
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"2010"	"2010"	19	101119	Unreliable
+	"Milwaukee County, WI"	"55079"	"55-64 years"	"55-64"	"2011"	"2011"	23	106133	21.7
+	"Waukesha County, WI"	"55133"	"45-54 years"	"45-54"	"2010"	"2010"	10	68404	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.6 (Other and unspecified"
+"narcotics)"
+"Year/Month: 2007; 2008; 2009; 2010; 2011"
+"Group By: County; Ten-Year Age Groups; Year"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 24, 2020 2:18:14 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 24, 2020 2:18:14 PM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Deaths for Allen Parish, Louisiana are under reported in years 2006 through 2008. See Caveats below for more information."
+"---"
+Caveats:
+"1. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"2. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"3. Data for Prince of Wales-Hyder Census Area, AK (FIPS code 02198), Hoonah-Angoon Census Area, AK (FIPS code 02105), Skagway"
+"Municipality, AK (FIPS code 02230), Petersburg Borough/Census Area, AK (FIPS code 02195) and Wrangell City and Borough, AK (FIPS"
+"code 02275) are only available for 2014 and later; for computational purposes, counts and population estimates for 2013 and"
+"earlier are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not include any data for years"
+"before 2014, only data for 2014 and later. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"4. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Clifton Forge."
+"5. Deaths for Allen Parish, Louisiana (FIPS code 22003] in years 2006 through 2008 are under reported due to problems with"
+"registering the deaths with the Louisiana Vital Statistics Office."
+"6. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"7. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"8. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"9. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"10. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age"
+"groups, so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"11. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"12. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"13. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

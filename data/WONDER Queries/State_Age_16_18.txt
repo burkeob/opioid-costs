@@ -1,0 +1,677 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"State"	"State Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"1"	"Alabama"	"01"	Suppressed	172910	Suppressed
+	"< 1 year"	"1"	"Alaska"	"02"	Suppressed	32702	Suppressed
+	"< 1 year"	"1"	"Arizona"	"04"	Suppressed	256851	Suppressed
+	"< 1 year"	"1"	"Arkansas"	"05"	Suppressed	112604	Suppressed
+	"< 1 year"	"1"	"California"	"06"	Suppressed	1464631	Suppressed
+	"< 1 year"	"1"	"Colorado"	"08"	Suppressed	201284	Suppressed
+	"< 1 year"	"1"	"Connecticut"	"09"	Suppressed	106602	Suppressed
+	"< 1 year"	"1"	"Delaware"	"10"	Suppressed	32418	Suppressed
+	"< 1 year"	"1"	"District of Columbia"	"11"	Suppressed	29101	Suppressed
+	"< 1 year"	"1"	"Florida"	"12"	Suppressed	672650	Suppressed
+	"< 1 year"	"1"	"Georgia"	"13"	Suppressed	387790	Suppressed
+	"< 1 year"	"1"	"Hawaii"	"15"	Suppressed	53550	Suppressed
+	"< 1 year"	"1"	"Idaho"	"16"	Suppressed	68245	Suppressed
+	"< 1 year"	"1"	"Illinois"	"17"	Suppressed	454578	Suppressed
+	"< 1 year"	"1"	"Indiana"	"18"	Suppressed	246716	Suppressed
+	"< 1 year"	"1"	"Iowa"	"19"	Suppressed	116867	Suppressed
+	"< 1 year"	"1"	"Kansas"	"20"	Suppressed	112700	Suppressed
+	"< 1 year"	"1"	"Kentucky"	"21"	Suppressed	163004	Suppressed
+	"< 1 year"	"1"	"Louisiana"	"22"	Suppressed	184593	Suppressed
+	"< 1 year"	"1"	"Maine"	"23"	Suppressed	37637	Suppressed
+	"< 1 year"	"1"	"Maryland"	"24"	Suppressed	215682	Suppressed
+	"< 1 year"	"1"	"Massachusetts"	"25"	Suppressed	214167	Suppressed
+	"< 1 year"	"1"	"Michigan"	"26"	Suppressed	335857	Suppressed
+	"< 1 year"	"1"	"Minnesota"	"27"	Suppressed	207854	Suppressed
+	"< 1 year"	"1"	"Mississippi"	"28"	Suppressed	110045	Suppressed
+	"< 1 year"	"1"	"Missouri"	"29"	Suppressed	219962	Suppressed
+	"< 1 year"	"1"	"Montana"	"30"	Suppressed	37281	Suppressed
+	"< 1 year"	"1"	"Nebraska"	"31"	Suppressed	78789	Suppressed
+	"< 1 year"	"1"	"Nevada"	"32"	Suppressed	109203	Suppressed
+	"< 1 year"	"1"	"New Hampshire"	"33"	Suppressed	37181	Suppressed
+	"< 1 year"	"1"	"New Jersey"	"34"	Suppressed	304533	Suppressed
+	"< 1 year"	"1"	"New Mexico"	"35"	Suppressed	73803	Suppressed
+	"< 1 year"	"1"	"New York"	"36"	Suppressed	696233	Suppressed
+	"< 1 year"	"1"	"North Carolina"	"37"	Suppressed	359693	Suppressed
+	"< 1 year"	"1"	"North Dakota"	"38"	Suppressed	33290	Suppressed
+	"< 1 year"	"1"	"Ohio"	"39"	Suppressed	408603	Suppressed
+	"< 1 year"	"1"	"Oklahoma"	"40"	Suppressed	154639	Suppressed
+	"< 1 year"	"1"	"Oregon"	"41"	Suppressed	138775	Suppressed
+	"< 1 year"	"1"	"Pennsylvania"	"42"	Suppressed	414295	Suppressed
+	"< 1 year"	"1"	"Rhode Island"	"44"	Suppressed	32326	Suppressed
+	"< 1 year"	"1"	"South Carolina"	"45"	Suppressed	171778	Suppressed
+	"< 1 year"	"1"	"South Dakota"	"46"	Suppressed	36583	Suppressed
+	"< 1 year"	"1"	"Tennessee"	"47"	Suppressed	240900	Suppressed
+	"< 1 year"	"1"	"Texas"	"48"	Suppressed	1199924	Suppressed
+	"< 1 year"	"1"	"Utah"	"49"	Suppressed	152723	Suppressed
+	"< 1 year"	"1"	"Vermont"	"50"	Suppressed	17518	Suppressed
+	"< 1 year"	"1"	"Virginia"	"51"	Suppressed	301766	Suppressed
+	"< 1 year"	"1"	"Washington"	"53"	Suppressed	272365	Suppressed
+	"< 1 year"	"1"	"West Virginia"	"54"	Suppressed	56474	Suppressed
+	"< 1 year"	"1"	"Wisconsin"	"55"	Suppressed	196265	Suppressed
+	"< 1 year"	"1"	"Wyoming"	"56"	Suppressed	21708	Suppressed
+"Total"	"< 1 year"	"1"			50	11757648	0.4
+	"1-4 years"	"1-4"	"Alabama"	"01"	Suppressed	706412	Suppressed
+	"1-4 years"	"1-4"	"Alaska"	"02"	Suppressed	128611	Suppressed
+	"1-4 years"	"1-4"	"Arizona"	"04"	Suppressed	1055666	Suppressed
+	"1-4 years"	"1-4"	"Arkansas"	"05"	Suppressed	459451	Suppressed
+	"1-4 years"	"1-4"	"California"	"06"	Suppressed	5935554	Suppressed
+	"1-4 years"	"1-4"	"Colorado"	"08"	Suppressed	809241	Suppressed
+	"1-4 years"	"1-4"	"Connecticut"	"09"	Suppressed	445174	Suppressed
+	"1-4 years"	"1-4"	"Delaware"	"10"	Suppressed	132219	Suppressed
+	"1-4 years"	"1-4"	"District of Columbia"	"11"	Suppressed	105058	Suppressed
+	"1-4 years"	"1-4"	"Florida"	"12"	Suppressed	2734764	Suppressed
+	"1-4 years"	"1-4"	"Georgia"	"13"	Suppressed	1590776	Suppressed
+	"1-4 years"	"1-4"	"Hawaii"	"15"	Suppressed	215798	Suppressed
+	"1-4 years"	"1-4"	"Idaho"	"16"	Suppressed	280420	Suppressed
+	"1-4 years"	"1-4"	"Illinois"	"17"	Suppressed	1851601	Suppressed
+	"1-4 years"	"1-4"	"Indiana"	"18"	Suppressed	1014991	Suppressed
+	"1-4 years"	"1-4"	"Iowa"	"19"	Suppressed	479762	Suppressed
+	"1-4 years"	"1-4"	"Kansas"	"20"	Suppressed	464081	Suppressed
+	"1-4 years"	"1-4"	"Kentucky"	"21"	Suppressed	665044	Suppressed
+	"1-4 years"	"1-4"	"Louisiana"	"22"	Suppressed	745065	Suppressed
+	"1-4 years"	"1-4"	"Maine"	"23"	Suppressed	156215	Suppressed
+	"1-4 years"	"1-4"	"Maryland"	"24"	Suppressed	882302	Suppressed
+	"1-4 years"	"1-4"	"Massachusetts"	"25"	Suppressed	867958	Suppressed
+	"1-4 years"	"1-4"	"Michigan"	"26"	Suppressed	1384011	Suppressed
+	"1-4 years"	"1-4"	"Minnesota"	"27"	Suppressed	855172	Suppressed
+	"1-4 years"	"1-4"	"Mississippi"	"28"	Suppressed	451310	Suppressed
+	"1-4 years"	"1-4"	"Missouri"	"29"	Suppressed	901188	Suppressed
+	"1-4 years"	"1-4"	"Montana"	"30"	Suppressed	151575	Suppressed
+	"1-4 years"	"1-4"	"Nebraska"	"31"	Suppressed	320049	Suppressed
+	"1-4 years"	"1-4"	"Nevada"	"32"	Suppressed	447091	Suppressed
+	"1-4 years"	"1-4"	"New Hampshire"	"33"	Suppressed	155520	Suppressed
+	"1-4 years"	"1-4"	"New Jersey"	"34"	Suppressed	1257145	Suppressed
+	"1-4 years"	"1-4"	"New Mexico"	"35"	Suppressed	307538	Suppressed
+	"1-4 years"	"1-4"	"New York"	"36"	Suppressed	2768672	Suppressed
+	"1-4 years"	"1-4"	"North Carolina"	"37"	Suppressed	1466458	Suppressed
+	"1-4 years"	"1-4"	"North Dakota"	"38"	Suppressed	130684	Suppressed
+	"1-4 years"	"1-4"	"Ohio"	"39"	Suppressed	1682889	Suppressed
+	"1-4 years"	"1-4"	"Oklahoma"	"40"	Suppressed	636440	Suppressed
+	"1-4 years"	"1-4"	"Oregon"	"41"	Suppressed	567207	Suppressed
+	"1-4 years"	"1-4"	"Pennsylvania"	"42"	Suppressed	1709296	Suppressed
+	"1-4 years"	"1-4"	"Rhode Island"	"44"	Suppressed	131556	Suppressed
+	"1-4 years"	"1-4"	"South Carolina"	"45"	Suppressed	707400	Suppressed
+	"1-4 years"	"1-4"	"South Dakota"	"46"	Suppressed	148677	Suppressed
+	"1-4 years"	"1-4"	"Tennessee"	"47"	Suppressed	981917	Suppressed
+	"1-4 years"	"1-4"	"Texas"	"48"	Suppressed	4874998	Suppressed
+	"1-4 years"	"1-4"	"Utah"	"49"	Suppressed	608931	Suppressed
+	"1-4 years"	"1-4"	"Vermont"	"50"	Suppressed	72839	Suppressed
+	"1-4 years"	"1-4"	"Virginia"	"51"	Suppressed	1231333	Suppressed
+	"1-4 years"	"1-4"	"Washington"	"53"	Suppressed	1103888	Suppressed
+	"1-4 years"	"1-4"	"West Virginia"	"54"	Suppressed	238286	Suppressed
+	"1-4 years"	"1-4"	"Wisconsin"	"55"	Suppressed	810911	Suppressed
+	"1-4 years"	"1-4"	"Wyoming"	"56"	Suppressed	89380	Suppressed
+"Total"	"1-4 years"	"1-4"			94	47918524	0.2
+	"5-14 years"	"5-14"	"Alabama"	"01"	Suppressed	1828137	Suppressed
+	"5-14 years"	"5-14"	"Alaska"	"02"	Suppressed	306472	Suppressed
+	"5-14 years"	"5-14"	"Arizona"	"04"	Suppressed	2758390	Suppressed
+	"5-14 years"	"5-14"	"Arkansas"	"05"	Suppressed	1182432	Suppressed
+	"5-14 years"	"5-14"	"California"	"06"	Suppressed	15156108	Suppressed
+	"5-14 years"	"5-14"	"Colorado"	"08"	Suppressed	2139389	Suppressed
+	"5-14 years"	"5-14"	"Connecticut"	"09"	Suppressed	1258132	Suppressed
+	"5-14 years"	"5-14"	"Delaware"	"10"	Suppressed	342245	Suppressed
+	"5-14 years"	"5-14"	"District of Columbia"	"11"	Suppressed	191739	Suppressed
+	"5-14 years"	"5-14"	"Florida"	"12"	Suppressed	6993801	Suppressed
+	"5-14 years"	"5-14"	"Georgia"	"13"	Suppressed	4244432	Suppressed
+	"5-14 years"	"5-14"	"Hawaii"	"15"	Suppressed	506414	Suppressed
+	"5-14 years"	"5-14"	"Idaho"	"16"	Suppressed	753058	Suppressed
+	"5-14 years"	"5-14"	"Illinois"	"17"	Suppressed	4853906	Suppressed
+	"5-14 years"	"5-14"	"Indiana"	"18"	Suppressed	2635431	Suppressed
+	"5-14 years"	"5-14"	"Iowa"	"19"	Suppressed	1226587	Suppressed
+	"5-14 years"	"5-14"	"Kansas"	"20"	Suppressed	1198902	Suppressed
+	"5-14 years"	"5-14"	"Kentucky"	"21"	Suppressed	1685114	Suppressed
+	"5-14 years"	"5-14"	"Louisiana"	"22"	Suppressed	1837086	Suppressed
+	"5-14 years"	"5-14"	"Maine"	"23"	Suppressed	425224	Suppressed
+	"5-14 years"	"5-14"	"Maryland"	"24"	Suppressed	2249475	Suppressed
+	"5-14 years"	"5-14"	"Massachusetts"	"25"	Suppressed	2285840	Suppressed
+	"5-14 years"	"5-14"	"Michigan"	"26"	Suppressed	3633286	Suppressed
+	"5-14 years"	"5-14"	"Minnesota"	"27"	Suppressed	2179080	Suppressed
+	"5-14 years"	"5-14"	"Mississippi"	"28"	Suppressed	1210012	Suppressed
+	"5-14 years"	"5-14"	"Missouri"	"29"	Suppressed	2315430	Suppressed
+	"5-14 years"	"5-14"	"Montana"	"30"	Suppressed	383423	Suppressed
+	"5-14 years"	"5-14"	"Nebraska"	"31"	Suppressed	794868	Suppressed
+	"5-14 years"	"5-14"	"Nevada"	"32"	Suppressed	1153261	Suppressed
+	"5-14 years"	"5-14"	"New Hampshire"	"33"	Suppressed	438139	Suppressed
+	"5-14 years"	"5-14"	"New Jersey"	"34"	Suppressed	3309229	Suppressed
+	"5-14 years"	"5-14"	"New Mexico"	"35"	Suppressed	828682	Suppressed
+	"5-14 years"	"5-14"	"New York"	"36"	Suppressed	6809809	Suppressed
+	"5-14 years"	"5-14"	"North Carolina"	"37"	Suppressed	3876887	Suppressed
+	"5-14 years"	"5-14"	"North Dakota"	"38"	Suppressed	289031	Suppressed
+	"5-14 years"	"5-14"	"Ohio"	"39"	Suppressed	4343570	Suppressed
+	"5-14 years"	"5-14"	"Oklahoma"	"40"	Suppressed	1611122	Suppressed
+	"5-14 years"	"5-14"	"Oregon"	"41"	Suppressed	1465427	Suppressed
+	"5-14 years"	"5-14"	"Pennsylvania"	"42"	Suppressed	4451073	Suppressed
+	"5-14 years"	"5-14"	"Rhode Island"	"44"	Suppressed	344329	Suppressed
+	"5-14 years"	"5-14"	"South Carolina"	"45"	Suppressed	1863971	Suppressed
+	"5-14 years"	"5-14"	"South Dakota"	"46"	Suppressed	359638	Suppressed
+	"5-14 years"	"5-14"	"Tennessee"	"47"	Suppressed	2517159	Suppressed
+	"5-14 years"	"5-14"	"Texas"	"48"	Suppressed	12312964	Suppressed
+	"5-14 years"	"5-14"	"Utah"	"49"	Suppressed	1567455	Suppressed
+	"5-14 years"	"5-14"	"Vermont"	"50"	Suppressed	196423	Suppressed
+	"5-14 years"	"5-14"	"Virginia"	"51"	Suppressed	3123749	Suppressed
+	"5-14 years"	"5-14"	"Washington"	"53"	Suppressed	2749855	Suppressed
+	"5-14 years"	"5-14"	"West Virginia"	"54"	Suppressed	620753	Suppressed
+	"5-14 years"	"5-14"	"Wisconsin"	"55"	Suppressed	2165720	Suppressed
+	"5-14 years"	"5-14"	"Wyoming"	"56"	Suppressed	233234	Suppressed
+"Total"	"5-14 years"	"5-14"			91	123205893	0.1
+	"15-24 years"	"15-24"	"Alabama"	"01"	93	1943180	4.8
+	"15-24 years"	"15-24"	"Alaska"	"02"	24	306146	7.8
+	"15-24 years"	"15-24"	"Arizona"	"04"	411	2868839	14.3
+	"15-24 years"	"15-24"	"Arkansas"	"05"	52	1202950	4.3
+	"15-24 years"	"15-24"	"California"	"06"	651	15979795	4.1
+	"15-24 years"	"15-24"	"Colorado"	"08"	186	2220715	8.4
+	"15-24 years"	"15-24"	"Connecticut"	"09"	218	1473481	14.8
+	"15-24 years"	"15-24"	"Delaware"	"10"	52	359858	14.5
+	"15-24 years"	"15-24"	"District of Columbia"	"11"	11	276028	Unreliable
+	"15-24 years"	"15-24"	"Florida"	"12"	645	7412153	8.7
+	"15-24 years"	"15-24"	"Georgia"	"13"	245	4328159	5.7
+	"15-24 years"	"15-24"	"Hawaii"	"15"	15	515609	Unreliable
+	"15-24 years"	"15-24"	"Idaho"	"16"	29	704339	4.1
+	"15-24 years"	"15-24"	"Illinois"	"17"	537	5106399	10.5
+	"15-24 years"	"15-24"	"Indiana"	"18"	286	2794958	10.2
+	"15-24 years"	"15-24"	"Iowa"	"19"	70	1331894	5.3
+	"15-24 years"	"15-24"	"Kansas"	"20"	44	1245904	3.5
+	"15-24 years"	"15-24"	"Kentucky"	"21"	225	1772948	12.7
+	"15-24 years"	"15-24"	"Louisiana"	"22"	88	1854553	4.7
+	"15-24 years"	"15-24"	"Maine"	"23"	60	465745	12.9
+	"15-24 years"	"15-24"	"Maryland"	"24"	396	2307832	17.2
+	"15-24 years"	"15-24"	"Massachusetts"	"25"	410	2853528	14.4
+	"15-24 years"	"15-24"	"Michigan"	"26"	438	4087611	10.7
+	"15-24 years"	"15-24"	"Minnesota"	"27"	156	2162065	7.2
+	"15-24 years"	"15-24"	"Mississippi"	"28"	34	1249850	2.7
+	"15-24 years"	"15-24"	"Missouri"	"29"	352	2426112	14.5
+	"15-24 years"	"15-24"	"Montana"	"30"	13	409748	Unreliable
+	"15-24 years"	"15-24"	"Nebraska"	"31"	15	806637	Unreliable
+	"15-24 years"	"15-24"	"Nevada"	"32"	97	1090373	8.9
+	"15-24 years"	"15-24"	"New Hampshire"	"33"	125	527403	23.7
+	"15-24 years"	"15-24"	"New Jersey"	"34"	540	3386473	15.9
+	"15-24 years"	"15-24"	"New Mexico"	"35"	100	847846	11.8
+	"15-24 years"	"15-24"	"New York"	"36"	807	7706203	10.5
+	"15-24 years"	"15-24"	"North Carolina"	"37"	526	4121257	12.8
+	"15-24 years"	"15-24"	"North Dakota"	"38"	21	340039	6.2
+	"15-24 years"	"15-24"	"Ohio"	"39"	891	4592921	19.4
+	"15-24 years"	"15-24"	"Oklahoma"	"40"	79	1617835	4.9
+	"15-24 years"	"15-24"	"Oregon"	"41"	94	1538208	6.1
+	"15-24 years"	"15-24"	"Pennsylvania"	"42"	732	4937826	14.8
+	"15-24 years"	"15-24"	"Rhode Island"	"44"	55	451730	12.2
+	"15-24 years"	"15-24"	"South Carolina"	"45"	194	1969638	9.8
+	"15-24 years"	"15-24"	"South Dakota"	"46"	14	351688	Unreliable
+	"15-24 years"	"15-24"	"Tennessee"	"47"	289	2619871	11.0
+	"15-24 years"	"15-24"	"Texas"	"48"	519	12003067	4.3
+	"15-24 years"	"15-24"	"Utah"	"49"	129	1497079	8.6
+	"15-24 years"	"15-24"	"Vermont"	"50"	26	266361	9.8
+	"15-24 years"	"15-24"	"Virginia"	"51"	305	3374432	9.0
+	"15-24 years"	"15-24"	"Washington"	"53"	202	2784000	7.3
+	"15-24 years"	"15-24"	"West Virginia"	"54"	148	670522	22.1
+	"15-24 years"	"15-24"	"Wisconsin"	"55"	241	2344383	10.3
+	"15-24 years"	"15-24"	"Wyoming"	"56"	11	225931	Unreliable
+"Total"	"15-24 years"	"15-24"			11901	129732122	9.2
+	"25-34 years"	"25-34"	"Alabama"	"01"	325	1921329	16.9
+	"25-34 years"	"25-34"	"Alaska"	"02"	77	359533	21.4
+	"25-34 years"	"25-34"	"Arizona"	"04"	724	2874867	25.2
+	"25-34 years"	"25-34"	"Arkansas"	"05"	138	1184807	11.6
+	"25-34 years"	"25-34"	"California"	"06"	1595	17985363	8.9
+	"25-34 years"	"25-34"	"Colorado"	"08"	491	2607493	18.8
+	"25-34 years"	"25-34"	"Connecticut"	"09"	707	1331609	53.1
+	"25-34 years"	"25-34"	"Delaware"	"10"	224	385842	58.1
+	"25-34 years"	"25-34"	"District of Columbia"	"11"	53	481680	11.0
+	"25-34 years"	"25-34"	"Florida"	"12"	2694	8214360	32.8
+	"25-34 years"	"25-34"	"Georgia"	"13"	759	4348872	17.5
+	"25-34 years"	"25-34"	"Hawaii"	"15"	28	617469	4.5
+	"25-34 years"	"25-34"	"Idaho"	"16"	97	678662	14.3
+	"25-34 years"	"25-34"	"Illinois"	"17"	1638	5319886	30.8
+	"25-34 years"	"25-34"	"Indiana"	"18"	973	2605914	37.3
+	"25-34 years"	"25-34"	"Iowa"	"19"	137	1187731	11.5
+	"25-34 years"	"25-34"	"Kansas"	"20"	93	1151277	8.1
+	"25-34 years"	"25-34"	"Kentucky"	"21"	810	1741414	46.5
+	"25-34 years"	"25-34"	"Louisiana"	"22"	339	2028527	16.7
+	"25-34 years"	"25-34"	"Maine"	"23"	287	475747	60.3
+	"25-34 years"	"25-34"	"Maryland"	"24"	1523	2506980	60.8
+	"25-34 years"	"25-34"	"Massachusetts"	"25"	1859	2919173	63.7
+	"25-34 years"	"25-34"	"Michigan"	"26"	1617	3817463	42.4
+	"25-34 years"	"25-34"	"Minnesota"	"27"	333	2266512	14.7
+	"25-34 years"	"25-34"	"Mississippi"	"28"	131	1182151	11.1
+	"25-34 years"	"25-34"	"Missouri"	"29"	903	2457236	36.7
+	"25-34 years"	"25-34"	"Montana"	"30"	37	405461	9.1
+	"25-34 years"	"25-34"	"Nebraska"	"31"	48	764184	6.3
+	"25-34 years"	"25-34"	"Nevada"	"32"	242	1313857	18.4
+	"25-34 years"	"25-34"	"New Hampshire"	"33"	436	493098	88.4
+	"25-34 years"	"25-34"	"New Jersey"	"34"	1731	3488976	49.6
+	"25-34 years"	"25-34"	"New Mexico"	"35"	271	845667	32.0
+	"25-34 years"	"25-34"	"New York"	"36"	2635	8706485	30.3
+	"25-34 years"	"25-34"	"North Carolina"	"37"	1597	4098849	39.0
+	"25-34 years"	"25-34"	"North Dakota"	"38"	35	342606	10.2
+	"25-34 years"	"25-34"	"Ohio"	"39"	3341	4575951	73.0
+	"25-34 years"	"25-34"	"Oklahoma"	"40"	245	1634274	15.0
+	"25-34 years"	"25-34"	"Oregon"	"41"	232	1758359	13.2
+	"25-34 years"	"25-34"	"Pennsylvania"	"42"	2464	5067406	48.6
+	"25-34 years"	"25-34"	"Rhode Island"	"44"	212	434484	48.8
+	"25-34 years"	"25-34"	"South Carolina"	"45"	548	1994428	27.5
+	"25-34 years"	"25-34"	"South Dakota"	"46"	32	341966	9.4
+	"25-34 years"	"25-34"	"Tennessee"	"47"	966	2739117	35.3
+	"25-34 years"	"25-34"	"Texas"	"48"	1106	12484096	8.9
+	"25-34 years"	"25-34"	"Utah"	"49"	348	1371176	25.4
+	"25-34 years"	"25-34"	"Vermont"	"50"	114	219780	51.9
+	"25-34 years"	"25-34"	"Virginia"	"51"	1055	3547636	29.7
+	"25-34 years"	"25-34"	"Washington"	"53"	534	3351808	15.9
+	"25-34 years"	"25-34"	"West Virginia"	"54"	607	650432	93.3
+	"25-34 years"	"25-34"	"Wisconsin"	"55"	798	2196456	36.3
+	"25-34 years"	"25-34"	"Wyoming"	"56"	27	239240	11.3
+"Total"	"25-34 years"	"25-34"			38216	135717689	28.2
+	"35-44 years"	"35-44"	"Alabama"	"01"	318	1779810	17.9
+	"35-44 years"	"35-44"	"Alaska"	"02"	66	280007	23.6
+	"35-44 years"	"35-44"	"Arizona"	"04"	590	2584331	22.8
+	"35-44 years"	"35-44"	"Arkansas"	"05"	138	1099520	12.6
+	"35-44 years"	"35-44"	"California"	"06"	1199	15638665	7.7
+	"35-44 years"	"35-44"	"Colorado"	"08"	380	2281929	16.7
+	"35-44 years"	"35-44"	"Connecticut"	"09"	677	1269072	53.3
+	"35-44 years"	"35-44"	"Delaware"	"10"	202	331209	61.0
+	"35-44 years"	"35-44"	"District of Columbia"	"11"	82	306601	26.7
+	"35-44 years"	"35-44"	"Florida"	"12"	2431	7550904	32.2
+	"35-44 years"	"35-44"	"Georgia"	"13"	680	4103038	16.6
+	"35-44 years"	"35-44"	"Hawaii"	"15"	38	537140	7.1
+	"35-44 years"	"35-44"	"Idaho"	"16"	75	638642	11.7
+	"35-44 years"	"35-44"	"Illinois"	"17"	1483	4925649	30.1
+	"35-44 years"	"35-44"	"Indiana"	"18"	818	2453879	33.3
+	"35-44 years"	"35-44"	"Iowa"	"19"	118	1120558	10.5
+	"35-44 years"	"35-44"	"Kansas"	"20"	108	1055178	10.2
+	"35-44 years"	"35-44"	"Kentucky"	"21"	944	1655219	57.0
+	"35-44 years"	"35-44"	"Louisiana"	"22"	354	1736219	20.4
+	"35-44 years"	"35-44"	"Maine"	"23"	270	454484	59.4
+	"35-44 years"	"35-44"	"Maryland"	"24"	1256	2304595	54.5
+	"35-44 years"	"35-44"	"Massachusetts"	"25"	1501	2496166	60.1
+	"35-44 years"	"35-44"	"Michigan"	"26"	1355	3476285	39.0
+	"35-44 years"	"35-44"	"Minnesota"	"27"	239	2081434	11.5
+	"35-44 years"	"35-44"	"Mississippi"	"28"	134	1094628	12.2
+	"35-44 years"	"35-44"	"Missouri"	"29"	804	2211151	36.4
+	"35-44 years"	"35-44"	"Montana"	"30"	34	368636	9.2
+	"35-44 years"	"35-44"	"Nebraska"	"31"	37	704512	5.3
+	"35-44 years"	"35-44"	"Nevada"	"32"	226	1187979	19.0
+	"35-44 years"	"35-44"	"New Hampshire"	"33"	313	458887	68.2
+	"35-44 years"	"35-44"	"New Jersey"	"34"	1368	3439191	39.8
+	"35-44 years"	"35-44"	"New Mexico"	"35"	236	739431	31.9
+	"35-44 years"	"35-44"	"New York"	"36"	2002	7360262	27.2
+	"35-44 years"	"35-44"	"North Carolina"	"37"	1339	3876820	34.5
+	"35-44 years"	"35-44"	"North Dakota"	"38"	35	264962	13.2
+	"35-44 years"	"35-44"	"Ohio"	"39"	3013	4152530	72.6
+	"35-44 years"	"35-44"	"Oklahoma"	"40"	264	1452380	18.2
+	"35-44 years"	"35-44"	"Oregon"	"41"	231	1638840	14.1
+	"35-44 years"	"35-44"	"Pennsylvania"	"42"	1911	4465153	42.8
+	"35-44 years"	"35-44"	"Rhode Island"	"44"	205	370624	55.3
+	"35-44 years"	"35-44"	"South Carolina"	"45"	540	1814960	29.8
+	"35-44 years"	"35-44"	"South Dakota"	"46"	17	303495	Unreliable
+	"35-44 years"	"35-44"	"Tennessee"	"47"	933	2506115	37.2
+	"35-44 years"	"35-44"	"Texas"	"48"	892	11412808	7.8
+	"35-44 years"	"35-44"	"Utah"	"49"	345	1268094	27.2
+	"35-44 years"	"35-44"	"Vermont"	"50"	92	209756	43.9
+	"35-44 years"	"35-44"	"Virginia"	"51"	912	3284540	27.8
+	"35-44 years"	"35-44"	"Washington"	"53"	428	2917411	14.7
+	"35-44 years"	"35-44"	"West Virginia"	"54"	681	658437	103.4
+	"35-44 years"	"35-44"	"Wisconsin"	"55"	645	2085612	30.9
+	"35-44 years"	"35-44"	"Wyoming"	"56"	32	215666	14.8
+"Total"	"35-44 years"	"35-44"			32991	122623414	26.9
+	"45-54 years"	"45-54"	"Alabama"	"01"	232	1908108	12.2
+	"45-54 years"	"45-54"	"Alaska"	"02"	62	273569	22.7
+	"45-54 years"	"45-54"	"Arizona"	"04"	520	2545451	20.4
+	"45-54 years"	"45-54"	"Arkansas"	"05"	136	1122215	12.1
+	"45-54 years"	"45-54"	"California"	"06"	1336	15429959	8.7
+	"45-54 years"	"45-54"	"Colorado"	"08"	304	2143027	14.2
+	"45-54 years"	"45-54"	"Connecticut"	"09"	671	1531418	43.8
+	"45-54 years"	"45-54"	"Delaware"	"10"	168	375710	44.7
+	"45-54 years"	"45-54"	"District of Columbia"	"11"	175	229189	76.4
+	"45-54 years"	"45-54"	"Florida"	"12"	1871	8270517	22.6
+	"45-54 years"	"45-54"	"Georgia"	"13"	620	4247222	14.6
+	"45-54 years"	"45-54"	"Hawaii"	"15"	34	523912	6.5
+	"45-54 years"	"45-54"	"Idaho"	"16"	70	597906	11.7
+	"45-54 years"	"45-54"	"Illinois"	"17"	1517	5035912	30.1
+	"45-54 years"	"45-54"	"Indiana"	"18"	613	2560026	23.9
+	"45-54 years"	"45-54"	"Iowa"	"19"	131	1141954	11.5
+	"45-54 years"	"45-54"	"Kansas"	"20"	107	1035815	10.3
+	"45-54 years"	"45-54"	"Kentucky"	"21"	761	1761756	43.2
+	"45-54 years"	"45-54"	"Louisiana"	"22"	265	1734197	15.3
+	"45-54 years"	"45-54"	"Maine"	"23"	215	557139	38.6
+	"45-54 years"	"45-54"	"Maryland"	"24"	1470	2517650	58.4
+	"45-54 years"	"45-54"	"Massachusetts"	"25"	1281	2827619	45.3
+	"45-54 years"	"45-54"	"Michigan"	"26"	1279	3960646	32.3
+	"45-54 years"	"45-54"	"Minnesota"	"27"	253	2130595	11.9
+	"45-54 years"	"45-54"	"Mississippi"	"28"	134	1123628	11.9
+	"45-54 years"	"45-54"	"Missouri"	"29"	545	2313331	23.6
+	"45-54 years"	"45-54"	"Montana"	"30"	18	368699	Unreliable
+	"45-54 years"	"45-54"	"Nebraska"	"31"	27	674817	4.0
+	"45-54 years"	"45-54"	"Nevada"	"32"	314	1184449	26.5
+	"45-54 years"	"45-54"	"New Hampshire"	"33"	271	587259	46.1
+	"45-54 years"	"45-54"	"New Jersey"	"34"	1413	3811398	37.1
+	"45-54 years"	"45-54"	"New Mexico"	"35"	221	738263	29.9
+	"45-54 years"	"45-54"	"New York"	"36"	2131	7918468	26.9
+	"45-54 years"	"45-54"	"North Carolina"	"37"	1107	4149099	26.7
+	"45-54 years"	"45-54"	"North Dakota"	"38"	17	247854	Unreliable
+	"45-54 years"	"45-54"	"Ohio"	"39"	2312	4551981	50.8
+	"45-54 years"	"45-54"	"Oklahoma"	"40"	262	1405692	18.6
+	"45-54 years"	"45-54"	"Oregon"	"41"	191	1543698	12.4
+	"45-54 years"	"45-54"	"Pennsylvania"	"42"	1458	5087061	28.7
+	"45-54 years"	"45-54"	"Rhode Island"	"44"	194	429527	45.2
+	"45-54 years"	"45-54"	"South Carolina"	"45"	537	1948879	27.6
+	"45-54 years"	"45-54"	"South Dakota"	"46"	18	298810	Unreliable
+	"45-54 years"	"45-54"	"Tennessee"	"47"	940	2668813	35.2
+	"45-54 years"	"45-54"	"Texas"	"48"	885	10617835	8.3
+	"45-54 years"	"45-54"	"Utah"	"49"	274	953765	28.7
+	"45-54 years"	"45-54"	"Vermont"	"50"	68	250656	27.1
+	"45-54 years"	"45-54"	"Virginia"	"51"	742	3436771	21.6
+	"45-54 years"	"45-54"	"Washington"	"53"	472	2826136	16.7
+	"45-54 years"	"45-54"	"West Virginia"	"54"	538	716517	75.1
+	"45-54 years"	"45-54"	"Wisconsin"	"55"	520	2277781	22.8
+	"45-54 years"	"45-54"	"Wyoming"	"56"	34	200631	16.9
+"Total"	"45-54 years"	"45-54"			29734	126793330	23.5
+	"55-64 years"	"55-64"	"Alabama"	"01"	169	1950816	8.7
+	"55-64 years"	"55-64"	"Alaska"	"02"	50	285290	17.5
+	"55-64 years"	"55-64"	"Arizona"	"04"	486	2543672	19.1
+	"55-64 years"	"55-64"	"Arkansas"	"05"	94	1144668	8.2
+	"55-64 years"	"55-64"	"California"	"06"	1587	14232622	11.2
+	"55-64 years"	"55-64"	"Colorado"	"08"	282	2116390	13.3
+	"55-64 years"	"55-64"	"Connecticut"	"09"	443	1526879	29.0
+	"55-64 years"	"55-64"	"Delaware"	"10"	106	399510	26.5
+	"55-64 years"	"55-64"	"District of Columbia"	"11"	249	210473	118.3
+	"55-64 years"	"55-64"	"Florida"	"12"	1393	8379392	16.6
+	"55-64 years"	"55-64"	"Georgia"	"13"	454	3786055	12.0
+	"55-64 years"	"55-64"	"Hawaii"	"15"	57	548205	10.4
+	"55-64 years"	"55-64"	"Idaho"	"16"	56	634847	8.8
+	"55-64 years"	"55-64"	"Illinois"	"17"	1096	4987088	22.0
+	"55-64 years"	"55-64"	"Indiana"	"18"	398	2608360	15.3
+	"55-64 years"	"55-64"	"Iowa"	"19"	83	1251094	6.6
+	"55-64 years"	"55-64"	"Kansas"	"20"	106	1119263	9.5
+	"55-64 years"	"55-64"	"Kentucky"	"21"	410	1782374	23.0
+	"55-64 years"	"55-64"	"Louisiana"	"22"	167	1815478	9.2
+	"55-64 years"	"55-64"	"Maine"	"23"	102	633703	16.1
+	"55-64 years"	"55-64"	"Maryland"	"24"	1122	2414809	46.5
+	"55-64 years"	"55-64"	"Massachusetts"	"25"	786	2787623	28.2
+	"55-64 years"	"55-64"	"Michigan"	"26"	955	4195812	22.8
+	"55-64 years"	"55-64"	"Minnesota"	"27"	170	2242786	7.6
+	"55-64 years"	"55-64"	"Mississippi"	"28"	98	1150797	8.5
+	"55-64 years"	"55-64"	"Missouri"	"29"	397	2469556	16.1
+	"55-64 years"	"55-64"	"Montana"	"30"	30	456030	6.6
+	"55-64 years"	"55-64"	"Nebraska"	"31"	40	726821	5.5
+	"55-64 years"	"55-64"	"Nevada"	"32"	284	1109894	25.6
+	"55-64 years"	"55-64"	"New Hampshire"	"33"	123	627955	19.6
+	"55-64 years"	"55-64"	"New Jersey"	"34"	885	3631946	24.4
+	"55-64 years"	"55-64"	"New Mexico"	"35"	184	822067	22.4
+	"55-64 years"	"55-64"	"New York"	"36"	1457	7762529	18.8
+	"55-64 years"	"55-64"	"North Carolina"	"37"	627	3965589	15.8
+	"55-64 years"	"55-64"	"North Dakota"	"38"	13	285112	Unreliable
+	"55-64 years"	"55-64"	"Ohio"	"39"	1536	4829192	31.8
+	"55-64 years"	"55-64"	"Oklahoma"	"40"	245	1472608	16.6
+	"55-64 years"	"55-64"	"Oregon"	"41"	184	1640054	11.2
+	"55-64 years"	"55-64"	"Pennsylvania"	"42"	965	5425676	17.8
+	"55-64 years"	"55-64"	"Rhode Island"	"44"	127	444631	28.6
+	"55-64 years"	"55-64"	"South Carolina"	"45"	376	2003837	18.8
+	"55-64 years"	"55-64"	"South Dakota"	"46"	18	349215	Unreliable
+	"55-64 years"	"55-64"	"Tennessee"	"47"	602	2629945	22.9
+	"55-64 years"	"55-64"	"Texas"	"48"	758	9535073	7.9
+	"55-64 years"	"55-64"	"Utah"	"49"	244	887718	27.5
+	"55-64 years"	"55-64"	"Vermont"	"50"	34	290209	11.7
+	"55-64 years"	"55-64"	"Virginia"	"51"	447	3283713	13.6
+	"55-64 years"	"55-64"	"Washington"	"53"	463	2863534	16.2
+	"55-64 years"	"55-64"	"West Virginia"	"54"	329	786376	41.8
+	"55-64 years"	"55-64"	"Wisconsin"	"55"	371	2442183	15.2
+	"55-64 years"	"55-64"	"Wyoming"	"56"	28	241969	11.6
+"Total"	"55-64 years"	"55-64"			21686	125731438	17.2
+	"65-74 years"	"65-74"	"Alabama"	"01"	31	1429722	2.2
+	"65-74 years"	"65-74"	"Alaska"	"02"	11	166846	Unreliable
+	"65-74 years"	"65-74"	"Arizona"	"04"	156	2110391	7.4
+	"65-74 years"	"65-74"	"Arkansas"	"05"	20	870100	2.3
+	"65-74 years"	"65-74"	"California"	"06"	516	9570216	5.4
+	"65-74 years"	"65-74"	"Colorado"	"08"	89	1437798	6.2
+	"65-74 years"	"65-74"	"Connecticut"	"09"	67	1005801	6.7
+	"65-74 years"	"65-74"	"Delaware"	"10"	19	312702	Unreliable
+	"65-74 years"	"65-74"	"District of Columbia"	"11"	76	142882	53.2
+	"65-74 years"	"65-74"	"Florida"	"12"	288	7018002	4.1
+	"65-74 years"	"65-74"	"Georgia"	"13"	119	2605623	4.6
+	"65-74 years"	"65-74"	"Hawaii"	"15"	20	432879	4.6
+	"65-74 years"	"65-74"	"Idaho"	"16"	23	482833	4.8
+	"65-74 years"	"65-74"	"Illinois"	"17"	175	3332085	5.3
+	"65-74 years"	"65-74"	"Indiana"	"18"	75	1790903	4.2
+	"65-74 years"	"65-74"	"Iowa"	"19"	16	873430	Unreliable
+	"65-74 years"	"65-74"	"Kansas"	"20"	26	762910	3.4
+	"65-74 years"	"65-74"	"Kentucky"	"21"	56	1272285	4.4
+	"65-74 years"	"65-74"	"Louisiana"	"22"	38	1246274	3.0
+	"65-74 years"	"65-74"	"Maine"	"23"	16	474218	Unreliable
+	"65-74 years"	"65-74"	"Maryland"	"24"	192	1595149	12.0
+	"65-74 years"	"65-74"	"Massachusetts"	"25"	121	1903071	6.4
+	"65-74 years"	"65-74"	"Michigan"	"26"	227	2924855	7.8
+	"65-74 years"	"65-74"	"Minnesota"	"27"	26	1475533	1.8
+	"65-74 years"	"65-74"	"Mississippi"	"28"	19	820626	Unreliable
+	"65-74 years"	"65-74"	"Missouri"	"29"	89	1731882	5.1
+	"65-74 years"	"65-74"	"Montana"	"30"	Suppressed	344507	Suppressed
+	"65-74 years"	"65-74"	"Nebraska"	"31"	Suppressed	499068	Suppressed
+	"65-74 years"	"65-74"	"Nevada"	"32"	112	855181	13.1
+	"65-74 years"	"65-74"	"New Hampshire"	"33"	22	424372	5.2
+	"65-74 years"	"65-74"	"New Jersey"	"34"	133	2389161	5.6
+	"65-74 years"	"65-74"	"New Mexico"	"35"	58	631978	9.2
+	"65-74 years"	"65-74"	"New York"	"36"	342	5307108	6.4
+	"65-74 years"	"65-74"	"North Carolina"	"37"	88	2933752	3.0
+	"65-74 years"	"65-74"	"North Dakota"	"38"	Suppressed	185182	Suppressed
+	"65-74 years"	"65-74"	"Ohio"	"39"	246	3351996	7.3
+	"65-74 years"	"65-74"	"Oklahoma"	"40"	57	1051267	5.4
+	"65-74 years"	"65-74"	"Oregon"	"41"	68	1295562	5.2
+	"65-74 years"	"65-74"	"Pennsylvania"	"42"	145	3827040	3.8
+	"65-74 years"	"65-74"	"Rhode Island"	"44"	27	299938	9.0
+	"65-74 years"	"65-74"	"South Carolina"	"45"	75	1596667	4.7
+	"65-74 years"	"65-74"	"South Dakota"	"46"	Suppressed	243743	Suppressed
+	"65-74 years"	"65-74"	"Tennessee"	"47"	118	1936160	6.1
+	"65-74 years"	"65-74"	"Texas"	"48"	210	6264214	3.4
+	"65-74 years"	"65-74"	"Utah"	"49"	55	602334	9.1
+	"65-74 years"	"65-74"	"Vermont"	"50"	12	211235	Unreliable
+	"65-74 years"	"65-74"	"Virginia"	"51"	112	2273080	4.9
+	"65-74 years"	"65-74"	"Washington"	"53"	140	2047078	6.8
+	"65-74 years"	"65-74"	"West Virginia"	"54"	55	624398	8.8
+	"65-74 years"	"65-74"	"Wisconsin"	"55"	82	1654703	5.0
+	"65-74 years"	"65-74"	"Wyoming"	"56"	10	167352	Unreliable
+"Total"	"65-74 years"	"65-74"			4700	88806092	5.3
+	"75-84 years"	"75-84"	"Alabama"	"01"	Suppressed	720697	Suppressed
+	"75-84 years"	"75-84"	"Alaska"	"02"	Suppressed	60124	Suppressed
+	"75-84 years"	"75-84"	"Arizona"	"04"	35	1104693	3.2
+	"75-84 years"	"75-84"	"Arkansas"	"05"	Suppressed	454026	Suppressed
+	"75-84 years"	"75-84"	"California"	"06"	93	4752091	2.0
+	"75-84 years"	"75-84"	"Colorado"	"08"	17	625594	Unreliable
+	"75-84 years"	"75-84"	"Connecticut"	"09"	Suppressed	514679	Suppressed
+	"75-84 years"	"75-84"	"Delaware"	"10"	Suppressed	151022	Suppressed
+	"75-84 years"	"75-84"	"District of Columbia"	"11"	Suppressed	69190	Suppressed
+	"75-84 years"	"75-84"	"Florida"	"12"	64	3966671	1.6
+	"75-84 years"	"75-84"	"Georgia"	"13"	16	1189893	Unreliable
+	"75-84 years"	"75-84"	"Hawaii"	"15"	Suppressed	205273	Suppressed
+	"75-84 years"	"75-84"	"Idaho"	"16"	Suppressed	228878	Suppressed
+	"75-84 years"	"75-84"	"Illinois"	"17"	21	1685484	1.2
+	"75-84 years"	"75-84"	"Indiana"	"18"	Suppressed	891232	Suppressed
+	"75-84 years"	"75-84"	"Iowa"	"19"	Suppressed	469544	Suppressed
+	"75-84 years"	"75-84"	"Kansas"	"20"	Suppressed	390605	Suppressed
+	"75-84 years"	"75-84"	"Kentucky"	"21"	Suppressed	622087	Suppressed
+	"75-84 years"	"75-84"	"Louisiana"	"22"	Suppressed	605546	Suppressed
+	"75-84 years"	"75-84"	"Maine"	"23"	Suppressed	227241	Suppressed
+	"75-84 years"	"75-84"	"Maryland"	"24"	11	767036	Unreliable
+	"75-84 years"	"75-84"	"Massachusetts"	"25"	11	939454	Unreliable
+	"75-84 years"	"75-84"	"Michigan"	"26"	24	1429667	1.7
+	"75-84 years"	"75-84"	"Minnesota"	"27"	Suppressed	745088	Suppressed
+	"75-84 years"	"75-84"	"Mississippi"	"28"	Suppressed	411543	Suppressed
+	"75-84 years"	"75-84"	"Missouri"	"29"	Suppressed	896955	Suppressed
+	"75-84 years"	"75-84"	"Montana"	"30"	Suppressed	162104	Suppressed
+	"75-84 years"	"75-84"	"Nebraska"	"31"	Suppressed	257819	Suppressed
+	"75-84 years"	"75-84"	"Nevada"	"32"	22	394774	5.6
+	"75-84 years"	"75-84"	"New Hampshire"	"33"	Suppressed	194376	Suppressed
+	"75-84 years"	"75-84"	"New Jersey"	"34"	Suppressed	1235494	Suppressed
+	"75-84 years"	"75-84"	"New Mexico"	"35"	11	308480	Unreliable
+	"75-84 years"	"75-84"	"New York"	"36"	45	2750066	1.6
+	"75-84 years"	"75-84"	"North Carolina"	"37"	20	1409919	1.4
+	"75-84 years"	"75-84"	"North Dakota"	"38"	Suppressed	99070	Suppressed
+	"75-84 years"	"75-84"	"Ohio"	"39"	22	1705877	1.3
+	"75-84 years"	"75-84"	"Oklahoma"	"40"	16	546114	Unreliable
+	"75-84 years"	"75-84"	"Oregon"	"41"	16	588110	Unreliable
+	"75-84 years"	"75-84"	"Pennsylvania"	"42"	27	2007858	1.3
+	"75-84 years"	"75-84"	"Rhode Island"	"44"	Suppressed	150159	Suppressed
+	"75-84 years"	"75-84"	"South Carolina"	"45"	Suppressed	738561	Suppressed
+	"75-84 years"	"75-84"	"South Dakota"	"46"	Suppressed	120252	Suppressed
+	"75-84 years"	"75-84"	"Tennessee"	"47"	16	943519	Unreliable
+	"75-84 years"	"75-84"	"Texas"	"48"	32	2980378	1.1
+	"75-84 years"	"75-84"	"Utah"	"49"	11	293451	Unreliable
+	"75-84 years"	"75-84"	"Vermont"	"50"	Suppressed	96797	Suppressed
+	"75-84 years"	"75-84"	"Virginia"	"51"	11	1096740	Unreliable
+	"75-84 years"	"75-84"	"Washington"	"53"	16	915970	Unreliable
+	"75-84 years"	"75-84"	"West Virginia"	"54"	Suppressed	311564	Suppressed
+	"75-84 years"	"75-84"	"Wisconsin"	"55"	11	826977	Unreliable
+	"75-84 years"	"75-84"	"Wyoming"	"56"	Suppressed	75717	Suppressed
+"Total"	"75-84 years"	"75-84"			690	44334459	1.6
+	"85+ years"	"85+"	"Alabama"	"01"	Suppressed	264797	Suppressed
+	"85+ years"	"85+"	"Alaska"	"02"	Suppressed	19827	Suppressed
+	"85+ years"	"85+"	"Arizona"	"04"	Suppressed	415836	Suppressed
+	"85+ years"	"85+"	"Arkansas"	"05"	Suppressed	173579	Suppressed
+	"85+ years"	"85+"	"California"	"06"	43	2198711	2.0
+	"85+ years"	"85+"	"Colorado"	"08"	Suppressed	260403	Suppressed
+	"85+ years"	"85+"	"Connecticut"	"09"	Suppressed	274454	Suppressed
+	"85+ years"	"85+"	"Delaware"	"10"	Suppressed	58440	Suppressed
+	"85+ years"	"85+"	"District of Columbia"	"11"	Suppressed	35656	Suppressed
+	"85+ years"	"85+"	"Florida"	"12"	20	1682950	1.2
+	"85+ years"	"85+"	"Georgia"	"13"	Suppressed	427365	Suppressed
+	"85+ years"	"85+"	"Hawaii"	"15"	Suppressed	120337	Suppressed
+	"85+ years"	"85+"	"Idaho"	"16"	Suppressed	86461	Suppressed
+	"85+ years"	"85+"	"Illinois"	"17"	Suppressed	792054	Suppressed
+	"85+ years"	"85+"	"Indiana"	"18"	Suppressed	389339	Suppressed
+	"85+ years"	"85+"	"Iowa"	"19"	Suppressed	237128	Suppressed
+	"85+ years"	"85+"	"Kansas"	"20"	Suppressed	195282	Suppressed
+	"85+ years"	"85+"	"Kentucky"	"21"	Suppressed	238320	Suppressed
+	"85+ years"	"85+"	"Louisiana"	"22"	Suppressed	238439	Suppressed
+	"85+ years"	"85+"	"Maine"	"23"	Suppressed	98437	Suppressed
+	"85+ years"	"85+"	"Maryland"	"24"	Suppressed	349832	Suppressed
+	"85+ years"	"85+"	"Massachusetts"	"25"	Suppressed	479148	Suppressed
+	"85+ years"	"85+"	"Michigan"	"26"	Suppressed	641033	Suppressed
+	"85+ years"	"85+"	"Minnesota"	"27"	Suppressed	361618	Suppressed
+	"85+ years"	"85+"	"Mississippi"	"28"	Suppressed	154766	Suppressed
+	"85+ years"	"85+"	"Missouri"	"29"	Suppressed	390181	Suppressed
+	"85+ years"	"85+"	"Montana"	"30"	Suppressed	67854	Suppressed
+	"85+ years"	"85+"	"Nebraska"	"31"	Suppressed	128896	Suppressed
+	"85+ years"	"85+"	"Nevada"	"32"	Suppressed	126427	Suppressed
+	"85+ years"	"85+"	"New Hampshire"	"33"	Suppressed	89858	Suppressed
+	"85+ years"	"85+"	"New Jersey"	"34"	Suppressed	605087	Suppressed
+	"85+ years"	"85+"	"New Mexico"	"35"	Suppressed	120758	Suppressed
+	"85+ years"	"85+"	"New York"	"36"	15	1351062	Unreliable
+	"85+ years"	"85+"	"North Carolina"	"37"	Suppressed	545504	Suppressed
+	"85+ years"	"85+"	"North Dakota"	"38"	Suppressed	55592	Suppressed
+	"85+ years"	"85+"	"Ohio"	"39"	10	766914	Unreliable
+	"85+ years"	"85+"	"Oklahoma"	"40"	Suppressed	215133	Suppressed
+	"85+ years"	"85+"	"Oregon"	"41"	Suppressed	252714	Suppressed
+	"85+ years"	"85+"	"Pennsylvania"	"42"	14	1004140	Unreliable
+	"85+ years"	"85+"	"Rhode Island"	"44"	Suppressed	84076	Suppressed
+	"85+ years"	"85+"	"South Carolina"	"45"	Suppressed	259496	Suppressed
+	"85+ years"	"85+"	"South Dakota"	"46"	Suppressed	63288	Suppressed
+	"85+ years"	"85+"	"Tennessee"	"47"	Suppressed	353672	Suppressed
+	"85+ years"	"85+"	"Texas"	"48"	Suppressed	1183680	Suppressed
+	"85+ years"	"85+"	"Utah"	"49"	Suppressed	111429	Suppressed
+	"85+ years"	"85+"	"Vermont"	"50"	Suppressed	42976	Suppressed
+	"85+ years"	"85+"	"Virginia"	"51"	Suppressed	445753	Suppressed
+	"85+ years"	"85+"	"Washington"	"53"	Suppressed	397289	Suppressed
+	"85+ years"	"85+"	"West Virginia"	"54"	Suppressed	119032	Suppressed
+	"85+ years"	"85+"	"Wisconsin"	"55"	Suppressed	386768	Suppressed
+	"85+ years"	"85+"	"Wyoming"	"56"	Suppressed	31725	Suppressed
+"Total"	"85+ years"	"85+"			235	19393516	1.2
+	"Not Stated"	"NS"	"Alabama"	"01"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Alaska"	"02"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Arizona"	"04"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Arkansas"	"05"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"California"	"06"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Colorado"	"08"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Connecticut"	"09"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Delaware"	"10"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"District of Columbia"	"11"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Florida"	"12"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Georgia"	"13"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Hawaii"	"15"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Idaho"	"16"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Illinois"	"17"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Indiana"	"18"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Iowa"	"19"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Kansas"	"20"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Kentucky"	"21"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Louisiana"	"22"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Maine"	"23"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Maryland"	"24"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Massachusetts"	"25"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Michigan"	"26"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Minnesota"	"27"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Mississippi"	"28"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Missouri"	"29"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Montana"	"30"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Nebraska"	"31"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Nevada"	"32"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"New Hampshire"	"33"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"New Jersey"	"34"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"New Mexico"	"35"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"New York"	"36"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"North Carolina"	"37"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"North Dakota"	"38"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Ohio"	"39"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Oklahoma"	"40"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Oregon"	"41"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Pennsylvania"	"42"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Rhode Island"	"44"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"South Carolina"	"45"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"South Dakota"	"46"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Tennessee"	"47"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Texas"	"48"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Utah"	"49"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Vermont"	"50"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Virginia"	"51"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Washington"	"53"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"West Virginia"	"54"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Wisconsin"	"55"	Suppressed	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	"Wyoming"	"56"	Suppressed	Not Applicable	Not Applicable
+"Total"	"Not Stated"	"NS"			29	Not Applicable	Not Applicable
+"Total"					140417	976014125	14.4
+"---"
+"Dataset: Multiple Cause of Death, 1999-2018"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2016; 2017; 2018"
+"Group By: Ten-Year Age Groups; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Feb 25, 2020 2:21:35 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Feb 25, 2020 2:21:35 PM"
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"4. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are"
+"bridged-race estimates of the July 1 resident population, from the county-level postcensal Vintage 2011 series released by NCHS"
+"on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are"
+"bridged-race estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released"
+"by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the"
+"1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age Groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"5. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"6. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."

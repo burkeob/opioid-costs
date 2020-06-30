@@ -37,11 +37,13 @@ require(glmmTMB)
 require(ggplot2)
 library(RColorBrewer)
 
-census_api_key('69d9f9e5add214b53a97d01d26fbec5051720528')
+
+# You will need to supply your own API key here
+census_api_key('YOUR API KEY GOES HERE')
+
 
 # this function calls the "process_hospitalizations.R" code, which cleans the hospitalization data (see code for comments)
 
-source('process_hospitalizations.R')
 # Some customization.  You can alter or delete as desired (if you know what you are doing).
 # trellis.par.set(theme=theme.mosaic()) # change default color scheme for lattice
 knitr::opts_chunk$set(
@@ -49,13 +51,10 @@ knitr::opts_chunk$set(
   size="small")   # slightly smaller font for code
 ```
 
-```{r, include = FALSE}
-costdt <- read_excel("../data/CEA_Estimates.xlsx")
-```
-
 
 ### Introduction
-This project distributes national estimates of the costs of the opioid epidemic among U.S. states and counties. Our aggregate cost measures come from the CEA report "The Underestimate Cost of the Opioid Crisis" (2017). CEA breaks down their $504 billion estimate for 2015 into non-mortality and mortality related costs as follows: `r knitr::kable(costdt)`
+This project distributes national estimates of the costs of the opioid epidemic among U.S. states and counties. We update aggregate cost measures from the CEA report "The Underestimate Cost of the Opioid Crisis" (2017) to reflect the most recent data. 
+
 We allocate these costs across states and counties based on variation in opioid-related deaths (mortality costs), opioid-related hospitalization costs (non-mortality health care costs), local work characteristics and opioid addiction rates (non-mortality productivity costs), and per-capita criminal justice costs (non-mortality criminal justice costs).
 
 ### Data Structure
@@ -74,60 +73,122 @@ We allocate these costs across states and counties based on variation in opioid-
 # read in county and states from the choroplethrMaps package
 data(county.regions)
 data(state.regions)
+
+calc_year = 2018
+prev_year = calc_year - 1
+
 ```
 
 #### Opioid Deaths by County {#death}
-Data on local opioid/general drug-related deaths come from the CDC WONDER [Multiple Cause of Death database](https://wonder.cdc.gov/mcd-icd10.html). Opioid-related deaths include all those associated with the following ICD-10 Codes for 2016: 
+Data on local opioid/general drug-related deaths come from the CDC WONDER [Multiple Cause of Death database](https://wonder.cdc.gov/mcd-icd10.html). Opioid-related deaths include all those associated with the following ICD-10 Multiple Cause of Death Codes: 
 
-* F11.0-F11.9 (all mental and behavioral disorders due to use of opioids)
 * T40.0 (opium)
 * T40.1 (heroin)
 * T40.2 (other opioids)
 * T40.3 (methadone)
 * T40.4 (other synthetic narcotics)
-* T50.7 (analeptics and opioid receptor antagonists)
-* Y45.0 (opioids and related analgesics)
-
-Overall drug-related deaths include those associated with the following 2016 ICD-10 Codes: 
-
-* X40-X44 (drug poisonings (overdose) unintentional)
-* X60-X64 (drug poisonings (overdose) suicide) 
-* X85 (drug poisonings (overdose) homicide)
-* Y10-Y14 (drug poisonings (overdose) undetermined)
-
-Relevant variables include:
-
-* Opioid Deaths (Multiple Cause of Death)
-* Drug-related Deaths (Underlying Cause of Death)
-* Drug-related Deaths (Multiple Cause of Death)
-
-### add state/county missing/observed breakdown
+* T40.6 (other and unspecified narcotics)
 
 ```{r, opioid.deaths}
+# Inflate opioid deaths according to Ruhm methodology
+
+# State weights for age groups. These are made in state_weights.R
+# source("state_weights.R")
+state_weights <- read_csv("../data/state_weights.csv") %>%
+  mutate(state.name = tolower(State))
+
+# Inflation factors according to Ruhm (2018). These are creased in "inflation_factors.R"
+# source('inflation_factors.R')
+inflation_factors <- read_csv("../data/CDC Microdata/inflation_factors.csv") %>%
+  mutate(b = str_extract(b, "[0-9]") %>% as.numeric()) %>%
+  mutate(factor = 1/(1-factor))
+
+i1_curr <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 1) %>% pull(factor)
+i2_curr <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 2) %>% pull(factor)
+i3_curr <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 3) %>% pull(factor)
+i4_curr <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 4) %>% pull(factor)
+i5_curr <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 5) %>% pull(factor)
+
+i1_prev <- inflation_factors %>% filter(Year == prev_year) %>% filter(b == 1) %>% pull(factor)
+i2_prev <- inflation_factors %>% filter(Year == prev_year) %>% filter(b == 2) %>% pull(factor)
+i3_prev <- inflation_factors %>% filter(Year == prev_year) %>% filter(b == 3) %>% pull(factor)
+i4_prev <- inflation_factors %>% filter(Year == prev_year) %>% filter(b == 4) %>% pull(factor)
+i5_prev <- inflation_factors %>% filter(Year == prev_year) %>% filter(b == 5) %>% pull(factor)
+
 # Multiple cause of death data: opioid-related deaths
-opioid_deaths <- read_tsv("../data/Opioid Deaths 2016 - MCD.txt") %>%
+opioid_deaths_curr <- read_tsv(paste0("../data/Opioid Deaths ",calc_year," - MCD.txt")) %>%
   select(-Notes) %>% 
-  filter(!is.na(County)) %>% # keep non-missing counties
-  
-# Only variables are county code and number of deaths
+  filter(!is.na(County)) %>% 
   mutate(region = `County Code` %>% as.numeric,
-         opioid_deaths = Deaths) %>%
-  select(region, opioid_deaths) 
+         opioid_deaths_curr = Deaths) %>%
+  select(region, opioid_deaths_curr) %>%
+  left_join(county.regions) %>%
+  left_join(state_weights) %>%
+  mutate(weighted_deaths = opioid_deaths_curr * state_age_prop) %>%
+  mutate(Year = calc_year) 
+
+opioid_deaths_curr <- opioid_deaths_curr %>%
+  mutate(opioid_deaths_curr = case_when(
+    age_groups == "0-24" ~ weighted_deaths * i1_curr,
+    age_groups == "25-34" ~ weighted_deaths * i2_curr,
+    age_groups == "35-44" ~ weighted_deaths * i3_curr,
+    age_groups == "45-54" ~ weighted_deaths * i4_curr,
+    T ~ weighted_deaths * i5_curr
+    
+  ))
+
+opioid_deaths_curr <- opioid_deaths_curr %>%
+  group_by(region) %>%
+  summarize(opioid_deaths_curr = sum(opioid_deaths_curr))
+
+
+opioid_deaths_prev <- read_tsv(paste0("../data/Opioid Deaths ",prev_year," - MCD.txt")) %>%
+  select(-Notes) %>% 
+  filter(!is.na(County)) %>% 
+  mutate(region = `County Code` %>% as.numeric,
+         opioid_deaths_prev = Deaths) %>%
+  select(region, opioid_deaths_prev) %>%
+  left_join(county.regions) %>%
+  left_join(state_weights) %>%
+  mutate(weighted_deaths = opioid_deaths_prev * state_age_prop) %>%
+  mutate(Year = prev_year) 
+
+opioid_deaths_prev <- opioid_deaths_prev %>%
+  mutate(opioid_deaths_prev = case_when(
+    age_groups == "0-24" ~ weighted_deaths * i1_prev,
+    age_groups == "25-34" ~ weighted_deaths * i2_prev,
+    age_groups == "35-44" ~ weighted_deaths * i3_prev,
+    age_groups == "45-54" ~ weighted_deaths * i4_prev,
+    T ~ weighted_deaths * i5_prev))
+
+opioid_deaths_prev <- opioid_deaths_prev %>%
+  group_by(region) %>%
+  summarize(opioid_deaths_prev = sum(opioid_deaths_prev))
+
+
+opioid_deaths <- opioid_deaths_curr %>% full_join(opioid_deaths_prev) %>% 
+  left_join(county.regions %>% select(region, state.fips.character))
+
+opioid_deaths_model <- glmmTMB(opioid_deaths_curr ~ opioid_deaths_prev + (1|state.fips.character), data = opioid_deaths)
+
+opioid_deaths <- opioid_deaths %>% 
+  mutate(predicted_deaths = predict(opioid_deaths_model, opioid_deaths %>% select(-opioid_deaths_curr), allow.new.levels=TRUE, type = "response"))
+
+# Set opioid deaths to the actual if it exists, otherwise predict deaths based on what was available in the previous year
+opioid_deaths <- opioid_deaths %>% 
+  mutate(opioid_deaths = ifelse(!is.na(opioid_deaths_curr), opioid_deaths_curr, predicted_deaths)) %>%
+  select(region, opioid_deaths)
+
+
+
 ```
 
 
 #### Overall Drug-related Deaths
 
 ```{r, overall.drug.deaths}
-# Underlying cause of death data: drug deaths
-drug_deaths_ucd <- read_tsv("../data/Drug Deaths 2016 - UCD.txt") %>%
-  filter(!is.na(`County Code`)) %>%
-  mutate(region = `County Code` %>% as.numeric,
-         drug_deaths_ucd = Deaths) %>%
-  select(region, drug_deaths_ucd)
-
 # Multiple cause of death data: drug deaths
-drug_deaths_mcd <- read_tsv("../data/Drug Deaths 2016 - MCD.txt") %>%
+drug_deaths_mcd <- read_tsv(paste0("../data/Drug Deaths ",calc_year," - MCD.txt")) %>%
   filter(!is.na(`County Code`)) %>%
   mutate(region = `County Code` %>% as.numeric,
          drug_deaths_mcd = Deaths) %>%
@@ -135,13 +196,12 @@ drug_deaths_mcd <- read_tsv("../data/Drug Deaths 2016 - MCD.txt") %>%
 
 # Combine drug death data
 drug_deaths <- county.regions %>% select(region) %>%
-  left_join(drug_deaths_ucd) %>%
   left_join(drug_deaths_mcd)
 ```
 
 #### GPCI by County {#costs}
 
-Data on health care costs come from the Centers for [Medicare & Medicaid Services](https://www.cms.gov/apps/physician-fee-schedule/overview.aspx). CMS offers a Physician Fee Schedule look-up tool; we use data on the 2018 Geographic Practice Cost Index (GPCI) for services covered by the Medicare Physician Fee Schedule. Relevant variables include:
+Data on health care costs come from the Centers for [Medicare & Medicaid Services](https://www.cms.gov/apps/physician-fee-schedule/overview.aspx). CMS offers a Physician Fee Schedule look-up tool; we use data on the 2019 Geographic Practice Cost Index (GPCI) for services covered by the Medicare Physician Fee Schedule. Relevant variables include:
 
 * Medical cost (GPCI)
 
@@ -154,26 +214,59 @@ gpci_xwalk <- read_excel("../data/gpci_county_xwalk.xlsx", skip = 1) %>%
   mutate(`MAC LOCALITY` = str_c(`Carrier Number`, `Locality Number`) %>% as.numeric)
 
 # GPCI data
-gpci_level <- read_csv("../data/gpci_2018.csv") %>%
+gpci_level_prev <- read_csv(paste0("../data/gpci_",prev_year,".csv")) %>%
   select(`MAC LOCALITY`, `GPCI WORK`, `GPCI PE`, `GPCI MP`) %>%
-  mutate(GPCI = 4.5 * `GPCI WORK` + 1.42 * `GPCI PE` + 0.38 * `GPCI MP`) %>%
+  mutate(GPCI_prev = 4.5 * `GPCI WORK` + 1.42 * `GPCI PE` + 0.38 * `GPCI MP`) %>%
+  mutate(`MAC LOCALITY` = as.numeric(`MAC LOCALITY`)) %>%
   right_join(gpci_xwalk) %>%
   mutate(State = ifelse(State == "HAWAII/GUAM", "HAWAII", State)) %>%
-  unique
+  filter(!is.na(GPCI_prev)) %>%
+  unique %>%
+  select(-`GPCI WORK`, -`GPCI PE`, -`GPCI MP`)
 
 
-# Code 99291: RVU WORK = 4.5, RVU PE = 1.42. RVU MP = 0.38 FROM CMS
+gpci_level_curr <- read_csv(paste0("../data/gpci_",calc_year,".csv")) %>%
+  select(`MAC LOCALITY`, `GPCI WORK`, `GPCI PE`, `GPCI MP`) %>%
+  mutate(GPCI_curr = 4.5 * `GPCI WORK` + 1.42 * `GPCI PE` + 0.38 * `GPCI MP`) %>%
+  mutate(`MAC LOCALITY` = as.numeric(`MAC LOCALITY`)) %>%
+  right_join(gpci_xwalk) %>%
+  mutate(State = ifelse(State == "HAWAII/GUAM", "HAWAII", State)) %>%
+  filter(!is.na(GPCI_curr)) %>%
+  unique %>%
+  select(-`GPCI WORK`, -`GPCI PE`, -`GPCI MP`)
 
-# function to get medical cost values
+
+gpci <- gpci_level_curr %>% full_join(gpci_level_prev)
+
+gpci_model <- lm(GPCI_curr ~ GPCI_prev, data = gpci)
+
+gpci <- gpci %>% 
+  mutate(predicted_gpci = predict(gpci_model, gpci %>% select(-GPCI_curr), allow.new.levels=TRUE, type = "response"))
+
+gpci <- gpci %>% 
+  mutate(GPCI = ifelse(!is.na(GPCI_curr), GPCI_curr, predicted_gpci)) %>%
+  select(-GPCI_curr, -GPCI_prev, -predicted_gpci)
+
 find_gpci = function(county, state) {
-  out <- gpci_level %>% filter(str_detect(State %>% tolower, state),
+  out <- gpci %>% filter(str_detect(State %>% tolower, state),
                         str_detect(Counties %>% tolower, county))
-  if (nrow(out) == 1) { # if the county exists
+  if (nrow(out) == 1) {
      return(out %>% pull(GPCI))
-  } else { # otherwise pull all counties/other counties value
-    return(gpci_level %>% filter(State %>% tolower == state,
+  } else {
+    out <- gpci %>% filter(State %>% tolower == state,
+                                 str_detect(Counties, "ALL COUNTIES|ALL OTHER COUNTIES")) 
+    
+    if(nrow(out) == 1){
+       return(gpci %>% filter(State %>% tolower == state,
                                  str_detect(Counties, "ALL COUNTIES|ALL OTHER COUNTIES")) %>%
-             pull(GPCI))
+             pull(GPCI))   
+      
+    }else{
+      if(state %>% tolower() == "california"){
+        return(6.62752)
+      }
+    }
+
   }
 }
 
@@ -195,6 +288,16 @@ Opioid addiction rate data come from the [Substance Abuse and Mental Health Serv
 
 The following code maps sub-state areas to counties; 
 ```{r, opioid.addiction}
+# population by county
+population <- get_acs(geography = "county",
+             variables = c(population = "B01003_001"),
+             survey = "acs5",
+             year = prev_year) %>%
+  mutate(region = GEOID %>% as.numeric,
+         total_population = estimate) %>%
+  select(region, total_population)
+
+
 # This crosswalk maps substate regions to county fips codes
 addiction_xwalk1 <- read.sas7bdat("../data/substate_county121314.sas7bdat") %>% tbl_df %>%
   select(sbst14n, state, county) %>%
@@ -226,6 +329,7 @@ nonmedical_use <- read_excel("../data/NonMed Use of Opioid.xlsx") %>%
               select(state_name, state_fips)) %>%
   filter(!is.na(state_fips))
 
+
 # Merge county-level crosswalk to nonmedical_use data
 # correcting error in crosswalk
 nonmedical_use <- addiction_xwalk %>% rename(state_fips = state) %>% 
@@ -233,25 +337,61 @@ nonmedical_use <- addiction_xwalk %>% rename(state_fips = state) %>%
                             sbst14n == "Trillium Health Resources 2" ~ "Trillium Healthcare Resources 2",
                             TRUE ~ sbst14n)) %>% 
   left_join(nonmedical_use) %>%
-  select(county_fips, nonmedical_use_pct) %>%
+  select(county_fips, nonmedical_use_pct, sbst14n) %>%
   rename(region = county_fips) %>%
   filter(!is.na(region))
 
 # merge in the rest of the counties
-nonmedical_use <- county.regions %>% select(region, state.fips.character) %>% left_join(nonmedical_use)
+nonmedical_use <- county.regions %>% select(region, state.fips.character) %>% left_join(nonmedical_use) %>%
+  left_join(population)
+
+nonmedical_pcts <- nonmedical_use %>%
+  mutate(users = nonmedical_use_pct * total_population) %>%
+  group_by(state.fips.character) %>%
+  mutate(state_total = sum(users, na.rm = T)) %>%
+  group_by(state.fips.character, sbst14n) %>%
+  mutate(region_total = sum(users, na.rm = T)) %>%
+  mutate(region_pct_of_state = region_total / state_total) %>%
+  mutate(cnty_pct_region = users / region_total)
+
+
+# Only two state-level NSDUH files
+nsduh_year <- ifelse(calc_year >=2016, 2017, 2015)
+nsduh_table <- ifelse(calc_year >= 2016, 21,20)
+nsduh_skip  <- ifelse(calc_year >= 2016, 7,8)
+
+counts <- read_xlsx(paste0("../Data/NSDUHsaeTotals",nsduh_year,".xlsx"), sheet = paste0("Table ",nsduh_table), skip = nsduh_skip)
+names(counts) <- str_remove_all(names(counts), "\r|\n")
+
+counts <- counts %>%
+  select(State, `12 or OlderEstimate`) %>%
+  mutate(state.name = tolower(State)) %>%
+  left_join(county.regions) %>%
+  filter(!is.na(region)) %>%
+  left_join(nonmedical_pcts) %>%
+  mutate(region_users_2017 = region_pct_of_state *`12 or OlderEstimate`) %>%
+  mutate(county_users = cnty_pct_region * region_users_2017 * 10000) %>%
+  mutate(nonmedical_use_pct = county_users / total_population)
+
+nonmedical_use <- counts %>%
+  select(region, state.fips.character, nonmedical_use_pct, sbst14n, total_population)
+
 ```
 
 #### Criminal Justice Costs {#criminal}
 
-Criminal justice cost data are available from the [Bureau of Justice](https://www.bjs.gov/index.cfm?ty=pbse&sid=33). We use the 2012 preliminary file for our analysis. The data are at the state level-- in order to estimate county-level criminal justice costs associated with the opioid crisis, we assign weights to counties proportionally to the number of individuals who use pain relievers for nonmedical use. This code can be found in the section [Creating County-Level Estimates]. Relevant variables include:
+Criminal justice cost data are available from the [Bureau of Justice](https://www.bjs.gov/index.cfm?ty=pbse&sid=33). We use the 2016 preliminary file for our analysis. The data are at the state level-- in order to estimate county-level criminal justice costs associated with the opioid crisis, we assign weights to counties proportionally to the number of individuals who use pain relievers for nonmedical use. This code can be found in the section [Creating County-Level Estimates]. Relevant variables include:
 
 * State-level criminal costs per capita.
 
 
 ```{r, criminal.justice}
 # read in criminal justice costs
-criminal_costs <- read_csv("../data/criminal_justice_expenditures.csv",
-              skip = 25, col_names = F) %>%
+# Only two files, 2015 and 2016
+cc <- ifelse(calc_year == 2015, 2015, 2016)
+
+criminal_costs <- read_csv(paste0("../data/criminal_justice_expenditures_",cc,".csv"),
+              skip = 20, col_names = F) %>%
   na.omit %>%
   filter(X2 != "-") %>%
   select(X1, X2, X4) %>%
@@ -269,35 +409,73 @@ criminal_costs <- county.regions %>%
 
 
 #### Hospitalization Costs
-Hospitalization cost data come from the [Agency for Healthcare Reserach and Quality](https://hcupnet.ahrq.gov/#setup). The data can be accessed through the "Community" statistics link when creating a custom data table. Our state-level data are for year 2014, and are at the county level. We focus on the "Stays for Alcohol and Other Drugs" diagnosis. Relevant variables include:
+Hospitalization cost data come from the [Agency for Healthcare Reserach and Quality](https://hcupnet.ahrq.gov/#setup). The data can be accessed through the "Community" statistics link when creating a custom data table. Our state-level data are for year 2016, and are at the county level. We focus on the "Stays for Alcohol and Other Drugs" diagnosis. Relevant variables include:
 
 * total hospitalization costs: stays for alcohol/other drugs
 * total discharges: stays for alcohol/other drugs
 * mean costs: stays for alcohol/other drugs
 
 ```{r, hospitalization.costs}
-# read in hospitalization cost data-- these are already cleaned with the "process_hospitalizations.R" code.
-hospitalization_costs <- read_rds("../data/hospitalization_costs.rds")
+# read in hospitalization cost data-- these are made with "process_hospitalizations.R".
+
+# 2015 data is weird because they were transitioning from ICD-9 to ICD-10
+
+hospitalization_costs <- read_rds("../data/new_hospitalization_costs.rds") %>% 
+  rename(total_costs = total_costs) %>%
+  select(region_name, state_name, total_costs)
+hospitalization_costs_old <- read_rds("../data/old_hospitalization_costs.rds") %>% rename(total_costs_old = total_costs) %>%
+  select(region_name, state_name, total_costs_old)
 
 # county-level data
-county_hosp_costs <- hospitalization_costs %>% filter(region_name != "State Total") %>%
+county_hosp_costs <- hospitalization_costs %>% full_join(hospitalization_costs_old) %>% filter(region_name != "State Total") %>%
   mutate(county.name = region_name %>% tolower %>% str_trim,
          state.name = state_name %>% tolower %>% str_trim) %>%
-  inner_join(county.regions) %>%
-  select(region, discharges, mean_costs, per_capita_costs, total_costs)
+  inner_join(county.regions) 
+
+
+county_hosp_model <- glmmTMB(total_costs ~ total_costs_old + (1|state.fips.character), data = county_hosp_costs)
+
+county_hosp_costs <- county_hosp_costs %>% 
+  mutate(predicted_costs = predict(county_hosp_model, county_hosp_costs %>% select(-total_costs), allow.new.levels=TRUE, type = "response"))
+
+county_hosp_costs <- county_hosp_costs %>% 
+  rowwise() %>%
+  mutate(total_costs = ifelse(calc_year == 2015, 
+                              total_costs_old, 
+                              ifelse(!is.na(total_costs), total_costs, predicted_costs)))
+
+
+
 
 # state-level data
-state_hosp_costs <- hospitalization_costs %>% filter(region_name == "State Total") %>%
+state_hosp_costs_curr <- read_rds("../data/new_hospitalization_costs.rds") %>% filter(region_name == "State Total") %>%
   mutate(region = state_name %>% tolower %>% str_trim,
-         state_total_costs = total_costs,
-         state_discharges = discharges,
-         state_mean_costs = mean_costs) %>%
-  select(region, state_total_costs, state_discharges, state_mean_costs)
+         state_total_costs_curr = total_costs) %>%
+  select(region, state_total_costs_curr)
+
+state_hosp_costs_old <- read_rds("../data/old_hospitalization_costs.rds") %>% filter(region_name == "State Total") %>%
+  mutate(region = state_name %>% tolower %>% str_trim,
+         state_total_costs_old = total_costs) %>%
+  select(region, state_total_costs_old)
+
+state_hosp_costs <- state_hosp_costs_curr %>% full_join(state_hosp_costs_old)
+
+state_hosp_model <- lm(state_total_costs_curr ~ state_total_costs_old, data = state_hosp_costs)
+
+state_hosp_costs <- state_hosp_costs %>% 
+  mutate(predicted_state_costs = predict(state_hosp_model, state_hosp_costs %>% select(-state_total_costs_curr), allow.new.levels=TRUE, type = "response"))
+
+state_hosp_costs <- state_hosp_costs %>% 
+  rowwise() %>%
+  mutate(state_total_costs = ifelse(calc_year == 2015, 
+                                    state_total_costs_old, 
+                                    ifelse(!is.na(state_total_costs_curr), state_total_costs_curr, predicted_state_costs)))
+
 ```
 
 #### County/State Covariates {#income}
 
-We derive our county- and state- level demographic controls from the American Community Survey. We use data from the 2016 5-year survey. Relevant variables include:
+We derive our county- and state- level demographic controls from the American Community Survey. We use data from the 2017 5-year survey. Relevant variables include:
 
 * Population
 * Working age population
@@ -313,14 +491,7 @@ We control for urban/rural status when predicting county-wide mortality costs. W
 * Fraction of the population living in rural areas
 
 ```{r, county.demographics}
-# population by county
-population <- get_acs(geography = "county",
-             variables = c(population = "B01003_001"),
-             survey = "acs5",
-             year = 2016) %>%
-  mutate(region = GEOID %>% as.numeric,
-         total_population = estimate) %>%
-  select(region, total_population)
+
 
 # working age population by county
 workers <- get_acs(geography = "county",
@@ -331,7 +502,7 @@ workers <- get_acs(geography = "county",
                            f3544 = "B15001_060",
                            f4564 = "B15001_068"),
              survey = "acs5",
-             year = 2016) %>%
+             year = prev_year) %>%
   group_by(GEOID) %>%
   summarise(working_population = sum(estimate, na.rm = T)) %>% #sum population by GEOID (county)
   mutate(region = GEOID %>% as.numeric) %>% 
@@ -339,7 +510,7 @@ workers <- get_acs(geography = "county",
 
 # educational attainment by county
 educational_attainment <- get_acs("county",
-                                  variables = c("B06009_001", "B06009_002", "B06009_003"),  year = 2016, survey = "acs5") %>%
+                                  variables = c("B06009_001", "B06009_002", "B06009_003"),  year = prev_year, survey = "acs5") %>%
   group_by(GEOID) %>%
   summarise(pct_no_hs = estimate[2]/estimate[1],
             pct_hs = estimate[3]/estimate[1],
@@ -358,7 +529,7 @@ race <- get_acs(geography = "county",
              variables = c(total_population = "B03002_001",
                            black_alone_not_hispanic = "B03002_004",
                            hispanic_all_races = "B03002_012"),
-             survey = "acs5", year = 2016) %>%
+             survey = "acs5", year = prev_year) %>%
   group_by(GEOID) %>%
   summarise(percent_black = estimate[2]/estimate[1] * 100,
             percent_hispanic = estimate[3]/estimate[1] * 100) %>%
@@ -383,7 +554,7 @@ race <- get_acs(geography = "county",
 st_population <- get_acs(geography = "state",
              variables = c(population = "B01003_001"),
              survey = "acs5",
-             year = 2016) %>%
+             year = prev_year) %>%
   mutate(region = NAME %>% tolower,
          total_population = estimate) %>%
   select(region, total_population)
@@ -397,7 +568,7 @@ st_workers <- get_acs(geography = "state",
                            f3544 = "B15001_060",
                            f4564 = "B15001_068"),
              survey = "acs5",
-             year = 2016) %>%
+             year = prev_year) %>%
   group_by(GEOID) %>%
   summarise(working_population = sum(estimate, na.rm = T)) %>%
   rename(region = GEOID) %>% ungroup
@@ -410,7 +581,12 @@ st_workers <- get_acs(geography = "state",
 #   select(region, income_per_capita)
 
 # Income by county -- comes from census
-income <- read_excel("../data/est16all.xls", skip = 3) %>% select(`State FIPS Code`, `County FIPS Code`, `Median Household Income`)
+
+est <- calc_year - 2000
+
+
+income <- read_excel(paste0("../data/est",est,"all.xls"), skip = 3) %>% select(`State FIPS Code`, `County FIPS Code`, `Median Household Income`)
+
 
 # Income by state
 med_income <- income %>% mutate(med_income = `Median Household Income` %>% as.numeric,
@@ -435,6 +611,7 @@ demographics <- county.regions %>%
   left_join(educational_attainment) %>% tbl_df
 
 # merge state-level demographic data
+
 st_demographics <- state.regions %>%
   select(region, fips.character) %>%
   left_join(st_income) %>%
@@ -446,7 +623,7 @@ st_demographics <- state.regions %>%
 
 #### Health Cost Model {#hospmodel}
 
-In order to estimate the geographic variation in the hospitalization costs associated with the opioid crisis, we calculate state- and county-level weights to distribute the CEA (2017) aggregate cost estimate of $36.6 billion. We derive our state-level estimates using Healthcare Cost and Utilization Project data (Agency for Healthcare and Research and Quality)-- we observe data for 32 states with in the US. We predict opioid-related hospitalization costs for the remaining 18 states and the District of Columbia using a linear regression model. We estimate the following model:
+In order to estimate the geographic variation in the hospitalization costs associated with the opioid crisis, we calculate state- and county-level weights to distribute our aggregate cost estimate of $33.3 billion. We derive our state-level estimates using Healthcare Cost and Utilization Project data (Agency for Healthcare and Research and Quality)-- we observe data for 37 states with in the US. We predict opioid-related hospitalization costs for the remaining 13 states and the District of Columbia using a linear regression model. We estimate the following model:
 
 $$Y = X\beta + \epsilon$$
 Where $Y$ is the log of state hospitalization costs and $X$ is a matrix of regressors:
@@ -493,7 +670,7 @@ hosp_reg_table_cy <- data.frame(Response = c("Log of Hospitalization Costs",
 
 ```{r, health.costs}
 # County-level hospitalization costs
-county_hosp_costs <- hospitalization_costs %>% filter(region_name != "State Total") %>%
+county_hosp_costs <- county_hosp_costs %>% filter(region_name != "State Total") %>%
   mutate(county.name = region_name %>% tolower %>% str_trim,
          state.name = state_name %>% tolower %>% str_trim) %>%
   right_join(county.regions)
@@ -521,7 +698,7 @@ hosp_costs_model <- county_hosp_costs %>%
 # mixed-effects linear regression with state random effects--counties with opioid-related deaths
 h1 <- lmer(log_total_hosp_costs ~ medical_cost + log_nonmedical_use_count + log_population + log_opioid_deaths + log_drug_deaths_mcd + (1|state.fips.character), data = hosp_costs_model)
 
-# adjustment factor NEED TO ASK ABOUT THIS
+# adjustment factor
 h1_adj = sum(exp(resid(h1)))/(length(resid(h1)) - 7)
 
 # mixed-effects linear regression with state random effects--counties with only drug deaths
@@ -536,12 +713,41 @@ h3_adj = sum(exp(resid(h3)))/(length(resid(h3)) - 5)
 
 ### State-level hospitalization cost data
 # State-level opioid death data-- for use in linear regression
-state_opioid_deaths <- read_tsv("../data/State Opioid Deaths 2016 - MCD.txt") %>%
+state_opioid_deaths <- read_tsv(paste0("../data/State Opioid Deaths ",calc_year," - MCD.txt")) %>%
   select(-Notes) %>%
   filter(!is.na(State)) %>%
   mutate(state.fips.character = `State Code`,
          state_opioid_deaths = Deaths) %>%
   select(state.fips.character, state_opioid_deaths)
+
+state_opioid_deaths <- state_opioid_deaths %>%
+  left_join(state_weights, by = c(state.fips.character = "State Code"))
+
+state_opioid_deaths <- state_opioid_deaths %>%
+  mutate(weighted_deaths = state_opioid_deaths * state_age_prop)
+
+state_opioid_deaths <- state_opioid_deaths %>%
+  mutate(Year = calc_year)
+
+b1 <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 1) %>% pull(factor)
+b2 <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 2) %>% pull(factor)
+b3 <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 3) %>% pull(factor)
+b4 <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 4) %>% pull(factor)
+b5 <- inflation_factors %>% filter(Year == calc_year) %>% filter(b == 5) %>% pull(factor)
+
+state_opioid_deaths <- state_opioid_deaths %>%
+  mutate(state_opioid_deaths = case_when(
+    age_groups == "0-24" ~ weighted_deaths * b1,
+    age_groups == "25-34" ~ weighted_deaths * b2,
+    age_groups == "35-44" ~ weighted_deaths * b3,
+    age_groups == "45-54" ~ weighted_deaths * b4,
+    T ~ weighted_deaths * b5
+    
+  ))
+
+state_opioid_deaths <- state_opioid_deaths %>%
+  group_by(state.fips.character) %>%
+  summarise(state_opioid_deaths = sum(state_opioid_deaths))
 
 # opioid medical cost data -- outcome of interest in regression
 state_medical_costs <- medical_cost_index %>% left_join(demographics) %>%
@@ -556,7 +762,6 @@ state_hosp_costs_model <- state_hosp_costs %>%
   left_join(state_medical_costs %>% rename(fips.character = state.fips.character)) %>%
   mutate(log_hospital_costs = log(state_total_costs),
          log_total_population = log(total_population),
-         log_mean_cost = log(state_mean_costs),
          log_opioid_deaths = log(state_opioid_deaths),
          log_income = log(st_med_income))
 
@@ -564,27 +769,31 @@ state_hosp_costs_model <- state_hosp_costs %>%
 sh1 <- lm(log_hospital_costs ~ log_total_population +
             log_opioid_deaths + medical_cost + log_income, data = state_hosp_costs_model)
 
-# This is correcting non-normality of the residuals? check that the 26 value represents number of obs
-sh1_adj <- sum(exp(resid(sh1)))/26
+# This is correcting non-normality of the residuals.
+sh1_adj <- sum(exp(resid(sh1)))/(length(resid(sh1)) - 5)
 
 # add predicted values for state hospitalization costs, generate per-capita hospitalization costs
 # this code fills in predicted values if state costs are missing, otherwise it returns original state costs
 state_hosp_costs <- state_hosp_costs_model %>%
   mutate(state_est_hosp_costs = ifelse(is.na(state_total_costs), exp(predict(sh1, state_hosp_costs_model)) * sh1_adj, state_total_costs),
         state_costs_per_capita = state_est_hosp_costs/total_population) %>%
-  select(fips.character, state_est_hosp_costs, state_costs_per_capita)
+  select(fips.character, state_est_hosp_costs, state_costs_per_capita) %>%
+  ungroup()
 
 ### county-level hospitalization costs
 # for each county, get predicted hospitalization costs based on which independent variables are available
-d1_hosp <- hosp_costs_model %>% filter(!is.na(medical_cost + log_nonmedical_use_count + log_population + log_opioid_deaths + log_drug_deaths_mcd))
+d1_hosp <- hosp_costs_model %>% filter(!is.na(medical_cost + log_nonmedical_use_count + log_population + log_opioid_deaths + log_drug_deaths_mcd)) %>%
+  ungroup()
 
 d1_hosp <- d1_hosp %>% mutate(predicted_hospitalization_costs1 = exp(predict(h1, d1_hosp, allow.new.levels=TRUE)) * h1_adj)
 
-d2_hosp <- hosp_costs_model %>% filter(!is.na(medical_cost + log_nonmedical_use_count + log_population + log_drug_deaths_mcd))
+d2_hosp <- hosp_costs_model %>% filter(!is.na(medical_cost + log_nonmedical_use_count + log_population + log_drug_deaths_mcd)) %>%
+  ungroup()
 
 d2_hosp <- d2_hosp %>% mutate(predicted_hospitalization_costs2 = exp(predict(h2, d2_hosp, allow.new.levels=TRUE)) * h2_adj)
 
-d3_hosp <- hosp_costs_model %>% filter(!is.na(medical_cost + log_nonmedical_use_count + log_population))
+d3_hosp <- hosp_costs_model %>% filter(!is.na(medical_cost + log_nonmedical_use_count + log_population)) %>%
+  ungroup()
 
 d3_hosp <- d3_hosp %>% mutate(predicted_hospitalization_costs3 = exp(predict(h3, d3_hosp, allow.new.levels=TRUE)) * h3_adj)
 
@@ -602,7 +811,7 @@ proj_hospital_costs <- hosp_costs_model %>% select(region, state.fips.character,
   group_by(state.fips.character) %>%
   mutate(total_est_costs = sum(est_total_hosp_costs, na.rm = T)) %>%
   mutate(infl_factor = state_est_hosp_costs/total_est_costs,
-         est_total_hosp_costs = est_total_hosp_costs * infl_factor) %>% ungroup
+         est_total_hosp_costs = est_total_hosp_costs * infl_factor) %>% ungroup()
 ```
 
 ### Opioid Death Model {#deathmodel}
@@ -841,12 +1050,16 @@ $$
 c_s = \sum_{c\in s}{c_{s,c}}
 $$
 ```{r, build.model}
-# opioid cost parameters
-fatal_costs <- 431.7
-total_nonfatal_costs <- 72.3
-nonfatal_health_costs <- total_nonfatal_costs * 0.5068966
-total_criminal_justice_costs <- total_nonfatal_costs * 0.1344828
-total_productivity_costs <- total_nonfatal_costs * 0.3586207 
+# Opioid-related costs by year, made in total_costs.R
+source('total_costs.R')
+costs <- read_csv("../Data/total_costs.csv")
+
+# For 2017
+fatal_costs <- costs %>% filter(Year == calc_year) %>% pull(mortality_cost)
+#total_nonfatal_costs <- 66.16359032
+nonfatal_health_costs <- costs %>% filter(Year == calc_year) %>% pull(medical_cost) 
+total_criminal_justice_costs <- costs %>% filter(Year == calc_year) %>% pull(criminal_cost) 
+total_productivity_costs <- costs %>% filter(Year == calc_year) %>% pull(productivity_cost)
 
 
 d <- county.regions %>% tbl_df %>% 
@@ -858,30 +1071,62 @@ d <- county.regions %>% tbl_df %>%
   left_join(demographics)
 
 # allocate opioid costs
-d <- d %>% filter(!is.na(total_population), !is.na(med_income)) %>% 
-  mutate(death_wt = est_opioid_deaths/sum(est_opioid_deaths, na.rm = T), # county death cost weight
-         death_cost = death_wt * fatal_costs * 10^9,
-         death_cost_pc = death_cost/total_population) %>%
-  mutate(health_wt = est_total_hosp_costs/sum(est_total_hosp_costs), # county health care cost weight
-         health_cost = health_wt * nonfatal_health_costs * 10^9,
+state_weights <- read_csv("../data/state_weights.csv")
+VSL <- read_csv("../data/VSL.csv")
+
+b1 <- VSL %>% filter(Year == calc_year) %>% pull(VSL_1)
+b2 <- VSL %>% filter(Year == calc_year) %>% pull(VSL_2)
+b3 <- VSL %>% filter(Year == calc_year) %>% pull(VSL_3)
+b4 <- VSL %>% filter(Year == calc_year) %>% pull(VSL_4)
+b5 <- VSL %>% filter(Year == calc_year) %>% pull(VSL_5)
+
+
+d.. <- d %>% filter(!is.na(total_population), !is.na(med_income)) %>%
+  left_join(state_weights, by =c("state.fips.character" = "State Code"))
+
+d.. <- d.. %>%
+  mutate(weighted_deaths = state_age_prop * est_opioid_deaths)
+
+d.. <- d.. %>%
+  mutate(county_death_cost = case_when(
+    age_groups == "0-24" ~ weighted_deaths * b1,
+    age_groups == "25-34" ~ weighted_deaths * b2,
+    age_groups == "35-44" ~ weighted_deaths * b3,
+    age_groups == "45-54" ~ weighted_deaths * b4,
+    T ~ weighted_deaths * b5,
+  ))
+
+d.. <- d.. %>%
+  group_by(region) %>%
+  summarize(death_cost = sum(county_death_cost) * 10^6)
+
+
+d <- d %>%
+  left_join(d..)
+
+d <- d %>% 
+  mutate(death_cost_pc = death_cost/total_population) %>%
+  mutate(health_wt = est_total_hosp_costs/sum(est_total_hosp_costs, na.rm = T), # county health care cost weight
+         health_cost = health_wt * nonfatal_health_costs,
          health_cost_pc = health_cost/total_population) %>%
-  mutate(criminal_wt = (nonmedical_use_pct * total_population * criminal_cost_per_capita)/sum(nonmedical_use_pct * total_population * criminal_cost_per_capita), # criminal justice cost weight
-         criminal_cost = criminal_wt * total_criminal_justice_costs * 10^9,
+  mutate(criminal_wt = (nonmedical_use_pct * total_population * criminal_cost_per_capita)/sum(nonmedical_use_pct * total_population * criminal_cost_per_capita, na.rm = T), # criminal justice cost weight
+         criminal_cost = criminal_wt * total_criminal_justice_costs,
          criminal_cost_pc = criminal_cost/total_population) %>%
-  mutate(productivity_wt = (med_income * 0.175 * nonmedical_use_pct * working_population)/sum(med_income * 0.175 * nonmedical_use_pct * working_population), # productivity cost weight
-         productivity_cost = productivity_wt * total_productivity_costs * 10^9,
+  mutate(productivity_wt = (med_income * 0.175 * nonmedical_use_pct * working_population)/sum(med_income * 0.175 * nonmedical_use_pct * working_population, na.rm = T), # productivity cost weight
+         productivity_cost = productivity_wt * total_productivity_costs,
          productivity_cost_pc = productivity_cost/total_population)
 ```
 
 
 ### MAKE MAPS FOR COUNTIES
-
+======
 ```{r, make.county.maps}
 # here we map opioid costs by county
 # we exclude Alaska and Hawaii 
-o <- d %>% 
-  filter(total_population > 2500, !(state.name %in% c("alaska", "hawaii"))) %>%
-  select(region, county.name, death_cost, death_cost_pc, 
+o <- d %>%
+  rowwise() %>%
+  filter(total_population > 2500) %>%
+  select(region, county.name, state.name, death_cost, death_cost_pc, 
          health_cost, health_cost_pc, criminal_cost, criminal_cost_pc,
          productivity_cost, productivity_cost_pc, total_population) %>%
   mutate(nonfatal_cost = (criminal_cost + health_cost + productivity_cost),
@@ -889,7 +1134,7 @@ o <- d %>%
          per_capita_nf_cost = (criminal_cost + health_cost + productivity_cost)/total_population,
          per_capita_total_cost = (criminal_cost + health_cost + productivity_cost + death_cost)/total_population)
 
-write_csv(o, "../out/county_data.csv")
+write_csv(o, paste0("../out/county_data_",calc_year,".csv"))
 
 ### NON-FATAL COSTS
 
@@ -901,7 +1146,7 @@ q <- c(56, 129, 153, 183, 231, 727)
 
 # create county map
 c = CountyChoropleth$new(map1)
-c$title = "Non-Fatal Opioid Costs Per Capita by County in 2015"
+c$title = paste0("Non-Fatal Opioid Costs Per Capita by County in ", calc_year)
 c$set_num_colors(5)
 c$set_zoom(state.regions$region[-c(1, 12)])
 c$ggplot_scale = scale_fill_manual(values = brewer.pal(5, "Oranges"),
@@ -930,7 +1175,7 @@ map2 <- o %>% select(region, per_capita_total_cost) %>%
 q <- c(160, 824, 1153, 1585, 2232, 8734)
 
 c = CountyChoropleth$new(map2)
-c$title = "Total Opioid Costs Per Capita by County in 2015"
+c$title = paste0("Total Opioid Costs Per Capita by County in 2017", calc_year)
 c$set_num_colors(5)
 c$set_zoom(state.regions$region[-c(1, 12)])
 c$ggplot_scale = scale_fill_manual(values = brewer.pal(5, "Oranges"),
@@ -958,23 +1203,23 @@ c$render() +
 ```{r, make.state.maps}
 
 o2 <- d %>% group_by(state.name) %>%
-  summarise(criminal_cost = sum(criminal_cost),
-         health_cost = sum(health_cost),
-         productivity_cost = sum(productivity_cost),
-         death_cost = sum(death_cost),
-         total_nonfatal_cost = sum(criminal_cost + health_cost + productivity_cost),
-         total_cost = sum(criminal_cost + health_cost + productivity_cost + death_cost),
-         total_population = sum(total_population),
-         criminal_cost_pc = sum(criminal_cost)/sum(total_population),
-         health_cost_pc = sum(health_cost)/sum(total_population),
-         productivity_cost_pc = sum(productivity_cost)/sum(total_population),
-         death_cost_pc = sum(death_cost)/sum(total_population)) %>%
+  summarise(criminal_cost = sum(criminal_cost, na.rm = T),
+         health_cost = sum(health_cost, na.rm = T),
+         productivity_cost = sum(productivity_cost, na.rm = T),
+         death_cost = sum(death_cost, na.rm = T),
+         total_nonfatal_cost = sum(criminal_cost + health_cost + productivity_cost, na.rm = T),
+         total_cost = sum(criminal_cost + health_cost + productivity_cost + death_cost, na.rm = T),
+         total_population = sum(total_population, na.rm = T),
+         criminal_cost_pc = sum(criminal_cost, na.rm = T)/sum(total_population, na.rm = T),
+         health_cost_pc = sum(health_cost, na.rm = T)/sum(total_population, na.rm = T),
+         productivity_cost_pc = sum(productivity_cost, na.rm = T)/sum(total_population, na.rm = T),
+         death_cost_pc = sum(death_cost, na.rm = T)/sum(total_population, na.rm = T)) %>%
   ungroup %>%
   mutate(per_capita_nf_cost = (criminal_cost + health_cost + productivity_cost)/total_population,
          per_capita_total_cost = (criminal_cost + health_cost + productivity_cost + death_cost)/total_population,
          region = state.name)
 
-write_csv(o2, "../out/state_data.csv")
+write_csv(o2, paste0("../out/state_data_",calc_year,".csv"))
 
 ### NON-FATAL COSTS
 
@@ -985,7 +1230,7 @@ map3 <- o2 %>% select(region, per_capita_nf_cost) %>%
 q <- c(118, 160, 195, 226, 289, 493)
 
 c = StateChoropleth$new(map3)
-c$title = "Non-Fatal Opioid Costs Per Capita by State in 2015"
+c$title = paste0("Non-Fatal Opioid Costs Per Capita by State in ", calc_year)
 c$set_num_colors(5)
 c$set_zoom(state.regions$region[-c(1, 12)])
 c$show_labels = FALSE
@@ -1015,7 +1260,7 @@ map4 <- o2 %>% select(region, per_capita_total_cost) %>%
 q <- c(394, 907, 1385, 1827, 2530, 4378)
 
 c = StateChoropleth$new(map4)
-c$title = "Total Opioid Costs Per Capita by State in 2015"
+c$title = paste0("Total Opioid Costs Per Capita by State in ", calc_year)
 c$set_num_colors(5)
 c$set_zoom(state.regions$region[-c(1, 12)])
 c$show_labels = FALSE

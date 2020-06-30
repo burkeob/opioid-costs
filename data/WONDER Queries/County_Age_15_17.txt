@@ -1,0 +1,2565 @@
+"Notes"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"County"	"County Code"	Deaths	Population	Crude Rate
+"Total"	"< 1 year"	"1"			50	11887478	0.4
+"Total"	"1-4 years"	"1-4"			110	47885700	0.2
+"Total"	"5-14 years"	"5-14"			97	123240230	0.1
+	"15-24 years"	"15-24"	"Jefferson County, AL"	"01073"	45	251856	17.9
+	"15-24 years"	"15-24"	"Anchorage Borough, AK"	"02020"	15	130262	Unreliable
+	"15-24 years"	"15-24"	"Maricopa County, AZ"	"04013"	215	1717991	12.5
+	"15-24 years"	"15-24"	"Pima County, AZ"	"04019"	49	478731	10.2
+	"15-24 years"	"15-24"	"Pinal County, AZ"	"04021"	11	147222	Unreliable
+	"15-24 years"	"15-24"	"Pulaski County, AR"	"05119"	10	148176	Unreliable
+	"15-24 years"	"15-24"	"Alameda County, CA"	"06001"	14	593353	Unreliable
+	"15-24 years"	"15-24"	"Fresno County, CA"	"06019"	15	438585	Unreliable
+	"15-24 years"	"15-24"	"Kern County, CA"	"06029"	16	404987	Unreliable
+	"15-24 years"	"15-24"	"Los Angeles County, CA"	"06037"	143	4192167	3.4
+	"15-24 years"	"15-24"	"Orange County, CA"	"06059"	95	1284206	7.4
+	"15-24 years"	"15-24"	"Riverside County, CA"	"06065"	43	1045113	4.1
+	"15-24 years"	"15-24"	"Sacramento County, CA"	"06067"	20	585158	3.4
+	"15-24 years"	"15-24"	"San Bernardino County, CA"	"06071"	11	987720	Unreliable
+	"15-24 years"	"15-24"	"San Diego County, CA"	"06073"	59	1417306	4.2
+	"15-24 years"	"15-24"	"San Francisco County, CA"	"06075"	10	242138	Unreliable
+	"15-24 years"	"15-24"	"San Joaquin County, CA"	"06077"	10	321482	Unreliable
+	"15-24 years"	"15-24"	"San Mateo County, CA"	"06081"	11	247945	Unreliable
+	"15-24 years"	"15-24"	"Santa Barbara County, CA"	"06083"	17	261467	Unreliable
+	"15-24 years"	"15-24"	"Santa Clara County, CA"	"06085"	29	705500	4.1
+	"15-24 years"	"15-24"	"Sonoma County, CA"	"06097"	12	180456	Unreliable
+	"15-24 years"	"15-24"	"Ventura County, CA"	"06111"	17	351595	Unreliable
+	"15-24 years"	"15-24"	"Adams County, CO"	"08001"	14	196489	Unreliable
+	"15-24 years"	"15-24"	"Arapahoe County, CO"	"08005"	17	239053	Unreliable
+	"15-24 years"	"15-24"	"Denver County, CO"	"08031"	24	230448	10.4
+	"15-24 years"	"15-24"	"El Paso County, CO"	"08041"	38	316226	12.0
+	"15-24 years"	"15-24"	"Jefferson County, CO"	"08059"	15	199854	Unreliable
+	"15-24 years"	"15-24"	"Larimer County, CO"	"08069"	10	184159	Unreliable
+	"15-24 years"	"15-24"	"Fairfield County, CT"	"09001"	48	383102	12.5
+	"15-24 years"	"15-24"	"Hartford County, CT"	"09003"	60	352712	17.0
+	"15-24 years"	"15-24"	"Litchfield County, CT"	"09005"	15	63133	Unreliable
+	"15-24 years"	"15-24"	"Middlesex County, CT"	"09007"	11	61556	Unreliable
+	"15-24 years"	"15-24"	"New Haven County, CT"	"09009"	43	360394	11.9
+	"15-24 years"	"15-24"	"New London County, CT"	"09011"	21	113594	18.5
+	"15-24 years"	"15-24"	"New Castle County, DE"	"10003"	27	225089	12.0
+	"15-24 years"	"15-24"	"Sussex County, DE"	"10005"	12	64226	Unreliable
+	"15-24 years"	"15-24"	"District of Columbia, DC"	"11001"	10	283325	Unreliable
+	"15-24 years"	"15-24"	"Brevard County, FL"	"12009"	11	188313	Unreliable
+	"15-24 years"	"15-24"	"Broward County, FL"	"12011"	42	678127	6.2
+	"15-24 years"	"15-24"	"Clay County, FL"	"12019"	12	80476	Unreliable
+	"15-24 years"	"15-24"	"Collier County, FL"	"12021"	16	106902	Unreliable
+	"15-24 years"	"15-24"	"Duval County, FL"	"12031"	40	353693	11.3
+	"15-24 years"	"15-24"	"Escambia County, FL"	"12033"	11	145130	Unreliable
+	"15-24 years"	"15-24"	"Hillsborough County, FL"	"12057"	25	537813	4.6
+	"15-24 years"	"15-24"	"Lake County, FL"	"12069"	10	103511	Unreliable
+	"15-24 years"	"15-24"	"Lee County, FL"	"12071"	32	219217	14.6
+	"15-24 years"	"15-24"	"Manatee County, FL"	"12081"	37	113886	32.5
+	"15-24 years"	"15-24"	"Miami-Dade County, FL"	"12086"	72	989519	7.3
+	"15-24 years"	"15-24"	"Okaloosa County, FL"	"12091"	12	76241	Unreliable
+	"15-24 years"	"15-24"	"Orange County, FL"	"12095"	42	580011	7.2
+	"15-24 years"	"15-24"	"Osceola County, FL"	"12097"	15	140924	Unreliable
+	"15-24 years"	"15-24"	"Palm Beach County, FL"	"12099"	68	479382	14.2
+	"15-24 years"	"15-24"	"Pinellas County, FL"	"12103"	19	283096	Unreliable
+	"15-24 years"	"15-24"	"Sarasota County, FL"	"12115"	24	105710	22.7
+	"15-24 years"	"15-24"	"Seminole County, FL"	"12117"	28	171209	16.4
+	"15-24 years"	"15-24"	"Volusia County, FL"	"12127"	14	181269	Unreliable
+	"15-24 years"	"15-24"	"Cherokee County, GA"	"13057"	13	91163	Unreliable
+	"15-24 years"	"15-24"	"Cobb County, GA"	"13067"	38	298451	12.7
+	"15-24 years"	"15-24"	"DeKalb County, GA"	"13089"	17	273890	Unreliable
+	"15-24 years"	"15-24"	"Forsyth County, GA"	"13117"	12	80913	Unreliable
+	"15-24 years"	"15-24"	"Fulton County, GA"	"13121"	28	433070	6.5
+	"15-24 years"	"15-24"	"Gwinnett County, GA"	"13135"	37	382316	9.7
+	"15-24 years"	"15-24"	"Honolulu County, HI"	"15003"	12	389157	Unreliable
+	"15-24 years"	"15-24"	"Cook County, IL"	"17031"	178	2010214	8.9
+	"15-24 years"	"15-24"	"DuPage County, IL"	"17043"	57	364363	15.6
+	"15-24 years"	"15-24"	"Kane County, IL"	"17089"	22	219912	10.0
+	"15-24 years"	"15-24"	"Lake County, IL"	"17097"	25	318730	7.8
+	"15-24 years"	"15-24"	"McHenry County, IL"	"17111"	26	123478	21.1
+	"15-24 years"	"15-24"	"Madison County, IL"	"17119"	15	96341	Unreliable
+	"15-24 years"	"15-24"	"St. Clair County, IL"	"17163"	11	100377	Unreliable
+	"15-24 years"	"15-24"	"Sangamon County, IL"	"17167"	10	72526	Unreliable
+	"15-24 years"	"15-24"	"Tazewell County, IL"	"17179"	14	45094	Unreliable
+	"15-24 years"	"15-24"	"Will County, IL"	"17197"	41	292996	14.0
+	"15-24 years"	"15-24"	"Winnebago County, IL"	"17201"	15	108277	Unreliable
+	"15-24 years"	"15-24"	"Hamilton County, IN"	"18057"	16	117237	Unreliable
+	"15-24 years"	"15-24"	"Lake County, IN"	"18089"	23	192623	11.9
+	"15-24 years"	"15-24"	"Marion County, IN"	"18097"	40	376263	10.6
+	"15-24 years"	"15-24"	"Porter County, IN"	"18127"	14	67925	Unreliable
+	"15-24 years"	"15-24"	"Wayne County, IN"	"18177"	12	25727	Unreliable
+	"15-24 years"	"15-24"	"Polk County, IA"	"19153"	19	181295	Unreliable
+	"15-24 years"	"15-24"	"Johnson County, KS"	"20091"	13	214345	Unreliable
+	"15-24 years"	"15-24"	"Fayette County, KY"	"21067"	22	166871	13.2
+	"15-24 years"	"15-24"	"Jefferson County, KY"	"21111"	58	284227	20.4
+	"15-24 years"	"15-24"	"Kenton County, KY"	"21117"	10	59563	Unreliable
+	"15-24 years"	"15-24"	"East Baton Rouge Parish, LA"	"22033"	12	241628	Unreliable
+	"15-24 years"	"15-24"	"Jefferson Parish, LA"	"22051"	16	150885	Unreliable
+	"15-24 years"	"15-24"	"St. Tammany Parish, LA"	"22103"	14	91895	Unreliable
+	"15-24 years"	"15-24"	"Cumberland County, ME"	"23005"	16	108108	Unreliable
+	"15-24 years"	"15-24"	"York County, ME"	"23031"	14	68285	Unreliable
+	"15-24 years"	"15-24"	"Anne Arundel County, MD"	"24003"	43	214505	20.0
+	"15-24 years"	"15-24"	"Baltimore County, MD"	"24005"	71	316008	22.5
+	"15-24 years"	"15-24"	"Calvert County, MD"	"24009"	10	36040	Unreliable
+	"15-24 years"	"15-24"	"Carroll County, MD"	"24013"	18	66405	Unreliable
+	"15-24 years"	"15-24"	"Charles County, MD"	"24017"	13	64474	Unreliable
+	"15-24 years"	"15-24"	"Frederick County, MD"	"24021"	28	97754	28.6
+	"15-24 years"	"15-24"	"Harford County, MD"	"24025"	31	94748	32.7
+	"15-24 years"	"15-24"	"Howard County, MD"	"24027"	18	120475	Unreliable
+	"15-24 years"	"15-24"	"Montgomery County, MD"	"24031"	35	374897	9.3
+	"15-24 years"	"15-24"	"Washington County, MD"	"24043"	14	54486	Unreliable
+	"15-24 years"	"15-24"	"Baltimore city, MD"	"24510"	39	244306	16.0
+	"15-24 years"	"15-24"	"Barnstable County, MA"	"25001"	27	65134	41.5
+	"15-24 years"	"15-24"	"Berkshire County, MA"	"25003"	10	49994	Unreliable
+	"15-24 years"	"15-24"	"Bristol County, MA"	"25005"	46	221156	20.8
+	"15-24 years"	"15-24"	"Essex County, MA"	"25009"	51	310988	16.4
+	"15-24 years"	"15-24"	"Hampden County, MA"	"25013"	22	208230	10.6
+	"15-24 years"	"15-24"	"Hampshire County, MA"	"25015"	13	128634	Unreliable
+	"15-24 years"	"15-24"	"Middlesex County, MA"	"25017"	98	642086	15.3
+	"15-24 years"	"15-24"	"Norfolk County, MA"	"25021"	52	265946	19.6
+	"15-24 years"	"15-24"	"Plymouth County, MA"	"25023"	45	198841	22.6
+	"15-24 years"	"15-24"	"Suffolk County, MA"	"25025"	28	390706	7.2
+	"15-24 years"	"15-24"	"Worcester County, MA"	"25027"	57	343073	16.6
+	"15-24 years"	"15-24"	"Genesee County, MI"	"26049"	22	159859	13.8
+	"15-24 years"	"15-24"	"Kalamazoo County, MI"	"26077"	12	152731	Unreliable
+	"15-24 years"	"15-24"	"Kent County, MI"	"26081"	16	264342	Unreliable
+	"15-24 years"	"15-24"	"Livingston County, MI"	"26093"	14	72361	Unreliable
+	"15-24 years"	"15-24"	"Macomb County, MI"	"26099"	90	320386	28.1
+	"15-24 years"	"15-24"	"Monroe County, MI"	"26115"	11	55288	Unreliable
+	"15-24 years"	"15-24"	"Oakland County, MI"	"26125"	19	457942	Unreliable
+	"15-24 years"	"15-24"	"St. Clair County, MI"	"26147"	13	58650	Unreliable
+	"15-24 years"	"15-24"	"Washtenaw County, MI"	"26161"	24	240777	10.0
+	"15-24 years"	"15-24"	"Wayne County, MI"	"26163"	113	700886	16.1
+	"15-24 years"	"15-24"	"Anoka County, MN"	"27003"	16	127073	Unreliable
+	"15-24 years"	"15-24"	"Dakota County, MN"	"27037"	11	154287	Unreliable
+	"15-24 years"	"15-24"	"Hennepin County, MN"	"27053"	48	449935	10.7
+	"15-24 years"	"15-24"	"Ramsey County, MN"	"27123"	12	225761	Unreliable
+	"15-24 years"	"15-24"	"DeSoto County, MS"	"28033"	15	72117	Unreliable
+	"15-24 years"	"15-24"	"Franklin County, MO"	"29071"	11	36920	Unreliable
+	"15-24 years"	"15-24"	"Greene County, MO"	"29077"	23	149072	15.4
+	"15-24 years"	"15-24"	"Jackson County, MO"	"29095"	12	255615	Unreliable
+	"15-24 years"	"15-24"	"Jefferson County, MO"	"29099"	24	78895	30.4
+	"15-24 years"	"15-24"	"St. Charles County, MO"	"29183"	36	150412	23.9
+	"15-24 years"	"15-24"	"St. Louis County, MO"	"29189"	85	382653	22.2
+	"15-24 years"	"15-24"	"St. Louis city, MO"	"29510"	35	118439	29.6
+	"15-24 years"	"15-24"	"Clark County, NV"	"32003"	76	806797	9.4
+	"15-24 years"	"15-24"	"Washoe County, NV"	"32031"	20	173686	11.5
+	"15-24 years"	"15-24"	"Hillsborough County, NH"	"33011"	57	156024	36.5
+	"15-24 years"	"15-24"	"Rockingham County, NH"	"33015"	36	107077	33.6
+	"15-24 years"	"15-24"	"Strafford County, NH"	"33017"	17	74502	Unreliable
+	"15-24 years"	"15-24"	"Atlantic County, NJ"	"34001"	23	107540	21.4
+	"15-24 years"	"15-24"	"Bergen County, NJ"	"34003"	45	343998	13.1
+	"15-24 years"	"15-24"	"Burlington County, NJ"	"34005"	22	170875	12.9
+	"15-24 years"	"15-24"	"Cape May County, NJ"	"34009"	10	31714	Unreliable
+	"15-24 years"	"15-24"	"Essex County, NJ"	"34013"	31	314990	9.8
+	"15-24 years"	"15-24"	"Hudson County, NJ"	"34017"	21	233489	9.0
+	"15-24 years"	"15-24"	"Hunterdon County, NJ"	"34019"	12	49962	Unreliable
+	"15-24 years"	"15-24"	"Mercer County, NJ"	"34021"	22	170255	12.9
+	"15-24 years"	"15-24"	"Middlesex County, NJ"	"34023"	48	334684	14.3
+	"15-24 years"	"15-24"	"Monmouth County, NJ"	"34025"	46	240681	19.1
+	"15-24 years"	"15-24"	"Morris County, NJ"	"34027"	34	192947	17.6
+	"15-24 years"	"15-24"	"Ocean County, NJ"	"34029"	39	199015	19.6
+	"15-24 years"	"15-24"	"Passaic County, NJ"	"34031"	21	213140	9.9
+	"15-24 years"	"15-24"	"Somerset County, NJ"	"34035"	17	126479	Unreliable
+	"15-24 years"	"15-24"	"Sussex County, NJ"	"34037"	13	54661	Unreliable
+	"15-24 years"	"15-24"	"Union County, NJ"	"34039"	16	212920	Unreliable
+	"15-24 years"	"15-24"	"Warren County, NJ"	"34041"	13	40852	Unreliable
+	"15-24 years"	"15-24"	"Bernalillo County, NM"	"35001"	31	264747	11.7
+	"15-24 years"	"15-24"	"Rio Arriba County, NM"	"35039"	10	14486	Unreliable
+	"15-24 years"	"15-24"	"Santa Fe County, NM"	"35049"	13	48396	Unreliable
+	"15-24 years"	"15-24"	"Albany County, NY"	"36001"	11	170329	Unreliable
+	"15-24 years"	"15-24"	"Bronx County, NY"	"36005"	34	650517	5.2
+	"15-24 years"	"15-24"	"Broome County, NY"	"36007"	14	105076	Unreliable
+	"15-24 years"	"15-24"	"Chautauqua County, NY"	"36013"	11	54070	Unreliable
+	"15-24 years"	"15-24"	"Dutchess County, NY"	"36027"	17	133422	Unreliable
+	"15-24 years"	"15-24"	"Erie County, NY"	"36029"	94	369842	25.4
+	"15-24 years"	"15-24"	"Kings County, NY"	"36047"	49	964011	5.1
+	"15-24 years"	"15-24"	"Monroe County, NY"	"36055"	44	317034	13.9
+	"15-24 years"	"15-24"	"Nassau County, NY"	"36059"	68	535264	12.7
+	"15-24 years"	"15-24"	"New York County, NY"	"36061"	30	562152	5.3
+	"15-24 years"	"15-24"	"Niagara County, NY"	"36063"	22	78643	28.0
+	"15-24 years"	"15-24"	"Onondaga County, NY"	"36067"	22	202490	10.9
+	"15-24 years"	"15-24"	"Orange County, NY"	"36071"	24	174782	13.7
+	"15-24 years"	"15-24"	"Queens County, NY"	"36081"	48	812131	5.9
+	"15-24 years"	"15-24"	"Richmond County, NY"	"36085"	24	179811	13.3
+	"15-24 years"	"15-24"	"Rockland County, NY"	"36087"	15	138736	Unreliable
+	"15-24 years"	"15-24"	"Suffolk County, NY"	"36103"	120	602522	19.9
+	"15-24 years"	"15-24"	"Ulster County, NY"	"36111"	12	69477	Unreliable
+	"15-24 years"	"15-24"	"Westchester County, NY"	"36119"	44	385348	11.4
+	"15-24 years"	"15-24"	"Buncombe County, NC"	"37021"	26	86418	30.1
+	"15-24 years"	"15-24"	"Cabarrus County, NC"	"37025"	16	77009	Unreliable
+	"15-24 years"	"15-24"	"Catawba County, NC"	"37035"	10	59428	Unreliable
+	"15-24 years"	"15-24"	"Forsyth County, NC"	"37067"	21	154950	13.6
+	"15-24 years"	"15-24"	"Gaston County, NC"	"37071"	10	80578	Unreliable
+	"15-24 years"	"15-24"	"Guilford County, NC"	"37081"	17	228927	Unreliable
+	"15-24 years"	"15-24"	"Johnston County, NC"	"37101"	10	71335	Unreliable
+	"15-24 years"	"15-24"	"Mecklenburg County, NC"	"37119"	41	411813	10.0
+	"15-24 years"	"15-24"	"New Hanover County, NC"	"37129"	18	106281	Unreliable
+	"15-24 years"	"15-24"	"Onslow County, NC"	"37133"	14	134721	Unreliable
+	"15-24 years"	"15-24"	"Pitt County, NC"	"37147"	11	115175	Unreliable
+	"15-24 years"	"15-24"	"Rowan County, NC"	"37159"	12	54199	Unreliable
+	"15-24 years"	"15-24"	"Union County, NC"	"37179"	11	96874	Unreliable
+	"15-24 years"	"15-24"	"Wake County, NC"	"37183"	45	420279	10.7
+	"15-24 years"	"15-24"	"Butler County, OH"	"39017"	48	187254	25.6
+	"15-24 years"	"15-24"	"Clark County, OH"	"39023"	12	51955	Unreliable
+	"15-24 years"	"15-24"	"Clermont County, OH"	"39025"	25	72814	34.3
+	"15-24 years"	"15-24"	"Cuyahoga County, OH"	"39035"	94	480921	19.5
+	"15-24 years"	"15-24"	"Erie County, OH"	"39043"	10	26860	Unreliable
+	"15-24 years"	"15-24"	"Franklin County, OH"	"39049"	78	513730	15.2
+	"15-24 years"	"15-24"	"Greene County, OH"	"39057"	14	78407	Unreliable
+	"15-24 years"	"15-24"	"Hamilton County, OH"	"39061"	76	319967	23.8
+	"15-24 years"	"15-24"	"Lake County, OH"	"39085"	32	80439	39.8
+	"15-24 years"	"15-24"	"Lorain County, OH"	"39093"	31	118314	26.2
+	"15-24 years"	"15-24"	"Lucas County, OH"	"39095"	25	170715	14.6
+	"15-24 years"	"15-24"	"Mahoning County, OH"	"39099"	20	85772	23.3
+	"15-24 years"	"15-24"	"Medina County, OH"	"39103"	17	64458	Unreliable
+	"15-24 years"	"15-24"	"Montgomery County, OH"	"39113"	55	209456	26.3
+	"15-24 years"	"15-24"	"Portage County, OH"	"39133"	13	98100	Unreliable
+	"15-24 years"	"15-24"	"Stark County, OH"	"39151"	21	142296	14.8
+	"15-24 years"	"15-24"	"Summit County, OH"	"39153"	69	204364	33.8
+	"15-24 years"	"15-24"	"Trumbull County, OH"	"39155"	17	71622	Unreliable
+	"15-24 years"	"15-24"	"Warren County, OH"	"39165"	22	86442	25.5
+	"15-24 years"	"15-24"	"Oklahoma County, OK"	"40109"	17	305178	Unreliable
+	"15-24 years"	"15-24"	"Tulsa County, OK"	"40143"	18	252793	Unreliable
+	"15-24 years"	"15-24"	"Clackamas County, OR"	"41005"	16	145034	Unreliable
+	"15-24 years"	"15-24"	"Lane County, OR"	"41039"	12	179595	Unreliable
+	"15-24 years"	"15-24"	"Marion County, OR"	"41047"	19	136987	Unreliable
+	"15-24 years"	"15-24"	"Multnomah County, OR"	"41051"	16	267692	Unreliable
+	"15-24 years"	"15-24"	"Allegheny County, PA"	"42003"	107	450610	23.7
+	"15-24 years"	"15-24"	"Berks County, PA"	"42011"	32	172470	18.6
+	"15-24 years"	"15-24"	"Bucks County, PA"	"42017"	31	227999	13.6
+	"15-24 years"	"15-24"	"Butler County, PA"	"42019"	17	71194	Unreliable
+	"15-24 years"	"15-24"	"Cambria County, PA"	"42021"	10	51446	Unreliable
+	"15-24 years"	"15-24"	"Chester County, PA"	"42029"	18	206751	Unreliable
+	"15-24 years"	"15-24"	"Cumberland County, PA"	"42041"	15	99214	Unreliable
+	"15-24 years"	"15-24"	"Delaware County, PA"	"42045"	30	238133	12.6
+	"15-24 years"	"15-24"	"Erie County, PA"	"42049"	18	116412	Unreliable
+	"15-24 years"	"15-24"	"Fayette County, PA"	"42051"	12	43957	Unreliable
+	"15-24 years"	"15-24"	"Franklin County, PA"	"42055"	17	54132	Unreliable
+	"15-24 years"	"15-24"	"Lackawanna County, PA"	"42069"	16	80241	Unreliable
+	"15-24 years"	"15-24"	"Lancaster County, PA"	"42071"	22	212652	10.3
+	"15-24 years"	"15-24"	"Lehigh County, PA"	"42077"	12	143648	Unreliable
+	"15-24 years"	"15-24"	"Luzerne County, PA"	"42079"	12	118942	Unreliable
+	"15-24 years"	"15-24"	"Montgomery County, PA"	"42091"	59	295891	19.9
+	"15-24 years"	"15-24"	"Northampton County, PA"	"42095"	21	124679	16.8
+	"15-24 years"	"15-24"	"Schuylkill County, PA"	"42107"	11	46441	Unreliable
+	"15-24 years"	"15-24"	"Washington County, PA"	"42125"	26	75297	34.5
+	"15-24 years"	"15-24"	"York County, PA"	"42133"	39	161910	24.1
+	"15-24 years"	"15-24"	"Kent County, RI"	"44003"	15	53339	Unreliable
+	"15-24 years"	"15-24"	"Providence County, RI"	"44007"	29	279816	10.4
+	"15-24 years"	"15-24"	"Anderson County, SC"	"45007"	10	73329	Unreliable
+	"15-24 years"	"15-24"	"Charleston County, SC"	"45019"	15	144344	Unreliable
+	"15-24 years"	"15-24"	"Greenville County, SC"	"45045"	10	191820	Unreliable
+	"15-24 years"	"15-24"	"Horry County, SC"	"45051"	18	103922	Unreliable
+	"15-24 years"	"15-24"	"Spartanburg County, SC"	"45083"	14	121283	Unreliable
+	"15-24 years"	"15-24"	"York County, SC"	"45091"	11	99589	Unreliable
+	"15-24 years"	"15-24"	"Davidson County, TN"	"47037"	32	268857	11.9
+	"15-24 years"	"15-24"	"Knox County, TN"	"47093"	34	215662	15.8
+	"15-24 years"	"15-24"	"Rutherford County, TN"	"47149"	17	156510	Unreliable
+	"15-24 years"	"15-24"	"Shelby County, TN"	"47157"	40	390814	10.2
+	"15-24 years"	"15-24"	"Sumner County, TN"	"47165"	10	65633	Unreliable
+	"15-24 years"	"15-24"	"Williamson County, TN"	"47187"	10	85109	Unreliable
+	"15-24 years"	"15-24"	"Wilson County, TN"	"47189"	11	47318	Unreliable
+	"15-24 years"	"15-24"	"Bexar County, TX"	"48029"	36	856027	4.2
+	"15-24 years"	"15-24"	"Collin County, TX"	"48085"	28	363957	7.7
+	"15-24 years"	"15-24"	"Dallas County, TX"	"48113"	98	1074282	9.1
+	"15-24 years"	"15-24"	"Denton County, TX"	"48121"	23	334021	6.9
+	"15-24 years"	"15-24"	"El Paso County, TX"	"48141"	17	405148	Unreliable
+	"15-24 years"	"15-24"	"Fort Bend County, TX"	"48157"	13	292703	Unreliable
+	"15-24 years"	"15-24"	"Harris County, TX"	"48201"	79	1903113	4.2
+	"15-24 years"	"15-24"	"Lubbock County, TX"	"48303"	10	189979	Unreliable
+	"15-24 years"	"15-24"	"Montgomery County, TX"	"48339"	18	215509	Unreliable
+	"15-24 years"	"15-24"	"Tarrant County, TX"	"48439"	49	834650	5.9
+	"15-24 years"	"15-24"	"Travis County, TX"	"48453"	33	462151	7.1
+	"15-24 years"	"15-24"	"Webb County, TX"	"48479"	13	137332	Unreliable
+	"15-24 years"	"15-24"	"Davis County, UT"	"49011"	15	148541	Unreliable
+	"15-24 years"	"15-24"	"Salt Lake County, UT"	"49035"	40	469530	8.5
+	"15-24 years"	"15-24"	"Utah County, UT"	"49049"	27	391520	6.9
+	"15-24 years"	"15-24"	"Washington County, UT"	"49053"	12	64406	Unreliable
+	"15-24 years"	"15-24"	"Chesterfield County, VA"	"51041"	16	137407	Unreliable
+	"15-24 years"	"15-24"	"Fairfax County, VA"	"51059"	49	422839	11.6
+	"15-24 years"	"15-24"	"Henrico County, VA"	"51087"	17	117326	Unreliable
+	"15-24 years"	"15-24"	"Loudoun County, VA"	"51107"	11	137483	Unreliable
+	"15-24 years"	"15-24"	"Prince William County, VA"	"51153"	16	181746	Unreliable
+	"15-24 years"	"15-24"	"Chesapeake city, VA"	"51550"	11	94379	Unreliable
+	"15-24 years"	"15-24"	"Richmond city, VA"	"51760"	14	103068	Unreliable
+	"15-24 years"	"15-24"	"Virginia Beach city, VA"	"51810"	14	183018	Unreliable
+	"15-24 years"	"15-24"	"Clark County, WA"	"53011"	12	175821	Unreliable
+	"15-24 years"	"15-24"	"King County, WA"	"53033"	55	748239	7.4
+	"15-24 years"	"15-24"	"Pierce County, WA"	"53053"	23	340471	6.8
+	"15-24 years"	"15-24"	"Snohomish County, WA"	"53061"	28	282941	9.9
+	"15-24 years"	"15-24"	"Spokane County, WA"	"53063"	16	202966	Unreliable
+	"15-24 years"	"15-24"	"Berkeley County, WV"	"54003"	17	39522	Unreliable
+	"15-24 years"	"15-24"	"Cabell County, WV"	"54011"	14	48655	Unreliable
+	"15-24 years"	"15-24"	"Kanawha County, WV"	"54039"	27	62428	43.2
+	"15-24 years"	"15-24"	"Wood County, WV"	"54107"	11	28891	Unreliable
+	"15-24 years"	"15-24"	"Dane County, WI"	"55025"	20	273634	7.3
+	"15-24 years"	"15-24"	"Milwaukee County, WI"	"55079"	61	392446	15.5
+	"15-24 years"	"15-24"	"Racine County, WI"	"55101"	11	73908	Unreliable
+	"15-24 years"	"15-24"	"Waukesha County, WI"	"55133"	30	145594	20.6
+"Total"	"15-24 years"	"15-24"			11382	130609538	8.7
+	"25-34 years"	"25-34"	"Baldwin County, AL"	"01003"	11	71036	Unreliable
+	"25-34 years"	"25-34"	"Jefferson County, AL"	"01073"	152	285912	53.2
+	"25-34 years"	"25-34"	"Madison County, AL"	"01089"	15	148724	Unreliable
+	"25-34 years"	"25-34"	"Mobile County, AL"	"01097"	13	172492	Unreliable
+	"25-34 years"	"25-34"	"Shelby County, AL"	"01117"	26	79163	32.8
+	"25-34 years"	"25-34"	"Anchorage Borough, AK"	"02020"	41	156631	26.2
+	"25-34 years"	"25-34"	"Cochise County, AZ"	"04003"	16	47312	Unreliable
+	"25-34 years"	"25-34"	"Maricopa County, AZ"	"04013"	339	1827233	18.6
+	"25-34 years"	"25-34"	"Mohave County, AZ"	"04015"	22	61822	35.6
+	"25-34 years"	"25-34"	"Pima County, AZ"	"04019"	136	377134	36.1
+	"25-34 years"	"25-34"	"Pinal County, AZ"	"04021"	25	164760	15.2
+	"25-34 years"	"25-34"	"Yavapai County, AZ"	"04025"	15	61491	Unreliable
+	"25-34 years"	"25-34"	"Benton County, AR"	"05007"	16	113472	Unreliable
+	"25-34 years"	"25-34"	"Pulaski County, AR"	"05119"	21	176502	11.9
+	"25-34 years"	"25-34"	"Alameda County, CA"	"06001"	34	817937	4.2
+	"25-34 years"	"25-34"	"Butte County, CA"	"06007"	12	87155	Unreliable
+	"25-34 years"	"25-34"	"Contra Costa County, CA"	"06013"	44	434150	10.1
+	"25-34 years"	"25-34"	"Fresno County, CA"	"06019"	32	447070	7.2
+	"25-34 years"	"25-34"	"Humboldt County, CA"	"06023"	17	55002	Unreliable
+	"25-34 years"	"25-34"	"Kern County, CA"	"06029"	34	409573	8.3
+	"25-34 years"	"25-34"	"Los Angeles County, CA"	"06037"	288	4854437	5.9
+	"25-34 years"	"25-34"	"Monterey County, CA"	"06053"	11	190766	Unreliable
+	"25-34 years"	"25-34"	"Orange County, CA"	"06059"	184	1366251	13.5
+	"25-34 years"	"25-34"	"Placer County, CA"	"06061"	10	125200	Unreliable
+	"25-34 years"	"25-34"	"Riverside County, CA"	"06065"	82	990824	8.3
+	"25-34 years"	"25-34"	"Sacramento County, CA"	"06067"	33	705609	4.7
+	"25-34 years"	"25-34"	"San Bernardino County, CA"	"06071"	20	959794	2.1
+	"25-34 years"	"25-34"	"San Diego County, CA"	"06073"	184	1630851	11.3
+	"25-34 years"	"25-34"	"San Francisco County, CA"	"06075"	54	612723	8.8
+	"25-34 years"	"25-34"	"San Joaquin County, CA"	"06077"	28	305939	9.2
+	"25-34 years"	"25-34"	"San Luis Obispo County, CA"	"06079"	20	97962	20.4
+	"25-34 years"	"25-34"	"San Mateo County, CA"	"06081"	12	335368	Unreliable
+	"25-34 years"	"25-34"	"Santa Barbara County, CA"	"06083"	21	178130	11.8
+	"25-34 years"	"25-34"	"Santa Clara County, CA"	"06085"	41	907443	4.5
+	"25-34 years"	"25-34"	"Santa Cruz County, CA"	"06087"	19	99720	Unreliable
+	"25-34 years"	"25-34"	"Shasta County, CA"	"06089"	16	68550	Unreliable
+	"25-34 years"	"25-34"	"Solano County, CA"	"06095"	15	193132	Unreliable
+	"25-34 years"	"25-34"	"Sonoma County, CA"	"06097"	23	197464	11.6
+	"25-34 years"	"25-34"	"Ventura County, CA"	"06111"	46	337640	13.6
+	"25-34 years"	"25-34"	"Adams County, CO"	"08001"	42	241074	17.4
+	"25-34 years"	"25-34"	"Arapahoe County, CO"	"08005"	52	292280	17.8
+	"25-34 years"	"25-34"	"Boulder County, CO"	"08013"	30	131512	22.8
+	"25-34 years"	"25-34"	"Denver County, CO"	"08031"	79	471878	16.7
+	"25-34 years"	"25-34"	"Douglas County, CO"	"08035"	12	104314	Unreliable
+	"25-34 years"	"25-34"	"El Paso County, CO"	"08041"	76	320738	23.7
+	"25-34 years"	"25-34"	"Jefferson County, CO"	"08059"	44	245224	17.9
+	"25-34 years"	"25-34"	"Larimer County, CO"	"08069"	26	145006	17.9
+	"25-34 years"	"25-34"	"Mesa County, CO"	"08077"	10	59518	Unreliable
+	"25-34 years"	"25-34"	"Pueblo County, CO"	"08101"	22	62915	35.0
+	"25-34 years"	"25-34"	"Weld County, CO"	"08123"	18	131370	Unreliable
+	"25-34 years"	"25-34"	"Fairfield County, CT"	"09001"	119	326036	36.5
+	"25-34 years"	"25-34"	"Hartford County, CT"	"09003"	178	352207	50.5
+	"25-34 years"	"25-34"	"Litchfield County, CT"	"09005"	39	55212	70.6
+	"25-34 years"	"25-34"	"Middlesex County, CT"	"09007"	34	55097	61.7
+	"25-34 years"	"25-34"	"New Haven County, CT"	"09009"	165	341902	48.3
+	"25-34 years"	"25-34"	"New London County, CT"	"09011"	60	104948	57.2
+	"25-34 years"	"25-34"	"Tolland County, CT"	"09013"	26	48077	54.1
+	"25-34 years"	"25-34"	"Windham County, CT"	"09015"	33	44290	74.5
+	"25-34 years"	"25-34"	"Kent County, DE"	"10001"	24	70933	33.8
+	"25-34 years"	"25-34"	"New Castle County, DE"	"10003"	95	243137	39.1
+	"25-34 years"	"25-34"	"Sussex County, DE"	"10005"	46	68650	67.0
+	"25-34 years"	"25-34"	"District of Columbia, DC"	"11001"	43	469928	9.2
+	"25-34 years"	"25-34"	"Alachua County, FL"	"12001"	11	123013	Unreliable
+	"25-34 years"	"25-34"	"Bay County, FL"	"12005"	19	79191	Unreliable
+	"25-34 years"	"25-34"	"Brevard County, FL"	"12009"	49	191962	25.5
+	"25-34 years"	"25-34"	"Broward County, FL"	"12011"	215	778446	27.6
+	"25-34 years"	"25-34"	"Charlotte County, FL"	"12015"	13	40884	Unreliable
+	"25-34 years"	"25-34"	"Citrus County, FL"	"12017"	13	34835	Unreliable
+	"25-34 years"	"25-34"	"Clay County, FL"	"12019"	39	77375	50.4
+	"25-34 years"	"25-34"	"Collier County, FL"	"12021"	39	106191	36.7
+	"25-34 years"	"25-34"	"Duval County, FL"	"12031"	251	455769	55.1
+	"25-34 years"	"25-34"	"Escambia County, FL"	"12033"	33	135890	24.3
+	"25-34 years"	"25-34"	"Flagler County, FL"	"12035"	13	29172	Unreliable
+	"25-34 years"	"25-34"	"Hernando County, FL"	"12053"	15	54486	Unreliable
+	"25-34 years"	"25-34"	"Hillsborough County, FL"	"12057"	120	626295	19.2
+	"25-34 years"	"25-34"	"Lake County, FL"	"12069"	17	107002	Unreliable
+	"25-34 years"	"25-34"	"Lee County, FL"	"12071"	121	235766	51.3
+	"25-34 years"	"25-34"	"Manatee County, FL"	"12081"	109	118508	92.0
+	"25-34 years"	"25-34"	"Marion County, FL"	"12083"	26	111185	23.4
+	"25-34 years"	"25-34"	"Martin County, FL"	"12085"	10	43465	Unreliable
+	"25-34 years"	"25-34"	"Miami-Dade County, FL"	"12086"	188	1168294	16.1
+	"25-34 years"	"25-34"	"Nassau County, FL"	"12089"	11	27265	Unreliable
+	"25-34 years"	"25-34"	"Okaloosa County, FL"	"12091"	29	97370	29.8
+	"25-34 years"	"25-34"	"Orange County, FL"	"12095"	121	663340	18.2
+	"25-34 years"	"25-34"	"Osceola County, FL"	"12097"	32	145032	22.1
+	"25-34 years"	"25-34"	"Palm Beach County, FL"	"12099"	282	517258	54.5
+	"25-34 years"	"25-34"	"Pasco County, FL"	"12101"	46	167998	27.4
+	"25-34 years"	"25-34"	"Pinellas County, FL"	"12103"	64	342380	18.7
+	"25-34 years"	"25-34"	"Polk County, FL"	"12105"	31	254331	12.2
+	"25-34 years"	"25-34"	"St. Johns County, FL"	"12109"	18	71241	Unreliable
+	"25-34 years"	"25-34"	"St. Lucie County, FL"	"12111"	27	103608	26.1
+	"25-34 years"	"25-34"	"Santa Rosa County, FL"	"12113"	12	70797	Unreliable
+	"25-34 years"	"25-34"	"Sarasota County, FL"	"12115"	57	103019	55.3
+	"25-34 years"	"25-34"	"Seminole County, FL"	"12117"	68	196901	34.5
+	"25-34 years"	"25-34"	"Volusia County, FL"	"12127"	78	181069	43.1
+	"25-34 years"	"25-34"	"Bartow County, GA"	"13015"	15	41238	Unreliable
+	"25-34 years"	"25-34"	"Bibb County, GA"	"13021"	10	61794	Unreliable
+	"25-34 years"	"25-34"	"Chatham County, GA"	"13051"	18	144791	Unreliable
+	"25-34 years"	"25-34"	"Cherokee County, GA"	"13057"	40	86474	46.3
+	"25-34 years"	"25-34"	"Clarke County, GA"	"13059"	11	61962	Unreliable
+	"25-34 years"	"25-34"	"Clayton County, GA"	"13063"	16	127477	Unreliable
+	"25-34 years"	"25-34"	"Cobb County, GA"	"13067"	89	323273	27.5
+	"25-34 years"	"25-34"	"Columbia County, GA"	"13073"	15	61907	Unreliable
+	"25-34 years"	"25-34"	"Coweta County, GA"	"13077"	13	51383	Unreliable
+	"25-34 years"	"25-34"	"DeKalb County, GA"	"13089"	56	373497	15.0
+	"25-34 years"	"25-34"	"Douglas County, GA"	"13097"	14	52978	Unreliable
+	"25-34 years"	"25-34"	"Fayette County, GA"	"13113"	12	28316	Unreliable
+	"25-34 years"	"25-34"	"Forsyth County, GA"	"13117"	23	64745	35.5
+	"25-34 years"	"25-34"	"Fulton County, GA"	"13121"	85	508687	16.7
+	"25-34 years"	"25-34"	"Gwinnett County, GA"	"13135"	70	360333	19.4
+	"25-34 years"	"25-34"	"Hall County, GA"	"13139"	15	76580	Unreliable
+	"25-34 years"	"25-34"	"Henry County, GA"	"13151"	23	78555	29.3
+	"25-34 years"	"25-34"	"Paulding County, GA"	"13223"	20	60698	33.0
+	"25-34 years"	"25-34"	"Richmond County, GA"	"13245"	18	99247	Unreliable
+	"25-34 years"	"25-34"	"Honolulu County, HI"	"15003"	16	466067	Unreliable
+	"25-34 years"	"25-34"	"Ada County, ID"	"16001"	25	193202	12.9
+	"25-34 years"	"25-34"	"Bannock County, ID"	"16005"	11	38884	Unreliable
+	"25-34 years"	"25-34"	"Champaign County, IL"	"17019"	13	91690	Unreliable
+	"25-34 years"	"25-34"	"Cook County, IL"	"17031"	521	2548527	20.4
+	"25-34 years"	"25-34"	"DuPage County, IL"	"17043"	108	352441	30.6
+	"25-34 years"	"25-34"	"Jackson County, IL"	"17077"	10	24963	Unreliable
+	"25-34 years"	"25-34"	"Kane County, IL"	"17089"	51	191671	26.6
+	"25-34 years"	"25-34"	"Kankakee County, IL"	"17091"	16	39929	Unreliable
+	"25-34 years"	"25-34"	"Kendall County, IL"	"17093"	13	48295	Unreliable
+	"25-34 years"	"25-34"	"Lake County, IL"	"17097"	73	231486	31.5
+	"25-34 years"	"25-34"	"LaSalle County, IL"	"17099"	23	39905	57.6
+	"25-34 years"	"25-34"	"McHenry County, IL"	"17111"	44	101669	43.3
+	"25-34 years"	"25-34"	"McLean County, IL"	"17113"	14	66866	Unreliable
+	"25-34 years"	"25-34"	"Madison County, IL"	"17119"	66	108448	60.9
+	"25-34 years"	"25-34"	"Marion County, IL"	"17121"	11	13394	Unreliable
+	"25-34 years"	"25-34"	"Peoria County, IL"	"17143"	26	76792	33.9
+	"25-34 years"	"25-34"	"St. Clair County, IL"	"17163"	34	103480	32.9
+	"25-34 years"	"25-34"	"Sangamon County, IL"	"17167"	30	75895	39.5
+	"25-34 years"	"25-34"	"Tazewell County, IL"	"17179"	22	49452	44.5
+	"25-34 years"	"25-34"	"Will County, IL"	"17197"	106	240148	44.1
+	"25-34 years"	"25-34"	"Williamson County, IL"	"17199"	11	26879	Unreliable
+	"25-34 years"	"25-34"	"Winnebago County, IL"	"17201"	65	106625	61.0
+	"25-34 years"	"25-34"	"Allen County, IN"	"18003"	26	151340	17.2
+	"25-34 years"	"25-34"	"Bartholomew County, IN"	"18005"	11	34781	Unreliable
+	"25-34 years"	"25-34"	"Boone County, IN"	"18011"	10	22647	Unreliable
+	"25-34 years"	"25-34"	"Clark County, IN"	"18019"	17	48084	Unreliable
+	"25-34 years"	"25-34"	"Dearborn County, IN"	"18029"	13	16125	Unreliable
+	"25-34 years"	"25-34"	"Delaware County, IN"	"18035"	15	39384	Unreliable
+	"25-34 years"	"25-34"	"Floyd County, IN"	"18043"	18	28783	Unreliable
+	"25-34 years"	"25-34"	"Grant County, IN"	"18053"	11	21297	Unreliable
+	"25-34 years"	"25-34"	"Hamilton County, IN"	"18057"	25	113371	22.1
+	"25-34 years"	"25-34"	"Harrison County, IN"	"18061"	13	14114	Unreliable
+	"25-34 years"	"25-34"	"Hendricks County, IN"	"18063"	19	60419	Unreliable
+	"25-34 years"	"25-34"	"Howard County, IN"	"18067"	18	28862	Unreliable
+	"25-34 years"	"25-34"	"Johnson County, IN"	"18081"	15	59575	Unreliable
+	"25-34 years"	"25-34"	"Kosciusko County, IN"	"18085"	10	29965	Unreliable
+	"25-34 years"	"25-34"	"Lake County, IN"	"18089"	50	178325	28.0
+	"25-34 years"	"25-34"	"La Porte County, IN"	"18091"	11	42988	Unreliable
+	"25-34 years"	"25-34"	"Madison County, IN"	"18095"	13	48663	Unreliable
+	"25-34 years"	"25-34"	"Marion County, IN"	"18097"	169	471732	35.8
+	"25-34 years"	"25-34"	"Monroe County, IN"	"18105"	17	64797	Unreliable
+	"25-34 years"	"25-34"	"Porter County, IN"	"18127"	24	61832	38.8
+	"25-34 years"	"25-34"	"St. Joseph County, IN"	"18141"	47	105842	44.4
+	"25-34 years"	"25-34"	"Tippecanoe County, IN"	"18157"	16	80092	Unreliable
+	"25-34 years"	"25-34"	"Vanderburgh County, IN"	"18163"	32	78789	40.6
+	"25-34 years"	"25-34"	"Wabash County, IN"	"18169"	11	10022	Unreliable
+	"25-34 years"	"25-34"	"Wayne County, IN"	"18177"	23	22675	101.4
+	"25-34 years"	"25-34"	"Dubuque County, IA"	"19061"	12	36993	Unreliable
+	"25-34 years"	"25-34"	"Linn County, IA"	"19113"	11	90789	Unreliable
+	"25-34 years"	"25-34"	"Polk County, IA"	"19153"	37	222133	16.7
+	"25-34 years"	"25-34"	"Scott County, IA"	"19163"	10	69448	Unreliable
+	"25-34 years"	"25-34"	"Johnson County, KS"	"20091"	26	240505	10.8
+	"25-34 years"	"25-34"	"Sedgwick County, KS"	"20173"	20	220520	9.1
+	"25-34 years"	"25-34"	"Boone County, KY"	"21015"	31	48163	64.4
+	"25-34 years"	"25-34"	"Boyle County, KY"	"21021"	10	10328	Unreliable
+	"25-34 years"	"25-34"	"Bullitt County, KY"	"21029"	19	30316	Unreliable
+	"25-34 years"	"25-34"	"Campbell County, KY"	"21037"	35	40565	86.3
+	"25-34 years"	"25-34"	"Fayette County, KY"	"21067"	90	149590	60.2
+	"25-34 years"	"25-34"	"Grant County, KY"	"21081"	13	9196	Unreliable
+	"25-34 years"	"25-34"	"Harrison County, KY"	"21097"	10	6037	Unreliable
+	"25-34 years"	"25-34"	"Jefferson County, KY"	"21111"	173	337503	51.3
+	"25-34 years"	"25-34"	"Jessamine County, KY"	"21113"	24	19716	121.7
+	"25-34 years"	"25-34"	"Kenton County, KY"	"21117"	67	73180	91.6
+	"25-34 years"	"25-34"	"Madison County, KY"	"21151"	23	32555	70.6
+	"25-34 years"	"25-34"	"Scott County, KY"	"21209"	15	21106	Unreliable
+	"25-34 years"	"25-34"	"East Baton Rouge Parish, LA"	"22033"	27	198882	13.6
+	"25-34 years"	"25-34"	"Jefferson Parish, LA"	"22051"	88	193907	45.4
+	"25-34 years"	"25-34"	"Livingston Parish, LA"	"22063"	11	60560	Unreliable
+	"25-34 years"	"25-34"	"Orleans Parish, LA"	"22071"	22	217869	10.1
+	"25-34 years"	"25-34"	"Rapides Parish, LA"	"22079"	15	52099	Unreliable
+	"25-34 years"	"25-34"	"St. Tammany Parish, LA"	"22103"	32	87991	36.4
+	"25-34 years"	"25-34"	"Washington Parish, LA"	"22117"	11	17081	Unreliable
+	"25-34 years"	"25-34"	"Androscoggin County, ME"	"23001"	17	39511	Unreliable
+	"25-34 years"	"25-34"	"Cumberland County, ME"	"23005"	63	116253	54.2
+	"25-34 years"	"25-34"	"Kennebec County, ME"	"23011"	24	41847	57.4
+	"25-34 years"	"25-34"	"Penobscot County, ME"	"23019"	39	60796	64.1
+	"25-34 years"	"25-34"	"Somerset County, ME"	"23025"	13	15944	Unreliable
+	"25-34 years"	"25-34"	"York County, ME"	"23031"	63	71182	88.5
+	"25-34 years"	"25-34"	"Allegany County, MD"	"24001"	37	27520	134.4
+	"25-34 years"	"25-34"	"Anne Arundel County, MD"	"24003"	185	243574	76.0
+	"25-34 years"	"25-34"	"Baltimore County, MD"	"24005"	227	348153	65.2
+	"25-34 years"	"25-34"	"Calvert County, MD"	"24009"	28	30969	90.4
+	"25-34 years"	"25-34"	"Caroline County, MD"	"24011"	10	12345	Unreliable
+	"25-34 years"	"25-34"	"Carroll County, MD"	"24013"	59	56181	105.0
+	"25-34 years"	"25-34"	"Cecil County, MD"	"24015"	44	38254	115.0
+	"25-34 years"	"25-34"	"Charles County, MD"	"24017"	36	60561	59.4
+	"25-34 years"	"25-34"	"Frederick County, MD"	"24021"	73	93081	78.4
+	"25-34 years"	"25-34"	"Harford County, MD"	"24025"	89	93670	95.0
+	"25-34 years"	"25-34"	"Howard County, MD"	"24027"	45	116769	38.5
+	"25-34 years"	"25-34"	"Montgomery County, MD"	"24031"	83	407949	20.3
+	"25-34 years"	"25-34"	"Prince George's County, MD"	"24033"	57	406250	14.0
+	"25-34 years"	"25-34"	"St. Mary's County, MD"	"24037"	23	47287	48.6
+	"25-34 years"	"25-34"	"Washington County, MD"	"24043"	46	58124	79.1
+	"25-34 years"	"25-34"	"Wicomico County, MD"	"24045"	27	36926	73.1
+	"25-34 years"	"25-34"	"Baltimore city, MD"	"24510"	169	351460	48.1
+	"25-34 years"	"25-34"	"Barnstable County, MA"	"25001"	71	56613	125.4
+	"25-34 years"	"25-34"	"Berkshire County, MA"	"25003"	23	39756	57.9
+	"25-34 years"	"25-34"	"Bristol County, MA"	"25005"	220	210160	104.7
+	"25-34 years"	"25-34"	"Essex County, MA"	"25009"	246	283737	86.7
+	"25-34 years"	"25-34"	"Franklin County, MA"	"25011"	10	24941	Unreliable
+	"25-34 years"	"25-34"	"Hampden County, MA"	"25013"	98	182951	53.6
+	"25-34 years"	"25-34"	"Hampshire County, MA"	"25015"	18	50698	Unreliable
+	"25-34 years"	"25-34"	"Middlesex County, MA"	"25017"	325	729088	44.6
+	"25-34 years"	"25-34"	"Norfolk County, MA"	"25021"	174	262547	66.3
+	"25-34 years"	"25-34"	"Plymouth County, MA"	"25023"	174	163617	106.3
+	"25-34 years"	"25-34"	"Suffolk County, MA"	"25025"	147	545606	26.9
+	"25-34 years"	"25-34"	"Worcester County, MA"	"25027"	214	310170	69.0
+	"25-34 years"	"25-34"	"Allegan County, MI"	"26005"	10	40361	Unreliable
+	"25-34 years"	"25-34"	"Bay County, MI"	"26017"	13	38061	Unreliable
+	"25-34 years"	"25-34"	"Berrien County, MI"	"26021"	22	53287	41.3
+	"25-34 years"	"25-34"	"Calhoun County, MI"	"26025"	28	48518	57.7
+	"25-34 years"	"25-34"	"Eaton County, MI"	"26045"	15	41628	Unreliable
+	"25-34 years"	"25-34"	"Genesee County, MI"	"26049"	67	145453	46.1
+	"25-34 years"	"25-34"	"Hillsdale County, MI"	"26059"	10	14536	Unreliable
+	"25-34 years"	"25-34"	"Ingham County, MI"	"26065"	48	120818	39.7
+	"25-34 years"	"25-34"	"Isabella County, MI"	"26073"	10	26849	Unreliable
+	"25-34 years"	"25-34"	"Kalamazoo County, MI"	"26077"	32	104762	30.5
+	"25-34 years"	"25-34"	"Kent County, MI"	"26081"	87	299206	29.1
+	"25-34 years"	"25-34"	"Lenawee County, MI"	"26091"	10	33870	Unreliable
+	"25-34 years"	"25-34"	"Livingston County, MI"	"26093"	31	59194	52.4
+	"25-34 years"	"25-34"	"Macomb County, MI"	"26099"	220	336071	65.5
+	"25-34 years"	"25-34"	"Monroe County, MI"	"26115"	45	51477	87.4
+	"25-34 years"	"25-34"	"Muskegon County, MI"	"26121"	27	66396	40.7
+	"25-34 years"	"25-34"	"Oakland County, MI"	"26125"	51	475578	10.7
+	"25-34 years"	"25-34"	"Ottawa County, MI"	"26139"	29	101768	28.5
+	"25-34 years"	"25-34"	"Saginaw County, MI"	"26145"	19	69325	Unreliable
+	"25-34 years"	"25-34"	"St. Clair County, MI"	"26147"	37	51679	71.6
+	"25-34 years"	"25-34"	"Shiawassee County, MI"	"26155"	10	22884	Unreliable
+	"25-34 years"	"25-34"	"Washtenaw County, MI"	"26161"	53	155701	34.0
+	"25-34 years"	"25-34"	"Wayne County, MI"	"26163"	375	710279	52.8
+	"25-34 years"	"25-34"	"Anoka County, MN"	"27003"	34	137016	24.8
+	"25-34 years"	"25-34"	"Dakota County, MN"	"27037"	15	163805	Unreliable
+	"25-34 years"	"25-34"	"Hennepin County, MN"	"27053"	105	633398	16.6
+	"25-34 years"	"25-34"	"Ramsey County, MN"	"27123"	32	269519	11.9
+	"25-34 years"	"25-34"	"St. Louis County, MN"	"27137"	21	70025	30.0
+	"25-34 years"	"25-34"	"DeSoto County, MS"	"28033"	26	67622	38.4
+	"25-34 years"	"25-34"	"Harrison County, MS"	"28047"	12	87394	Unreliable
+	"25-34 years"	"25-34"	"Jackson County, MS"	"28059"	11	56446	Unreliable
+	"25-34 years"	"25-34"	"Boone County, MO"	"29019"	11	81606	Unreliable
+	"25-34 years"	"25-34"	"Clay County, MO"	"29047"	17	103056	Unreliable
+	"25-34 years"	"25-34"	"Franklin County, MO"	"29071"	29	37694	76.9
+	"25-34 years"	"25-34"	"Greene County, MO"	"29077"	36	121838	29.5
+	"25-34 years"	"25-34"	"Jackson County, MO"	"29095"	40	319234	12.5
+	"25-34 years"	"25-34"	"Jefferson County, MO"	"29099"	67	87324	76.7
+	"25-34 years"	"25-34"	"Lincoln County, MO"	"29113"	10	21652	Unreliable
+	"25-34 years"	"25-34"	"St. Charles County, MO"	"29183"	65	153095	42.5
+	"25-34 years"	"25-34"	"St. Louis County, MO"	"29189"	194	380752	51.0
+	"25-34 years"	"25-34"	"Warren County, MO"	"29219"	10	12072	Unreliable
+	"25-34 years"	"25-34"	"St. Louis city, MO"	"29510"	125	185903	67.2
+	"25-34 years"	"25-34"	"Yellowstone County, MT"	"30111"	11	66089	Unreliable
+	"25-34 years"	"25-34"	"Douglas County, NE"	"31055"	27	262254	10.3
+	"25-34 years"	"25-34"	"Clark County, NV"	"32003"	173	964893	17.9
+	"25-34 years"	"25-34"	"Washoe County, NV"	"32031"	50	202117	24.7
+	"25-34 years"	"25-34"	"Carson City, NV"	"32510"	10	20537	Unreliable
+	"25-34 years"	"25-34"	"Belknap County, NH"	"33001"	17	19086	Unreliable
+	"25-34 years"	"25-34"	"Carroll County, NH"	"33003"	10	12607	Unreliable
+	"25-34 years"	"25-34"	"Cheshire County, NH"	"33005"	16	27290	Unreliable
+	"25-34 years"	"25-34"	"Coos County, NH"	"33007"	10	10034	Unreliable
+	"25-34 years"	"25-34"	"Grafton County, NH"	"33009"	19	32387	Unreliable
+	"25-34 years"	"25-34"	"Hillsborough County, NH"	"33011"	182	160171	113.6
+	"25-34 years"	"25-34"	"Merrimack County, NH"	"33013"	38	52290	72.7
+	"25-34 years"	"25-34"	"Rockingham County, NH"	"33015"	90	104263	86.3
+	"25-34 years"	"25-34"	"Strafford County, NH"	"33017"	46	48045	95.7
+	"25-34 years"	"25-34"	"Atlantic County, NJ"	"34001"	70	97882	71.5
+	"25-34 years"	"25-34"	"Bergen County, NJ"	"34003"	87	329493	26.4
+	"25-34 years"	"25-34"	"Burlington County, NJ"	"34005"	64	166113	38.5
+	"25-34 years"	"25-34"	"Camden County, NJ"	"34007"	10	211767	Unreliable
+	"25-34 years"	"25-34"	"Cape May County, NJ"	"34009"	26	29638	87.7
+	"25-34 years"	"25-34"	"Cumberland County, NJ"	"34011"	43	68180	63.1
+	"25-34 years"	"25-34"	"Essex County, NJ"	"34013"	94	328987	28.6
+	"25-34 years"	"25-34"	"Hudson County, NJ"	"34017"	50	433227	11.5
+	"25-34 years"	"25-34"	"Hunterdon County, NJ"	"34019"	20	32292	61.9
+	"25-34 years"	"25-34"	"Mercer County, NJ"	"34021"	59	140246	42.1
+	"25-34 years"	"25-34"	"Middlesex County, NJ"	"34023"	148	352017	42.0
+	"25-34 years"	"25-34"	"Monmouth County, NJ"	"34025"	121	200692	60.3
+	"25-34 years"	"25-34"	"Morris County, NJ"	"34027"	64	161643	39.6
+	"25-34 years"	"25-34"	"Ocean County, NJ"	"34029"	152	194933	78.0
+	"25-34 years"	"25-34"	"Passaic County, NJ"	"34031"	63	206185	30.6
+	"25-34 years"	"25-34"	"Somerset County, NJ"	"34035"	47	109570	42.9
+	"25-34 years"	"25-34"	"Sussex County, NJ"	"34037"	24	44086	54.4
+	"25-34 years"	"25-34"	"Union County, NJ"	"34039"	55	216475	25.4
+	"25-34 years"	"25-34"	"Warren County, NJ"	"34041"	36	35187	102.3
+	"25-34 years"	"25-34"	"Bernalillo County, NM"	"35001"	122	304927	40.0
+	"25-34 years"	"25-34"	"Dona Ana County, NM"	"35013"	14	81053	Unreliable
+	"25-34 years"	"25-34"	"Rio Arriba County, NM"	"35039"	20	13710	145.9
+	"25-34 years"	"25-34"	"Sandoval County, NM"	"35043"	13	51995	Unreliable
+	"25-34 years"	"25-34"	"Santa Fe County, NM"	"35049"	31	49811	62.2
+	"25-34 years"	"25-34"	"Valencia County, NM"	"35061"	14	27707	Unreliable
+	"25-34 years"	"25-34"	"Albany County, NY"	"36001"	24	120810	19.9
+	"25-34 years"	"25-34"	"Bronx County, NY"	"36005"	123	696307	17.7
+	"25-34 years"	"25-34"	"Broome County, NY"	"36007"	39	65860	59.2
+	"25-34 years"	"25-34"	"Cattaraugus County, NY"	"36009"	12	25613	Unreliable
+	"25-34 years"	"25-34"	"Cayuga County, NY"	"36011"	14	29378	Unreliable
+	"25-34 years"	"25-34"	"Chautauqua County, NY"	"36013"	23	45384	50.7
+	"25-34 years"	"25-34"	"Clinton County, NY"	"36019"	11	29758	Unreliable
+	"25-34 years"	"25-34"	"Columbia County, NY"	"36021"	12	19119	Unreliable
+	"25-34 years"	"25-34"	"Cortland County, NY"	"36023"	12	15826	Unreliable
+	"25-34 years"	"25-34"	"Delaware County, NY"	"36025"	10	13337	Unreliable
+	"25-34 years"	"25-34"	"Dutchess County, NY"	"36027"	55	101770	54.0
+	"25-34 years"	"25-34"	"Erie County, NY"	"36029"	267	388451	68.7
+	"25-34 years"	"25-34"	"Genesee County, NY"	"36037"	12	21125	Unreliable
+	"25-34 years"	"25-34"	"Greene County, NY"	"36039"	11	16200	Unreliable
+	"25-34 years"	"25-34"	"Jefferson County, NY"	"36045"	11	58642	Unreliable
+	"25-34 years"	"25-34"	"Kings County, NY"	"36047"	172	1453242	11.8
+	"25-34 years"	"25-34"	"Monroe County, NY"	"36055"	105	314161	33.4
+	"25-34 years"	"25-34"	"Nassau County, NY"	"36059"	171	470358	36.4
+	"25-34 years"	"25-34"	"New York County, NY"	"36061"	78	1122513	6.9
+	"25-34 years"	"25-34"	"Niagara County, NY"	"36063"	44	78051	56.4
+	"25-34 years"	"25-34"	"Oneida County, NY"	"36065"	47	86086	54.6
+	"25-34 years"	"25-34"	"Onondaga County, NY"	"36067"	92	185340	49.6
+	"25-34 years"	"25-34"	"Ontario County, NY"	"36069"	21	35807	58.6
+	"25-34 years"	"25-34"	"Orange County, NY"	"36071"	66	130221	50.7
+	"25-34 years"	"25-34"	"Oswego County, NY"	"36075"	18	43268	Unreliable
+	"25-34 years"	"25-34"	"Otsego County, NY"	"36077"	12	17572	Unreliable
+	"25-34 years"	"25-34"	"Putnam County, NY"	"36079"	26	31184	83.4
+	"25-34 years"	"25-34"	"Queens County, NY"	"36081"	144	1150257	12.5
+	"25-34 years"	"25-34"	"Richmond County, NY"	"36085"	75	190993	39.3
+	"25-34 years"	"25-34"	"Rockland County, NY"	"36087"	35	113050	31.0
+	"25-34 years"	"25-34"	"Saratoga County, NY"	"36091"	16	81326	Unreliable
+	"25-34 years"	"25-34"	"Schenectady County, NY"	"36093"	20	60431	33.1
+	"25-34 years"	"25-34"	"Steuben County, NY"	"36101"	11	33196	Unreliable
+	"25-34 years"	"25-34"	"Suffolk County, NY"	"36103"	318	518729	61.3
+	"25-34 years"	"25-34"	"Sullivan County, NY"	"36105"	17	26308	Unreliable
+	"25-34 years"	"25-34"	"Tompkins County, NY"	"36109"	20	40653	49.2
+	"25-34 years"	"25-34"	"Ulster County, NY"	"36111"	44	65769	66.9
+	"25-34 years"	"25-34"	"Westchester County, NY"	"36119"	100	333904	29.9
+	"25-34 years"	"25-34"	"Alamance County, NC"	"37001"	11	58552	Unreliable
+	"25-34 years"	"25-34"	"Brunswick County, NC"	"37019"	22	35154	62.6
+	"25-34 years"	"25-34"	"Buncombe County, NC"	"37021"	58	105427	55.0
+	"25-34 years"	"25-34"	"Cabarrus County, NC"	"37025"	50	73914	67.6
+	"25-34 years"	"25-34"	"Caldwell County, NC"	"37027"	11	26723	Unreliable
+	"25-34 years"	"25-34"	"Carteret County, NC"	"37031"	19	21574	Unreliable
+	"25-34 years"	"25-34"	"Catawba County, NC"	"37035"	19	53518	Unreliable
+	"25-34 years"	"25-34"	"Craven County, NC"	"37049"	28	41794	67.0
+	"25-34 years"	"25-34"	"Cumberland County, NC"	"37051"	79	167212	47.2
+	"25-34 years"	"25-34"	"Davidson County, NC"	"37057"	28	54589	51.3
+	"25-34 years"	"25-34"	"Durham County, NC"	"37063"	25	165557	15.1
+	"25-34 years"	"25-34"	"Forsyth County, NC"	"37067"	57	144237	39.5
+	"25-34 years"	"25-34"	"Franklin County, NC"	"37069"	11	21905	Unreliable
+	"25-34 years"	"25-34"	"Gaston County, NC"	"37071"	35	82455	42.4
+	"25-34 years"	"25-34"	"Guilford County, NC"	"37081"	82	214922	38.2
+	"25-34 years"	"25-34"	"Harnett County, NC"	"37085"	18	61303	Unreliable
+	"25-34 years"	"25-34"	"Henderson County, NC"	"37089"	11	34540	Unreliable
+	"25-34 years"	"25-34"	"Iredell County, NC"	"37097"	24	59743	40.2
+	"25-34 years"	"25-34"	"Jackson County, NC"	"37099"	10	14947	Unreliable
+	"25-34 years"	"25-34"	"Johnston County, NC"	"37101"	20	68071	29.4
+	"25-34 years"	"25-34"	"Lee County, NC"	"37105"	14	22207	Unreliable
+	"25-34 years"	"25-34"	"Mecklenburg County, NC"	"37119"	103	529951	19.4
+	"25-34 years"	"25-34"	"Moore County, NC"	"37125"	12	32543	Unreliable
+	"25-34 years"	"25-34"	"Nash County, NC"	"37127"	11	32031	Unreliable
+	"25-34 years"	"25-34"	"New Hanover County, NC"	"37129"	58	90608	64.0
+	"25-34 years"	"25-34"	"Onslow County, NC"	"37133"	27	106889	25.3
+	"25-34 years"	"25-34"	"Pender County, NC"	"37141"	15	19411	Unreliable
+	"25-34 years"	"25-34"	"Pitt County, NC"	"37147"	16	73330	Unreliable
+	"25-34 years"	"25-34"	"Randolph County, NC"	"37151"	28	48630	57.6
+	"25-34 years"	"25-34"	"Robeson County, NC"	"37155"	12	50345	Unreliable
+	"25-34 years"	"25-34"	"Rockingham County, NC"	"37157"	15	29529	Unreliable
+	"25-34 years"	"25-34"	"Rowan County, NC"	"37159"	35	50895	68.8
+	"25-34 years"	"25-34"	"Rutherford County, NC"	"37161"	13	20611	Unreliable
+	"25-34 years"	"25-34"	"Stokes County, NC"	"37169"	11	13990	Unreliable
+	"25-34 years"	"25-34"	"Union County, NC"	"37179"	19	66164	Unreliable
+	"25-34 years"	"25-34"	"Vance County, NC"	"37181"	10	14957	Unreliable
+	"25-34 years"	"25-34"	"Wake County, NC"	"37183"	87	462868	18.8
+	"25-34 years"	"25-34"	"Wayne County, NC"	"37191"	15	49924	Unreliable
+	"25-34 years"	"25-34"	"Wilkes County, NC"	"37193"	11	21382	Unreliable
+	"25-34 years"	"25-34"	"Adams County, OH"	"39001"	10	9128	Unreliable
+	"25-34 years"	"25-34"	"Allen County, OH"	"39003"	25	37895	66.0
+	"25-34 years"	"25-34"	"Ashtabula County, OH"	"39007"	36	33669	106.9
+	"25-34 years"	"25-34"	"Belmont County, OH"	"39013"	12	25834	Unreliable
+	"25-34 years"	"25-34"	"Brown County, OH"	"39015"	19	14518	Unreliable
+	"25-34 years"	"25-34"	"Butler County, OH"	"39017"	184	132840	138.5
+	"25-34 years"	"25-34"	"Champaign County, OH"	"39021"	11	12953	Unreliable
+	"25-34 years"	"25-34"	"Clark County, OH"	"39023"	54	47045	114.8
+	"25-34 years"	"25-34"	"Clermont County, OH"	"39025"	89	75499	117.9
+	"25-34 years"	"25-34"	"Clinton County, OH"	"39027"	32	14555	219.9
+	"25-34 years"	"25-34"	"Columbiana County, OH"	"39029"	15	34987	Unreliable
+	"25-34 years"	"25-34"	"Cuyahoga County, OH"	"39035"	304	509931	59.6
+	"25-34 years"	"25-34"	"Darke County, OH"	"39037"	18	16195	Unreliable
+	"25-34 years"	"25-34"	"Delaware County, OH"	"39041"	13	58640	Unreliable
+	"25-34 years"	"25-34"	"Erie County, OH"	"39043"	17	24860	Unreliable
+	"25-34 years"	"25-34"	"Fairfield County, OH"	"39045"	31	54462	56.9
+	"25-34 years"	"25-34"	"Fayette County, OH"	"39047"	15	10302	Unreliable
+	"25-34 years"	"25-34"	"Franklin County, OH"	"39049"	309	689058	44.8
+	"25-34 years"	"25-34"	"Geauga County, OH"	"39055"	22	23466	93.8
+	"25-34 years"	"25-34"	"Greene County, OH"	"39057"	43	66131	65.0
+	"25-34 years"	"25-34"	"Guernsey County, OH"	"39059"	13	13688	Unreliable
+	"25-34 years"	"25-34"	"Hamilton County, OH"	"39061"	272	364781	74.6
+	"25-34 years"	"25-34"	"Hancock County, OH"	"39063"	25	30175	82.9
+	"25-34 years"	"25-34"	"Highland County, OH"	"39071"	26	14575	178.4
+	"25-34 years"	"25-34"	"Huron County, OH"	"39077"	21	20120	104.4
+	"25-34 years"	"25-34"	"Jefferson County, OH"	"39081"	17	21584	Unreliable
+	"25-34 years"	"25-34"	"Lake County, OH"	"39085"	84	79802	105.3
+	"25-34 years"	"25-34"	"Lawrence County, OH"	"39087"	23	21610	106.4
+	"25-34 years"	"25-34"	"Licking County, OH"	"39089"	13	60220	Unreliable
+	"25-34 years"	"25-34"	"Logan County, OH"	"39091"	13	15016	Unreliable
+	"25-34 years"	"25-34"	"Lorain County, OH"	"39093"	94	101896	92.3
+	"25-34 years"	"25-34"	"Lucas County, OH"	"39095"	99	181113	54.7
+	"25-34 years"	"25-34"	"Madison County, OH"	"39097"	14	17614	Unreliable
+	"25-34 years"	"25-34"	"Mahoning County, OH"	"39099"	52	79344	65.5
+	"25-34 years"	"25-34"	"Marion County, OH"	"39101"	20	25463	78.5
+	"25-34 years"	"25-34"	"Medina County, OH"	"39103"	32	56617	56.5
+	"25-34 years"	"25-34"	"Miami County, OH"	"39109"	27	37059	72.9
+	"25-34 years"	"25-34"	"Montgomery County, OH"	"39113"	273	212176	128.7
+	"25-34 years"	"25-34"	"Pike County, OH"	"39131"	11	9680	Unreliable
+	"25-34 years"	"25-34"	"Portage County, OH"	"39133"	34	54828	62.0
+	"25-34 years"	"25-34"	"Preble County, OH"	"39135"	23	13768	167.1
+	"25-34 years"	"25-34"	"Richland County, OH"	"39139"	49	44508	110.1
+	"25-34 years"	"25-34"	"Ross County, OH"	"39141"	24	28944	82.9
+	"25-34 years"	"25-34"	"Sandusky County, OH"	"39143"	16	20099	Unreliable
+	"25-34 years"	"25-34"	"Scioto County, OH"	"39145"	16	29259	Unreliable
+	"25-34 years"	"25-34"	"Seneca County, OH"	"39147"	13	18870	Unreliable
+	"25-34 years"	"25-34"	"Shelby County, OH"	"39149"	12	16417	Unreliable
+	"25-34 years"	"25-34"	"Stark County, OH"	"39151"	74	132010	56.1
+	"25-34 years"	"25-34"	"Summit County, OH"	"39153"	181	212573	85.1
+	"25-34 years"	"25-34"	"Trumbull County, OH"	"39155"	92	67808	135.7
+	"25-34 years"	"25-34"	"Tuscarawas County, OH"	"39157"	15	32503	Unreliable
+	"25-34 years"	"25-34"	"Warren County, OH"	"39165"	58	75276	77.0
+	"25-34 years"	"25-34"	"Washington County, OH"	"39167"	11	20206	Unreliable
+	"25-34 years"	"25-34"	"Wayne County, OH"	"39169"	16	40593	Unreliable
+	"25-34 years"	"25-34"	"Wood County, OH"	"39173"	13	47187	Unreliable
+	"25-34 years"	"25-34"	"Cleveland County, OK"	"40027"	23	125092	18.4
+	"25-34 years"	"25-34"	"Oklahoma County, OK"	"40109"	50	372483	13.4
+	"25-34 years"	"25-34"	"Tulsa County, OK"	"40143"	54	285118	18.9
+	"25-34 years"	"25-34"	"Clackamas County, OR"	"41005"	32	147858	21.6
+	"25-34 years"	"25-34"	"Jackson County, OR"	"41029"	13	80698	Unreliable
+	"25-34 years"	"25-34"	"Lane County, OR"	"41039"	28	142046	19.7
+	"25-34 years"	"25-34"	"Marion County, OR"	"41047"	11	138479	Unreliable
+	"25-34 years"	"25-34"	"Multnomah County, OR"	"41051"	59	448213	13.2
+	"25-34 years"	"25-34"	"Washington County, OR"	"41067"	20	269483	7.4
+	"25-34 years"	"25-34"	"Allegheny County, PA"	"42003"	472	561632	84.0
+	"25-34 years"	"25-34"	"Armstrong County, PA"	"42005"	10	21248	Unreliable
+	"25-34 years"	"25-34"	"Beaver County, PA"	"42007"	58	58094	99.8
+	"25-34 years"	"25-34"	"Berks County, PA"	"42011"	47	151567	31.0
+	"25-34 years"	"25-34"	"Blair County, PA"	"42013"	10	44910	Unreliable
+	"25-34 years"	"25-34"	"Bucks County, PA"	"42017"	72	207423	34.7
+	"25-34 years"	"25-34"	"Butler County, PA"	"42019"	74	62872	117.7
+	"25-34 years"	"25-34"	"Cambria County, PA"	"42021"	36	41956	85.8
+	"25-34 years"	"25-34"	"Carbon County, PA"	"42025"	11	20923	Unreliable
+	"25-34 years"	"25-34"	"Chester County, PA"	"42029"	48	177048	27.1
+	"25-34 years"	"25-34"	"Crawford County, PA"	"42039"	22	28219	78.0
+	"25-34 years"	"25-34"	"Cumberland County, PA"	"42041"	32	97291	32.9
+	"25-34 years"	"25-34"	"Dauphin County, PA"	"42043"	28	112418	24.9
+	"25-34 years"	"25-34"	"Delaware County, PA"	"42045"	120	218187	55.0
+	"25-34 years"	"25-34"	"Erie County, PA"	"42049"	69	109442	63.0
+	"25-34 years"	"25-34"	"Fayette County, PA"	"42051"	38	46667	81.4
+	"25-34 years"	"25-34"	"Franklin County, PA"	"42055"	23	55493	41.4
+	"25-34 years"	"25-34"	"Indiana County, PA"	"42063"	18	27680	Unreliable
+	"25-34 years"	"25-34"	"Lackawanna County, PA"	"42069"	41	79285	51.7
+	"25-34 years"	"25-34"	"Lancaster County, PA"	"42071"	40	210102	19.0
+	"25-34 years"	"25-34"	"Lawrence County, PA"	"42073"	37	27778	133.2
+	"25-34 years"	"25-34"	"Lebanon County, PA"	"42075"	12	48049	Unreliable
+	"25-34 years"	"25-34"	"Lehigh County, PA"	"42077"	26	141382	18.4
+	"25-34 years"	"25-34"	"Luzerne County, PA"	"42079"	30	117932	25.4
+	"25-34 years"	"25-34"	"Lycoming County, PA"	"42081"	12	45438	Unreliable
+	"25-34 years"	"25-34"	"Mercer County, PA"	"42085"	22	35002	62.9
+	"25-34 years"	"25-34"	"Monroe County, PA"	"42089"	18	54171	Unreliable
+	"25-34 years"	"25-34"	"Montgomery County, PA"	"42091"	141	306897	45.9
+	"25-34 years"	"25-34"	"Northampton County, PA"	"42095"	60	106311	56.4
+	"25-34 years"	"25-34"	"Northumberland County, PA"	"42097"	20	33871	59.0
+	"25-34 years"	"25-34"	"Philadelphia County, PA"	"42101"	26	885813	2.9
+	"25-34 years"	"25-34"	"Schuylkill County, PA"	"42107"	29	50821	57.1
+	"25-34 years"	"25-34"	"Somerset County, PA"	"42111"	11	25606	Unreliable
+	"25-34 years"	"25-34"	"Susquehanna County, PA"	"42115"	12	12415	Unreliable
+	"25-34 years"	"25-34"	"Washington County, PA"	"42125"	87	68964	126.2
+	"25-34 years"	"25-34"	"Wayne County, PA"	"42127"	15	16956	Unreliable
+	"25-34 years"	"25-34"	"Westmoreland County, PA"	"42129"	27	110608	24.4
+	"25-34 years"	"25-34"	"York County, PA"	"42133"	62	163720	37.9
+	"25-34 years"	"25-34"	"Kent County, RI"	"44003"	38	63501	59.8
+	"25-34 years"	"25-34"	"Newport County, RI"	"44005"	16	30396	Unreliable
+	"25-34 years"	"25-34"	"Providence County, RI"	"44007"	147	286895	51.2
+	"25-34 years"	"25-34"	"Washington County, RI"	"44009"	19	34540	Unreliable
+	"25-34 years"	"25-34"	"Anderson County, SC"	"45007"	11	70747	Unreliable
+	"25-34 years"	"25-34"	"Beaufort County, SC"	"45013"	13	62986	Unreliable
+	"25-34 years"	"25-34"	"Berkeley County, SC"	"45015"	22	92742	23.7
+	"25-34 years"	"25-34"	"Charleston County, SC"	"45019"	55	206003	26.7
+	"25-34 years"	"25-34"	"Dorchester County, SC"	"45035"	21	65325	32.1
+	"25-34 years"	"25-34"	"Florence County, SC"	"45041"	21	52508	40.0
+	"25-34 years"	"25-34"	"Georgetown County, SC"	"45043"	11	17273	Unreliable
+	"25-34 years"	"25-34"	"Greenville County, SC"	"45045"	62	206337	30.0
+	"25-34 years"	"25-34"	"Horry County, SC"	"45051"	58	116547	49.8
+	"25-34 years"	"25-34"	"Lexington County, SC"	"45063"	21	115056	18.3
+	"25-34 years"	"25-34"	"Oconee County, SC"	"45073"	10	25864	Unreliable
+	"25-34 years"	"25-34"	"Pickens County, SC"	"45077"	15	43337	Unreliable
+	"25-34 years"	"25-34"	"Richland County, SC"	"45079"	30	182527	16.4
+	"25-34 years"	"25-34"	"Spartanburg County, SC"	"45083"	32	118884	26.9
+	"25-34 years"	"25-34"	"York County, SC"	"45091"	20	96519	20.7
+	"25-34 years"	"25-34"	"Anderson County, TN"	"47001"	16	26561	Unreliable
+	"25-34 years"	"25-34"	"Blount County, TN"	"47009"	12	43778	Unreliable
+	"25-34 years"	"25-34"	"Cheatham County, TN"	"47021"	11	14569	Unreliable
+	"25-34 years"	"25-34"	"Davidson County, TN"	"47037"	119	404454	29.4
+	"25-34 years"	"25-34"	"Dickson County, TN"	"47043"	11	19828	Unreliable
+	"25-34 years"	"25-34"	"Hamilton County, TN"	"47065"	45	152470	29.5
+	"25-34 years"	"25-34"	"Knox County, TN"	"47093"	94	183755	51.2
+	"25-34 years"	"25-34"	"Loudon County, TN"	"47105"	12	15344	Unreliable
+	"25-34 years"	"25-34"	"Montgomery County, TN"	"47125"	14	113065	Unreliable
+	"25-34 years"	"25-34"	"Roane County, TN"	"47145"	12	15801	Unreliable
+	"25-34 years"	"25-34"	"Rutherford County, TN"	"47149"	38	134877	28.2
+	"25-34 years"	"25-34"	"Shelby County, TN"	"47157"	147	407283	36.1
+	"25-34 years"	"25-34"	"Sullivan County, TN"	"47163"	13	52429	Unreliable
+	"25-34 years"	"25-34"	"Sumner County, TN"	"47165"	23	65652	35.0
+	"25-34 years"	"25-34"	"Tipton County, TN"	"47167"	11	23248	Unreliable
+	"25-34 years"	"25-34"	"Washington County, TN"	"47179"	11	47073	Unreliable
+	"25-34 years"	"25-34"	"Williamson County, TN"	"47187"	22	60573	36.3
+	"25-34 years"	"25-34"	"Wilson County, TN"	"47189"	27	46491	58.1
+	"25-34 years"	"25-34"	"Bell County, TX"	"48027"	10	173546	Unreliable
+	"25-34 years"	"25-34"	"Bexar County, TX"	"48029"	93	914145	10.2
+	"25-34 years"	"25-34"	"Collin County, TX"	"48085"	40	356359	11.2
+	"25-34 years"	"25-34"	"Dallas County, TX"	"48113"	129	1252978	10.3
+	"25-34 years"	"25-34"	"Denton County, TX"	"48121"	28	361081	7.8
+	"25-34 years"	"25-34"	"El Paso County, TX"	"48141"	22	367606	6.0
+	"25-34 years"	"25-34"	"Fort Bend County, TX"	"48157"	27	274181	9.8
+	"25-34 years"	"25-34"	"Galveston County, TX"	"48167"	19	131407	Unreliable
+	"25-34 years"	"25-34"	"Harris County, TX"	"48201"	223	2228944	10.0
+	"25-34 years"	"25-34"	"Jefferson County, TX"	"48245"	10	112935	Unreliable
+	"25-34 years"	"25-34"	"Lubbock County, TX"	"48303"	13	133510	Unreliable
+	"25-34 years"	"25-34"	"Montgomery County, TX"	"48339"	24	210939	11.4
+	"25-34 years"	"25-34"	"Nueces County, TX"	"48355"	21	158244	13.3
+	"25-34 years"	"25-34"	"Tarrant County, TX"	"48439"	82	898796	9.1
+	"25-34 years"	"25-34"	"Travis County, TX"	"48453"	72	722162	10.0
+	"25-34 years"	"25-34"	"Webb County, TX"	"48479"	24	108604	22.1
+	"25-34 years"	"25-34"	"Williamson County, TX"	"48491"	16	220188	Unreliable
+	"25-34 years"	"25-34"	"Davis County, UT"	"49011"	34	146026	23.3
+	"25-34 years"	"25-34"	"Salt Lake County, UT"	"49035"	144	555357	25.9
+	"25-34 years"	"25-34"	"Utah County, UT"	"49049"	71	251318	28.3
+	"25-34 years"	"25-34"	"Washington County, UT"	"49053"	23	57103	40.3
+	"25-34 years"	"25-34"	"Weber County, UT"	"49057"	33	113090	29.2
+	"25-34 years"	"25-34"	"Chittenden County, VT"	"50007"	28	67526	41.5
+	"25-34 years"	"25-34"	"Rutland County, VT"	"50021"	10	18982	Unreliable
+	"25-34 years"	"25-34"	"Windsor County, VT"	"50027"	14	18104	Unreliable
+	"25-34 years"	"25-34"	"Arlington County, VA"	"51013"	17	175874	Unreliable
+	"25-34 years"	"25-34"	"Chesterfield County, VA"	"51041"	56	120451	46.5
+	"25-34 years"	"25-34"	"Culpeper County, VA"	"51047"	20	18228	109.7
+	"25-34 years"	"25-34"	"Fairfax County, VA"	"51059"	92	464596	19.8
+	"25-34 years"	"25-34"	"Fauquier County, VA"	"51061"	15	22366	Unreliable
+	"25-34 years"	"25-34"	"Frederick County, VA"	"51069"	17	30676	Unreliable
+	"25-34 years"	"25-34"	"Hanover County, VA"	"51085"	17	31538	Unreliable
+	"25-34 years"	"25-34"	"Henrico County, VA"	"51087"	40	138770	28.8
+	"25-34 years"	"25-34"	"King George County, VA"	"51099"	10	9768	Unreliable
+	"25-34 years"	"25-34"	"Loudoun County, VA"	"51107"	38	142365	26.7
+	"25-34 years"	"25-34"	"Prince William County, VA"	"51153"	46	190116	24.2
+	"25-34 years"	"25-34"	"Roanoke County, VA"	"51161"	15	30709	Unreliable
+	"25-34 years"	"25-34"	"Spotsylvania County, VA"	"51177"	24	49552	48.4
+	"25-34 years"	"25-34"	"Stafford County, VA"	"51179"	21	57391	36.6
+	"25-34 years"	"25-34"	"Warren County, VA"	"51187"	13	14882	Unreliable
+	"25-34 years"	"25-34"	"Chesapeake city, VA"	"51550"	24	101865	23.6
+	"25-34 years"	"25-34"	"Hampton city, VA"	"51650"	15	63916	Unreliable
+	"25-34 years"	"25-34"	"Newport News city, VA"	"51700"	19	92845	Unreliable
+	"25-34 years"	"25-34"	"Norfolk city, VA"	"51710"	41	142387	28.8
+	"25-34 years"	"25-34"	"Portsmouth city, VA"	"51740"	11	47839	Unreliable
+	"25-34 years"	"25-34"	"Richmond city, VA"	"51760"	47	145235	32.4
+	"25-34 years"	"25-34"	"Roanoke city, VA"	"51770"	15	45823	Unreliable
+	"25-34 years"	"25-34"	"Virginia Beach city, VA"	"51810"	51	226415	22.5
+	"25-34 years"	"25-34"	"Winchester city, VA"	"51840"	11	11887	Unreliable
+	"25-34 years"	"25-34"	"Clark County, WA"	"53011"	33	182149	18.1
+	"25-34 years"	"25-34"	"Cowlitz County, WA"	"53015"	10	37395	Unreliable
+	"25-34 years"	"25-34"	"Grays Harbor County, WA"	"53027"	12	25515	Unreliable
+	"25-34 years"	"25-34"	"King County, WA"	"53033"	146	1135793	12.9
+	"25-34 years"	"25-34"	"Kitsap County, WA"	"53035"	18	112429	Unreliable
+	"25-34 years"	"25-34"	"Pierce County, WA"	"53053"	72	396609	18.2
+	"25-34 years"	"25-34"	"Snohomish County, WA"	"53061"	64	346359	18.5
+	"25-34 years"	"25-34"	"Spokane County, WA"	"53063"	38	221246	17.2
+	"25-34 years"	"25-34"	"Thurston County, WA"	"53067"	14	118451	Unreliable
+	"25-34 years"	"25-34"	"Whatcom County, WA"	"53073"	12	86142	Unreliable
+	"25-34 years"	"25-34"	"Yakima County, WA"	"53077"	13	98109	Unreliable
+	"25-34 years"	"25-34"	"Berkeley County, WV"	"54003"	53	46969	112.8
+	"25-34 years"	"25-34"	"Cabell County, WV"	"54011"	81	35807	226.2
+	"25-34 years"	"25-34"	"Hampshire County, WV"	"54027"	12	7184	Unreliable
+	"25-34 years"	"25-34"	"Hancock County, WV"	"54029"	11	9240	Unreliable
+	"25-34 years"	"25-34"	"Harrison County, WV"	"54033"	15	24650	Unreliable
+	"25-34 years"	"25-34"	"Jefferson County, WV"	"54037"	17	19439	Unreliable
+	"25-34 years"	"25-34"	"Kanawha County, WV"	"54039"	75	68026	110.3
+	"25-34 years"	"25-34"	"Mercer County, WV"	"54055"	18	21122	Unreliable
+	"25-34 years"	"25-34"	"Monongalia County, WV"	"54061"	29	55397	52.3
+	"25-34 years"	"25-34"	"Morgan County, WV"	"54065"	11	5060	Unreliable
+	"25-34 years"	"25-34"	"Putnam County, WV"	"54079"	21	19001	110.5
+	"25-34 years"	"25-34"	"Raleigh County, WV"	"54081"	23	28386	81.0
+	"25-34 years"	"25-34"	"Wayne County, WV"	"54099"	24	13410	179.0
+	"25-34 years"	"25-34"	"Wood County, WV"	"54107"	24	29771	80.6
+	"25-34 years"	"25-34"	"Brown County, WI"	"55009"	14	106236	Unreliable
+	"25-34 years"	"25-34"	"Columbia County, WI"	"55021"	16	19957	Unreliable
+	"25-34 years"	"25-34"	"Dane County, WI"	"55025"	72	246444	29.2
+	"25-34 years"	"25-34"	"Dodge County, WI"	"55027"	14	33049	Unreliable
+	"25-34 years"	"25-34"	"Kenosha County, WI"	"55059"	23	64170	35.8
+	"25-34 years"	"25-34"	"La Crosse County, WI"	"55063"	13	44899	Unreliable
+	"25-34 years"	"25-34"	"Manitowoc County, WI"	"55071"	10	24850	Unreliable
+	"25-34 years"	"25-34"	"Marathon County, WI"	"55073"	13	48555	Unreliable
+	"25-34 years"	"25-34"	"Milwaukee County, WI"	"55079"	220	467793	47.0
+	"25-34 years"	"25-34"	"Outagamie County, WI"	"55087"	15	73280	Unreliable
+	"25-34 years"	"25-34"	"Racine County, WI"	"55101"	33	69847	47.2
+	"25-34 years"	"25-34"	"Rock County, WI"	"55105"	27	58977	45.8
+	"25-34 years"	"25-34"	"Sheboygan County, WI"	"55117"	12	39561	Unreliable
+	"25-34 years"	"25-34"	"Walworth County, WI"	"55127"	10	32310	Unreliable
+	"25-34 years"	"25-34"	"Washington County, WI"	"55131"	18	42743	Unreliable
+	"25-34 years"	"25-34"	"Waukesha County, WI"	"55133"	56	124125	45.1
+	"25-34 years"	"25-34"	"Winnebago County, WI"	"55139"	15	67325	Unreliable
+	"25-34 years"	"25-34"	"Natrona County, WY"	"56025"	10	37291	Unreliable
+"Total"	"25-34 years"	"25-34"			33885	134157117	25.3
+	"35-44 years"	"35-44"	"Baldwin County, AL"	"01003"	14	75901	Unreliable
+	"35-44 years"	"35-44"	"Cullman County, AL"	"01043"	10	30215	Unreliable
+	"35-44 years"	"35-44"	"Jefferson County, AL"	"01073"	138	250412	55.1
+	"35-44 years"	"35-44"	"Madison County, AL"	"01089"	12	129655	Unreliable
+	"35-44 years"	"35-44"	"Mobile County, AL"	"01097"	10	148236	Unreliable
+	"35-44 years"	"35-44"	"Shelby County, AL"	"01117"	23	89177	25.8
+	"35-44 years"	"35-44"	"Anchorage Borough, AK"	"02020"	34	112918	30.1
+	"35-44 years"	"35-44"	"Cochise County, AZ"	"04003"	11	40685	Unreliable
+	"35-44 years"	"35-44"	"Gila County, AZ"	"04007"	10	13373	Unreliable
+	"35-44 years"	"35-44"	"Maricopa County, AZ"	"04013"	299	1661367	18.0
+	"35-44 years"	"35-44"	"Mohave County, AZ"	"04015"	27	56043	48.2
+	"35-44 years"	"35-44"	"Pima County, AZ"	"04019"	103	343755	30.0
+	"35-44 years"	"35-44"	"Pinal County, AZ"	"04021"	26	163948	15.9
+	"35-44 years"	"35-44"	"Yavapai County, AZ"	"04025"	13	59285	Unreliable
+	"35-44 years"	"35-44"	"Benton County, AR"	"05007"	11	109664	Unreliable
+	"35-44 years"	"35-44"	"Garland County, AR"	"05051"	16	32444	Unreliable
+	"35-44 years"	"35-44"	"Pulaski County, AR"	"05119"	16	150581	Unreliable
+	"35-44 years"	"35-44"	"Sebastian County, AR"	"05131"	10	46963	Unreliable
+	"35-44 years"	"35-44"	"Alameda County, CA"	"06001"	33	734498	4.5
+	"35-44 years"	"35-44"	"Contra Costa County, CA"	"06013"	25	455773	5.5
+	"35-44 years"	"35-44"	"Fresno County, CA"	"06019"	31	362214	8.6
+	"35-44 years"	"35-44"	"Humboldt County, CA"	"06023"	23	51253	44.9
+	"35-44 years"	"35-44"	"Imperial County, CA"	"06025"	13	65401	Unreliable
+	"35-44 years"	"35-44"	"Kern County, CA"	"06029"	32	333797	9.6
+	"35-44 years"	"35-44"	"Los Angeles County, CA"	"06037"	215	4175483	5.1
+	"35-44 years"	"35-44"	"Mendocino County, CA"	"06045"	10	31000	Unreliable
+	"35-44 years"	"35-44"	"Merced County, CA"	"06047"	15	98681	Unreliable
+	"35-44 years"	"35-44"	"Orange County, CA"	"06059"	125	1250059	10.0
+	"35-44 years"	"35-44"	"Placer County, CA"	"06061"	12	144678	Unreliable
+	"35-44 years"	"35-44"	"Riverside County, CA"	"06065"	62	911111	6.8
+	"35-44 years"	"35-44"	"Sacramento County, CA"	"06067"	22	592175	3.7
+	"35-44 years"	"35-44"	"San Bernardino County, CA"	"06071"	28	822487	3.4
+	"35-44 years"	"35-44"	"San Diego County, CA"	"06073"	134	1310578	10.2
+	"35-44 years"	"35-44"	"San Francisco County, CA"	"06075"	51	412218	12.4
+	"35-44 years"	"35-44"	"San Joaquin County, CA"	"06077"	25	282856	8.8
+	"35-44 years"	"35-44"	"San Luis Obispo County, CA"	"06079"	11	90712	Unreliable
+	"35-44 years"	"35-44"	"San Mateo County, CA"	"06081"	20	330835	6.0
+	"35-44 years"	"35-44"	"Santa Barbara County, CA"	"06083"	18	150282	Unreliable
+	"35-44 years"	"35-44"	"Santa Clara County, CA"	"06085"	26	842360	3.1
+	"35-44 years"	"35-44"	"Santa Cruz County, CA"	"06087"	14	96333	Unreliable
+	"35-44 years"	"35-44"	"Shasta County, CA"	"06089"	10	57212	Unreliable
+	"35-44 years"	"35-44"	"Solano County, CA"	"06095"	14	162398	Unreliable
+	"35-44 years"	"35-44"	"Sonoma County, CA"	"06097"	16	184425	Unreliable
+	"35-44 years"	"35-44"	"Stanislaus County, CA"	"06099"	10	204020	Unreliable
+	"35-44 years"	"35-44"	"Ventura County, CA"	"06111"	31	317377	9.8
+	"35-44 years"	"35-44"	"Adams County, CO"	"08001"	49	217189	22.6
+	"35-44 years"	"35-44"	"Arapahoe County, CO"	"08005"	49	269839	18.2
+	"35-44 years"	"35-44"	"Boulder County, CO"	"08013"	10	121110	Unreliable
+	"35-44 years"	"35-44"	"Denver County, CO"	"08031"	63	325868	19.3
+	"35-44 years"	"35-44"	"El Paso County, CO"	"08041"	56	256892	21.8
+	"35-44 years"	"35-44"	"Jefferson County, CO"	"08059"	33	223507	14.8
+	"35-44 years"	"35-44"	"Larimer County, CO"	"08069"	16	123346	Unreliable
+	"35-44 years"	"35-44"	"Mesa County, CO"	"08077"	10	52267	Unreliable
+	"35-44 years"	"35-44"	"Pueblo County, CO"	"08101"	19	57636	Unreliable
+	"35-44 years"	"35-44"	"Weld County, CO"	"08123"	17	118074	Unreliable
+	"35-44 years"	"35-44"	"Fairfield County, CT"	"09001"	93	357508	26.0
+	"35-44 years"	"35-44"	"Hartford County, CT"	"09003"	152	326601	46.5
+	"35-44 years"	"35-44"	"Litchfield County, CT"	"09005"	27	58005	46.5
+	"35-44 years"	"35-44"	"Middlesex County, CT"	"09007"	28	53558	52.3
+	"35-44 years"	"35-44"	"New Haven County, CT"	"09009"	166	302941	54.8
+	"35-44 years"	"35-44"	"New London County, CT"	"09011"	54	90193	59.9
+	"35-44 years"	"35-44"	"Tolland County, CT"	"09013"	25	46358	53.9
+	"35-44 years"	"35-44"	"Windham County, CT"	"09015"	31	41895	74.0
+	"35-44 years"	"35-44"	"Kent County, DE"	"10001"	20	60412	33.1
+	"35-44 years"	"35-44"	"New Castle County, DE"	"10003"	79	205627	38.4
+	"35-44 years"	"35-44"	"Sussex County, DE"	"10005"	27	64298	42.0
+	"35-44 years"	"35-44"	"District of Columbia, DC"	"11001"	65	296876	21.9
+	"35-44 years"	"35-44"	"Alachua County, FL"	"12001"	13	83586	Unreliable
+	"35-44 years"	"35-44"	"Bay County, FL"	"12005"	19	65492	Unreliable
+	"35-44 years"	"35-44"	"Brevard County, FL"	"12009"	39	176912	22.0
+	"35-44 years"	"35-44"	"Broward County, FL"	"12011"	178	763376	23.3
+	"35-44 years"	"35-44"	"Citrus County, FL"	"12017"	14	33596	Unreliable
+	"35-44 years"	"35-44"	"Clay County, FL"	"12019"	48	79890	60.1
+	"35-44 years"	"35-44"	"Collier County, FL"	"12021"	30	107884	27.8
+	"35-44 years"	"35-44"	"Duval County, FL"	"12031"	226	349178	64.7
+	"35-44 years"	"35-44"	"Escambia County, FL"	"12033"	25	100933	24.8
+	"35-44 years"	"35-44"	"Hernando County, FL"	"12053"	13	54883	Unreliable
+	"35-44 years"	"35-44"	"Hillsborough County, FL"	"12057"	92	558163	16.5
+	"35-44 years"	"35-44"	"Lake County, FL"	"12069"	23	108217	21.3
+	"35-44 years"	"35-44"	"Lee County, FL"	"12071"	96	223825	42.9
+	"35-44 years"	"35-44"	"Manatee County, FL"	"12081"	98	116254	84.3
+	"35-44 years"	"35-44"	"Marion County, FL"	"12083"	37	101977	36.3
+	"35-44 years"	"35-44"	"Martin County, FL"	"12085"	12	43789	Unreliable
+	"35-44 years"	"35-44"	"Miami-Dade County, FL"	"12086"	135	1133798	11.9
+	"35-44 years"	"35-44"	"Nassau County, FL"	"12089"	17	27472	Unreliable
+	"35-44 years"	"35-44"	"Okaloosa County, FL"	"12091"	34	69700	48.8
+	"35-44 years"	"35-44"	"Orange County, FL"	"12095"	152	554391	27.4
+	"35-44 years"	"35-44"	"Osceola County, FL"	"12097"	44	144710	30.4
+	"35-44 years"	"35-44"	"Palm Beach County, FL"	"12099"	217	497565	43.6
+	"35-44 years"	"35-44"	"Pasco County, FL"	"12101"	46	184572	24.9
+	"35-44 years"	"35-44"	"Pinellas County, FL"	"12103"	55	314815	17.5
+	"35-44 years"	"35-44"	"Polk County, FL"	"12105"	28	234829	11.9
+	"35-44 years"	"35-44"	"St. Johns County, FL"	"12109"	20	89575	22.3
+	"35-44 years"	"35-44"	"St. Lucie County, FL"	"12111"	22	100927	21.8
+	"35-44 years"	"35-44"	"Santa Rosa County, FL"	"12113"	12	65479	Unreliable
+	"35-44 years"	"35-44"	"Sarasota County, FL"	"12115"	60	106267	56.5
+	"35-44 years"	"35-44"	"Seminole County, FL"	"12117"	56	183385	30.5
+	"35-44 years"	"35-44"	"Volusia County, FL"	"12127"	82	165016	49.7
+	"35-44 years"	"35-44"	"Bartow County, GA"	"13015"	14	40339	Unreliable
+	"35-44 years"	"35-44"	"Carroll County, GA"	"13045"	12	42787	Unreliable
+	"35-44 years"	"35-44"	"Chatham County, GA"	"13051"	22	105349	20.9
+	"35-44 years"	"35-44"	"Cherokee County, GA"	"13057"	28	103105	27.2
+	"35-44 years"	"35-44"	"Clayton County, GA"	"13063"	13	113257	Unreliable
+	"35-44 years"	"35-44"	"Cobb County, GA"	"13067"	61	323602	18.9
+	"35-44 years"	"35-44"	"Columbia County, GA"	"13073"	12	61614	Unreliable
+	"35-44 years"	"35-44"	"Coweta County, GA"	"13077"	12	57521	Unreliable
+	"35-44 years"	"35-44"	"DeKalb County, GA"	"13089"	28	322662	8.7
+	"35-44 years"	"35-44"	"Douglas County, GA"	"13097"	15	60579	Unreliable
+	"35-44 years"	"35-44"	"Forsyth County, GA"	"13117"	13	106743	Unreliable
+	"35-44 years"	"35-44"	"Fulton County, GA"	"13121"	72	445112	16.2
+	"35-44 years"	"35-44"	"Gwinnett County, GA"	"13135"	40	404304	9.9
+	"35-44 years"	"35-44"	"Hall County, GA"	"13139"	10	75543	Unreliable
+	"35-44 years"	"35-44"	"Henry County, GA"	"13151"	11	94340	Unreliable
+	"35-44 years"	"35-44"	"Muscogee County, GA"	"13215"	10	74199	Unreliable
+	"35-44 years"	"35-44"	"Paulding County, GA"	"13223"	12	69344	Unreliable
+	"35-44 years"	"35-44"	"Richmond County, GA"	"13245"	13	68637	Unreliable
+	"35-44 years"	"35-44"	"Walton County, GA"	"13297"	11	34225	Unreliable
+	"35-44 years"	"35-44"	"Whitfield County, GA"	"13313"	12	40323	Unreliable
+	"35-44 years"	"35-44"	"Honolulu County, HI"	"15003"	25	373349	6.7
+	"35-44 years"	"35-44"	"Ada County, ID"	"16001"	19	184897	Unreliable
+	"35-44 years"	"35-44"	"Bannock County, ID"	"16005"	13	31060	Unreliable
+	"35-44 years"	"35-44"	"Champaign County, IL"	"17019"	17	68026	Unreliable
+	"35-44 years"	"35-44"	"Cook County, IL"	"17031"	534	2115411	25.2
+	"35-44 years"	"35-44"	"DuPage County, IL"	"17043"	74	359191	20.6
+	"35-44 years"	"35-44"	"Kane County, IL"	"17089"	34	217192	15.7
+	"35-44 years"	"35-44"	"Kankakee County, IL"	"17091"	18	39829	Unreliable
+	"35-44 years"	"35-44"	"Kendall County, IL"	"17093"	12	61828	Unreliable
+	"35-44 years"	"35-44"	"Lake County, IL"	"17097"	48	265853	18.1
+	"35-44 years"	"35-44"	"LaSalle County, IL"	"17099"	22	38560	57.1
+	"35-44 years"	"35-44"	"McHenry County, IL"	"17111"	47	117996	39.8
+	"35-44 years"	"35-44"	"McLean County, IL"	"17113"	14	62240	Unreliable
+	"35-44 years"	"35-44"	"Madison County, IL"	"17119"	57	96290	59.2
+	"35-44 years"	"35-44"	"Peoria County, IL"	"17143"	22	67176	32.7
+	"35-44 years"	"35-44"	"Rock Island County, IL"	"17161"	10	51303	Unreliable
+	"35-44 years"	"35-44"	"St. Clair County, IL"	"17163"	21	99758	21.1
+	"35-44 years"	"35-44"	"Sangamon County, IL"	"17167"	25	72121	34.7
+	"35-44 years"	"35-44"	"Tazewell County, IL"	"17179"	16	51937	Unreliable
+	"35-44 years"	"35-44"	"Vermilion County, IL"	"17183"	14	27208	Unreliable
+	"35-44 years"	"35-44"	"Will County, IL"	"17197"	77	288042	26.7
+	"35-44 years"	"35-44"	"Winnebago County, IL"	"17201"	59	101996	57.8
+	"35-44 years"	"35-44"	"Allen County, IN"	"18003"	23	137779	16.7
+	"35-44 years"	"35-44"	"Clark County, IN"	"18019"	20	47145	42.4
+	"35-44 years"	"35-44"	"Dearborn County, IN"	"18029"	12	18048	Unreliable
+	"35-44 years"	"35-44"	"Delaware County, IN"	"18035"	10	35140	Unreliable
+	"35-44 years"	"35-44"	"Elkhart County, IN"	"18039"	14	74874	Unreliable
+	"35-44 years"	"35-44"	"Fayette County, IN"	"18041"	11	8734	Unreliable
+	"35-44 years"	"35-44"	"Floyd County, IN"	"18043"	14	28737	Unreliable
+	"35-44 years"	"35-44"	"Grant County, IN"	"18053"	10	21121	Unreliable
+	"35-44 years"	"35-44"	"Hamilton County, IN"	"18057"	12	143342	Unreliable
+	"35-44 years"	"35-44"	"Lake County, IN"	"18089"	63	183207	34.4
+	"35-44 years"	"35-44"	"Madison County, IN"	"18095"	19	48406	Unreliable
+	"35-44 years"	"35-44"	"Marion County, IN"	"18097"	111	362341	30.6
+	"35-44 years"	"35-44"	"Monroe County, IN"	"18105"	10	44805	Unreliable
+	"35-44 years"	"35-44"	"Porter County, IN"	"18127"	22	65316	33.7
+	"35-44 years"	"35-44"	"Randolph County, IN"	"18135"	10	8979	Unreliable
+	"35-44 years"	"35-44"	"St. Joseph County, IN"	"18141"	40	95077	42.1
+	"35-44 years"	"35-44"	"Tippecanoe County, IN"	"18157"	13	59607	Unreliable
+	"35-44 years"	"35-44"	"Vanderburgh County, IN"	"18163"	20	62981	31.8
+	"35-44 years"	"35-44"	"Wayne County, IN"	"18177"	26	23530	110.5
+	"35-44 years"	"35-44"	"Linn County, IA"	"19113"	17	84872	Unreliable
+	"35-44 years"	"35-44"	"Polk County, IA"	"19153"	32	191466	16.7
+	"35-44 years"	"35-44"	"Scott County, IA"	"19163"	18	65494	Unreliable
+	"35-44 years"	"35-44"	"Johnson County, KS"	"20091"	21	243082	8.6
+	"35-44 years"	"35-44"	"Sedgwick County, KS"	"20173"	26	185218	14.0
+	"35-44 years"	"35-44"	"Bell County, KY"	"21013"	10	9707	Unreliable
+	"35-44 years"	"35-44"	"Boone County, KY"	"21015"	19	53687	Unreliable
+	"35-44 years"	"35-44"	"Boyd County, KY"	"21019"	21	18253	115.0
+	"35-44 years"	"35-44"	"Bullitt County, KY"	"21029"	17	31829	Unreliable
+	"35-44 years"	"35-44"	"Campbell County, KY"	"21037"	42	33277	126.2
+	"35-44 years"	"35-44"	"Carter County, KY"	"21043"	11	9688	Unreliable
+	"35-44 years"	"35-44"	"Clark County, KY"	"21049"	12	13807	Unreliable
+	"35-44 years"	"35-44"	"Fayette County, KY"	"21067"	94	125038	75.2
+	"35-44 years"	"35-44"	"Floyd County, KY"	"21071"	16	14179	Unreliable
+	"35-44 years"	"35-44"	"Franklin County, KY"	"21073"	12	18582	Unreliable
+	"35-44 years"	"35-44"	"Greenup County, KY"	"21089"	10	13337	Unreliable
+	"35-44 years"	"35-44"	"Hardin County, KY"	"21093"	10	40901	Unreliable
+	"35-44 years"	"35-44"	"Harrison County, KY"	"21097"	10	6718	Unreliable
+	"35-44 years"	"35-44"	"Jefferson County, KY"	"21111"	167	288163	58.0
+	"35-44 years"	"35-44"	"Jessamine County, KY"	"21113"	17	19920	Unreliable
+	"35-44 years"	"35-44"	"Kenton County, KY"	"21117"	78	64241	121.4
+	"35-44 years"	"35-44"	"Madison County, KY"	"21151"	27	32870	82.1
+	"35-44 years"	"35-44"	"Montgomery County, KY"	"21173"	16	11356	Unreliable
+	"35-44 years"	"35-44"	"Nelson County, KY"	"21179"	12	17212	Unreliable
+	"35-44 years"	"35-44"	"Perry County, KY"	"21193"	13	10327	Unreliable
+	"35-44 years"	"35-44"	"Pike County, KY"	"21195"	16	23481	Unreliable
+	"35-44 years"	"35-44"	"Rowan County, KY"	"21205"	11	7413	Unreliable
+	"35-44 years"	"35-44"	"Scott County, KY"	"21209"	12	23355	Unreliable
+	"35-44 years"	"35-44"	"East Baton Rouge Parish, LA"	"22033"	17	156261	Unreliable
+	"35-44 years"	"35-44"	"Jefferson Parish, LA"	"22051"	99	162943	60.8
+	"35-44 years"	"35-44"	"Orleans Parish, LA"	"22071"	32	154047	20.8
+	"35-44 years"	"35-44"	"Rapides Parish, LA"	"22079"	10	47078	Unreliable
+	"35-44 years"	"35-44"	"St. Tammany Parish, LA"	"22103"	30	96093	31.2
+	"35-44 years"	"35-44"	"Washington Parish, LA"	"22117"	18	16434	Unreliable
+	"35-44 years"	"35-44"	"Androscoggin County, ME"	"23001"	19	38401	Unreliable
+	"35-44 years"	"35-44"	"Cumberland County, ME"	"23005"	54	106114	50.9
+	"35-44 years"	"35-44"	"Kennebec County, ME"	"23011"	36	41604	86.5
+	"35-44 years"	"35-44"	"Penobscot County, ME"	"23019"	32	50866	62.9
+	"35-44 years"	"35-44"	"Washington County, ME"	"23029"	14	9800	Unreliable
+	"35-44 years"	"35-44"	"York County, ME"	"23031"	46	69100	66.6
+	"35-44 years"	"35-44"	"Allegany County, MD"	"24001"	24	25046	95.8
+	"35-44 years"	"35-44"	"Anne Arundel County, MD"	"24003"	127	222213	57.2
+	"35-44 years"	"35-44"	"Baltimore County, MD"	"24005"	235	301980	77.8
+	"35-44 years"	"35-44"	"Calvert County, MD"	"24009"	18	31924	Unreliable
+	"35-44 years"	"35-44"	"Carroll County, MD"	"24013"	28	55965	50.0
+	"35-44 years"	"35-44"	"Cecil County, MD"	"24015"	25	36704	68.1
+	"35-44 years"	"35-44"	"Charles County, MD"	"24017"	20	61716	32.4
+	"35-44 years"	"35-44"	"Frederick County, MD"	"24021"	51	95489	53.4
+	"35-44 years"	"35-44"	"Harford County, MD"	"24025"	51	91171	55.9
+	"35-44 years"	"35-44"	"Howard County, MD"	"24027"	34	132567	25.6
+	"35-44 years"	"35-44"	"Montgomery County, MD"	"24031"	66	433291	15.2
+	"35-44 years"	"35-44"	"Prince George's County, MD"	"24033"	52	368900	14.1
+	"35-44 years"	"35-44"	"Queen Anne's County, MD"	"24035"	11	16062	Unreliable
+	"35-44 years"	"35-44"	"St. Mary's County, MD"	"24037"	24	41429	57.9
+	"35-44 years"	"35-44"	"Washington County, MD"	"24043"	46	56028	82.1
+	"35-44 years"	"35-44"	"Wicomico County, MD"	"24045"	15	33627	Unreliable
+	"35-44 years"	"35-44"	"Worcester County, MD"	"24047"	17	14558	Unreliable
+	"35-44 years"	"35-44"	"Baltimore city, MD"	"24510"	166	224292	74.0
+	"35-44 years"	"35-44"	"Barnstable County, MA"	"25001"	46	55952	82.2
+	"35-44 years"	"35-44"	"Berkshire County, MA"	"25003"	28	39212	71.4
+	"35-44 years"	"35-44"	"Bristol County, MA"	"25005"	173	206018	84.0
+	"35-44 years"	"35-44"	"Essex County, MA"	"25009"	184	278214	66.1
+	"35-44 years"	"35-44"	"Hampden County, MA"	"25013"	88	160363	54.9
+	"35-44 years"	"35-44"	"Hampshire County, MA"	"25015"	26	46720	55.7
+	"35-44 years"	"35-44"	"Middlesex County, MA"	"25017"	228	624761	36.5
+	"35-44 years"	"35-44"	"Norfolk County, MA"	"25021"	106	261610	40.5
+	"35-44 years"	"35-44"	"Plymouth County, MA"	"25023"	145	178160	81.4
+	"35-44 years"	"35-44"	"Suffolk County, MA"	"25025"	168	303561	55.3
+	"35-44 years"	"35-44"	"Worcester County, MA"	"25027"	164	299833	54.7
+	"35-44 years"	"35-44"	"Bay County, MI"	"26017"	13	35806	Unreliable
+	"35-44 years"	"35-44"	"Berrien County, MI"	"26021"	19	52302	Unreliable
+	"35-44 years"	"35-44"	"Calhoun County, MI"	"26025"	40	47010	85.1
+	"35-44 years"	"35-44"	"Eaton County, MI"	"26045"	15	37658	Unreliable
+	"35-44 years"	"35-44"	"Genesee County, MI"	"26049"	86	145603	59.1
+	"35-44 years"	"35-44"	"Grand Traverse County, MI"	"26055"	11	32362	Unreliable
+	"35-44 years"	"35-44"	"Ingham County, MI"	"26065"	36	94786	38.0
+	"35-44 years"	"35-44"	"Kalamazoo County, MI"	"26077"	25	89631	27.9
+	"35-44 years"	"35-44"	"Kent County, MI"	"26081"	56	237002	23.6
+	"35-44 years"	"35-44"	"Lapeer County, MI"	"26087"	10	29854	Unreliable
+	"35-44 years"	"35-44"	"Lenawee County, MI"	"26091"	13	34834	Unreliable
+	"35-44 years"	"35-44"	"Livingston County, MI"	"26093"	17	65168	Unreliable
+	"35-44 years"	"35-44"	"Macomb County, MI"	"26099"	147	319971	45.9
+	"35-44 years"	"35-44"	"Monroe County, MI"	"26115"	32	52571	60.9
+	"35-44 years"	"35-44"	"Muskegon County, MI"	"26121"	38	62014	61.3
+	"35-44 years"	"35-44"	"Oakland County, MI"	"26125"	36	468112	7.7
+	"35-44 years"	"35-44"	"Ottawa County, MI"	"26139"	17	98800	Unreliable
+	"35-44 years"	"35-44"	"Saginaw County, MI"	"26145"	20	63485	31.5
+	"35-44 years"	"35-44"	"St. Clair County, MI"	"26147"	32	54531	58.7
+	"35-44 years"	"35-44"	"Washtenaw County, MI"	"26161"	28	124173	22.5
+	"35-44 years"	"35-44"	"Wayne County, MI"	"26163"	339	633370	53.5
+	"35-44 years"	"35-44"	"Anoka County, MN"	"27003"	11	136999	Unreliable
+	"35-44 years"	"35-44"	"Dakota County, MN"	"27037"	22	164761	13.4
+	"35-44 years"	"35-44"	"Hennepin County, MN"	"27053"	76	490387	15.5
+	"35-44 years"	"35-44"	"Ramsey County, MN"	"27123"	17	194907	Unreliable
+	"35-44 years"	"35-44"	"St. Louis County, MN"	"27137"	20	65357	30.6
+	"35-44 years"	"35-44"	"Washington County, MN"	"27163"	14	98218	Unreliable
+	"35-44 years"	"35-44"	"DeSoto County, MS"	"28033"	25	76182	32.8
+	"35-44 years"	"35-44"	"Harrison County, MS"	"28047"	17	74895	Unreliable
+	"35-44 years"	"35-44"	"Jackson County, MS"	"28059"	12	53901	Unreliable
+	"35-44 years"	"35-44"	"Clay County, MO"	"29047"	11	98868	Unreliable
+	"35-44 years"	"35-44"	"Franklin County, MO"	"29071"	20	35061	57.0
+	"35-44 years"	"35-44"	"Greene County, MO"	"29077"	27	100553	26.9
+	"35-44 years"	"35-44"	"Jackson County, MO"	"29095"	36	258201	13.9
+	"35-44 years"	"35-44"	"Jefferson County, MO"	"29099"	63	87339	72.1
+	"35-44 years"	"35-44"	"Lincoln County, MO"	"29113"	10	20738	Unreliable
+	"35-44 years"	"35-44"	"St. Charles County, MO"	"29183"	56	155032	36.1
+	"35-44 years"	"35-44"	"St. Louis County, MO"	"29189"	189	351632	53.7
+	"35-44 years"	"35-44"	"St. Louis city, MO"	"29510"	123	122043	100.8
+	"35-44 years"	"35-44"	"Douglas County, NE"	"31055"	19	218042	Unreliable
+	"35-44 years"	"35-44"	"Clark County, NV"	"32003"	181	897336	20.2
+	"35-44 years"	"35-44"	"Washoe County, NV"	"32031"	32	164427	19.5
+	"35-44 years"	"35-44"	"Belknap County, NH"	"33001"	14	19928	Unreliable
+	"35-44 years"	"35-44"	"Cheshire County, NH"	"33005"	13	23395	Unreliable
+	"35-44 years"	"35-44"	"Hillsborough County, NH"	"33011"	121	149869	80.7
+	"35-44 years"	"35-44"	"Merrimack County, NH"	"33013"	23	51727	44.5
+	"35-44 years"	"35-44"	"Rockingham County, NH"	"33015"	72	106545	67.6
+	"35-44 years"	"35-44"	"Strafford County, NH"	"33017"	34	42813	79.4
+	"35-44 years"	"35-44"	"Atlantic County, NJ"	"34001"	57	93037	61.3
+	"35-44 years"	"35-44"	"Bergen County, NJ"	"34003"	61	375071	16.3
+	"35-44 years"	"35-44"	"Burlington County, NJ"	"34005"	32	165621	19.3
+	"35-44 years"	"35-44"	"Camden County, NJ"	"34007"	10	193007	Unreliable
+	"35-44 years"	"35-44"	"Cape May County, NJ"	"34009"	20	25951	77.1
+	"35-44 years"	"35-44"	"Cumberland County, NJ"	"34011"	27	61173	44.1
+	"35-44 years"	"35-44"	"Essex County, NJ"	"34013"	81	337933	24.0
+	"35-44 years"	"35-44"	"Gloucester County, NJ"	"34015"	12	109511	Unreliable
+	"35-44 years"	"35-44"	"Hudson County, NJ"	"34017"	70	321956	21.7
+	"35-44 years"	"35-44"	"Mercer County, NJ"	"34021"	29	143768	20.2
+	"35-44 years"	"35-44"	"Middlesex County, NJ"	"34023"	96	347753	27.6
+	"35-44 years"	"35-44"	"Monmouth County, NJ"	"34025"	90	217832	41.3
+	"35-44 years"	"35-44"	"Morris County, NJ"	"34027"	46	184355	25.0
+	"35-44 years"	"35-44"	"Ocean County, NJ"	"34029"	97	180807	53.6
+	"35-44 years"	"35-44"	"Passaic County, NJ"	"34031"	52	196181	26.5
+	"35-44 years"	"35-44"	"Somerset County, NJ"	"34035"	26	131477	19.8
+	"35-44 years"	"35-44"	"Sussex County, NJ"	"34037"	21	48147	43.6
+	"35-44 years"	"35-44"	"Union County, NJ"	"34039"	45	232067	19.4
+	"35-44 years"	"35-44"	"Warren County, NJ"	"34041"	21	36139	58.1
+	"35-44 years"	"35-44"	"Bernalillo County, NM"	"35001"	88	255533	34.4
+	"35-44 years"	"35-44"	"Dona Ana County, NM"	"35013"	17	69095	Unreliable
+	"35-44 years"	"35-44"	"Rio Arriba County, NM"	"35039"	25	13294	188.1
+	"35-44 years"	"35-44"	"Sandoval County, NM"	"35043"	12	53064	Unreliable
+	"35-44 years"	"35-44"	"San Juan County, NM"	"35045"	10	43823	Unreliable
+	"35-44 years"	"35-44"	"San Miguel County, NM"	"35047"	10	8660	Unreliable
+	"35-44 years"	"35-44"	"Santa Fe County, NM"	"35049"	25	50684	49.3
+	"35-44 years"	"35-44"	"Albany County, NY"	"36001"	23	104854	21.9
+	"35-44 years"	"35-44"	"Bronx County, NY"	"36005"	133	556874	23.9
+	"35-44 years"	"35-44"	"Broome County, NY"	"36007"	33	58531	56.4
+	"35-44 years"	"35-44"	"Cayuga County, NY"	"36011"	14	26541	Unreliable
+	"35-44 years"	"35-44"	"Chautauqua County, NY"	"36013"	15	41096	Unreliable
+	"35-44 years"	"35-44"	"Columbia County, NY"	"36021"	10	19411	Unreliable
+	"35-44 years"	"35-44"	"Dutchess County, NY"	"36027"	34	102000	33.3
+	"35-44 years"	"35-44"	"Erie County, NY"	"36029"	155	305170	50.8
+	"35-44 years"	"35-44"	"Greene County, NY"	"36039"	11	15732	Unreliable
+	"35-44 years"	"35-44"	"Kings County, NY"	"36047"	161	1100858	14.6
+	"35-44 years"	"35-44"	"Monroe County, NY"	"36055"	80	251177	31.9
+	"35-44 years"	"35-44"	"Nassau County, NY"	"36059"	117	489866	23.9
+	"35-44 years"	"35-44"	"New York County, NY"	"36061"	98	717779	13.7
+	"35-44 years"	"35-44"	"Niagara County, NY"	"36063"	25	70523	35.4
+	"35-44 years"	"35-44"	"Oneida County, NY"	"36065"	31	76474	40.5
+	"35-44 years"	"35-44"	"Onondaga County, NY"	"36067"	57	155107	36.7
+	"35-44 years"	"35-44"	"Orange County, NY"	"36071"	57	135964	41.9
+	"35-44 years"	"35-44"	"Oswego County, NY"	"36075"	14	39005	Unreliable
+	"35-44 years"	"35-44"	"Putnam County, NY"	"36079"	12	34962	Unreliable
+	"35-44 years"	"35-44"	"Queens County, NY"	"36081"	111	984525	11.3
+	"35-44 years"	"35-44"	"Rensselaer County, NY"	"36083"	15	55913	Unreliable
+	"35-44 years"	"35-44"	"Richmond County, NY"	"36085"	60	181369	33.1
+	"35-44 years"	"35-44"	"Rockland County, NY"	"36087"	21	107795	19.5
+	"35-44 years"	"35-44"	"St. Lawrence County, NY"	"36089"	14	35929	Unreliable
+	"35-44 years"	"35-44"	"Schenectady County, NY"	"36093"	20	56326	35.5
+	"35-44 years"	"35-44"	"Suffolk County, NY"	"36103"	230	539541	42.6
+	"35-44 years"	"35-44"	"Sullivan County, NY"	"36105"	20	25702	77.8
+	"35-44 years"	"35-44"	"Tompkins County, NY"	"36109"	10	32034	Unreliable
+	"35-44 years"	"35-44"	"Ulster County, NY"	"36111"	32	62399	51.3
+	"35-44 years"	"35-44"	"Westchester County, NY"	"36119"	56	376133	14.9
+	"35-44 years"	"35-44"	"Alamance County, NC"	"37001"	15	57149	Unreliable
+	"35-44 years"	"35-44"	"Beaufort County, NC"	"37013"	17	15951	Unreliable
+	"35-44 years"	"35-44"	"Brunswick County, NC"	"37019"	32	37780	84.7
+	"35-44 years"	"35-44"	"Buncombe County, NC"	"37021"	35	101028	34.6
+	"35-44 years"	"35-44"	"Burke County, NC"	"37023"	19	30892	Unreliable
+	"35-44 years"	"35-44"	"Cabarrus County, NC"	"37025"	16	87439	Unreliable
+	"35-44 years"	"35-44"	"Caldwell County, NC"	"37027"	12	29342	Unreliable
+	"35-44 years"	"35-44"	"Catawba County, NC"	"37035"	21	57414	36.6
+	"35-44 years"	"35-44"	"Cleveland County, NC"	"37045"	11	32723	Unreliable
+	"35-44 years"	"35-44"	"Columbus County, NC"	"37047"	11	19936	Unreliable
+	"35-44 years"	"35-44"	"Craven County, NC"	"37049"	22	32834	67.0
+	"35-44 years"	"35-44"	"Cumberland County, NC"	"37051"	39	115781	33.7
+	"35-44 years"	"35-44"	"Davidson County, NC"	"37057"	27	60017	45.0
+	"35-44 years"	"35-44"	"Davie County, NC"	"37059"	10	14512	Unreliable
+	"35-44 years"	"35-44"	"Durham County, NC"	"37063"	19	131276	Unreliable
+	"35-44 years"	"35-44"	"Forsyth County, NC"	"37067"	41	136328	30.1
+	"35-44 years"	"35-44"	"Gaston County, NC"	"37071"	36	83415	43.2
+	"35-44 years"	"35-44"	"Guilford County, NC"	"37081"	52	196023	26.5
+	"35-44 years"	"35-44"	"Harnett County, NC"	"37085"	13	53283	Unreliable
+	"35-44 years"	"35-44"	"Henderson County, NC"	"37089"	15	38650	Unreliable
+	"35-44 years"	"35-44"	"Iredell County, NC"	"37097"	20	67293	29.7
+	"35-44 years"	"35-44"	"Johnston County, NC"	"37101"	15	81720	Unreliable
+	"35-44 years"	"35-44"	"Lee County, NC"	"37105"	10	22151	Unreliable
+	"35-44 years"	"35-44"	"Mecklenburg County, NC"	"37119"	111	471797	23.5
+	"35-44 years"	"35-44"	"Nash County, NC"	"37127"	12	33053	Unreliable
+	"35-44 years"	"35-44"	"New Hanover County, NC"	"37129"	47	84225	55.8
+	"35-44 years"	"35-44"	"Onslow County, NC"	"37133"	18	58454	Unreliable
+	"35-44 years"	"35-44"	"Pender County, NC"	"37141"	12	22900	Unreliable
+	"35-44 years"	"35-44"	"Pitt County, NC"	"37147"	20	62245	32.1
+	"35-44 years"	"35-44"	"Randolph County, NC"	"37151"	30	52169	57.5
+	"35-44 years"	"35-44"	"Rockingham County, NC"	"37157"	14	31328	Unreliable
+	"35-44 years"	"35-44"	"Rowan County, NC"	"37159"	31	49939	62.1
+	"35-44 years"	"35-44"	"Stokes County, NC"	"37169"	11	15625	Unreliable
+	"35-44 years"	"35-44"	"Surry County, NC"	"37171"	10	25600	Unreliable
+	"35-44 years"	"35-44"	"Union County, NC"	"37179"	18	95656	Unreliable
+	"35-44 years"	"35-44"	"Wake County, NC"	"37183"	65	476428	13.6
+	"35-44 years"	"35-44"	"Wayne County, NC"	"37191"	14	43353	Unreliable
+	"35-44 years"	"35-44"	"Wilkes County, NC"	"37193"	13	23895	Unreliable
+	"35-44 years"	"35-44"	"Adams County, OH"	"39001"	11	10161	Unreliable
+	"35-44 years"	"35-44"	"Allen County, OH"	"39003"	14	36060	Unreliable
+	"35-44 years"	"35-44"	"Ashtabula County, OH"	"39007"	20	33697	59.4
+	"35-44 years"	"35-44"	"Athens County, OH"	"39009"	12	19579	Unreliable
+	"35-44 years"	"35-44"	"Belmont County, OH"	"39013"	12	24161	Unreliable
+	"35-44 years"	"35-44"	"Brown County, OH"	"39015"	15	16045	Unreliable
+	"35-44 years"	"35-44"	"Butler County, OH"	"39017"	162	136715	118.5
+	"35-44 years"	"35-44"	"Clark County, OH"	"39023"	59	44624	132.2
+	"35-44 years"	"35-44"	"Clermont County, OH"	"39025"	75	76150	98.5
+	"35-44 years"	"35-44"	"Columbiana County, OH"	"39029"	13	37469	Unreliable
+	"35-44 years"	"35-44"	"Cuyahoga County, OH"	"39035"	290	429472	67.5
+	"35-44 years"	"35-44"	"Darke County, OH"	"39037"	18	17639	Unreliable
+	"35-44 years"	"35-44"	"Erie County, OH"	"39043"	19	23846	Unreliable
+	"35-44 years"	"35-44"	"Fairfield County, OH"	"39045"	23	59115	38.9
+	"35-44 years"	"35-44"	"Fayette County, OH"	"39047"	15	10401	Unreliable
+	"35-44 years"	"35-44"	"Franklin County, OH"	"39049"	237	506853	46.8
+	"35-44 years"	"35-44"	"Gallia County, OH"	"39053"	11	10397	Unreliable
+	"35-44 years"	"35-44"	"Geauga County, OH"	"39055"	15	29191	Unreliable
+	"35-44 years"	"35-44"	"Greene County, OH"	"39057"	40	54856	72.9
+	"35-44 years"	"35-44"	"Hamilton County, OH"	"39061"	264	283333	93.2
+	"35-44 years"	"35-44"	"Hancock County, OH"	"39063"	14	26367	Unreliable
+	"35-44 years"	"35-44"	"Highland County, OH"	"39071"	11	15525	Unreliable
+	"35-44 years"	"35-44"	"Huron County, OH"	"39077"	11	20679	Unreliable
+	"35-44 years"	"35-44"	"Jefferson County, OH"	"39081"	14	21654	Unreliable
+	"35-44 years"	"35-44"	"Lake County, OH"	"39085"	50	79111	63.2
+	"35-44 years"	"35-44"	"Lawrence County, OH"	"39087"	23	22654	101.5
+	"35-44 years"	"35-44"	"Licking County, OH"	"39089"	15	62233	Unreliable
+	"35-44 years"	"35-44"	"Logan County, OH"	"39091"	10	16200	Unreliable
+	"35-44 years"	"35-44"	"Lorain County, OH"	"39093"	67	112114	59.8
+	"35-44 years"	"35-44"	"Lucas County, OH"	"39095"	112	150870	74.2
+	"35-44 years"	"35-44"	"Mahoning County, OH"	"39099"	62	77744	79.7
+	"35-44 years"	"35-44"	"Marion County, OH"	"39101"	24	24581	97.6
+	"35-44 years"	"35-44"	"Medina County, OH"	"39103"	35	66774	52.4
+	"35-44 years"	"35-44"	"Miami County, OH"	"39109"	28	37649	74.4
+	"35-44 years"	"35-44"	"Montgomery County, OH"	"39113"	291	181609	160.2
+	"35-44 years"	"35-44"	"Portage County, OH"	"39133"	29	51835	55.9
+	"35-44 years"	"35-44"	"Richland County, OH"	"39139"	43	42901	100.2
+	"35-44 years"	"35-44"	"Ross County, OH"	"39141"	32	30765	104.0
+	"35-44 years"	"35-44"	"Scioto County, OH"	"39145"	26	28145	92.4
+	"35-44 years"	"35-44"	"Shelby County, OH"	"39149"	17	17170	Unreliable
+	"35-44 years"	"35-44"	"Stark County, OH"	"39151"	64	126932	50.4
+	"35-44 years"	"35-44"	"Summit County, OH"	"39153"	138	188800	73.1
+	"35-44 years"	"35-44"	"Trumbull County, OH"	"39155"	85	67161	126.6
+	"35-44 years"	"35-44"	"Tuscarawas County, OH"	"39157"	11	32309	Unreliable
+	"35-44 years"	"35-44"	"Warren County, OH"	"39165"	35	93136	37.6
+	"35-44 years"	"35-44"	"Wayne County, OH"	"39169"	17	38538	Unreliable
+	"35-44 years"	"35-44"	"Wood County, OH"	"39173"	17	43398	Unreliable
+	"35-44 years"	"35-44"	"Cleveland County, OK"	"40027"	18	106519	Unreliable
+	"35-44 years"	"35-44"	"Muskogee County, OK"	"40101"	12	25116	Unreliable
+	"35-44 years"	"35-44"	"Oklahoma County, OK"	"40109"	57	297476	19.2
+	"35-44 years"	"35-44"	"Tulsa County, OK"	"40143"	59	246445	23.9
+	"35-44 years"	"35-44"	"Clackamas County, OR"	"41005"	13	157035	Unreliable
+	"35-44 years"	"35-44"	"Lane County, OR"	"41039"	27	129673	20.8
+	"35-44 years"	"35-44"	"Multnomah County, OR"	"41051"	74	387993	19.1
+	"35-44 years"	"35-44"	"Washington County, OR"	"41067"	24	261003	9.2
+	"35-44 years"	"35-44"	"Allegheny County, PA"	"42003"	356	420811	84.6
+	"35-44 years"	"35-44"	"Armstrong County, PA"	"42005"	10	22439	Unreliable
+	"35-44 years"	"35-44"	"Beaver County, PA"	"42007"	27	55554	48.6
+	"35-44 years"	"35-44"	"Berks County, PA"	"42011"	39	144703	27.0
+	"35-44 years"	"35-44"	"Blair County, PA"	"42013"	19	42619	Unreliable
+	"35-44 years"	"35-44"	"Bucks County, PA"	"42017"	40	218526	18.3
+	"35-44 years"	"35-44"	"Butler County, PA"	"42019"	57	65456	87.1
+	"35-44 years"	"35-44"	"Cambria County, PA"	"42021"	30	44141	68.0
+	"35-44 years"	"35-44"	"Chester County, PA"	"42029"	22	190600	11.5
+	"35-44 years"	"35-44"	"Crawford County, PA"	"42039"	14	27918	Unreliable
+	"35-44 years"	"35-44"	"Cumberland County, PA"	"42041"	27	90186	29.9
+	"35-44 years"	"35-44"	"Dauphin County, PA"	"42043"	13	97938	Unreliable
+	"35-44 years"	"35-44"	"Delaware County, PA"	"42045"	67	199764	33.5
+	"35-44 years"	"35-44"	"Erie County, PA"	"42049"	46	92353	49.8
+	"35-44 years"	"35-44"	"Fayette County, PA"	"42051"	36	45860	78.5
+	"35-44 years"	"35-44"	"Franklin County, PA"	"42055"	16	54496	Unreliable
+	"35-44 years"	"35-44"	"Indiana County, PA"	"42063"	16	25510	Unreliable
+	"35-44 years"	"35-44"	"Lackawanna County, PA"	"42069"	47	70652	66.5
+	"35-44 years"	"35-44"	"Lancaster County, PA"	"42071"	25	182824	13.7
+	"35-44 years"	"35-44"	"Lawrence County, PA"	"42073"	34	28521	119.2
+	"35-44 years"	"35-44"	"Lebanon County, PA"	"42075"	11	48508	Unreliable
+	"35-44 years"	"35-44"	"Lehigh County, PA"	"42077"	25	134236	18.6
+	"35-44 years"	"35-44"	"Luzerne County, PA"	"42079"	10	109274	Unreliable
+	"35-44 years"	"35-44"	"Lycoming County, PA"	"42081"	11	37739	Unreliable
+	"35-44 years"	"35-44"	"Mercer County, PA"	"42085"	10	35869	Unreliable
+	"35-44 years"	"35-44"	"Monroe County, PA"	"42089"	12	53712	Unreliable
+	"35-44 years"	"35-44"	"Montgomery County, PA"	"42091"	93	305352	30.5
+	"35-44 years"	"35-44"	"Northampton County, PA"	"42095"	49	105374	46.5
+	"35-44 years"	"35-44"	"Philadelphia County, PA"	"42101"	25	579782	4.3
+	"35-44 years"	"35-44"	"Schuylkill County, PA"	"42107"	21	52188	40.2
+	"35-44 years"	"35-44"	"Somerset County, PA"	"42111"	10	26907	Unreliable
+	"35-44 years"	"35-44"	"Washington County, PA"	"42125"	71	71498	99.3
+	"35-44 years"	"35-44"	"Westmoreland County, PA"	"42129"	16	115865	Unreliable
+	"35-44 years"	"35-44"	"York County, PA"	"42133"	41	161005	25.5
+	"35-44 years"	"35-44"	"Kent County, RI"	"44003"	29	59350	48.9
+	"35-44 years"	"35-44"	"Newport County, RI"	"44005"	11	27701	Unreliable
+	"35-44 years"	"35-44"	"Providence County, RI"	"44007"	109	231611	47.1
+	"35-44 years"	"35-44"	"Washington County, RI"	"44009"	15	36151	Unreliable
+	"35-44 years"	"35-44"	"Aiken County, SC"	"45003"	20	57354	34.9
+	"35-44 years"	"35-44"	"Anderson County, SC"	"45007"	18	70764	Unreliable
+	"35-44 years"	"35-44"	"Berkeley County, SC"	"45015"	24	82749	29.0
+	"35-44 years"	"35-44"	"Charleston County, SC"	"45019"	31	149929	20.7
+	"35-44 years"	"35-44"	"Dorchester County, SC"	"45035"	10	61908	Unreliable
+	"35-44 years"	"35-44"	"Florence County, SC"	"45041"	12	51618	Unreliable
+	"35-44 years"	"35-44"	"Greenville County, SC"	"45045"	54	193572	27.9
+	"35-44 years"	"35-44"	"Horry County, SC"	"45051"	57	109744	51.9
+	"35-44 years"	"35-44"	"Lancaster County, SC"	"45057"	14	35524	Unreliable
+	"35-44 years"	"35-44"	"Lexington County, SC"	"45063"	22	111616	19.7
+	"35-44 years"	"35-44"	"Pickens County, SC"	"45077"	12	39560	Unreliable
+	"35-44 years"	"35-44"	"Richland County, SC"	"45079"	33	150371	21.9
+	"35-44 years"	"35-44"	"Spartanburg County, SC"	"45083"	32	109701	29.2
+	"35-44 years"	"35-44"	"York County, SC"	"45091"	29	106581	27.2
+	"35-44 years"	"35-44"	"Anderson County, TN"	"47001"	18	26752	Unreliable
+	"35-44 years"	"35-44"	"Blount County, TN"	"47009"	27	45696	59.1
+	"35-44 years"	"35-44"	"Carter County, TN"	"47019"	11	19881	Unreliable
+	"35-44 years"	"35-44"	"Cheatham County, TN"	"47021"	14	15407	Unreliable
+	"35-44 years"	"35-44"	"Davidson County, TN"	"47037"	116	281246	41.2
+	"35-44 years"	"35-44"	"Greene County, TN"	"47059"	10	24428	Unreliable
+	"35-44 years"	"35-44"	"Hamblen County, TN"	"47063"	11	23944	Unreliable
+	"35-44 years"	"35-44"	"Hamilton County, TN"	"47065"	44	132990	33.1
+	"35-44 years"	"35-44"	"Hawkins County, TN"	"47073"	12	19862	Unreliable
+	"35-44 years"	"35-44"	"Knox County, TN"	"47093"	102	170496	59.8
+	"35-44 years"	"35-44"	"Montgomery County, TN"	"47125"	18	77832	Unreliable
+	"35-44 years"	"35-44"	"Roane County, TN"	"47145"	12	17534	Unreliable
+	"35-44 years"	"35-44"	"Rutherford County, TN"	"47149"	37	130749	28.3
+	"35-44 years"	"35-44"	"Sevier County, TN"	"47155"	14	34496	Unreliable
+	"35-44 years"	"35-44"	"Shelby County, TN"	"47157"	103	353956	29.1
+	"35-44 years"	"35-44"	"Sullivan County, TN"	"47163"	25	54974	45.5
+	"35-44 years"	"35-44"	"Sumner County, TN"	"47165"	13	71986	Unreliable
+	"35-44 years"	"35-44"	"Washington County, TN"	"47179"	10	45361	Unreliable
+	"35-44 years"	"35-44"	"Williamson County, TN"	"47187"	11	94806	Unreliable
+	"35-44 years"	"35-44"	"Wilson County, TN"	"47189"	18	54416	Unreliable
+	"35-44 years"	"35-44"	"Bexar County, TX"	"48029"	73	771129	9.5
+	"35-44 years"	"35-44"	"Collin County, TX"	"48085"	20	452313	4.4
+	"35-44 years"	"35-44"	"Dallas County, TX"	"48113"	98	1075388	9.1
+	"35-44 years"	"35-44"	"Denton County, TX"	"48121"	24	374029	6.4
+	"35-44 years"	"35-44"	"El Paso County, TX"	"48141"	28	313101	8.9
+	"35-44 years"	"35-44"	"Fort Bend County, TX"	"48157"	14	338877	Unreliable
+	"35-44 years"	"35-44"	"Galveston County, TX"	"48167"	15	128839	Unreliable
+	"35-44 years"	"35-44"	"Harris County, TX"	"48201"	165	1964299	8.4
+	"35-44 years"	"35-44"	"Lubbock County, TX"	"48303"	14	102776	Unreliable
+	"35-44 years"	"35-44"	"Montgomery County, TX"	"48339"	22	226496	9.7
+	"35-44 years"	"35-44"	"Nueces County, TX"	"48355"	19	134843	Unreliable
+	"35-44 years"	"35-44"	"Tarrant County, TX"	"48439"	49	827348	5.9
+	"35-44 years"	"35-44"	"Travis County, TX"	"48453"	48	568252	8.4
+	"35-44 years"	"35-44"	"Webb County, TX"	"48479"	12	105663	Unreliable
+	"35-44 years"	"35-44"	"Williamson County, TX"	"48491"	12	257188	Unreliable
+	"35-44 years"	"35-44"	"Davis County, UT"	"49011"	26	146747	17.7
+	"35-44 years"	"35-44"	"Salt Lake County, UT"	"49035"	152	486752	31.2
+	"35-44 years"	"35-44"	"Utah County, UT"	"49049"	75	221562	33.9
+	"35-44 years"	"35-44"	"Washington County, UT"	"49053"	14	54644	Unreliable
+	"35-44 years"	"35-44"	"Weber County, UT"	"49057"	38	100251	37.9
+	"35-44 years"	"35-44"	"Chittenden County, VT"	"50007"	16	55485	Unreliable
+	"35-44 years"	"35-44"	"Caroline County, VA"	"51033"	11	11480	Unreliable
+	"35-44 years"	"35-44"	"Chesterfield County, VA"	"51041"	25	136632	18.3
+	"35-44 years"	"35-44"	"Fairfax County, VA"	"51059"	52	497652	10.4
+	"35-44 years"	"35-44"	"Fauquier County, VA"	"51061"	14	24057	Unreliable
+	"35-44 years"	"35-44"	"Frederick County, VA"	"51069"	12	31477	Unreliable
+	"35-44 years"	"35-44"	"Henrico County, VA"	"51087"	40	131392	30.4
+	"35-44 years"	"35-44"	"Orange County, VA"	"51137"	12	12197	Unreliable
+	"35-44 years"	"35-44"	"Prince William County, VA"	"51153"	31	209164	14.8
+	"35-44 years"	"35-44"	"Roanoke County, VA"	"51161"	12	33295	Unreliable
+	"35-44 years"	"35-44"	"Spotsylvania County, VA"	"51177"	21	50701	41.4
+	"35-44 years"	"35-44"	"Stafford County, VA"	"51179"	16	58922	Unreliable
+	"35-44 years"	"35-44"	"Chesapeake city, VA"	"51550"	32	94391	33.9
+	"35-44 years"	"35-44"	"Hampton city, VA"	"51650"	17	44641	Unreliable
+	"35-44 years"	"35-44"	"Newport News city, VA"	"51700"	29	63611	45.6
+	"35-44 years"	"35-44"	"Norfolk city, VA"	"51710"	31	82523	37.6
+	"35-44 years"	"35-44"	"Portsmouth city, VA"	"51740"	18	33633	Unreliable
+	"35-44 years"	"35-44"	"Richmond city, VA"	"51760"	36	77549	46.4
+	"35-44 years"	"35-44"	"Roanoke city, VA"	"51770"	20	37049	54.0
+	"35-44 years"	"35-44"	"Virginia Beach city, VA"	"51810"	47	174390	27.0
+	"35-44 years"	"35-44"	"Benton County, WA"	"53005"	14	70942	Unreliable
+	"35-44 years"	"35-44"	"Clark County, WA"	"53011"	18	186468	Unreliable
+	"35-44 years"	"35-44"	"King County, WA"	"53033"	127	956054	13.3
+	"35-44 years"	"35-44"	"Pierce County, WA"	"53053"	51	330702	15.4
+	"35-44 years"	"35-44"	"Snohomish County, WA"	"53061"	56	325266	17.2
+	"35-44 years"	"35-44"	"Spokane County, WA"	"53063"	28	178598	15.7
+	"35-44 years"	"35-44"	"Thurston County, WA"	"53067"	14	107504	Unreliable
+	"35-44 years"	"35-44"	"Whatcom County, WA"	"53073"	11	75072	Unreliable
+	"35-44 years"	"35-44"	"Berkeley County, WV"	"54003"	67	45337	147.8
+	"35-44 years"	"35-44"	"Boone County, WV"	"54005"	14	9336	Unreliable
+	"35-44 years"	"35-44"	"Cabell County, WV"	"54011"	87	33823	257.2
+	"35-44 years"	"35-44"	"Fayette County, WV"	"54019"	10	16625	Unreliable
+	"35-44 years"	"35-44"	"Hancock County, WV"	"54029"	12	10595	Unreliable
+	"35-44 years"	"35-44"	"Harrison County, WV"	"54033"	16	25426	Unreliable
+	"35-44 years"	"35-44"	"Jefferson County, WV"	"54037"	19	21828	Unreliable
+	"35-44 years"	"35-44"	"Kanawha County, WV"	"54039"	68	68179	99.7
+	"35-44 years"	"35-44"	"Logan County, WV"	"54045"	21	13590	154.5
+	"35-44 years"	"35-44"	"McDowell County, WV"	"54047"	14	6918	Unreliable
+	"35-44 years"	"35-44"	"Mason County, WV"	"54053"	11	9941	Unreliable
+	"35-44 years"	"35-44"	"Mercer County, WV"	"54055"	29	21311	136.1
+	"35-44 years"	"35-44"	"Mingo County, WV"	"54059"	18	9605	Unreliable
+	"35-44 years"	"35-44"	"Monongalia County, WV"	"54061"	20	36766	54.4
+	"35-44 years"	"35-44"	"Ohio County, WV"	"54069"	12	13981	Unreliable
+	"35-44 years"	"35-44"	"Putnam County, WV"	"54079"	16	22971	Unreliable
+	"35-44 years"	"35-44"	"Raleigh County, WV"	"54081"	51	30084	169.5
+	"35-44 years"	"35-44"	"Summers County, WV"	"54089"	10	5004	Unreliable
+	"35-44 years"	"35-44"	"Wayne County, WV"	"54099"	30	15126	198.3
+	"35-44 years"	"35-44"	"Wood County, WV"	"54107"	20	30941	64.6
+	"35-44 years"	"35-44"	"Wyoming County, WV"	"54109"	15	8471	Unreliable
+	"35-44 years"	"35-44"	"Brown County, WI"	"55009"	17	97287	Unreliable
+	"35-44 years"	"35-44"	"Columbia County, WI"	"55021"	10	21239	Unreliable
+	"35-44 years"	"35-44"	"Dane County, WI"	"55025"	58	205342	28.2
+	"35-44 years"	"35-44"	"Dodge County, WI"	"55027"	14	33116	Unreliable
+	"35-44 years"	"35-44"	"Jefferson County, WI"	"55055"	11	31649	Unreliable
+	"35-44 years"	"35-44"	"Kenosha County, WI"	"55059"	30	63641	47.1
+	"35-44 years"	"35-44"	"Milwaukee County, WI"	"55079"	197	361487	54.5
+	"35-44 years"	"35-44"	"Racine County, WI"	"55101"	20	70001	28.6
+	"35-44 years"	"35-44"	"Rock County, WI"	"55105"	30	59420	50.5
+	"35-44 years"	"35-44"	"Sheboygan County, WI"	"55117"	11	40842	Unreliable
+	"35-44 years"	"35-44"	"Walworth County, WI"	"55127"	12	34272	Unreliable
+	"35-44 years"	"35-44"	"Washington County, WI"	"55131"	14	49155	Unreliable
+	"35-44 years"	"35-44"	"Waukesha County, WI"	"55133"	26	143794	18.1
+	"35-44 years"	"35-44"	"Winnebago County, WI"	"55139"	19	60347	Unreliable
+"Total"	"35-44 years"	"35-44"			28987	121935309	23.8
+	"45-54 years"	"45-54"	"Baldwin County, AL"	"01003"	12	84373	Unreliable
+	"45-54 years"	"45-54"	"Blount County, AL"	"01009"	10	24000	Unreliable
+	"45-54 years"	"45-54"	"Etowah County, AL"	"01055"	11	41946	Unreliable
+	"45-54 years"	"45-54"	"Jefferson County, AL"	"01073"	82	250474	32.7
+	"45-54 years"	"45-54"	"Mobile County, AL"	"01097"	23	157930	14.6
+	"45-54 years"	"45-54"	"St. Clair County, AL"	"01115"	10	37008	Unreliable
+	"45-54 years"	"45-54"	"Anchorage Borough, AK"	"02020"	18	111616	Unreliable
+	"45-54 years"	"45-54"	"Matanuska-Susitna Borough, AK"	"02170"	16	40391	Unreliable
+	"45-54 years"	"45-54"	"Cochise County, AZ"	"04003"	13	42562	Unreliable
+	"45-54 years"	"45-54"	"Maricopa County, AZ"	"04013"	297	1629047	18.2
+	"45-54 years"	"45-54"	"Mohave County, AZ"	"04015"	27	72517	37.2
+	"45-54 years"	"45-54"	"Pima County, AZ"	"04019"	99	347925	28.5
+	"45-54 years"	"45-54"	"Pinal County, AZ"	"04021"	23	140397	16.4
+	"45-54 years"	"45-54"	"Benton County, AR"	"05007"	19	98697	Unreliable
+	"45-54 years"	"45-54"	"Garland County, AR"	"05051"	13	36704	Unreliable
+	"45-54 years"	"45-54"	"Pulaski County, AR"	"05119"	14	147615	Unreliable
+	"45-54 years"	"45-54"	"Sebastian County, AR"	"05131"	10	50512	Unreliable
+	"45-54 years"	"45-54"	"Alameda County, CA"	"06001"	36	679960	5.3
+	"45-54 years"	"45-54"	"Contra Costa County, CA"	"06013"	31	495456	6.3
+	"45-54 years"	"45-54"	"Fresno County, CA"	"06019"	38	337021	11.3
+	"45-54 years"	"45-54"	"Humboldt County, CA"	"06023"	11	45122	Unreliable
+	"45-54 years"	"45-54"	"Imperial County, CA"	"06025"	14	62903	Unreliable
+	"45-54 years"	"45-54"	"Kern County, CA"	"06029"	52	309024	16.8
+	"45-54 years"	"45-54"	"Lake County, CA"	"06033"	16	24491	Unreliable
+	"45-54 years"	"45-54"	"Los Angeles County, CA"	"06037"	229	4155773	5.5
+	"45-54 years"	"45-54"	"Mendocino County, CA"	"06045"	13	31501	Unreliable
+	"45-54 years"	"45-54"	"Merced County, CA"	"06047"	11	93200	Unreliable
+	"45-54 years"	"45-54"	"Orange County, CA"	"06059"	157	1373890	11.4
+	"45-54 years"	"45-54"	"Riverside County, CA"	"06065"	82	916993	8.9
+	"45-54 years"	"45-54"	"Sacramento County, CA"	"06067"	34	588580	5.8
+	"45-54 years"	"45-54"	"San Bernardino County, CA"	"06071"	28	810008	3.5
+	"45-54 years"	"45-54"	"San Diego County, CA"	"06073"	159	1269901	12.5
+	"45-54 years"	"45-54"	"San Francisco County, CA"	"06075"	74	352414	21.0
+	"45-54 years"	"45-54"	"San Joaquin County, CA"	"06077"	55	278399	19.8
+	"45-54 years"	"45-54"	"San Luis Obispo County, CA"	"06079"	15	97876	Unreliable
+	"45-54 years"	"45-54"	"San Mateo County, CA"	"06081"	13	329700	Unreliable
+	"45-54 years"	"45-54"	"Santa Barbara County, CA"	"06083"	24	151493	15.8
+	"45-54 years"	"45-54"	"Santa Clara County, CA"	"06085"	38	818280	4.6
+	"45-54 years"	"45-54"	"Santa Cruz County, CA"	"06087"	18	105288	Unreliable
+	"45-54 years"	"45-54"	"Shasta County, CA"	"06089"	16	66307	Unreliable
+	"45-54 years"	"45-54"	"Sonoma County, CA"	"06097"	21	201815	10.4
+	"45-54 years"	"45-54"	"Stanislaus County, CA"	"06099"	17	201085	Unreliable
+	"45-54 years"	"45-54"	"Ventura County, CA"	"06111"	35	351104	10.0
+	"45-54 years"	"45-54"	"Adams County, CO"	"08001"	44	189060	23.3
+	"45-54 years"	"45-54"	"Arapahoe County, CO"	"08005"	36	254144	14.2
+	"45-54 years"	"45-54"	"Denver County, CO"	"08031"	41	241819	17.0
+	"45-54 years"	"45-54"	"El Paso County, CO"	"08041"	52	254399	20.4
+	"45-54 years"	"45-54"	"Jefferson County, CO"	"08059"	31	239952	12.9
+	"45-54 years"	"45-54"	"Larimer County, CO"	"08069"	12	115900	Unreliable
+	"45-54 years"	"45-54"	"Mesa County, CO"	"08077"	19	52104	Unreliable
+	"45-54 years"	"45-54"	"Pueblo County, CO"	"08101"	20	60843	32.9
+	"45-54 years"	"45-54"	"Fairfield County, CT"	"09001"	99	434387	22.8
+	"45-54 years"	"45-54"	"Hartford County, CT"	"09003"	191	381293	50.1
+	"45-54 years"	"45-54"	"Litchfield County, CT"	"09005"	36	87995	40.9
+	"45-54 years"	"45-54"	"Middlesex County, CT"	"09007"	32	77105	41.5
+	"45-54 years"	"45-54"	"New Haven County, CT"	"09009"	147	363864	40.4
+	"45-54 years"	"45-54"	"New London County, CT"	"09011"	63	115144	54.7
+	"45-54 years"	"45-54"	"Tolland County, CT"	"09013"	20	63102	31.7
+	"45-54 years"	"45-54"	"Windham County, CT"	"09015"	25	51544	48.5
+	"45-54 years"	"45-54"	"Kent County, DE"	"10001"	18	67507	Unreliable
+	"45-54 years"	"45-54"	"New Castle County, DE"	"10003"	88	233092	37.8
+	"45-54 years"	"45-54"	"Sussex County, DE"	"10005"	28	81428	34.4
+	"45-54 years"	"45-54"	"District of Columbia, DC"	"11001"	166	231229	71.8
+	"45-54 years"	"45-54"	"Bay County, FL"	"12005"	17	74163	Unreliable
+	"45-54 years"	"45-54"	"Brevard County, FL"	"12009"	38	237825	16.0
+	"45-54 years"	"45-54"	"Broward County, FL"	"12011"	115	839067	13.7
+	"45-54 years"	"45-54"	"Citrus County, FL"	"12017"	10	49925	Unreliable
+	"45-54 years"	"45-54"	"Clay County, FL"	"12019"	33	90265	36.6
+	"45-54 years"	"45-54"	"Collier County, FL"	"12021"	28	130917	21.4
+	"45-54 years"	"45-54"	"Duval County, FL"	"12031"	164	364064	45.0
+	"45-54 years"	"45-54"	"Escambia County, FL"	"12033"	16	113977	Unreliable
+	"45-54 years"	"45-54"	"Flagler County, FL"	"12035"	10	39543	Unreliable
+	"45-54 years"	"45-54"	"Hillsborough County, FL"	"12057"	111	563637	19.7
+	"45-54 years"	"45-54"	"Lake County, FL"	"12069"	14	126191	Unreliable
+	"45-54 years"	"45-54"	"Lee County, FL"	"12071"	74	261998	28.2
+	"45-54 years"	"45-54"	"Manatee County, FL"	"12081"	78	141178	55.2
+	"45-54 years"	"45-54"	"Marion County, FL"	"12083"	27	124510	21.7
+	"45-54 years"	"45-54"	"Miami-Dade County, FL"	"12086"	130	1210489	10.7
+	"45-54 years"	"45-54"	"Okaloosa County, FL"	"12091"	17	74259	Unreliable
+	"45-54 years"	"45-54"	"Orange County, FL"	"12095"	105	530602	19.8
+	"45-54 years"	"45-54"	"Osceola County, FL"	"12097"	20	135475	14.8
+	"45-54 years"	"45-54"	"Palm Beach County, FL"	"12099"	154	578290	26.6
+	"45-54 years"	"45-54"	"Pasco County, FL"	"12101"	39	209247	18.6
+	"45-54 years"	"45-54"	"Pinellas County, FL"	"12103"	60	405507	14.8
+	"45-54 years"	"45-54"	"Polk County, FL"	"12105"	26	246614	10.5
+	"45-54 years"	"45-54"	"St. Johns County, FL"	"12109"	15	102823	Unreliable
+	"45-54 years"	"45-54"	"St. Lucie County, FL"	"12111"	21	118565	17.7
+	"45-54 years"	"45-54"	"Santa Rosa County, FL"	"12113"	12	74012	Unreliable
+	"45-54 years"	"45-54"	"Sarasota County, FL"	"12115"	50	146777	34.1
+	"45-54 years"	"45-54"	"Seminole County, FL"	"12117"	39	196736	19.8
+	"45-54 years"	"45-54"	"Volusia County, FL"	"12127"	70	205730	34.0
+	"45-54 years"	"45-54"	"Bartow County, GA"	"13015"	10	45698	Unreliable
+	"45-54 years"	"45-54"	"Carroll County, GA"	"13045"	20	44370	45.1
+	"45-54 years"	"45-54"	"Chatham County, GA"	"13051"	23	101292	22.7
+	"45-54 years"	"45-54"	"Cherokee County, GA"	"13057"	18	111015	Unreliable
+	"45-54 years"	"45-54"	"Clayton County, GA"	"13063"	13	112036	Unreliable
+	"45-54 years"	"45-54"	"Cobb County, GA"	"13067"	63	325986	19.3
+	"45-54 years"	"45-54"	"DeKalb County, GA"	"13089"	27	301490	9.0
+	"45-54 years"	"45-54"	"Douglas County, GA"	"13097"	18	64768	Unreliable
+	"45-54 years"	"45-54"	"Forsyth County, GA"	"13117"	10	110719	Unreliable
+	"45-54 years"	"45-54"	"Fulton County, GA"	"13121"	59	429852	13.7
+	"45-54 years"	"45-54"	"Gwinnett County, GA"	"13135"	36	406757	8.9
+	"45-54 years"	"45-54"	"Hall County, GA"	"13139"	12	80383	Unreliable
+	"45-54 years"	"45-54"	"Haralson County, GA"	"13143"	11	12804	Unreliable
+	"45-54 years"	"45-54"	"Henry County, GA"	"13151"	16	103757	Unreliable
+	"45-54 years"	"45-54"	"Jackson County, GA"	"13157"	11	27905	Unreliable
+	"45-54 years"	"45-54"	"Paulding County, GA"	"13223"	18	73035	Unreliable
+	"45-54 years"	"45-54"	"Richmond County, GA"	"13245"	16	70325	Unreliable
+	"45-54 years"	"45-54"	"Walton County, GA"	"13297"	12	39677	Unreliable
+	"45-54 years"	"45-54"	"Honolulu County, HI"	"15003"	20	362608	5.5
+	"45-54 years"	"45-54"	"Ada County, ID"	"16001"	16	174513	Unreliable
+	"45-54 years"	"45-54"	"Bannock County, ID"	"16005"	10	26567	Unreliable
+	"45-54 years"	"45-54"	"Kootenai County, ID"	"16055"	11	58328	Unreliable
+	"45-54 years"	"45-54"	"Champaign County, IL"	"17019"	19	62017	Unreliable
+	"45-54 years"	"45-54"	"Cook County, IL"	"17031"	755	2016399	37.4
+	"45-54 years"	"45-54"	"DeKalb County, IL"	"17037"	13	35482	Unreliable
+	"45-54 years"	"45-54"	"DuPage County, IL"	"17043"	43	400576	10.7
+	"45-54 years"	"45-54"	"Kane County, IL"	"17089"	24	228796	10.5
+	"45-54 years"	"45-54"	"Lake County, IL"	"17097"	25	312662	8.0
+	"45-54 years"	"45-54"	"LaSalle County, IL"	"17099"	20	45162	44.3
+	"45-54 years"	"45-54"	"McHenry County, IL"	"17111"	27	148234	18.2
+	"45-54 years"	"45-54"	"McLean County, IL"	"17113"	18	61339	Unreliable
+	"45-54 years"	"45-54"	"Macon County, IL"	"17115"	13	39129	Unreliable
+	"45-54 years"	"45-54"	"Madison County, IL"	"17119"	44	107492	40.9
+	"45-54 years"	"45-54"	"Peoria County, IL"	"17143"	21	67947	30.9
+	"45-54 years"	"45-54"	"Sangamon County, IL"	"17167"	15	79698	Unreliable
+	"45-54 years"	"45-54"	"Tazewell County, IL"	"17179"	10	52781	Unreliable
+	"45-54 years"	"45-54"	"Vermilion County, IL"	"17183"	11	29420	Unreliable
+	"45-54 years"	"45-54"	"Will County, IL"	"17197"	56	317365	17.6
+	"45-54 years"	"45-54"	"Winnebago County, IL"	"17201"	56	115483	48.5
+	"45-54 years"	"45-54"	"Allen County, IN"	"18003"	11	139821	Unreliable
+	"45-54 years"	"45-54"	"Clark County, IN"	"18019"	11	47435	Unreliable
+	"45-54 years"	"45-54"	"Grant County, IN"	"18053"	11	25536	Unreliable
+	"45-54 years"	"45-54"	"Hamilton County, IN"	"18057"	10	141911	Unreliable
+	"45-54 years"	"45-54"	"Howard County, IN"	"18067"	15	32674	Unreliable
+	"45-54 years"	"45-54"	"Lake County, IN"	"18089"	48	190745	25.2
+	"45-54 years"	"45-54"	"Madison County, IN"	"18095"	25	53015	47.2
+	"45-54 years"	"45-54"	"Marion County, IN"	"18097"	95	348669	27.2
+	"45-54 years"	"45-54"	"Morgan County, IN"	"18109"	12	31374	Unreliable
+	"45-54 years"	"45-54"	"Porter County, IN"	"18127"	12	67992	Unreliable
+	"45-54 years"	"45-54"	"St. Joseph County, IN"	"18141"	31	99511	31.2
+	"45-54 years"	"45-54"	"Scott County, IN"	"18143"	12	10437	Unreliable
+	"45-54 years"	"45-54"	"Tippecanoe County, IN"	"18157"	12	56418	Unreliable
+	"45-54 years"	"45-54"	"Vanderburgh County, IN"	"18163"	18	67054	Unreliable
+	"45-54 years"	"45-54"	"Wayne County, IN"	"18177"	25	26687	93.7
+	"45-54 years"	"45-54"	"Linn County, IA"	"19113"	15	87247	Unreliable
+	"45-54 years"	"45-54"	"Polk County, IA"	"19153"	36	184111	19.6
+	"45-54 years"	"45-54"	"Scott County, IA"	"19163"	18	67025	Unreliable
+	"45-54 years"	"45-54"	"Johnson County, KS"	"20091"	19	238512	Unreliable
+	"45-54 years"	"45-54"	"Sedgwick County, KS"	"20173"	20	184194	10.9
+	"45-54 years"	"45-54"	"Shawnee County, KS"	"20177"	10	66475	Unreliable
+	"45-54 years"	"45-54"	"Bell County, KY"	"21013"	13	11341	Unreliable
+	"45-54 years"	"45-54"	"Boone County, KY"	"21015"	29	56031	51.8
+	"45-54 years"	"45-54"	"Boyd County, KY"	"21019"	23	19843	115.9
+	"45-54 years"	"45-54"	"Campbell County, KY"	"21037"	44	36756	119.7
+	"45-54 years"	"45-54"	"Fayette County, KY"	"21067"	76	115288	65.9
+	"45-54 years"	"45-54"	"Floyd County, KY"	"21071"	12	15254	Unreliable
+	"45-54 years"	"45-54"	"Grant County, KY"	"21081"	10	10580	Unreliable
+	"45-54 years"	"45-54"	"Hardin County, KY"	"21093"	11	43983	Unreliable
+	"45-54 years"	"45-54"	"Harrison County, KY"	"21097"	13	8201	Unreliable
+	"45-54 years"	"45-54"	"Jefferson County, KY"	"21111"	108	298640	36.2
+	"45-54 years"	"45-54"	"Jessamine County, KY"	"21113"	12	21284	Unreliable
+	"45-54 years"	"45-54"	"Kenton County, KY"	"21117"	67	66397	100.9
+	"45-54 years"	"45-54"	"Knox County, KY"	"21121"	11	12685	Unreliable
+	"45-54 years"	"45-54"	"Madison County, KY"	"21151"	23	33324	69.0
+	"45-54 years"	"45-54"	"Pike County, KY"	"21195"	16	25592	Unreliable
+	"45-54 years"	"45-54"	"Jefferson Parish, LA"	"22051"	73	171983	42.4
+	"45-54 years"	"45-54"	"Livingston Parish, LA"	"22063"	10	55465	Unreliable
+	"45-54 years"	"45-54"	"Orleans Parish, LA"	"22071"	16	145193	Unreliable
+	"45-54 years"	"45-54"	"St. Tammany Parish, LA"	"22103"	48	105867	45.3
+	"45-54 years"	"45-54"	"Washington Parish, LA"	"22117"	12	17332	Unreliable
+	"45-54 years"	"45-54"	"Androscoggin County, ME"	"23001"	11	46160	Unreliable
+	"45-54 years"	"45-54"	"Cumberland County, ME"	"23005"	48	127067	37.8
+	"45-54 years"	"45-54"	"Kennebec County, ME"	"23011"	27	52908	51.0
+	"45-54 years"	"45-54"	"Penobscot County, ME"	"23019"	21	63237	33.2
+	"45-54 years"	"45-54"	"Somerset County, ME"	"23025"	10	23172	Unreliable
+	"45-54 years"	"45-54"	"Washington County, ME"	"23029"	13	12784	Unreliable
+	"45-54 years"	"45-54"	"York County, ME"	"23031"	39	89719	43.5
+	"45-54 years"	"45-54"	"Allegany County, MD"	"24001"	18	27752	Unreliable
+	"45-54 years"	"45-54"	"Anne Arundel County, MD"	"24003"	122	245914	49.6
+	"45-54 years"	"45-54"	"Baltimore County, MD"	"24005"	243	331715	73.3
+	"45-54 years"	"45-54"	"Calvert County, MD"	"24009"	16	45214	Unreliable
+	"45-54 years"	"45-54"	"Carroll County, MD"	"24013"	34	82220	41.4
+	"45-54 years"	"45-54"	"Cecil County, MD"	"24015"	35	47164	74.2
+	"45-54 years"	"45-54"	"Charles County, MD"	"24017"	19	77633	Unreliable
+	"45-54 years"	"45-54"	"Frederick County, MD"	"24021"	28	115359	24.3
+	"45-54 years"	"45-54"	"Harford County, MD"	"24025"	37	113519	32.6
+	"45-54 years"	"45-54"	"Howard County, MD"	"24027"	25	145282	17.2
+	"45-54 years"	"45-54"	"Montgomery County, MD"	"24031"	45	450490	10.0
+	"45-54 years"	"45-54"	"Prince George's County, MD"	"24033"	72	388505	18.5
+	"45-54 years"	"45-54"	"St. Mary's County, MD"	"24037"	11	49852	Unreliable
+	"45-54 years"	"45-54"	"Washington County, MD"	"24043"	31	66254	46.8
+	"45-54 years"	"45-54"	"Wicomico County, MD"	"24045"	17	37383	Unreliable
+	"45-54 years"	"45-54"	"Worcester County, MD"	"24047"	10	20874	Unreliable
+	"45-54 years"	"45-54"	"Baltimore city, MD"	"24510"	464	227806	203.7
+	"45-54 years"	"45-54"	"Barnstable County, MA"	"25001"	42	84934	49.5
+	"45-54 years"	"45-54"	"Berkshire County, MA"	"25003"	26	53354	48.7
+	"45-54 years"	"45-54"	"Bristol County, MA"	"25005"	154	249929	61.6
+	"45-54 years"	"45-54"	"Essex County, MA"	"25009"	185	341508	54.2
+	"45-54 years"	"45-54"	"Hampden County, MA"	"25013"	69	189424	36.4
+	"45-54 years"	"45-54"	"Hampshire County, MA"	"25015"	11	58773	Unreliable
+	"45-54 years"	"45-54"	"Middlesex County, MA"	"25017"	218	676551	32.2
+	"45-54 years"	"45-54"	"Norfolk County, MA"	"25021"	113	310816	36.4
+	"45-54 years"	"45-54"	"Plymouth County, MA"	"25023"	107	237017	45.1
+	"45-54 years"	"45-54"	"Suffolk County, MA"	"25025"	157	269461	58.3
+	"45-54 years"	"45-54"	"Worcester County, MA"	"25027"	122	370156	33.0
+	"45-54 years"	"45-54"	"Berrien County, MI"	"26021"	12	61503	Unreliable
+	"45-54 years"	"45-54"	"Calhoun County, MI"	"26025"	28	52971	52.9
+	"45-54 years"	"45-54"	"Eaton County, MI"	"26045"	11	44168	Unreliable
+	"45-54 years"	"45-54"	"Genesee County, MI"	"26049"	76	168537	45.1
+	"45-54 years"	"45-54"	"Ingham County, MI"	"26065"	48	95679	50.2
+	"45-54 years"	"45-54"	"Kalamazoo County, MI"	"26077"	29	90112	32.2
+	"45-54 years"	"45-54"	"Kent County, MI"	"26081"	49	244990	20.0
+	"45-54 years"	"45-54"	"Lenawee County, MI"	"26091"	15	40553	Unreliable
+	"45-54 years"	"45-54"	"Livingston County, MI"	"26093"	19	91730	Unreliable
+	"45-54 years"	"45-54"	"Macomb County, MI"	"26099"	170	381892	44.5
+	"45-54 years"	"45-54"	"Monroe County, MI"	"26115"	23	65554	35.1
+	"45-54 years"	"45-54"	"Muskegon County, MI"	"26121"	16	67923	Unreliable
+	"45-54 years"	"45-54"	"Oakland County, MI"	"26125"	23	551144	4.2
+	"45-54 years"	"45-54"	"Ottawa County, MI"	"26139"	19	105037	Unreliable
+	"45-54 years"	"45-54"	"Saginaw County, MI"	"26145"	22	75225	29.2
+	"45-54 years"	"45-54"	"St. Clair County, MI"	"26147"	22	72947	30.2
+	"45-54 years"	"45-54"	"Shiawassee County, MI"	"26155"	12	30213	Unreliable
+	"45-54 years"	"45-54"	"Washtenaw County, MI"	"26161"	39	132484	29.4
+	"45-54 years"	"45-54"	"Wayne County, MI"	"26163"	387	710250	54.5
+	"45-54 years"	"45-54"	"Anoka County, MN"	"27003"	14	155752	Unreliable
+	"45-54 years"	"45-54"	"Dakota County, MN"	"27037"	20	181385	11.0
+	"45-54 years"	"45-54"	"Hennepin County, MN"	"27053"	98	480103	20.4
+	"45-54 years"	"45-54"	"Ramsey County, MN"	"27123"	28	192140	14.6
+	"45-54 years"	"45-54"	"DeSoto County, MS"	"28033"	16	74373	Unreliable
+	"45-54 years"	"45-54"	"Harrison County, MS"	"28047"	15	77179	Unreliable
+	"45-54 years"	"45-54"	"Boone County, MO"	"29019"	11	57170	Unreliable
+	"45-54 years"	"45-54"	"Clay County, MO"	"29047"	16	96894	Unreliable
+	"45-54 years"	"45-54"	"Franklin County, MO"	"29071"	13	43778	Unreliable
+	"45-54 years"	"45-54"	"Greene County, MO"	"29077"	34	101503	33.5
+	"45-54 years"	"45-54"	"Jackson County, MO"	"29095"	38	265876	14.3
+	"45-54 years"	"45-54"	"Jefferson County, MO"	"29099"	31	96804	32.0
+	"45-54 years"	"45-54"	"St. Charles County, MO"	"29183"	38	162584	23.4
+	"45-54 years"	"45-54"	"St. Louis County, MO"	"29189"	108	396282	27.3
+	"45-54 years"	"45-54"	"St. Louis city, MO"	"29510"	100	114054	87.7
+	"45-54 years"	"45-54"	"Clark County, NV"	"32003"	246	871490	28.2
+	"45-54 years"	"45-54"	"Nye County, NV"	"32023"	11	15991	Unreliable
+	"45-54 years"	"45-54"	"Washoe County, NV"	"32031"	51	178660	28.5
+	"45-54 years"	"45-54"	"Belknap County, NH"	"33001"	16	26186	Unreliable
+	"45-54 years"	"45-54"	"Carroll County, NH"	"33003"	17	20401	Unreliable
+	"45-54 years"	"45-54"	"Grafton County, NH"	"33009"	12	34464	Unreliable
+	"45-54 years"	"45-54"	"Hillsborough County, NH"	"33011"	94	189103	49.7
+	"45-54 years"	"45-54"	"Merrimack County, NH"	"33013"	20	66368	30.1
+	"45-54 years"	"45-54"	"Rockingham County, NH"	"33015"	46	150008	30.7
+	"45-54 years"	"45-54"	"Strafford County, NH"	"33017"	29	52059	55.7
+	"45-54 years"	"45-54"	"Atlantic County, NJ"	"34001"	65	116240	55.9
+	"45-54 years"	"45-54"	"Bergen County, NJ"	"34003"	77	428076	18.0
+	"45-54 years"	"45-54"	"Burlington County, NJ"	"34005"	42	203871	20.6
+	"45-54 years"	"45-54"	"Cape May County, NJ"	"34009"	23	36698	62.7
+	"45-54 years"	"45-54"	"Cumberland County, NJ"	"34011"	37	62202	59.5
+	"45-54 years"	"45-54"	"Essex County, NJ"	"34013"	166	343007	48.4
+	"45-54 years"	"45-54"	"Hudson County, NJ"	"34017"	82	257027	31.9
+	"45-54 years"	"45-54"	"Mercer County, NJ"	"34021"	43	159751	26.9
+	"45-54 years"	"45-54"	"Middlesex County, NJ"	"34023"	104	354021	29.4
+	"45-54 years"	"45-54"	"Monmouth County, NJ"	"34025"	89	297361	29.9
+	"45-54 years"	"45-54"	"Morris County, NJ"	"34027"	41	243466	16.8
+	"45-54 years"	"45-54"	"Ocean County, NJ"	"34029"	84	219631	38.2
+	"45-54 years"	"45-54"	"Passaic County, NJ"	"34031"	57	209023	27.3
+	"45-54 years"	"45-54"	"Somerset County, NJ"	"34035"	21	163251	12.9
+	"45-54 years"	"45-54"	"Sussex County, NJ"	"34037"	19	72098	Unreliable
+	"45-54 years"	"45-54"	"Union County, NJ"	"34039"	71	244810	29.0
+	"45-54 years"	"45-54"	"Warren County, NJ"	"34041"	16	52036	Unreliable
+	"45-54 years"	"45-54"	"Bernalillo County, NM"	"35001"	97	254827	38.1
+	"45-54 years"	"45-54"	"Dona Ana County, NM"	"35013"	14	68761	Unreliable
+	"45-54 years"	"45-54"	"Rio Arriba County, NM"	"35039"	16	15018	Unreliable
+	"45-54 years"	"45-54"	"Sandoval County, NM"	"35043"	11	55176	Unreliable
+	"45-54 years"	"45-54"	"Santa Fe County, NM"	"35049"	21	57968	36.2
+	"45-54 years"	"45-54"	"Valencia County, NM"	"35061"	10	29536	Unreliable
+	"45-54 years"	"45-54"	"Albany County, NY"	"36001"	25	119891	20.9
+	"45-54 years"	"45-54"	"Bronx County, NY"	"36005"	248	567151	43.7
+	"45-54 years"	"45-54"	"Broome County, NY"	"36007"	31	73307	42.3
+	"45-54 years"	"45-54"	"Cayuga County, NY"	"36011"	13	33495	Unreliable
+	"45-54 years"	"45-54"	"Chautauqua County, NY"	"36013"	11	51318	Unreliable
+	"45-54 years"	"45-54"	"Dutchess County, NY"	"36027"	51	135330	37.7
+	"45-54 years"	"45-54"	"Erie County, NY"	"36029"	151	373447	40.4
+	"45-54 years"	"45-54"	"Jefferson County, NY"	"36045"	15	38106	Unreliable
+	"45-54 years"	"45-54"	"Kings County, NY"	"36047"	188	953999	19.7
+	"45-54 years"	"45-54"	"Monroe County, NY"	"36055"	83	301929	27.5
+	"45-54 years"	"45-54"	"Nassau County, NY"	"36059"	105	600266	17.5
+	"45-54 years"	"45-54"	"New York County, NY"	"36061"	161	621787	25.9
+	"45-54 years"	"45-54"	"Niagara County, NY"	"36063"	25	89974	27.8
+	"45-54 years"	"45-54"	"Oneida County, NY"	"36065"	39	95139	41.0
+	"45-54 years"	"45-54"	"Onondaga County, NY"	"36067"	63	191016	33.0
+	"45-54 years"	"45-54"	"Orange County, NY"	"36071"	36	165257	21.8
+	"45-54 years"	"45-54"	"Oswego County, NY"	"36075"	13	52832	Unreliable
+	"45-54 years"	"45-54"	"Putnam County, NY"	"36079"	12	50821	Unreliable
+	"45-54 years"	"45-54"	"Queens County, NY"	"36081"	133	977486	13.6
+	"45-54 years"	"45-54"	"Richmond County, NY"	"36085"	69	205185	33.6
+	"45-54 years"	"45-54"	"Rockland County, NY"	"36087"	22	126416	17.4
+	"45-54 years"	"45-54"	"St. Lawrence County, NY"	"36089"	10	42999	Unreliable
+	"45-54 years"	"45-54"	"Schenectady County, NY"	"36093"	20	63958	31.3
+	"45-54 years"	"45-54"	"Suffolk County, NY"	"36103"	190	700712	27.1
+	"45-54 years"	"45-54"	"Sullivan County, NY"	"36105"	11	33124	Unreliable
+	"45-54 years"	"45-54"	"Ulster County, NY"	"36111"	26	79519	32.7
+	"45-54 years"	"45-54"	"Westchester County, NY"	"36119"	79	435282	18.1
+	"45-54 years"	"45-54"	"Alamance County, NC"	"37001"	18	67433	Unreliable
+	"45-54 years"	"45-54"	"Brunswick County, NC"	"37019"	22	44447	49.5
+	"45-54 years"	"45-54"	"Buncombe County, NC"	"37021"	26	100180	26.0
+	"45-54 years"	"45-54"	"Burke County, NC"	"37023"	26	39817	65.3
+	"45-54 years"	"45-54"	"Cabarrus County, NC"	"37025"	26	89667	29.0
+	"45-54 years"	"45-54"	"Caldwell County, NC"	"37027"	17	37497	Unreliable
+	"45-54 years"	"45-54"	"Catawba County, NC"	"37035"	24	68596	35.0
+	"45-54 years"	"45-54"	"Craven County, NC"	"37049"	15	33197	Unreliable
+	"45-54 years"	"45-54"	"Cumberland County, NC"	"37051"	34	111090	30.6
+	"45-54 years"	"45-54"	"Davidson County, NC"	"37057"	26	74947	34.7
+	"45-54 years"	"45-54"	"Durham County, NC"	"37063"	13	114129	Unreliable
+	"45-54 years"	"45-54"	"Forsyth County, NC"	"37067"	39	151671	25.7
+	"45-54 years"	"45-54"	"Gaston County, NC"	"37071"	42	95423	44.0
+	"45-54 years"	"45-54"	"Guilford County, NC"	"37081"	47	214025	22.0
+	"45-54 years"	"45-54"	"Harnett County, NC"	"37085"	14	48754	Unreliable
+	"45-54 years"	"45-54"	"Haywood County, NC"	"37087"	15	24841	Unreliable
+	"45-54 years"	"45-54"	"Henderson County, NC"	"37089"	13	44625	Unreliable
+	"45-54 years"	"45-54"	"Iredell County, NC"	"37097"	14	80326	Unreliable
+	"45-54 years"	"45-54"	"Johnston County, NC"	"37101"	20	87245	22.9
+	"45-54 years"	"45-54"	"McDowell County, NC"	"37111"	10	19222	Unreliable
+	"45-54 years"	"45-54"	"Mecklenburg County, NC"	"37119"	69	432161	16.0
+	"45-54 years"	"45-54"	"Nash County, NC"	"37127"	10	39364	Unreliable
+	"45-54 years"	"45-54"	"New Hanover County, NC"	"37129"	41	85192	48.1
+	"45-54 years"	"45-54"	"Onslow County, NC"	"37133"	13	46602	Unreliable
+	"45-54 years"	"45-54"	"Pitt County, NC"	"37147"	23	60771	37.8
+	"45-54 years"	"45-54"	"Randolph County, NC"	"37151"	35	63559	55.1
+	"45-54 years"	"45-54"	"Robeson County, NC"	"37155"	12	50562	Unreliable
+	"45-54 years"	"45-54"	"Rockingham County, NC"	"37157"	15	40273	Unreliable
+	"45-54 years"	"45-54"	"Rowan County, NC"	"37159"	32	58490	54.7
+	"45-54 years"	"45-54"	"Rutherford County, NC"	"37161"	10	28506	Unreliable
+	"45-54 years"	"45-54"	"Stokes County, NC"	"37169"	10	21594	Unreliable
+	"45-54 years"	"45-54"	"Union County, NC"	"37179"	14	111373	Unreliable
+	"45-54 years"	"45-54"	"Wake County, NC"	"37183"	47	455757	10.3
+	"45-54 years"	"45-54"	"Wilkes County, NC"	"37193"	22	29226	75.3
+	"45-54 years"	"45-54"	"Allen County, OH"	"39003"	16	38907	Unreliable
+	"45-54 years"	"45-54"	"Ashtabula County, OH"	"39007"	19	41494	Unreliable
+	"45-54 years"	"45-54"	"Brown County, OH"	"39015"	16	18490	Unreliable
+	"45-54 years"	"45-54"	"Butler County, OH"	"39017"	146	150858	96.8
+	"45-54 years"	"45-54"	"Clark County, OH"	"39023"	58	53560	108.3
+	"45-54 years"	"45-54"	"Clermont County, OH"	"39025"	59	86479	68.2
+	"45-54 years"	"45-54"	"Clinton County, OH"	"39027"	10	16771	Unreliable
+	"45-54 years"	"45-54"	"Crawford County, OH"	"39033"	11	16728	Unreliable
+	"45-54 years"	"45-54"	"Cuyahoga County, OH"	"39035"	291	494271	58.9
+	"45-54 years"	"45-54"	"Darke County, OH"	"39037"	11	20959	Unreliable
+	"45-54 years"	"45-54"	"Delaware County, OH"	"39041"	15	90988	Unreliable
+	"45-54 years"	"45-54"	"Erie County, OH"	"39043"	15	30160	Unreliable
+	"45-54 years"	"45-54"	"Fairfield County, OH"	"39045"	11	66492	Unreliable
+	"45-54 years"	"45-54"	"Franklin County, OH"	"39049"	165	471921	35.0
+	"45-54 years"	"45-54"	"Gallia County, OH"	"39053"	11	11680	Unreliable
+	"45-54 years"	"45-54"	"Geauga County, OH"	"39055"	11	41277	Unreliable
+	"45-54 years"	"45-54"	"Greene County, OH"	"39057"	22	62952	34.9
+	"45-54 years"	"45-54"	"Hamilton County, OH"	"39061"	251	310043	81.0
+	"45-54 years"	"45-54"	"Hancock County, OH"	"39063"	10	29612	Unreliable
+	"45-54 years"	"45-54"	"Highland County, OH"	"39071"	10	17420	Unreliable
+	"45-54 years"	"45-54"	"Lake County, OH"	"39085"	43	97617	44.0
+	"45-54 years"	"45-54"	"Lawrence County, OH"	"39087"	25	25509	98.0
+	"45-54 years"	"45-54"	"Licking County, OH"	"39089"	13	73239	Unreliable
+	"45-54 years"	"45-54"	"Logan County, OH"	"39091"	10	18489	Unreliable
+	"45-54 years"	"45-54"	"Lorain County, OH"	"39093"	65	128475	50.6
+	"45-54 years"	"45-54"	"Lucas County, OH"	"39095"	71	166430	42.7
+	"45-54 years"	"45-54"	"Mahoning County, OH"	"39099"	53	89665	59.1
+	"45-54 years"	"45-54"	"Marion County, OH"	"39101"	16	27681	Unreliable
+	"45-54 years"	"45-54"	"Medina County, OH"	"39103"	23	80882	28.4
+	"45-54 years"	"45-54"	"Miami County, OH"	"39109"	13	42938	Unreliable
+	"45-54 years"	"45-54"	"Montgomery County, OH"	"39113"	208	205521	101.2
+	"45-54 years"	"45-54"	"Portage County, OH"	"39133"	16	64484	Unreliable
+	"45-54 years"	"45-54"	"Preble County, OH"	"39135"	13	17125	Unreliable
+	"45-54 years"	"45-54"	"Richland County, OH"	"39139"	25	47034	53.2
+	"45-54 years"	"45-54"	"Ross County, OH"	"39141"	21	34191	61.4
+	"45-54 years"	"45-54"	"Scioto County, OH"	"39145"	16	29819	Unreliable
+	"45-54 years"	"45-54"	"Stark County, OH"	"39151"	54	150444	35.9
+	"45-54 years"	"45-54"	"Summit County, OH"	"39153"	124	223126	55.6
+	"45-54 years"	"45-54"	"Trumbull County, OH"	"39155"	67	81081	82.6
+	"45-54 years"	"45-54"	"Warren County, OH"	"39165"	36	104986	34.3
+	"45-54 years"	"45-54"	"Wayne County, OH"	"39169"	15	43358	Unreliable
+	"45-54 years"	"45-54"	"Wood County, OH"	"39173"	10	45608	Unreliable
+	"45-54 years"	"45-54"	"Cleveland County, OK"	"40027"	18	96618	Unreliable
+	"45-54 years"	"45-54"	"Muskogee County, OK"	"40101"	12	25346	Unreliable
+	"45-54 years"	"45-54"	"Oklahoma County, OK"	"40109"	48	275028	17.5
+	"45-54 years"	"45-54"	"Pottawatomie County, OK"	"40125"	10	27428	Unreliable
+	"45-54 years"	"45-54"	"Tulsa County, OK"	"40143"	49	237332	20.6
+	"45-54 years"	"45-54"	"Wagoner County, OK"	"40145"	15	30723	Unreliable
+	"45-54 years"	"45-54"	"Clackamas County, OR"	"41005"	10	169148	Unreliable
+	"45-54 years"	"45-54"	"Jackson County, OR"	"41029"	12	77366	Unreliable
+	"45-54 years"	"45-54"	"Lane County, OR"	"41039"	19	128704	Unreliable
+	"45-54 years"	"45-54"	"Linn County, OR"	"41043"	10	45580	Unreliable
+	"45-54 years"	"45-54"	"Marion County, OR"	"41047"	12	120917	Unreliable
+	"45-54 years"	"45-54"	"Multnomah County, OR"	"41051"	62	315011	19.7
+	"45-54 years"	"45-54"	"Washington County, OR"	"41067"	31	236359	13.1
+	"45-54 years"	"45-54"	"Allegheny County, PA"	"42003"	368	469378	78.4
+	"45-54 years"	"45-54"	"Beaver County, PA"	"42007"	23	68971	33.3
+	"45-54 years"	"45-54"	"Berks County, PA"	"42011"	43	174470	24.6
+	"45-54 years"	"45-54"	"Bucks County, PA"	"42017"	29	287989	10.1
+	"45-54 years"	"45-54"	"Butler County, PA"	"42019"	26	83023	31.3
+	"45-54 years"	"45-54"	"Cambria County, PA"	"42021"	14	52802	Unreliable
+	"45-54 years"	"45-54"	"Chester County, PA"	"42029"	10	228895	Unreliable
+	"45-54 years"	"45-54"	"Crawford County, PA"	"42039"	10	35112	Unreliable
+	"45-54 years"	"45-54"	"Cumberland County, PA"	"42041"	12	100545	Unreliable
+	"45-54 years"	"45-54"	"Dauphin County, PA"	"42043"	21	110599	19.0
+	"45-54 years"	"45-54"	"Delaware County, PA"	"42045"	56	228423	24.5
+	"45-54 years"	"45-54"	"Erie County, PA"	"42049"	39	107152	36.4
+	"45-54 years"	"45-54"	"Fayette County, PA"	"42051"	40	55824	71.7
+	"45-54 years"	"45-54"	"Indiana County, PA"	"42063"	11	31454	Unreliable
+	"45-54 years"	"45-54"	"Lackawanna County, PA"	"42069"	41	85395	48.0
+	"45-54 years"	"45-54"	"Lancaster County, PA"	"42071"	20	204645	9.8
+	"45-54 years"	"45-54"	"Lawrence County, PA"	"42073"	26	34971	74.3
+	"45-54 years"	"45-54"	"Lehigh County, PA"	"42077"	19	146762	Unreliable
+	"45-54 years"	"45-54"	"Monroe County, PA"	"42089"	11	78263	Unreliable
+	"45-54 years"	"45-54"	"Montgomery County, PA"	"42091"	82	352237	23.3
+	"45-54 years"	"45-54"	"Northampton County, PA"	"42095"	39	127430	30.6
+	"45-54 years"	"45-54"	"Philadelphia County, PA"	"42101"	24	561204	4.3
+	"45-54 years"	"45-54"	"Schuylkill County, PA"	"42107"	13	62982	Unreliable
+	"45-54 years"	"45-54"	"Washington County, PA"	"42125"	44	87702	50.2
+	"45-54 years"	"45-54"	"Westmoreland County, PA"	"42129"	13	153854	Unreliable
+	"45-54 years"	"45-54"	"York County, PA"	"42133"	15	192367	Unreliable
+	"45-54 years"	"45-54"	"Kent County, RI"	"44003"	27	74683	36.2
+	"45-54 years"	"45-54"	"Providence County, RI"	"44007"	145	255194	56.8
+	"45-54 years"	"45-54"	"Washington County, RI"	"44009"	17	53869	Unreliable
+	"45-54 years"	"45-54"	"Aiken County, SC"	"45003"	33	65495	50.4
+	"45-54 years"	"45-54"	"Anderson County, SC"	"45007"	28	80780	34.7
+	"45-54 years"	"45-54"	"Berkeley County, SC"	"45015"	12	82653	Unreliable
+	"45-54 years"	"45-54"	"Charleston County, SC"	"45019"	38	148697	25.6
+	"45-54 years"	"45-54"	"Dorchester County, SC"	"45035"	13	65552	Unreliable
+	"45-54 years"	"45-54"	"Florence County, SC"	"45041"	13	54279	Unreliable
+	"45-54 years"	"45-54"	"Greenville County, SC"	"45045"	45	202215	22.3
+	"45-54 years"	"45-54"	"Horry County, SC"	"45051"	55	123631	44.5
+	"45-54 years"	"45-54"	"Lancaster County, SC"	"45057"	13	34984	Unreliable
+	"45-54 years"	"45-54"	"Lexington County, SC"	"45063"	45	120536	37.3
+	"45-54 years"	"45-54"	"Oconee County, SC"	"45073"	10	29401	Unreliable
+	"45-54 years"	"45-54"	"Pickens County, SC"	"45077"	10	45469	Unreliable
+	"45-54 years"	"45-54"	"Richland County, SC"	"45079"	29	147081	19.7
+	"45-54 years"	"45-54"	"Spartanburg County, SC"	"45083"	47	123853	37.9
+	"45-54 years"	"45-54"	"York County, SC"	"45091"	32	112774	28.4
+	"45-54 years"	"45-54"	"Anderson County, TN"	"47001"	23	31383	73.3
+	"45-54 years"	"45-54"	"Blount County, TN"	"47009"	17	56080	Unreliable
+	"45-54 years"	"45-54"	"Carter County, TN"	"47019"	18	24574	Unreliable
+	"45-54 years"	"45-54"	"Cheatham County, TN"	"47021"	16	18937	Unreliable
+	"45-54 years"	"45-54"	"Coffee County, TN"	"47031"	11	22287	Unreliable
+	"45-54 years"	"45-54"	"Davidson County, TN"	"47037"	121	250058	48.4
+	"45-54 years"	"45-54"	"Dickson County, TN"	"47043"	10	22631	Unreliable
+	"45-54 years"	"45-54"	"Greene County, TN"	"47059"	14	29299	Unreliable
+	"45-54 years"	"45-54"	"Hamblen County, TN"	"47063"	16	26399	Unreliable
+	"45-54 years"	"45-54"	"Hamilton County, TN"	"47065"	27	141062	19.1
+	"45-54 years"	"45-54"	"Hawkins County, TN"	"47073"	15	24973	Unreliable
+	"45-54 years"	"45-54"	"Knox County, TN"	"47093"	131	178971	73.2
+	"45-54 years"	"45-54"	"Loudon County, TN"	"47105"	10	19656	Unreliable
+	"45-54 years"	"45-54"	"Montgomery County, TN"	"47125"	17	65497	Unreliable
+	"45-54 years"	"45-54"	"Putnam County, TN"	"47141"	13	27661	Unreliable
+	"45-54 years"	"45-54"	"Roane County, TN"	"47145"	11	22776	Unreliable
+	"45-54 years"	"45-54"	"Robertson County, TN"	"47147"	14	29770	Unreliable
+	"45-54 years"	"45-54"	"Rutherford County, TN"	"47149"	34	121558	28.0
+	"45-54 years"	"45-54"	"Sevier County, TN"	"47155"	27	41427	65.2
+	"45-54 years"	"45-54"	"Shelby County, TN"	"47157"	85	363070	23.4
+	"45-54 years"	"45-54"	"Sullivan County, TN"	"47163"	30	67485	44.5
+	"45-54 years"	"45-54"	"Sumner County, TN"	"47165"	16	77829	Unreliable
+	"45-54 years"	"45-54"	"Tipton County, TN"	"47167"	12	26277	Unreliable
+	"45-54 years"	"45-54"	"Washington County, TN"	"47179"	24	50430	47.6
+	"45-54 years"	"45-54"	"Williamson County, TN"	"47187"	10	103634	Unreliable
+	"45-54 years"	"45-54"	"Wilson County, TN"	"47189"	17	58492	Unreliable
+	"45-54 years"	"45-54"	"Bell County, TX"	"48027"	12	111465	Unreliable
+	"45-54 years"	"45-54"	"Bexar County, TX"	"48029"	82	705900	11.6
+	"45-54 years"	"45-54"	"Collin County, TX"	"48085"	22	432082	5.1
+	"45-54 years"	"45-54"	"Dallas County, TX"	"48113"	84	988686	8.5
+	"45-54 years"	"45-54"	"Denton County, TX"	"48121"	19	354214	Unreliable
+	"45-54 years"	"45-54"	"El Paso County, TX"	"48141"	34	291678	11.7
+	"45-54 years"	"45-54"	"Fort Bend County, TX"	"48157"	10	312762	Unreliable
+	"45-54 years"	"45-54"	"Galveston County, TX"	"48167"	17	133698	Unreliable
+	"45-54 years"	"45-54"	"Harris County, TX"	"48201"	158	1733043	9.1
+	"45-54 years"	"45-54"	"Montgomery County, TX"	"48339"	31	230248	13.5
+	"45-54 years"	"45-54"	"Nueces County, TX"	"48355"	27	130256	20.7
+	"45-54 years"	"45-54"	"Tarrant County, TX"	"48439"	60	811022	7.4
+	"45-54 years"	"45-54"	"Travis County, TX"	"48453"	57	460165	12.4
+	"45-54 years"	"45-54"	"Williamson County, TX"	"48491"	10	215681	Unreliable
+	"45-54 years"	"45-54"	"Davis County, UT"	"49011"	19	107353	Unreliable
+	"45-54 years"	"45-54"	"Salt Lake County, UT"	"49035"	111	380054	29.2
+	"45-54 years"	"45-54"	"Utah County, UT"	"49049"	31	147116	21.1
+	"45-54 years"	"45-54"	"Washington County, UT"	"49053"	17	44968	Unreliable
+	"45-54 years"	"45-54"	"Weber County, UT"	"49057"	30	81792	36.7
+	"45-54 years"	"45-54"	"Chittenden County, VT"	"50007"	18	62946	Unreliable
+	"45-54 years"	"45-54"	"Rutland County, VT"	"50021"	10	25533	Unreliable
+	"45-54 years"	"45-54"	"Arlington County, VA"	"51013"	12	87762	Unreliable
+	"45-54 years"	"45-54"	"Chesterfield County, VA"	"51041"	37	147472	25.1
+	"45-54 years"	"45-54"	"Fairfax County, VA"	"51059"	40	506222	7.9
+	"45-54 years"	"45-54"	"Fauquier County, VA"	"51061"	11	32785	Unreliable
+	"45-54 years"	"45-54"	"Frederick County, VA"	"51069"	10	37643	Unreliable
+	"45-54 years"	"45-54"	"Henrico County, VA"	"51087"	34	135835	25.0
+	"45-54 years"	"45-54"	"Prince William County, VA"	"51153"	28	200657	14.0
+	"45-54 years"	"45-54"	"Spotsylvania County, VA"	"51177"	11	59433	Unreliable
+	"45-54 years"	"45-54"	"Wise County, VA"	"51195"	13	15632	Unreliable
+	"45-54 years"	"45-54"	"Chesapeake city, VA"	"51550"	26	99671	26.1
+	"45-54 years"	"45-54"	"Hampton city, VA"	"51650"	19	49499	Unreliable
+	"45-54 years"	"45-54"	"Newport News city, VA"	"51700"	13	64123	Unreliable
+	"45-54 years"	"45-54"	"Norfolk city, VA"	"51710"	37	75794	48.8
+	"45-54 years"	"45-54"	"Portsmouth city, VA"	"51740"	17	33249	Unreliable
+	"45-54 years"	"45-54"	"Richmond city, VA"	"51760"	36	77371	46.5
+	"45-54 years"	"45-54"	"Roanoke city, VA"	"51770"	18	39106	Unreliable
+	"45-54 years"	"45-54"	"Virginia Beach city, VA"	"51810"	47	176365	26.6
+	"45-54 years"	"45-54"	"Benton County, WA"	"53005"	15	70296	Unreliable
+	"45-54 years"	"45-54"	"Clallam County, WA"	"53009"	10	24131	Unreliable
+	"45-54 years"	"45-54"	"Clark County, WA"	"53011"	29	188552	15.4
+	"45-54 years"	"45-54"	"Cowlitz County, WA"	"53015"	11	40757	Unreliable
+	"45-54 years"	"45-54"	"King County, WA"	"53033"	151	887931	17.0
+	"45-54 years"	"45-54"	"Kitsap County, WA"	"53035"	15	99712	Unreliable
+	"45-54 years"	"45-54"	"Pierce County, WA"	"53053"	68	335981	20.2
+	"45-54 years"	"45-54"	"Snohomish County, WA"	"53061"	75	340176	22.0
+	"45-54 years"	"45-54"	"Spokane County, WA"	"53063"	31	186989	16.6
+	"45-54 years"	"45-54"	"Thurston County, WA"	"53067"	12	105048	Unreliable
+	"45-54 years"	"45-54"	"Whatcom County, WA"	"53073"	13	77494	Unreliable
+	"45-54 years"	"45-54"	"Yakima County, WA"	"53077"	13	84797	Unreliable
+	"45-54 years"	"45-54"	"Berkeley County, WV"	"54003"	42	49211	85.3
+	"45-54 years"	"45-54"	"Boone County, WV"	"54005"	12	9296	Unreliable
+	"45-54 years"	"45-54"	"Cabell County, WV"	"54011"	81	33856	239.2
+	"45-54 years"	"45-54"	"Fayette County, WV"	"54019"	22	17278	127.3
+	"45-54 years"	"45-54"	"Harrison County, WV"	"54033"	14	27941	Unreliable
+	"45-54 years"	"45-54"	"Jefferson County, WV"	"54037"	14	26289	Unreliable
+	"45-54 years"	"45-54"	"Kanawha County, WV"	"54039"	60	72248	83.0
+	"45-54 years"	"45-54"	"Lincoln County, WV"	"54043"	15	9019	Unreliable
+	"45-54 years"	"45-54"	"Logan County, WV"	"54045"	21	13228	158.8
+	"45-54 years"	"45-54"	"McDowell County, WV"	"54047"	16	7515	Unreliable
+	"45-54 years"	"45-54"	"Mason County, WV"	"54053"	13	10630	Unreliable
+	"45-54 years"	"45-54"	"Mercer County, WV"	"54055"	27	22451	120.3
+	"45-54 years"	"45-54"	"Mingo County, WV"	"54059"	14	10192	Unreliable
+	"45-54 years"	"45-54"	"Nicholas County, WV"	"54067"	12	10261	Unreliable
+	"45-54 years"	"45-54"	"Putnam County, WV"	"54079"	12	24065	Unreliable
+	"45-54 years"	"45-54"	"Raleigh County, WV"	"54081"	36	27793	129.5
+	"45-54 years"	"45-54"	"Wayne County, WV"	"54099"	25	16927	147.7
+	"45-54 years"	"45-54"	"Wood County, WV"	"54107"	13	35579	Unreliable
+	"45-54 years"	"45-54"	"Wyoming County, WV"	"54109"	18	8445	Unreliable
+	"45-54 years"	"45-54"	"Brown County, WI"	"55009"	13	106512	Unreliable
+	"45-54 years"	"45-54"	"Dane County, WI"	"55025"	47	196013	24.0
+	"45-54 years"	"45-54"	"Kenosha County, WI"	"55059"	29	74427	39.0
+	"45-54 years"	"45-54"	"La Crosse County, WI"	"55063"	13	41756	Unreliable
+	"45-54 years"	"45-54"	"Milwaukee County, WI"	"55079"	179	346114	51.7
+	"45-54 years"	"45-54"	"Outagamie County, WI"	"55087"	10	78896	Unreliable
+	"45-54 years"	"45-54"	"Racine County, WI"	"55101"	23	83791	27.4
+	"45-54 years"	"45-54"	"Rock County, WI"	"55105"	18	66956	Unreliable
+	"45-54 years"	"45-54"	"Washington County, WI"	"55131"	11	63102	Unreliable
+	"45-54 years"	"45-54"	"Waukesha County, WI"	"55133"	20	177081	11.3
+	"45-54 years"	"45-54"	"Winnebago County, WI"	"55139"	12	68590	Unreliable
+"Total"	"45-54 years"	"45-54"			27758	128349792	21.6
+	"55-64 years"	"55-64"	"Baldwin County, AL"	"01003"	13	88032	Unreliable
+	"55-64 years"	"55-64"	"Jefferson County, AL"	"01073"	55	263247	20.9
+	"55-64 years"	"55-64"	"Mobile County, AL"	"01097"	13	164144	Unreliable
+	"55-64 years"	"55-64"	"Anchorage Borough, AK"	"02020"	22	106909	20.6
+	"55-64 years"	"55-64"	"Maricopa County, AZ"	"04013"	269	1445388	18.6
+	"55-64 years"	"55-64"	"Mohave County, AZ"	"04015"	22	99363	22.1
+	"55-64 years"	"55-64"	"Pima County, AZ"	"04019"	84	385114	21.8
+	"55-64 years"	"55-64"	"Pinal County, AZ"	"04021"	16	147604	Unreliable
+	"55-64 years"	"55-64"	"Garland County, AR"	"05051"	12	42526	Unreliable
+	"55-64 years"	"55-64"	"Alameda County, CA"	"06001"	32	603606	5.3
+	"55-64 years"	"55-64"	"Butte County, CA"	"06007"	17	89058	Unreliable
+	"55-64 years"	"55-64"	"Contra Costa County, CA"	"06013"	36	445164	8.1
+	"55-64 years"	"55-64"	"Fresno County, CA"	"06019"	50	305023	16.4
+	"55-64 years"	"55-64"	"Humboldt County, CA"	"06023"	28	56885	49.2
+	"55-64 years"	"55-64"	"Kern County, CA"	"06029"	62	276088	22.5
+	"55-64 years"	"55-64"	"Lake County, CA"	"06033"	17	32109	Unreliable
+	"55-64 years"	"55-64"	"Los Angeles County, CA"	"06037"	221	3571320	6.2
+	"55-64 years"	"55-64"	"Madera County, CA"	"06039"	15	51947	Unreliable
+	"55-64 years"	"55-64"	"Mendocino County, CA"	"06045"	12	39816	Unreliable
+	"55-64 years"	"55-64"	"Merced County, CA"	"06047"	19	80532	Unreliable
+	"55-64 years"	"55-64"	"Orange County, CA"	"06059"	192	1173581	16.4
+	"55-64 years"	"55-64"	"Riverside County, CA"	"06065"	101	799945	12.6
+	"55-64 years"	"55-64"	"Sacramento County, CA"	"06067"	42	552950	7.6
+	"55-64 years"	"55-64"	"San Bernardino County, CA"	"06071"	37	714907	5.2
+	"55-64 years"	"55-64"	"San Diego County, CA"	"06073"	216	1164737	18.5
+	"55-64 years"	"55-64"	"San Francisco County, CA"	"06075"	71	306734	23.1
+	"55-64 years"	"55-64"	"San Joaquin County, CA"	"06077"	58	245152	23.7
+	"55-64 years"	"55-64"	"San Luis Obispo County, CA"	"06079"	16	118973	Unreliable
+	"55-64 years"	"55-64"	"San Mateo County, CA"	"06081"	26	299219	8.7
+	"55-64 years"	"55-64"	"Santa Barbara County, CA"	"06083"	20	151181	13.2
+	"55-64 years"	"55-64"	"Santa Clara County, CA"	"06085"	49	672214	7.3
+	"55-64 years"	"55-64"	"Santa Cruz County, CA"	"06087"	14	113714	Unreliable
+	"55-64 years"	"55-64"	"Shasta County, CA"	"06089"	15	79764	Unreliable
+	"55-64 years"	"55-64"	"Sonoma County, CA"	"06097"	22	221098	10.0
+	"55-64 years"	"55-64"	"Stanislaus County, CA"	"06099"	11	182543	Unreliable
+	"55-64 years"	"55-64"	"Tulare County, CA"	"06107"	12	136040	Unreliable
+	"55-64 years"	"55-64"	"Ventura County, CA"	"06111"	41	329615	12.4
+	"55-64 years"	"55-64"	"Adams County, CO"	"08001"	31	158643	19.5
+	"55-64 years"	"55-64"	"Arapahoe County, CO"	"08005"	32	235335	13.6
+	"55-64 years"	"55-64"	"Denver County, CO"	"08031"	47	212850	22.1
+	"55-64 years"	"55-64"	"El Paso County, CO"	"08041"	38	241292	15.7
+	"55-64 years"	"55-64"	"Jefferson County, CO"	"08059"	19	251721	Unreliable
+	"55-64 years"	"55-64"	"Larimer County, CO"	"08069"	20	129732	15.4
+	"55-64 years"	"55-64"	"Pueblo County, CO"	"08101"	13	66671	Unreliable
+	"55-64 years"	"55-64"	"Fairfield County, CT"	"09001"	58	385167	15.1
+	"55-64 years"	"55-64"	"Hartford County, CT"	"09003"	125	368104	34.0
+	"55-64 years"	"55-64"	"Litchfield County, CT"	"09005"	21	94191	22.3
+	"55-64 years"	"55-64"	"Middlesex County, CT"	"09007"	17	78289	Unreliable
+	"55-64 years"	"55-64"	"New Haven County, CT"	"09009"	131	354487	37.0
+	"55-64 years"	"55-64"	"New London County, CT"	"09011"	34	117783	28.9
+	"55-64 years"	"55-64"	"Tolland County, CT"	"09013"	11	62264	Unreliable
+	"55-64 years"	"55-64"	"New Castle County, DE"	"10003"	43	220634	19.5
+	"55-64 years"	"55-64"	"Sussex County, DE"	"10005"	20	106006	18.9
+	"55-64 years"	"55-64"	"District of Columbia, DC"	"11001"	210	209860	100.1
+	"55-64 years"	"55-64"	"Bay County, FL"	"12005"	19	74897	Unreliable
+	"55-64 years"	"55-64"	"Brevard County, FL"	"12009"	42	277403	15.1
+	"55-64 years"	"55-64"	"Broward County, FL"	"12011"	90	752677	12.0
+	"55-64 years"	"55-64"	"Citrus County, FL"	"12017"	10	70202	Unreliable
+	"55-64 years"	"55-64"	"Clay County, FL"	"12019"	19	83635	Unreliable
+	"55-64 years"	"55-64"	"Collier County, FL"	"12021"	25	146344	17.1
+	"55-64 years"	"55-64"	"Duval County, FL"	"12031"	107	350728	30.5
+	"55-64 years"	"55-64"	"Escambia County, FL"	"12033"	20	125021	16.0
+	"55-64 years"	"55-64"	"Hillsborough County, FL"	"12057"	92	492126	18.7
+	"55-64 years"	"55-64"	"Lake County, FL"	"12069"	11	134921	Unreliable
+	"55-64 years"	"55-64"	"Lee County, FL"	"12071"	57	304599	18.7
+	"55-64 years"	"55-64"	"Leon County, FL"	"12073"	12	94811	Unreliable
+	"55-64 years"	"55-64"	"Manatee County, FL"	"12081"	45	164063	27.4
+	"55-64 years"	"55-64"	"Marion County, FL"	"12083"	30	143318	20.9
+	"55-64 years"	"55-64"	"Miami-Dade County, FL"	"12086"	82	983078	8.3
+	"55-64 years"	"55-64"	"Orange County, FL"	"12095"	77	438067	17.6
+	"55-64 years"	"55-64"	"Osceola County, FL"	"12097"	14	109542	Unreliable
+	"55-64 years"	"55-64"	"Palm Beach County, FL"	"12099"	90	565247	15.9
+	"55-64 years"	"55-64"	"Pasco County, FL"	"12101"	34	204667	16.6
+	"55-64 years"	"55-64"	"Pinellas County, FL"	"12103"	55	455316	12.1
+	"55-64 years"	"55-64"	"Polk County, FL"	"12105"	14	247621	Unreliable
+	"55-64 years"	"55-64"	"St. Johns County, FL"	"12109"	16	100816	Unreliable
+	"55-64 years"	"55-64"	"St. Lucie County, FL"	"12111"	14	126510	Unreliable
+	"55-64 years"	"55-64"	"Santa Rosa County, FL"	"12113"	10	68685	Unreliable
+	"55-64 years"	"55-64"	"Sarasota County, FL"	"12115"	44	191966	22.9
+	"55-64 years"	"55-64"	"Seminole County, FL"	"12117"	21	178486	11.8
+	"55-64 years"	"55-64"	"Volusia County, FL"	"12127"	43	241550	17.8
+	"55-64 years"	"55-64"	"Cobb County, GA"	"13067"	44	267194	16.5
+	"55-64 years"	"55-64"	"DeKalb County, GA"	"13089"	18	260084	Unreliable
+	"55-64 years"	"55-64"	"Fulton County, GA"	"13121"	56	340583	16.4
+	"55-64 years"	"55-64"	"Gwinnett County, GA"	"13135"	20	303382	6.6
+	"55-64 years"	"55-64"	"Henry County, GA"	"13151"	10	77052	Unreliable
+	"55-64 years"	"55-64"	"Richmond County, GA"	"13245"	24	75495	31.8
+	"55-64 years"	"55-64"	"Honolulu County, HI"	"15003"	38	351224	10.8
+	"55-64 years"	"55-64"	"Maui County, HI"	"15009"	16	70962	Unreliable
+	"55-64 years"	"55-64"	"Ada County, ID"	"16001"	14	161213	Unreliable
+	"55-64 years"	"55-64"	"Champaign County, IL"	"17019"	14	66600	Unreliable
+	"55-64 years"	"55-64"	"Cook County, IL"	"17031"	546	1916503	28.5
+	"55-64 years"	"55-64"	"DuPage County, IL"	"17043"	33	387945	8.5
+	"55-64 years"	"55-64"	"Kane County, IL"	"17089"	10	194507	Unreliable
+	"55-64 years"	"55-64"	"Lake County, IL"	"17097"	25	282015	8.9
+	"55-64 years"	"55-64"	"McHenry County, IL"	"17111"	24	129892	18.5
+	"55-64 years"	"55-64"	"Madison County, IL"	"17119"	32	112983	28.3
+	"55-64 years"	"55-64"	"Peoria County, IL"	"17143"	24	71521	33.6
+	"55-64 years"	"55-64"	"Sangamon County, IL"	"17167"	17	83436	Unreliable
+	"55-64 years"	"55-64"	"Tazewell County, IL"	"17179"	10	55217	Unreliable
+	"55-64 years"	"55-64"	"Vermilion County, IL"	"17183"	10	32728	Unreliable
+	"55-64 years"	"55-64"	"Will County, IL"	"17197"	26	251157	10.4
+	"55-64 years"	"55-64"	"Winnebago County, IL"	"17201"	33	117348	28.1
+	"55-64 years"	"55-64"	"Floyd County, IN"	"18043"	12	32816	Unreliable
+	"55-64 years"	"55-64"	"Lake County, IN"	"18089"	28	201356	13.9
+	"55-64 years"	"55-64"	"Madison County, IN"	"18095"	12	51754	Unreliable
+	"55-64 years"	"55-64"	"Marion County, IN"	"18097"	62	340420	18.2
+	"55-64 years"	"55-64"	"Porter County, IN"	"18127"	10	71772	Unreliable
+	"55-64 years"	"55-64"	"St. Joseph County, IN"	"18141"	12	104479	Unreliable
+	"55-64 years"	"55-64"	"Vanderburgh County, IN"	"18163"	13	76132	Unreliable
+	"55-64 years"	"55-64"	"Wayne County, IN"	"18177"	16	27760	Unreliable
+	"55-64 years"	"55-64"	"Polk County, IA"	"19153"	24	167319	14.3
+	"55-64 years"	"55-64"	"Scott County, IA"	"19163"	10	68900	Unreliable
+	"55-64 years"	"55-64"	"Johnson County, KS"	"20091"	18	219198	Unreliable
+	"55-64 years"	"55-64"	"Sedgwick County, KS"	"20173"	27	193309	14.0
+	"55-64 years"	"55-64"	"Boone County, KY"	"21015"	12	47380	Unreliable
+	"55-64 years"	"55-64"	"Boyd County, KY"	"21019"	10	20820	Unreliable
+	"55-64 years"	"55-64"	"Campbell County, KY"	"21037"	25	38636	64.7
+	"55-64 years"	"55-64"	"Fayette County, KY"	"21067"	31	110138	28.1
+	"55-64 years"	"55-64"	"Jefferson County, KY"	"21111"	50	310524	16.1
+	"55-64 years"	"55-64"	"Kenton County, KY"	"21117"	31	64799	47.8
+	"55-64 years"	"55-64"	"Madison County, KY"	"21151"	12	30397	Unreliable
+	"55-64 years"	"55-64"	"Jefferson Parish, LA"	"22051"	40	181606	22.0
+	"55-64 years"	"55-64"	"Orleans Parish, LA"	"22071"	15	155220	Unreliable
+	"55-64 years"	"55-64"	"St. Tammany Parish, LA"	"22103"	34	107095	31.7
+	"55-64 years"	"55-64"	"Washington Parish, LA"	"22117"	10	19664	Unreliable
+	"55-64 years"	"55-64"	"Cumberland County, ME"	"23005"	25	127956	19.5
+	"55-64 years"	"55-64"	"York County, ME"	"23031"	14	97661	Unreliable
+	"55-64 years"	"55-64"	"Anne Arundel County, MD"	"24003"	62	221941	27.9
+	"55-64 years"	"55-64"	"Baltimore County, MD"	"24005"	149	338940	44.0
+	"55-64 years"	"55-64"	"Carroll County, MD"	"24013"	10	73145	Unreliable
+	"55-64 years"	"55-64"	"Cecil County, MD"	"24015"	16	44063	Unreliable
+	"55-64 years"	"55-64"	"Charles County, MD"	"24017"	10	59575	Unreliable
+	"55-64 years"	"55-64"	"Frederick County, MD"	"24021"	18	98461	Unreliable
+	"55-64 years"	"55-64"	"Harford County, MD"	"24025"	23	106199	21.7
+	"55-64 years"	"55-64"	"Howard County, MD"	"24027"	15	122192	Unreliable
+	"55-64 years"	"55-64"	"Montgomery County, MD"	"24031"	36	410141	8.8
+	"55-64 years"	"55-64"	"Prince George's County, MD"	"24033"	78	344307	22.7
+	"55-64 years"	"55-64"	"Washington County, MD"	"24043"	20	59183	33.8
+	"55-64 years"	"55-64"	"Baltimore city, MD"	"24510"	375	231635	161.9
+	"55-64 years"	"55-64"	"Barnstable County, MA"	"25001"	18	112338	Unreliable
+	"55-64 years"	"55-64"	"Berkshire County, MA"	"25003"	12	61393	Unreliable
+	"55-64 years"	"55-64"	"Bristol County, MA"	"25005"	51	230598	22.1
+	"55-64 years"	"55-64"	"Essex County, MA"	"25009"	88	329749	26.7
+	"55-64 years"	"55-64"	"Hampden County, MA"	"25013"	51	190825	26.7
+	"55-64 years"	"55-64"	"Middlesex County, MA"	"25017"	126	613780	20.5
+	"55-64 years"	"55-64"	"Norfolk County, MA"	"25021"	54	288102	18.7
+	"55-64 years"	"55-64"	"Plymouth County, MA"	"25023"	53	224574	23.6
+	"55-64 years"	"55-64"	"Suffolk County, MA"	"25025"	129	243831	52.9
+	"55-64 years"	"55-64"	"Worcester County, MA"	"25027"	87	343325	25.3
+	"55-64 years"	"55-64"	"Calhoun County, MI"	"26025"	16	56124	Unreliable
+	"55-64 years"	"55-64"	"Genesee County, MI"	"26049"	30	174216	17.2
+	"55-64 years"	"55-64"	"Ingham County, MI"	"26065"	44	100149	43.9
+	"55-64 years"	"55-64"	"Kalamazoo County, MI"	"26077"	17	93658	Unreliable
+	"55-64 years"	"55-64"	"Kent County, MI"	"26081"	36	238002	15.1
+	"55-64 years"	"55-64"	"Macomb County, MI"	"26099"	110	367869	29.9
+	"55-64 years"	"55-64"	"Monroe County, MI"	"26115"	14	68723	Unreliable
+	"55-64 years"	"55-64"	"Muskegon County, MI"	"26121"	11	74028	Unreliable
+	"55-64 years"	"55-64"	"Oakland County, MI"	"26125"	14	535552	Unreliable
+	"55-64 years"	"55-64"	"Ottawa County, MI"	"26139"	19	101527	Unreliable
+	"55-64 years"	"55-64"	"Saginaw County, MI"	"26145"	10	82168	Unreliable
+	"55-64 years"	"55-64"	"St. Clair County, MI"	"26147"	23	74033	31.1
+	"55-64 years"	"55-64"	"Van Buren County, MI"	"26159"	11	34449	Unreliable
+	"55-64 years"	"55-64"	"Washtenaw County, MI"	"26161"	31	126169	24.6
+	"55-64 years"	"55-64"	"Wayne County, MI"	"26163"	318	704088	45.2
+	"55-64 years"	"55-64"	"Hennepin County, MN"	"27053"	66	471043	14.0
+	"55-64 years"	"55-64"	"Ramsey County, MN"	"27123"	22	201069	10.9
+	"55-64 years"	"55-64"	"Harrison County, MS"	"28047"	19	76470	Unreliable
+	"55-64 years"	"55-64"	"Rankin County, MS"	"28121"	14	55273	Unreliable
+	"55-64 years"	"55-64"	"Clay County, MO"	"29047"	11	88138	Unreliable
+	"55-64 years"	"55-64"	"Greene County, MO"	"29077"	28	103361	27.1
+	"55-64 years"	"55-64"	"Jackson County, MO"	"29095"	52	268461	19.4
+	"55-64 years"	"55-64"	"Jefferson County, MO"	"29099"	25	95616	26.1
+	"55-64 years"	"55-64"	"St. Charles County, MO"	"29183"	13	154976	Unreliable
+	"55-64 years"	"55-64"	"St. Louis County, MO"	"29189"	58	425136	13.6
+	"55-64 years"	"55-64"	"St. Louis city, MO"	"29510"	78	122922	63.5
+	"55-64 years"	"55-64"	"Douglas County, NE"	"31055"	18	195332	Unreliable
+	"55-64 years"	"55-64"	"Clark County, NV"	"32003"	211	756199	27.9
+	"55-64 years"	"55-64"	"Washoe County, NV"	"32031"	52	181351	28.7
+	"55-64 years"	"55-64"	"Carson City, NV"	"32510"	14	23995	Unreliable
+	"55-64 years"	"55-64"	"Hillsborough County, NH"	"33011"	35	177518	19.7
+	"55-64 years"	"55-64"	"Rockingham County, NH"	"33015"	30	147288	20.4
+	"55-64 years"	"55-64"	"Strafford County, NH"	"33017"	10	50561	Unreliable
+	"55-64 years"	"55-64"	"Atlantic County, NJ"	"34001"	39	117842	33.1
+	"55-64 years"	"55-64"	"Bergen County, NJ"	"34003"	38	390861	9.7
+	"55-64 years"	"55-64"	"Burlington County, NJ"	"34005"	20	190406	10.5
+	"55-64 years"	"55-64"	"Cumberland County, NJ"	"34011"	19	55519	Unreliable
+	"55-64 years"	"55-64"	"Essex County, NJ"	"34013"	125	290093	43.1
+	"55-64 years"	"55-64"	"Hudson County, NJ"	"34017"	40	215953	18.5
+	"55-64 years"	"55-64"	"Mercer County, NJ"	"34021"	13	145173	Unreliable
+	"55-64 years"	"55-64"	"Middlesex County, NJ"	"34023"	47	323092	14.5
+	"55-64 years"	"55-64"	"Monmouth County, NJ"	"34025"	67	285884	23.4
+	"55-64 years"	"55-64"	"Morris County, NJ"	"34027"	19	213147	Unreliable
+	"55-64 years"	"55-64"	"Ocean County, NJ"	"34029"	59	235070	25.1
+	"55-64 years"	"55-64"	"Passaic County, NJ"	"34031"	38	189368	20.1
+	"55-64 years"	"55-64"	"Somerset County, NJ"	"34035"	15	142357	Unreliable
+	"55-64 years"	"55-64"	"Union County, NJ"	"34039"	36	213105	16.9
+	"55-64 years"	"55-64"	"Bernalillo County, NM"	"35001"	68	263788	25.8
+	"55-64 years"	"55-64"	"Dona Ana County, NM"	"35013"	15	71315	Unreliable
+	"55-64 years"	"55-64"	"Rio Arriba County, NM"	"35039"	10	17298	Unreliable
+	"55-64 years"	"55-64"	"Santa Fe County, NM"	"35049"	11	71719	Unreliable
+	"55-64 years"	"55-64"	"Albany County, NY"	"36001"	14	121962	Unreliable
+	"55-64 years"	"55-64"	"Bronx County, NY"	"36005"	160	470474	34.0
+	"55-64 years"	"55-64"	"Broome County, NY"	"36007"	19	82590	Unreliable
+	"55-64 years"	"55-64"	"Dutchess County, NY"	"36027"	26	130127	20.0
+	"55-64 years"	"55-64"	"Erie County, NY"	"36029"	76	395173	19.2
+	"55-64 years"	"55-64"	"Kings County, NY"	"36047"	172	874261	19.7
+	"55-64 years"	"55-64"	"Monroe County, NY"	"36055"	64	305055	21.0
+	"55-64 years"	"55-64"	"Nassau County, NY"	"36059"	85	577180	14.7
+	"55-64 years"	"55-64"	"New York County, NY"	"36061"	116	560238	20.7
+	"55-64 years"	"55-64"	"Niagara County, NY"	"36063"	12	99152	Unreliable
+	"55-64 years"	"55-64"	"Oneida County, NY"	"36065"	15	96488	Unreliable
+	"55-64 years"	"55-64"	"Onondaga County, NY"	"36067"	40	193532	20.7
+	"55-64 years"	"55-64"	"Orange County, NY"	"36071"	33	142492	23.2
+	"55-64 years"	"55-64"	"Queens County, NY"	"36081"	91	894963	10.2
+	"55-64 years"	"55-64"	"Richmond County, NY"	"36085"	43	193813	22.2
+	"55-64 years"	"55-64"	"Schenectady County, NY"	"36093"	10	63797	Unreliable
+	"55-64 years"	"55-64"	"Suffolk County, NY"	"36103"	126	622482	20.2
+	"55-64 years"	"55-64"	"Tompkins County, NY"	"36109"	10	35521	Unreliable
+	"55-64 years"	"55-64"	"Ulster County, NY"	"36111"	10	82365	Unreliable
+	"55-64 years"	"55-64"	"Westchester County, NY"	"36119"	45	389831	11.5
+	"55-64 years"	"55-64"	"Alamance County, NC"	"37001"	10	61912	Unreliable
+	"55-64 years"	"55-64"	"Brunswick County, NC"	"37019"	15	68154	Unreliable
+	"55-64 years"	"55-64"	"Buncombe County, NC"	"37021"	16	107538	Unreliable
+	"55-64 years"	"55-64"	"Burke County, NC"	"37023"	18	39478	Unreliable
+	"55-64 years"	"55-64"	"Cabarrus County, NC"	"37025"	12	69904	Unreliable
+	"55-64 years"	"55-64"	"Caldwell County, NC"	"37027"	12	35718	Unreliable
+	"55-64 years"	"55-64"	"Carteret County, NC"	"37031"	10	34356	Unreliable
+	"55-64 years"	"55-64"	"Catawba County, NC"	"37035"	14	64132	Unreliable
+	"55-64 years"	"55-64"	"Craven County, NC"	"37049"	14	38621	Unreliable
+	"55-64 years"	"55-64"	"Cumberland County, NC"	"37051"	16	103625	Unreliable
+	"55-64 years"	"55-64"	"Davidson County, NC"	"37057"	11	69078	Unreliable
+	"55-64 years"	"55-64"	"Durham County, NC"	"37063"	11	106676	Unreliable
+	"55-64 years"	"55-64"	"Forsyth County, NC"	"37067"	21	143969	14.6
+	"55-64 years"	"55-64"	"Gaston County, NC"	"37071"	12	85191	Unreliable
+	"55-64 years"	"55-64"	"Guilford County, NC"	"37081"	20	194415	10.3
+	"55-64 years"	"55-64"	"Mecklenburg County, NC"	"37119"	42	343054	12.2
+	"55-64 years"	"55-64"	"New Hanover County, NC"	"37129"	17	86083	Unreliable
+	"55-64 years"	"55-64"	"Pitt County, NC"	"37147"	13	59196	Unreliable
+	"55-64 years"	"55-64"	"Rowan County, NC"	"37159"	14	57532	Unreliable
+	"55-64 years"	"55-64"	"Rutherford County, NC"	"37161"	11	29623	Unreliable
+	"55-64 years"	"55-64"	"Wake County, NC"	"37183"	31	351114	8.8
+	"55-64 years"	"55-64"	"Wilkes County, NC"	"37193"	17	30483	Unreliable
+	"55-64 years"	"55-64"	"Brown County, OH"	"39015"	11	18956	Unreliable
+	"55-64 years"	"55-64"	"Butler County, OH"	"39017"	73	145878	50.0
+	"55-64 years"	"55-64"	"Clark County, OH"	"39023"	39	56865	68.6
+	"55-64 years"	"55-64"	"Clermont County, OH"	"39025"	29	88036	32.9
+	"55-64 years"	"55-64"	"Cuyahoga County, OH"	"39035"	277	540303	51.3
+	"55-64 years"	"55-64"	"Franklin County, OH"	"39049"	116	435055	26.7
+	"55-64 years"	"55-64"	"Greene County, OH"	"39057"	14	67892	Unreliable
+	"55-64 years"	"55-64"	"Hamilton County, OH"	"39061"	174	324340	53.6
+	"55-64 years"	"55-64"	"Lake County, OH"	"39085"	17	106498	Unreliable
+	"55-64 years"	"55-64"	"Lorain County, OH"	"39093"	43	131523	32.7
+	"55-64 years"	"55-64"	"Lucas County, OH"	"39095"	50	178587	28.0
+	"55-64 years"	"55-64"	"Mahoning County, OH"	"39099"	38	106963	35.5
+	"55-64 years"	"55-64"	"Montgomery County, OH"	"39113"	143	216467	66.1
+	"55-64 years"	"55-64"	"Richland County, OH"	"39139"	14	51278	Unreliable
+	"55-64 years"	"55-64"	"Ross County, OH"	"39141"	14	33100	Unreliable
+	"55-64 years"	"55-64"	"Stark County, OH"	"39151"	33	162998	20.2
+	"55-64 years"	"55-64"	"Summit County, OH"	"39153"	73	235765	31.0
+	"55-64 years"	"55-64"	"Trumbull County, OH"	"39155"	32	92574	34.6
+	"55-64 years"	"55-64"	"Warren County, OH"	"39165"	17	87423	Unreliable
+	"55-64 years"	"55-64"	"Wayne County, OH"	"39169"	15	47082	Unreliable
+	"55-64 years"	"55-64"	"Cleveland County, OK"	"40027"	14	94216	Unreliable
+	"55-64 years"	"55-64"	"Oklahoma County, OK"	"40109"	46	279041	16.5
+	"55-64 years"	"55-64"	"Tulsa County, OK"	"40143"	46	233264	19.7
+	"55-64 years"	"55-64"	"Wagoner County, OK"	"40145"	11	30571	Unreliable
+	"55-64 years"	"55-64"	"Lane County, OR"	"41039"	34	152679	22.3
+	"55-64 years"	"55-64"	"Multnomah County, OR"	"41051"	56	284510	19.7
+	"55-64 years"	"55-64"	"Washington County, OR"	"41067"	20	204628	9.8
+	"55-64 years"	"55-64"	"Allegheny County, PA"	"42003"	248	538282	46.1
+	"55-64 years"	"55-64"	"Beaver County, PA"	"42007"	15	79818	Unreliable
+	"55-64 years"	"55-64"	"Berks County, PA"	"42011"	26	167478	15.5
+	"55-64 years"	"55-64"	"Bucks County, PA"	"42017"	16	292345	Unreliable
+	"55-64 years"	"55-64"	"Butler County, PA"	"42019"	13	85528	Unreliable
+	"55-64 years"	"55-64"	"Chester County, PA"	"42029"	16	216317	Unreliable
+	"55-64 years"	"55-64"	"Delaware County, PA"	"42045"	36	234518	15.4
+	"55-64 years"	"55-64"	"Erie County, PA"	"42049"	19	117847	Unreliable
+	"55-64 years"	"55-64"	"Fayette County, PA"	"42051"	20	62120	32.2
+	"55-64 years"	"55-64"	"Lackawanna County, PA"	"42069"	22	89978	24.5
+	"55-64 years"	"55-64"	"Lancaster County, PA"	"42071"	16	210188	Unreliable
+	"55-64 years"	"55-64"	"Montgomery County, PA"	"42091"	57	345714	16.5
+	"55-64 years"	"55-64"	"Northampton County, PA"	"42095"	24	128962	18.6
+	"55-64 years"	"55-64"	"Philadelphia County, PA"	"42101"	19	545755	Unreliable
+	"55-64 years"	"55-64"	"Schuylkill County, PA"	"42107"	16	63638	Unreliable
+	"55-64 years"	"55-64"	"Washington County, PA"	"42125"	32	96909	33.0
+	"55-64 years"	"55-64"	"York County, PA"	"42133"	17	187862	Unreliable
+	"55-64 years"	"55-64"	"Kent County, RI"	"44003"	13	76329	Unreliable
+	"55-64 years"	"55-64"	"Providence County, RI"	"44007"	99	244164	40.5
+	"55-64 years"	"55-64"	"Aiken County, SC"	"45003"	20	71443	28.0
+	"55-64 years"	"55-64"	"Anderson County, SC"	"45007"	14	78802	Unreliable
+	"55-64 years"	"55-64"	"Berkeley County, SC"	"45015"	17	76904	Unreliable
+	"55-64 years"	"55-64"	"Charleston County, SC"	"45019"	35	155053	22.6
+	"55-64 years"	"55-64"	"Greenville County, SC"	"45045"	26	187766	13.8
+	"55-64 years"	"55-64"	"Horry County, SC"	"45051"	23	147110	15.6
+	"55-64 years"	"55-64"	"Lexington County, SC"	"45063"	15	114272	Unreliable
+	"55-64 years"	"55-64"	"Oconee County, SC"	"45073"	13	35316	Unreliable
+	"55-64 years"	"55-64"	"Pickens County, SC"	"45077"	23	44972	51.1
+	"55-64 years"	"55-64"	"Richland County, SC"	"45079"	26	139134	18.7
+	"55-64 years"	"55-64"	"Spartanburg County, SC"	"45083"	33	115009	28.7
+	"55-64 years"	"55-64"	"York County, SC"	"45091"	17	97527	Unreliable
+	"55-64 years"	"55-64"	"Anderson County, TN"	"47001"	18	33304	Unreliable
+	"55-64 years"	"55-64"	"Blount County, TN"	"47009"	10	55122	Unreliable
+	"55-64 years"	"55-64"	"Davidson County, TN"	"47037"	85	237414	35.8
+	"55-64 years"	"55-64"	"Hamilton County, TN"	"47065"	24	145279	16.5
+	"55-64 years"	"55-64"	"Knox County, TN"	"47093"	97	172189	56.3
+	"55-64 years"	"55-64"	"Roane County, TN"	"47145"	13	25732	Unreliable
+	"55-64 years"	"55-64"	"Rutherford County, TN"	"47149"	14	96990	Unreliable
+	"55-64 years"	"55-64"	"Shelby County, TN"	"47157"	68	351096	19.4
+	"55-64 years"	"55-64"	"Sullivan County, TN"	"47163"	19	68413	Unreliable
+	"55-64 years"	"55-64"	"Washington County, TN"	"47179"	19	50396	Unreliable
+	"55-64 years"	"55-64"	"Bexar County, TX"	"48029"	54	609186	8.9
+	"55-64 years"	"55-64"	"Brazoria County, TX"	"48039"	13	123787	Unreliable
+	"55-64 years"	"55-64"	"Collin County, TX"	"48085"	12	307616	Unreliable
+	"55-64 years"	"55-64"	"Comal County, TX"	"48091"	10	59707	Unreliable
+	"55-64 years"	"55-64"	"Dallas County, TX"	"48113"	88	832466	10.6
+	"55-64 years"	"55-64"	"Denton County, TX"	"48121"	11	259657	Unreliable
+	"55-64 years"	"55-64"	"El Paso County, TX"	"48141"	24	258891	9.3
+	"55-64 years"	"55-64"	"Galveston County, TX"	"48167"	18	132444	Unreliable
+	"55-64 years"	"55-64"	"Harris County, TX"	"48201"	141	1479463	9.5
+	"55-64 years"	"55-64"	"Montgomery County, TX"	"48339"	27	206105	13.1
+	"55-64 years"	"55-64"	"Nueces County, TX"	"48355"	26	131269	19.8
+	"55-64 years"	"55-64"	"Tarrant County, TX"	"48439"	43	679438	6.3
+	"55-64 years"	"55-64"	"Travis County, TX"	"48453"	56	375637	14.9
+	"55-64 years"	"55-64"	"Davis County, UT"	"49011"	27	96237	28.1
+	"55-64 years"	"55-64"	"Salt Lake County, UT"	"49035"	110	342310	32.1
+	"55-64 years"	"55-64"	"Tooele County, UT"	"49045"	10	18091	Unreliable
+	"55-64 years"	"55-64"	"Utah County, UT"	"49049"	29	117579	24.7
+	"55-64 years"	"55-64"	"Weber County, UT"	"49057"	24	78738	30.5
+	"55-64 years"	"55-64"	"Arlington County, VA"	"51013"	13	68765	Unreliable
+	"55-64 years"	"55-64"	"Chesterfield County, VA"	"51041"	18	135556	Unreliable
+	"55-64 years"	"55-64"	"Fairfax County, VA"	"51059"	23	435170	5.3
+	"55-64 years"	"55-64"	"Henrico County, VA"	"51087"	19	126193	Unreliable
+	"55-64 years"	"55-64"	"Prince William County, VA"	"51153"	10	147556	Unreliable
+	"55-64 years"	"55-64"	"Chesapeake city, VA"	"51550"	16	92107	Unreliable
+	"55-64 years"	"55-64"	"Newport News city, VA"	"51700"	11	62923	Unreliable
+	"55-64 years"	"55-64"	"Norfolk city, VA"	"51710"	31	78607	39.4
+	"55-64 years"	"55-64"	"Portsmouth city, VA"	"51740"	12	35885	Unreliable
+	"55-64 years"	"55-64"	"Richmond city, VA"	"51760"	37	82592	44.8
+	"55-64 years"	"55-64"	"Roanoke city, VA"	"51770"	12	40079	Unreliable
+	"55-64 years"	"55-64"	"Virginia Beach city, VA"	"51810"	22	162656	13.5
+	"55-64 years"	"55-64"	"Benton County, WA"	"53005"	19	73325	Unreliable
+	"55-64 years"	"55-64"	"Clark County, WA"	"53011"	24	179880	13.3
+	"55-64 years"	"55-64"	"Grays Harbor County, WA"	"53027"	10	33935	Unreliable
+	"55-64 years"	"55-64"	"King County, WA"	"53033"	130	788157	16.5
+	"55-64 years"	"55-64"	"Kitsap County, WA"	"53035"	28	111407	25.1
+	"55-64 years"	"55-64"	"Pierce County, WA"	"53053"	57	322627	17.7
+	"55-64 years"	"55-64"	"Skagit County, WA"	"53057"	10	53350	Unreliable
+	"55-64 years"	"55-64"	"Snohomish County, WA"	"53061"	61	316654	19.3
+	"55-64 years"	"55-64"	"Spokane County, WA"	"53063"	21	197647	10.6
+	"55-64 years"	"55-64"	"Berkeley County, WV"	"54003"	25	44333	56.4
+	"55-64 years"	"55-64"	"Cabell County, WV"	"54011"	36	36447	98.8
+	"55-64 years"	"55-64"	"Jefferson County, WV"	"54037"	16	23328	Unreliable
+	"55-64 years"	"55-64"	"Kanawha County, WV"	"54039"	46	85393	53.9
+	"55-64 years"	"55-64"	"Logan County, WV"	"54045"	12	16079	Unreliable
+	"55-64 years"	"55-64"	"Mercer County, WV"	"54055"	20	26292	76.1
+	"55-64 years"	"55-64"	"Mingo County, WV"	"54059"	10	11545	Unreliable
+	"55-64 years"	"55-64"	"Raleigh County, WV"	"54081"	27	32964	81.9
+	"55-64 years"	"55-64"	"Wayne County, WV"	"54099"	10	17583	Unreliable
+	"55-64 years"	"55-64"	"Wyoming County, WV"	"54109"	10	10613	Unreliable
+	"55-64 years"	"55-64"	"Dane County, WI"	"55025"	39	188728	20.7
+	"55-64 years"	"55-64"	"Kenosha County, WI"	"55059"	21	67586	31.1
+	"55-64 years"	"55-64"	"Milwaukee County, WI"	"55079"	124	345133	35.9
+	"55-64 years"	"55-64"	"Racine County, WI"	"55101"	10	84145	Unreliable
+	"55-64 years"	"55-64"	"Rock County, WI"	"55105"	14	66713	Unreliable
+	"55-64 years"	"55-64"	"Waukesha County, WI"	"55133"	12	184543	Unreliable
+"Total"	"55-64 years"	"55-64"			19453	124336621	15.6
+	"65-74 years"	"65-74"	"Maricopa County, AZ"	"04013"	67	1080722	6.2
+	"65-74 years"	"65-74"	"Mohave County, AZ"	"04015"	12	102910	Unreliable
+	"65-74 years"	"65-74"	"Pima County, AZ"	"04019"	29	328252	8.8
+	"65-74 years"	"65-74"	"Alameda County, CA"	"06001"	13	382223	Unreliable
+	"65-74 years"	"65-74"	"Contra Costa County, CA"	"06013"	10	299407	Unreliable
+	"65-74 years"	"65-74"	"Kern County, CA"	"06029"	22	166542	13.2
+	"65-74 years"	"65-74"	"Los Angeles County, CA"	"06037"	86	2228454	3.9
+	"65-74 years"	"65-74"	"Orange County, CA"	"06059"	50	754128	6.6
+	"65-74 years"	"65-74"	"Riverside County, CA"	"06065"	32	565498	5.7
+	"65-74 years"	"65-74"	"San Bernardino County, CA"	"06071"	11	431719	Unreliable
+	"65-74 years"	"65-74"	"San Diego County, CA"	"06073"	63	763788	8.2
+	"65-74 years"	"65-74"	"San Francisco County, CA"	"06075"	32	213975	15.0
+	"65-74 years"	"65-74"	"San Joaquin County, CA"	"06077"	18	159760	Unreliable
+	"65-74 years"	"65-74"	"Santa Clara County, CA"	"06085"	13	415733	Unreliable
+	"65-74 years"	"65-74"	"Stanislaus County, CA"	"06099"	10	120886	Unreliable
+	"65-74 years"	"65-74"	"Ventura County, CA"	"06111"	17	214930	Unreliable
+	"65-74 years"	"65-74"	"Arapahoe County, CO"	"08005"	10	147499	Unreliable
+	"65-74 years"	"65-74"	"Denver County, CO"	"08031"	13	139581	Unreliable
+	"65-74 years"	"65-74"	"El Paso County, CO"	"08041"	13	153761	Unreliable
+	"65-74 years"	"65-74"	"Hartford County, CT"	"09003"	22	240658	9.1
+	"65-74 years"	"65-74"	"New Haven County, CT"	"09009"	13	235998	Unreliable
+	"65-74 years"	"65-74"	"District of Columbia, DC"	"11001"	61	137915	44.2
+	"65-74 years"	"65-74"	"Broward County, FL"	"12011"	18	510335	Unreliable
+	"65-74 years"	"65-74"	"Duval County, FL"	"12031"	24	226206	10.6
+	"65-74 years"	"65-74"	"Hillsborough County, FL"	"12057"	28	335367	8.3
+	"65-74 years"	"65-74"	"Lee County, FL"	"12071"	15	335348	Unreliable
+	"65-74 years"	"65-74"	"Manatee County, FL"	"12081"	11	163028	Unreliable
+	"65-74 years"	"65-74"	"Miami-Dade County, FL"	"12086"	23	691714	3.3
+	"65-74 years"	"65-74"	"Orange County, FL"	"12095"	10	269780	Unreliable
+	"65-74 years"	"65-74"	"Palm Beach County, FL"	"12099"	23	494290	4.7
+	"65-74 years"	"65-74"	"Volusia County, FL"	"12127"	11	212358	Unreliable
+	"65-74 years"	"65-74"	"Cobb County, GA"	"13067"	11	163986	Unreliable
+	"65-74 years"	"65-74"	"Honolulu County, HI"	"15003"	13	269774	Unreliable
+	"65-74 years"	"65-74"	"Cook County, IL"	"17031"	76	1218793	6.2
+	"65-74 years"	"65-74"	"Marion County, IN"	"18097"	12	195949	Unreliable
+	"65-74 years"	"65-74"	"Baltimore County, MD"	"24005"	16	226349	Unreliable
+	"65-74 years"	"65-74"	"Montgomery County, MD"	"24031"	10	259075	Unreliable
+	"65-74 years"	"65-74"	"Baltimore city, MD"	"24510"	65	141211	46.0
+	"65-74 years"	"65-74"	"Middlesex County, MA"	"25017"	16	392426	Unreliable
+	"65-74 years"	"65-74"	"Norfolk County, MA"	"25021"	13	186610	Unreliable
+	"65-74 years"	"65-74"	"Suffolk County, MA"	"25025"	23	153218	15.0
+	"65-74 years"	"65-74"	"Worcester County, MA"	"25027"	13	211144	Unreliable
+	"65-74 years"	"65-74"	"Genesee County, MI"	"26049"	12	116983	Unreliable
+	"65-74 years"	"65-74"	"Macomb County, MI"	"26099"	16	239963	Unreliable
+	"65-74 years"	"65-74"	"Wayne County, MI"	"26163"	64	443883	14.4
+	"65-74 years"	"65-74"	"Hennepin County, MN"	"27053"	12	283472	Unreliable
+	"65-74 years"	"65-74"	"St. Louis city, MO"	"29510"	16	66899	Unreliable
+	"65-74 years"	"65-74"	"Clark County, NV"	"32003"	76	568191	13.4
+	"65-74 years"	"65-74"	"Washoe County, NV"	"32031"	14	134825	Unreliable
+	"65-74 years"	"65-74"	"Essex County, NJ"	"34013"	21	177016	11.9
+	"65-74 years"	"65-74"	"Hudson County, NJ"	"34017"	10	130933	Unreliable
+	"65-74 years"	"65-74"	"Bernalillo County, NM"	"35001"	18	182983	Unreliable
+	"65-74 years"	"65-74"	"Bronx County, NY"	"36005"	33	292664	11.3
+	"65-74 years"	"65-74"	"Dutchess County, NY"	"36027"	11	82831	Unreliable
+	"65-74 years"	"65-74"	"Erie County, NY"	"36029"	21	260889	8.0
+	"65-74 years"	"65-74"	"Kings County, NY"	"36047"	38	576048	6.6
+	"65-74 years"	"65-74"	"Monroe County, NY"	"36055"	11	207090	Unreliable
+	"65-74 years"	"65-74"	"Nassau County, NY"	"36059"	18	379219	Unreliable
+	"65-74 years"	"65-74"	"New York County, NY"	"36061"	33	416692	7.9
+	"65-74 years"	"65-74"	"Queens County, NY"	"36081"	17	567289	Unreliable
+	"65-74 years"	"65-74"	"Suffolk County, NY"	"36103"	22	407977	5.4
+	"65-74 years"	"65-74"	"Westchester County, NY"	"36119"	11	253047	Unreliable
+	"65-74 years"	"65-74"	"Cuyahoga County, OH"	"39035"	45	352025	12.8
+	"65-74 years"	"65-74"	"Franklin County, OH"	"39049"	14	260656	Unreliable
+	"65-74 years"	"65-74"	"Hamilton County, OH"	"39061"	32	200017	16.0
+	"65-74 years"	"65-74"	"Mahoning County, OH"	"39099"	11	74692	Unreliable
+	"65-74 years"	"65-74"	"Montgomery County, OH"	"39113"	14	153634	Unreliable
+	"65-74 years"	"65-74"	"Summit County, OH"	"39153"	10	157438	Unreliable
+	"65-74 years"	"65-74"	"Tulsa County, OK"	"40143"	17	151859	Unreliable
+	"65-74 years"	"65-74"	"Multnomah County, OR"	"41051"	13	188793	Unreliable
+	"65-74 years"	"65-74"	"Allegheny County, PA"	"42003"	40	357547	11.2
+	"65-74 years"	"65-74"	"Providence County, RI"	"44007"	13	152801	Unreliable
+	"65-74 years"	"65-74"	"Davidson County, TN"	"47037"	20	141670	14.1
+	"65-74 years"	"65-74"	"Knox County, TN"	"47093"	19	122528	Unreliable
+	"65-74 years"	"65-74"	"Bexar County, TX"	"48029"	13	400096	Unreliable
+	"65-74 years"	"65-74"	"Dallas County, TX"	"48113"	15	476224	Unreliable
+	"65-74 years"	"65-74"	"El Paso County, TX"	"48141"	13	166284	Unreliable
+	"65-74 years"	"65-74"	"Harris County, TX"	"48201"	32	843322	3.8
+	"65-74 years"	"65-74"	"Montgomery County, TX"	"48339"	13	132600	Unreliable
+	"65-74 years"	"65-74"	"Tarrant County, TX"	"48439"	12	399123	Unreliable
+	"65-74 years"	"65-74"	"Travis County, TX"	"48453"	15	208625	Unreliable
+	"65-74 years"	"65-74"	"Salt Lake County, UT"	"49035"	19	207904	Unreliable
+	"65-74 years"	"65-74"	"King County, WA"	"53033"	45	490892	9.2
+	"65-74 years"	"65-74"	"Pierce County, WA"	"53053"	16	208079	Unreliable
+	"65-74 years"	"65-74"	"Snohomish County, WA"	"53061"	12	186102	Unreliable
+	"65-74 years"	"65-74"	"Spokane County, WA"	"53063"	10	138694	Unreliable
+	"65-74 years"	"65-74"	"Milwaukee County, WI"	"55079"	28	205381	13.6
+"Total"	"65-74 years"	"65-74"			3919	85864293	4.6
+	"75-84 years"	"75-84"	"Maricopa County, AZ"	"04013"	16	545380	Unreliable
+	"75-84 years"	"75-84"	"Los Angeles County, CA"	"06037"	12	1146773	Unreliable
+	"75-84 years"	"75-84"	"Orange County, CA"	"06059"	16	393192	Unreliable
+	"75-84 years"	"75-84"	"Clark County, NV"	"32003"	16	258824	Unreliable
+"Total"	"75-84 years"	"75-84"			627	42863259	1.5
+"Total"	"85+ years"	"85+"			227	19136174	1.2
+"Total"	"Not Stated"	"NS"			19	Not Applicable	Not Applicable
+"Total"					126514	970265511	13.0
+"---"
+"Dataset: Multiple Cause of Death, 1999-2017"
+"Query Parameters:"
+"MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);"
+"T40.6 (Other and unspecified narcotics)"
+"Year/Month: 2015; 2016; 2017"
+"Group By: Ten-Year Age Groups; County"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Jan 27, 2020 9:28:49 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Jan 27, 2020 9:28:49 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Data for Prince of Wales-Outer Ketchikan Census Area, AK (FIPS code 02201), Skagway-Hoonah-Angoon Census Area, AK (FIPS code"
+"02232) and Wrangell-Petersburg Census Area, AK (FIPS code 02280) are only available for 2013 and earlier; for computational"
+"purposes, counts and population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year"
+"requests for this entity do not include any data for years after 2013, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Alaska2014."
+"2. Data for Bedford city, Va. (FIPS code 51515) are only available for 2013 and earlier; for computational purposes, counts and"
+"population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year requests for this entity do"
+"not include any data for years after 2014, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Bedford."
+"3. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Clifton Forge."
+"4. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"5. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"6. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"7. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"8. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"9. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"10. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1 resident"
+"population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"11. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"12. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
